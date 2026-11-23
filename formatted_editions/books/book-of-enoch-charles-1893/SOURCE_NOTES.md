@@ -37,8 +37,8 @@ Only 1 Enoch is reproduced in this directory. The Slavonic sections are delibera
 - Standalone printed page numbers and source divider headings are removed.
 - Hard-wrapped lines are rejoined within paragraphs.
 - The opening blessing sentence in the compilation was placed at the start of Chapter I as the first-unit equivalent. Its wording is preserved from the compilation and is not a verbatim quote from Charles's 1893 printing.
-- For Chapters 1–8, verse labels follow the chapter/verse structure in Charles's 1893 printing (printed pp. 57–66). Chapter IV is a single unnumbered unit in that printing, so no verse number has been invented. Chapter VIII verses 1–3 are bracketed in the 1893 printing as an interpolation; the reading file preserves those brackets on the verse labels.
-- Chapters 9–108 still require verse boundaries to be restored from an identified structural reference. No verse numbers are inferred from paragraph length.
+- For Chapters 1–10, verse labels follow the chapter/verse structure in Charles's 1893 printing (printed pp. 57–76). Chapter IV is a single unnumbered unit in that printing, so no verse number has been invented. Chapter VIII verses 1–3, Chapter IX verse 7, and Chapter X verses 1–3 are bracketed in the 1893 printing as interpolations; the reading file preserves those brackets on the verse labels.
+- Chapters 11–108 still require verse boundaries to be restored from an identified structural reference. No verse numbers are inferred from paragraph length.
 - No spelling or wording has been silently modernized or repaired in the formatted derivative.
 
 ## Completeness and verification
