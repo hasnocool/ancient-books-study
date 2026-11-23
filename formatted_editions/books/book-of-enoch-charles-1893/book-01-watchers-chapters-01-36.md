@@ -4,38 +4,56 @@
 
 ## Edition record
 
-- **Translator / editor attribution in the source:** R. H. Charles, based on Professor Dillmann's Ethiopic text (1893)
+- **Attribution in the source compilation:** R. H. Charles / Professor August Dillmann (1893); exact textual identity not verified
 - **Textual tradition:** Ethiopic 1 Enoch
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
-- **Editorial mode:** Faithful formatted transcription
-- **Status:** Formatted draft; textual collation is still required
+- **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
+- **Status:** Verse structure restored for Chapters 1–5; Chapters 6–36 remain chapter-only; textual collation outstanding
 
 ## Editorial statement
 
-This file preserves the chapter text attributed to the 1893 Charles/Dillmann edition in the repository's combined source transcription. Only layout has been normalized: hard-wrapped scan lines have been rejoined into paragraphs, standalone printed page numbers and source book-divider lines have been removed, and the original chapter sequence is presented as Markdown headings. Wording, spelling, punctuation, and apparent reading errors have not been modernized or silently corrected.
+The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but direct comparison shows that the supplied wording is not a verbatim transcription of that printing. The text below therefore preserves the repository's own wording. For Chapters 1–5, verse divisions and numbering have been restored from the 1893 edition as a structural reference only; no wording has been silently replaced with Charles's printed translation.
 
-The combined source also interleaves chapters from the separate Slavonic *Book of the Secrets of Enoch* (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
+Chapters 6–36 still await verse-level restoration. Hard-wrapped lines, standalone page numbers, and source book-divider labels were normalized during the initial formatting pass. The separate Slavonic *Book of the Secrets of Enoch* (2 Enoch) remains excluded from this 1 Enoch edition.
 
 ---
 
 ## Chapter 1
 
-These are the words of blessing of Enoch, wherewith he blessed the elect and righteous; those who will be living in the day of tribulation, when all the wicked and godless are to be removed.
+**1.** These are the words of blessing of Enoch, wherewith he blessed the elect and righteous; those who will be living in the day of tribulation, when all the wicked and godless are to be removed.
 
-Enoch answered and spoke: I, Enoch, a righteous, whose eyes were opened by God, that he might see a vision of the Holy One in the heavens, which the angels showed me, and from them I heard everything, and I understood what I saw, but not for this generation but for the remote generations which are for to come. Concerning the elect I spoke, and uttered a parable concerning them: the Holy, and Great One will come forth from His dwelling, the God of the world. Going from thence He will tread on Mount Sinai, and appear with His hosts, and in the strength of His might appear from heaven. Everyone will be smitten with fear, and the watchers will quake, and great fear and trembling will seize them unto the ends of the earth. The high mountains will be shaken, and the high hills will be made low, and will melt like wax before the flame. The earth will be rent, and all that is upon the earth will perish, and there will be a judgment upon everything, and upon all the righteous. But to the righteous, He will give peace, and will protect the elect, and grace will be upon them, and they will all belong to God, and it will be well with them, and they will be blessed, and the light of God will shine upon them. Lo! He comes with ten thousands of His holy ones to execute judgment upon them, and He will destroy the ungodly, and will convict all flesh of all that the sinners, and ungodly have wrought, and ungodly committed against Him.
+**2.** Enoch answered and spoke: I, Enoch, a righteous, whose eyes were opened by God, that he might see a vision of the Holy One in the heavens, which the angels showed me, and from them I heard everything, and I understood what I saw, but not for this generation but for the remote generations which are for to come.
+
+**3.** Concerning the elect I spoke, and uttered a parable concerning them: the Holy, and Great One will come forth from His dwelling, the God of the world.
+
+**4.** Going from thence He will tread on Mount Sinai, and appear with His hosts, and in the strength of His might appear from heaven.
+
+**5.** Everyone will be smitten with fear, and the watchers will quake, and great fear and trembling will seize them unto the ends of the earth.
+
+**6.** The high mountains will be shaken, and the high hills will be made low, and will melt like wax before the flame.
+
+**7.** The earth will be rent, and all that is upon the earth will perish, and there will be a judgment upon everything, and upon all the righteous.
+
+**8.** But to the righteous, He will give peace, and will protect the elect, and grace will be upon them, and they will all belong to God, and it will be well with them, and they will be blessed, and the light of God will shine upon them.
+
+**9.** Lo! He comes with ten thousands of His holy ones to execute judgment upon them, and He will destroy the ungodly, and will convict all flesh of all that the sinners, and ungodly have wrought, and ungodly committed against Him.
 
 ---
 
 ## Chapter 2
 
-I observed everything that took place in the heaven; how the luminaries, which are in the heaven, do not deviate from their orbits, how they all rise, and set in order, each in its season, and transgress not against their appointed order. Behold you the earth, and give heed to the things which take place upon it from first to last, how unvaryingly every work of God appears. Behold the summer, and the winter, how the whole earth is full of water, and clouds, dew, and rain lie upon it.
+**1.** I observed everything that took place in the heaven; how the luminaries, which are in the heaven, do not deviate from their orbits, how they all rise, and set in order, each in its season, and transgress not against their appointed order.
+
+**2.** Behold you the earth, and give heed to the things which take place upon it from first to last, how unvaryingly every work of God appears.
+
+**3.** Behold the summer, and the winter, how the whole earth is full of water, and clouds, dew, and rain lie upon it.
 
 ---
 
 ## Chapter 3
 
-I observed, and saw how all the trees seem as though they had withered, and shed all their leaves, except fourteen trees which do not lose their foliage but retain the old foliage from two to three years until the new comes.
+**1.** I observed, and saw how all the trees seem as though they had withered, and shed all their leaves, except fourteen trees which do not lose their foliage but retain the old foliage from two to three years until the new comes.
 
 ---
 
@@ -47,7 +65,23 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 5
 
-I observed how the trees cover themselves with green leaves, and bear fruit. Wherefore give you heed to everything, and recognize how He who lives for ever has made all this for you. How His works are before Him in each succeeding year, and all His works serve Him, and alter not, but everything is done as God has ordained. Behold how the seas and the rivers together accomplish their task. But as for you, you have not continued steadfast, and the law of the Lord have you not fulfilled but have transgressed it, and have slanderously spoken proud, and hard words with your impure mouths against His greatness. O you hard hearted: you will find no peace! Therefore, will you execrate your days, and be deprived of the years of your life: but the years of your destruction will be multiplied in eternal execration, and you will find no mercy. In those days, you shall give your name for an eternal execration unto all the righteous, and they will evermore execrate you as sinners, you together with sinners. But for the elect there will be light, and joy, and peace, and they will inherit the earth: but upon you, you ungodly, there will be execration. Then to wisdom will be bestowed on the elect, and they will all live, and never again sin, either through heedlessness or through pride, but they who are wise will be humble nor fall again into sin. They will not be punished all the days of their life, nor will they die, of plagues or visitations of wrath, but they will complete the full number of the days of their life, and their lives will grow old in peace, and the years of their joy will be many in eternal happiness, and peace all the days of their life.
+**1.** I observed how the trees cover themselves with green leaves, and bear fruit. Wherefore give you heed to everything, and recognize how He who lives for ever has made all this for you.
+
+**2.** How His works are before Him in each succeeding year, and all His works serve Him, and alter not, but everything is done as God has ordained.
+
+**3.** Behold how the seas and the rivers together accomplish their task.
+
+**4.** But as for you, you have not continued steadfast, and the law of the Lord have you not fulfilled but have transgressed it, and have slanderously spoken proud, and hard words with your impure mouths against His greatness. O you hard hearted: you will find no peace!
+
+**5.** Therefore, will you execrate your days, and be deprived of the years of your life: but the years of your destruction will be multiplied in eternal execration, and you will find no mercy.
+
+**6.** In those days, you shall give your name for an eternal execration unto all the righteous, and they will evermore execrate you as sinners, you together with sinners.
+
+**7.** But for the elect there will be light, and joy, and peace, and they will inherit the earth: but upon you, you ungodly, there will be execration.
+
+**8.** Then to wisdom will be bestowed on the elect, and they will all live, and never again sin, either through heedlessness or through pride, but they who are wise will be humble nor fall again into sin.
+
+**9.** They will not be punished all the days of their life, nor will they die, of plagues or visitations of wrath, but they will complete the full number of the days of their life, and their lives will grow old in peace, and the years of their joy will be many in eternal happiness, and peace all the days of their life.
 
 ---
 
