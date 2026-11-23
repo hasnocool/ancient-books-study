@@ -4,7 +4,7 @@ This catalog tracks derivative reading editions. The numbered `books_*` director
 
 | Work | Formatted path | Source file | Mode | Status | Notes |
 |---|---|---|---|---|---|
-| *Corpus Hermeticum*, Tractate I: *Poemandres* | [Read edition](./books/corpus-hermeticum-mead-1906/tractate-01-poemandres.md) | `books_04/Corpus_Hermeticum_Mead_1906.txt` | Faithful formatted transcription | Formatted draft | Mead's 1906 translation only; later introductory material in the source compilation is excluded. Needs collation against a 1906 scan. |
+| *Corpus Hermeticum* — all 15 tractates | [Open complete work index](./books/corpus-hermeticum-mead-1906/README.md) | `books_04/Corpus_Hermeticum_Mead_1906.txt` | Faithful formatted transcription | Formatted drafts | All 15 tractates structured; section 5 is absent in Tractate XV's supplied transcription. Three supplementary pieces included; the *Asclepius* extract is incomplete. Facsimile collation remains outstanding. |
 
 ## Processing queue
 
