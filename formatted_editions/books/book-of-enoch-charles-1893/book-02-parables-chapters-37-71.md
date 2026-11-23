@@ -387,9 +387,7 @@ Second Parable.
 
 **[2].** The noise of their wagons was heard, and when this turmoil took place the holy ones from the heaven remarked it, and the pillars of the earth were moved from their place, and was heard from the one extremity of heaven to the other in one day.
 
-**[3].** They will all fall down and worship the Lord of Spirits. This is the end of the second parable.
-
-Third parable.
+**[3].** They will all fall down and worship the Lord of Spirits.
 
 This is the end of the second parable.
 
@@ -635,7 +633,7 @@ This is the end of the second parable.
 
 **[3].** I will make fast your seed before Me for ever and ever, and I will disperse those who dwell with you over the face of the earth lest they tempt, and will be blessed and will multiply on the earth in the name of the Lord.
 
-Judgment of the Watchers.
+*Judgment of the Watchers.*
 
 **[4].** He will imprison those angels who have shown unrighteousness in that burning valley which my grandfather Enoch, had formerly shown to me in the west, among the mountains of gold, and silver, iron, soft metal, and tin.
 
