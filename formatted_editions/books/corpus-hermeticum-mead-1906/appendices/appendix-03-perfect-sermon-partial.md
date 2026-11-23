@@ -1,6 +1,6 @@
 # The Perfect Sermon, or the Asclepius
 
-<badge>Partial source extract</badge>
+**Editorial status: Partial source extract — not a complete edition.**
 
 ## Edition record
 
