@@ -60,7 +60,7 @@ He is the God beyond all name; He the unmanifest, He the most manifest; He whom 
 
 ### 11
 
-And when, O Father, shall I hymn Thee? For none can seize Thy hour or time. For what, again, shall I sing hymn? For things that Thou hast made, or things Thou hast not? For things Thou hast made manifest, or things Thou hast concealed? How, further, shall I hymn Thee? As being of myself? As having something of mine own? As being other? For that Thou art whatever I may be; Thou art whatever I may do; Thou art whatever I may speak. For Thou art all, and there is nothing else which Thou art not. Thou art all that which doth exist, and Thou art what doth not exist - Mind when Thou thinkest, and Father when Thou makest, and God when Thou dost energize, and Good and Maker of all things. For that the subtler part of matter is the air, of air the soul, of soul the mind, and of mind God. I G A
+And when, O Father, shall I hymn Thee? For none can seize Thy hour or time. For what, again, shall I sing hymn? For things that Thou hast made, or things Thou hast not? For things Thou hast made manifest, or things Thou hast concealed? How, further, shall I hymn Thee? As being of myself? As having something of mine own? As being other? For that Thou art whatever I may be; Thou art whatever I may do; Thou art whatever I may speak. For Thou art all, and there is nothing else which Thou art not. Thou art all that which doth exist, and Thou art what doth not exist - Mind when Thou thinkest, and Father when Thou makest, and God when Thou dost energize, and Good and Maker of all things. For that the subtler part of matter is the air, of air the soul, of soul the mind, and of mind God.
 
 ---
 
