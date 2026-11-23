@@ -34,6 +34,8 @@ A work may be divided into several Markdown files when that makes navigation, re
 
 ## Current editions
 
+See the [completeness audit](./COMPLETENESS_AUDIT.md) before treating any formatted draft as a complete or verified edition.
+
 - [Corpus Hermeticum — all 15 tractates and supplementary texts](./books/corpus-hermeticum-mead-1906/README.md)
 - [The Book of Enoch (1 Enoch) — R. H. Charles, 1893](./books/book-of-enoch-charles-1893/README.md)
 
