@@ -31,7 +31,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **5.** Three Parables were imparted to me. I lifted up my voice and recounted them to those that dwell on the earth.
 
-*First parable.*
+First parable.
 
 ---
 
@@ -158,6 +158,8 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 > **[Entire chapter bracketed as an interpolation in the 1893 edition.]**
 
 Also other phenomena I saw in regard to the lightnings: how some of the stars arise, become lightnings, and cannot part with their new form.
+
+Second Parable.
 
 > **Editorial note:** Chapter XLIV is printed as a single unnumbered sentence and is bracketed as an interpolation in the 1893 edition.
 
