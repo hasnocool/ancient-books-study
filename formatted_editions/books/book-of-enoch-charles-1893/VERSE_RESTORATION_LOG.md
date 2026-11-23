@@ -111,6 +111,21 @@ The brackets reflect the 1893 editor's treatment of interpolated passages. In Ch
 
 > Chapter LXXXII's numbering is irregular in the printed 1893 text: the sequence jumps from 12 to two successive 14 labels, then continues 15–20. The reading edition preserves that numbering rather than silently supplying verse 13 or changing the repeated 14.
 
+### Book 4 — The Visions (Chapters LXXXIII–XC)
+
+| Chapter | Structure in the 1893 printing | Reading file |
+|---|---|---|
+| LXXXIII | Verses 1–11 | [Book 4](./book-04-visions-chapters-83-90.md) |
+| LXXXIV | Verses 1–6 | [Book 4](./book-04-visions-chapters-83-90.md) |
+| LXXXV | Verses 1–10 | [Book 4](./book-04-visions-chapters-83-90.md) |
+| LXXXVI | Verses 1–6 | [Book 4](./book-04-visions-chapters-83-90.md) |
+| LXXXVII | Verses 1–4 | [Book 4](./book-04-visions-chapters-83-90.md) |
+| LXXXVIII | Verses 1–3 | [Book 4](./book-04-visions-chapters-83-90.md) |
+| LXXXIX | Verses 1–77 | [Book 4](./book-04-visions-chapters-83-90.md) |
+| XC | Verses 1–42; verse 15 bracketed | [Book 4](./book-04-visions-chapters-83-90.md) |
+
+> The 1893 printed text brackets Chapter XC verse 15 as an interpolation. Verse boundaries are restored without replacing the repository compilation's differing wording.
+
 ## Text-preservation check
 
 Book 1 (Chapters I–XXXVI) and Book 2 (Chapters XXXVII–LXXI) were checked against the selected repository source after removal of inserted verse labels, editorial notes, page numbers, and source dividers. All 71 chapter bodies matched. Chapter I includes the opening blessing that appears before the table of contents in the repository transcription.
@@ -123,7 +138,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 
 ## Pending
 
-- Chapters LXXXIII–CVIII: restore verse structure from the printed edition.
+- Chapters XCI–CVIII: restore verse structure from the printed edition.
 - Collate Chapter LXXI's lost-passage note against the 1893 printing and later Charles edition.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
