@@ -1,19 +1,20 @@
-# The Book of Enoch (1 Enoch) — source-attributed Charles/Dillmann text
+# The Book of Enoch (1 Enoch) — source-attributed reading edition
 
-This directory contains a faithful formatted reading draft of the 1 Enoch chapter text found in the repository's combined Enoch transcription. That source attributes the Ethiopic/Geez text to R. H. Charles and Professor August Dillmann (1893). The exact wording has not yet been collated line by line against the 1893 printed edition.
+This directory contains a formatted derivative of the 1 Enoch text in the repository's combined Enoch transcription. The compilation attributes the Ethiopic text to R. H. Charles and Professor August Dillmann (1893), but direct comparison confirms that the supplied wording is **not verbatim Charles 1893**. The source attribution must therefore remain qualified until the exact textual lineage is identified.
 
 ## What is included — and what is not
 
-- **1 Enoch text:** all 108 chapter entries in the selected repository transcription are represented in the six reading files. A normalized text comparison confirmed that each chapter body is present after page-number and layout cleanup.
-- **Opening of Chapter I:** the blessing sentence placed before the source table of contents has been moved into Chapter 1, where it belongs in the reading sequence.
-- **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They are deliberately excluded here because 2 Enoch is a separate work and must have its own edition.
-- **Full 1893 Charles volume:** this directory does not reproduce the complete 391-page scholarly volume. Charles's general introduction, special introductions, critical and exegetical notes, appendices, and indices are not included.
+- **1 Enoch chapter text:** all 108 chapter bodies in the selected repository transcription are represented across the six reading files. A normalized comparison confirms transfer from that source.
+- **Verse structure:** Chapters 1–5 now have verse divisions restored from the 1893 printing as a structural reference. Chapters 6–108 still require verse-level work.
+- **Wording:** the existing repository wording is retained. It is not replaced with the different wording found in the 1893 printed edition.
+- **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They are a separate work and are excluded here pending their own edition.
+- **Full 1893 Charles volume:** this directory does not reproduce the complete 391-page scholarly volume, including its introductions, textual notes, appendices, Greek and Latin fragments, and indices.
 
 ## Why some chapters look like paragraphs
 
-The `Enoch N.` labels in the repository transcription are chapter labels, not paragraph numbers. The original 1893 printing also divides the chapters into numbered verses. The repository transcription has largely dropped those verse numbers and joined the verse text into continuous paragraphs. For example, the 1893 printing gives Chapter II three numbered verses, while the source transcription presents the material as one paragraph.
+The heading `Enoch N.` in the repository transcription marks a chapter, not a paragraph. The original 1893 printing also numbers verses within chapters. Some chapters are genuinely short: Chapter II has three verses, Chapter III has one numbered verse, and Chapter IV is printed as one unnumbered unit. A single paragraph under a chapter heading can therefore be correct; other chapters have multiple verses which the repository transcription had flattened together.
 
-The Markdown headings therefore identify real chapters, but the current files do **not** preserve the complete verse-level structure. Verse numbers and verse breaks must be restored from the printed edition or a reliable facsimile; they must not be guessed. Some short chapters are genuinely brief, so a one-paragraph chapter is not automatically an error.
+The restored first five chapters use bold verse numbers as compact paragraph labels. The verse divisions are taken from the 1893 printed edition, but the wording remains that of the repository transcription. This is explicitly a structural crosswalk, not a verbatim Charles text.
 
 ## Contents
 
@@ -26,25 +27,23 @@ The Markdown headings therefore identify real chapters, but the current files do
 | 5. The Laws of Enoch | 91–105 | [Read Book 5](./book-05-laws-of-enoch-chapters-91-105.md) |
 | 6. The Deluge | 106–108 | [Read Book 6](./book-06-deluge-chapters-106-108.md) |
 
-These six divisions are retained from the repository compilation; they are not presented as a new critical reconstruction of the book's literary structure.
+These six divisions are retained from the repository compilation; they are not a new critical reconstruction of the book's literary structure.
 
-## Editorial policy
+## Source and editorial policy
 
-- Preserve the repository source's wording and sequence.
-- Use one chapter heading for each source chapter marker.
-- Do not invent verse numbers absent from the source transcription.
-- Rejoin hard-wrapped lines, remove isolated print page numbers and source divider labels, and retain real text.
-- Do not silently modernize language, repair uncertain readings, or reconstruct missing text.
-- Keep the separate Slavonic 2 Enoch material out of 1 Enoch.
-- Mark the files as drafts until compared with the stated historical edition.
+- Preserve the supplied repository text unless a separately documented emendation is approved.
+- Restore chapter and verse hierarchy only from an identified edition or facsimile.
+- Keep source-text wording separate from structural information borrowed from another printing.
+- Never invent a verse number when the historical printing leaves a unit unnumbered.
+- Keep separate textual traditions and translations in separate directories.
+- Mark every part as a draft until textual collation and source provenance have been completed.
 
 ## Verification status
 
-- **Chapter coverage against selected source:** 108 of 108 chapter entries present.
-- **Text presence check:** all 108 chapter bodies match the selected repository transcription after normalization of whitespace, page numbers, and divider labels.
-- **Chapter 13:** source heading `Chapt 13.` normalized to `Chapter 13`.
-- **Verse structure:** not yet restored; the selected transcription does not preserve the full verse numbering.
-- **Historical text accuracy:** not yet verified line by line against the 1893 facsimile.
-- **2 Enoch:** 68 Slavonic sections are recorded in the source but have not yet been formatted in this directory.
+- **Chapter coverage against selected source:** 108 of 108 chapter bodies transferred.
+- **Text transfer check:** all 108 chapter bodies match the selected repository source after normalization for whitespace, page numbers, and divider labels.
+- **Verse structure:** restored from the 1893 printing for Chapters 1–5 only; Chapters 6–108 remain pending.
+- **Textual identity:** not a verbatim 1893 transcription. A direct comparison of Chapter I and other early passages shows wording differences between the source compilation and the printed book.
+- **2 Enoch:** 68 Slavonic sections are identified in the combined source and remain separate from this directory.
 
-This is a formatted transcription draft, not a new translation, paraphrase, complete reproduction of the 1893 scholarly volume, or verified critical edition. See [SOURCE_NOTES.md](./SOURCE_NOTES.md) for provenance and extraction details.
+This is a formatted source derivative, not a new translation, verified transcription of Charles 1893, or complete reproduction of the 1893 scholarly volume. See [SOURCE_NOTES.md](./SOURCE_NOTES.md) and the [verse-restoration log](./VERSE_RESTORATION_LOG.md).
