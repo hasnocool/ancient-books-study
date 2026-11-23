@@ -267,89 +267,321 @@ Second Parable.
 
 ## Chapter 51
 
-In those days will the earth also give back those who are treasured up within it, and Sheol also will give back that which it has received, and hell will give back that which it owes. He will choose the righteous and holy from among them for the day of their redemption has drawn nigh. The Elect One will in those days sit on My throne, and all the secrets of wisdom will stream forth from the counsels of his mouth: for the Lord of Spirits has given it to him and has glorified him. In those days will the mountains leap like rams, and the hills will skip like lambs satisfied with milk, and they will all become angels in heaven. Their faces will be lighted up with joy because in those days the Elect One has appeared, and the earth will rejoice, and the righteous will dwell upon it, and the elect will go to and fro upon it.
+**1.** In those days will the earth also give back those who are treasured up within it, and Sheol also will give back that which it has received, and hell will give back that which it owes.
+
+**2.** He will choose the righteous and holy from among them for the day of their redemption has drawn nigh.
+
+**3.** The Elect One will in those days sit on My throne, and all the secrets of wisdom will stream forth from the counsels of his mouth: for the Lord of Spirits has given it to him and has glorified him.
+
+**4.** In those days will the mountains leap like rams, and the hills will skip like lambs satisfied with milk, and they will all become angels in heaven.
+
+**5.** Their faces will be lighted up with joy because in those days the Elect One has appeared, and the earth will rejoice, and the righteous will dwell upon it, and the elect will go to and fro upon it.
 
 ---
 
 ## Chapter 52
 
-After those days, in that place where I had seen all the visions of that which is hidden, for I had been carried off in a whirlwind and borne towards the West. There mine eyes saw all the hidden things of heaven that shall be: an iron mountain, one of copper, one of silver, one of gold, one of soft metal, one of lead. I asked the angel who went with me, saying: What things are these which I have seen in secret? He said unto me: —All these things which you have seen serve the dominion of His Anointed, that he may be potent and mighty on the earth. That angel of peace answered me and said: —Wait a little, and there will be revealed to you everything that is hidden, which the Lord of Spirits has established. Those mountains which your eyes have seen, the mountain of iron, of copper, of silver, of gold, of soft metal, and of lead: all those will in the presence of the Elect One be as wax before the fire, and like the water which streams down from above upon those mountains, and will become powerless before his feet. It will come to pass in those days that none shall be saved either by gold or by silver, and none shall be able to escape. There will be no iron for war, nor garment for a coat of mail. Bronze will be of no service, tin will be of no service, and will not be esteemed, and lead will not be desired. All these things will be disowned and destroyed from the surface of the earth when the Elect One will appear before the face of the Lord of Spirits.
+**1.** After those days, in that place where I had seen all the visions of that which is hidden, for I had been carried off in a whirlwind and borne towards the West.
+
+**2.** There mine eyes saw all the hidden things of heaven that shall be: an iron mountain, one of copper, one of silver, one of gold, one of soft metal, one of lead.
+
+**3.** I asked the angel who went with me, saying: What things are these which I have seen in secret?
+
+**4.** He said unto me: —All these things which you have seen serve the dominion of His Anointed, that he may be potent and mighty on the earth.
+
+**5.** That angel of peace answered me and said: —Wait a little, and there will be revealed to you everything that is hidden, which the Lord of Spirits has established.
+
+**6.** Those mountains which your eyes have seen, the mountain of iron, of copper, of silver, of gold, of soft metal, and of lead: all those will in the presence of the Elect One be as wax before the fire, and like the water which streams down from above upon those mountains, and will become powerless before his feet.
+
+**7.** It will come to pass in those days that none shall be saved either by gold or by silver, and none shall be able to escape.
+
+**8.** There will be no iron for war, nor garment for a coat of mail. Bronze will be of no service, tin will be of no service, and will not be esteemed, and lead will not be desired.
+
+**9.** All these things will be disowned and destroyed from the surface of the earth when the Elect One will appear before the face of the Lord of Spirits.
 
 ---
 
 ## Chapter 53
 
-There mine eyes saw a valley with open and deep mouths, and all who dwell on the earth, and sea and islands, will bring to him gifts, and presents, and tokens of homage, but that deep valley will not become full. For they commit crimes with their hands, sinners as they are, they criminously devour all the acquisitions: accordingly as sinners they will perish before the face of the Lord of Spirits, and will be removed from off the face of His earth, continually for ever and ever. For I have seen the angels of punishment abiding and preparing all the instruments of Satan. I asked the angel of peace who went with me: For whom these instruments are they preparing them? He said unto me: — They are for the kings and the mighty of the earth, that they may thereby be destroyed. After this the Righteous and Elect One will cause the house of his congregation to appear: henceforth they will no more be hindered in the name of the Lord of Spirits. These mountains will not stand fast as the earth before his righteousness, and the hills will be as a fountain of water, and the righteous will have rest from the oppression of sinners.
+**1.** There mine eyes saw a valley with open and deep mouths, and all who dwell on the earth, and sea and islands, will bring to him gifts, and presents, and tokens of homage, but that deep valley will not become full.
+
+**2.** For they commit crimes with their hands, sinners as they are, they criminously devour all the acquisitions: accordingly as sinners they will perish before the face of the Lord of Spirits, and will be removed from off the face of His earth, continually for ever and ever.
+
+**3.** For I have seen the angels of punishment abiding and preparing all the instruments of Satan.
+
+**4.** I asked the angel of peace who went with me: For whom these instruments are they preparing them?
+
+**5.** He said unto me: — They are for the kings and the mighty of the earth, that they may thereby be destroyed.
+
+**6.** After this the Righteous and Elect One will cause the house of his congregation to appear: henceforth they will no more be hindered in the name of the Lord of Spirits.
+
+**7.** These mountains will not stand fast as the earth before his righteousness, and the hills will be as a fountain of water, and the righteous will have rest from the oppression of sinners.
 
 ---
 
 ## Chapter 54
 
-I looked and turned to another part of the earth, and saw there, a deep valley with burning fire. they brought the kings and the mighty, and put them into this deep valley. Then mine eyes saw how they made instruments for them; iron chains of immeasurable weight. I asked the angel of peace who was with me, saying: For whom are they prepared These chain instruments? He said unto me: —These are prepared for the hosts of Azazel, so that they may take them and cast them into the abyss of complete condemnation, and cover their jaws with rough stones as the Lord of Spirits commanded. Michael, Gabriel, Rufael, and Fanuel, will take hold of them on that great day and cast them on that day into a burning furnace, that the Lord of Spirits may take vengeance on them for their unrighteousness, in becoming subject to Satan and leading astray those who dwell on the earth. In those days will punishment come from the Lord of Spirits, and all the chambers of waters which are above the heavens will be opened, of the fountains which are below the heavens, and beneath the earth. All the waters will be joined with the waters: that which is above the heavens is the masculine, and the water which is beneath the earth is the feminine. All who dwell on the earth will be destroyed, and those who dwell under the ends of the heaven. They will thereby recognize their unrighteousness which they have committed on the earth, and owing to this will they be destroyed.
+**1.** I looked and turned to another part of the earth, and saw there, a deep valley with burning fire.
+
+**2.** they brought the kings and the mighty, and put them into this deep valley.
+
+**3.** Then mine eyes saw how they made instruments for them; iron chains of immeasurable weight.
+
+**4.** I asked the angel of peace who was with me, saying: For whom are they prepared These chain instruments?
+
+**5.** He said unto me: —These are prepared for the hosts of Azazel, so that they may take them and cast them into the abyss of complete condemnation, and cover their jaws with rough stones as the Lord of Spirits commanded.
+
+**6.** Michael, Gabriel, Rufael, and Fanuel, will take hold of them on that great day and cast them on that day into a burning furnace, that the Lord of Spirits may take vengeance on them for their unrighteousness, in becoming subject to Satan and leading astray those who dwell on the earth.
+
+**[7].** In those days will punishment come from the Lord of Spirits, and all the chambers of waters which are above the heavens will be opened, of the fountains which are below the heavens, and beneath the earth.
+
+**[8].** All the waters will be joined with the waters: that which is above the heavens is the masculine, and the water which is beneath the earth is the feminine.
+
+**[9].** All who dwell on the earth will be destroyed, and those who dwell under the ends of the heaven.
+
+**[10].** They will thereby recognize their unrighteousness which they have committed on the earth, and owing to this will they be destroyed.
+
+> **Editorial note:** Verses 7–10 are part of the Noachic interpolation identified by Charles (LIV.7–LV.2).
 
 ---
 
 ## Chapter 55
 
-After that, the Head of Days repented and said: —In vain have I destroyed all who dwell on the earth. He swore by His great name: Henceforth I will not do so to all who dwell on the earth, and I will set a sign in the heavens: this will be a pledge of good faith between Me and them for ever so long as heaven is above the earth this will be according to My command: when I desire to take hold of them by the hand of the angels on the day of tribulation and pain, before this I will cause Mine anger and My punishment, Mine anger and My punishment to abide upon them, say God, the Lord of Spirits. You mighty kings who will dwell on the earth, you shall have to behold Mine Elect, how he sits on the throne of glory and judges Azazel and all his associates, and all his hosts, in the name of the Lord of Spirits.
+**[1].** After that, the Head of Days repented and said: —In vain have I destroyed all who dwell on the earth.
+
+**[2].** He swore by His great name: Henceforth I will not do so to all who dwell on the earth, and I will set a sign in the heavens: this will be a pledge of good faith between Me and them for ever so long as heaven is above the earth
+
+**3.** this will be according to My command: when I desire to take hold of them by the hand of the angels on the day of tribulation and pain, before this I will cause Mine anger and My punishment, Mine anger and My punishment to abide upon them, say God, the Lord of Spirits.
+
+**4.** You mighty kings who will dwell on the earth, you shall have to behold Mine Elect, how he sits on the throne of glory and judges Azazel and all his associates, and all his hosts, in the name of the Lord of Spirits.
+
+> **Editorial note:** Verses 1–2 belong to the Noachic interpolation identified by Charles (LIV.7–LV.2); verses 3–4 return to the main Similitudes text.
 
 ---
 
 ## Chapter 56
 
-I saw there the hosts of the angel of punishment going with scourges, and chains of iron, and bronze. I asked the angel of peace who went with me and said: To whom are these angels with the scourges going? He said to me: —Each one to his elect and beloved ones, that they may be cast into the chasm of the abyss of the valley. Then that valley will be filled with their elect and beloved, and the days of their lives will be at an end, and the days of their being led astray will from that time on no longer be reckoned. In those days will the angels return, and hurl themselves upon the East, upon the Parthians, and Medes, to stir up the kings, and provoke in them a spirit of unrest, and rouse them from their thrones, that they may break forth from their resting places as lions and as hungry wolves among their flocks. They will march up to, and tread under foot the land of His elect ones, and the land of His elect ones will be before them a threshing floor and a path. But the city of My righteous will be a hindrance to their horses, and they will begin to fight amongst themselves, and their right hand will be strong against themselves, , a man will not know his brother, nor a son his father or his mother, until the number of corpses through their slaughter is beyond count and their punishment be no idle one. In those days, Sheol will open its jaws and they will be swallowed up therein; their destruction will be at an end. Sheol will devour the sinners in the presence of the elect.
+**1.** I saw there the hosts of the angel of punishment going with scourges, and chains of iron, and bronze.
+
+**2.** I asked the angel of peace who went with me and said: To whom are these angels with the scourges going?
+
+**3.** He said to me: —Each one to his elect and beloved ones, that they may be cast into the chasm of the abyss of the valley.
+
+**4.** Then that valley will be filled with their elect and beloved, and the days of their lives will be at an end, and the days of their being led astray will from that time on no longer be reckoned.
+
+**[5].** In those days will the angels return, and hurl themselves upon the East, upon the Parthians, and Medes, to stir up the kings, and provoke in them a spirit of unrest, and rouse them from their thrones, that they may break forth from their resting places as lions and as hungry wolves among their flocks.
+
+**[6].** They will march up to, and tread under foot the land of His elect ones, and the land of His elect ones will be before them a threshing floor and a path.
+
+**[7].** But the city of My righteous will be a hindrance to their horses, and they will begin to fight amongst themselves, and their right hand will be strong against themselves, , a man will not know his brother, nor a son his father or his mother, until the number of corpses through their slaughter is beyond count and their punishment be no idle one.
+
+**[8].** In those days, Sheol will open its jaws and they will be swallowed up therein; their destruction will be at an end. Sheol will devour the sinners in the presence of the elect.
+
+> **Editorial note:** Verse 5 through Chapter LVII.3 are bracketed as a later interpolation (the printed edition marks LVI.5–LVII.3a).
 
 ---
 
 ## Chapter 57
 
-It came to pass after this that I saw again a host of wagons whereon men were riding, and they came on the wings of the wind from the East and from the West to the South. The noise of their wagons was heard, and when this turmoil took place the holy ones from the heaven remarked it, and the pillars of the earth were moved from their place, and was heard from the one extremity of heaven to the other in one day. They will all fall down and worship the Lord of Spirits. This is the end of the second parable.
+**[1].** It came to pass after this that I saw again a host of wagons whereon men were riding, and they came on the wings of the wind from the East and from the West to the South.
+
+**[2].** The noise of their wagons was heard, and when this turmoil took place the holy ones from the heaven remarked it, and the pillars of the earth were moved from their place, and was heard from the one extremity of heaven to the other in one day.
+
+**[3].** They will all fall down and worship the Lord of Spirits. This is the end of the second parable.
 
 Third parable.
+
+This is the end of the second parable.
+
+*Third parable.*
+
+> **Editorial note:** The three verses are included in the interpolation marked from LVI.5 through LVII.3a.
 
 ---
 
 ## Chapter 58
 
-I began to speak the third parable concerning the righteous and the elect. Blessed are you, you righteous and elect, for glorious will be your lot! The righteous will be in the light of the sun, and the elect in the light of eternal life: there will be no end to the days of their life, and the days of the holy will be without number. They will seek the light and find righteousness with the Lord of Spirits: there will be peace to the righteous in the name of the Lord of the world. After that, it will be said to the holy that they should seek in heaven the secrets of righteousness, the heritage of faith; for it has become bright as the sun upon earth, and the darkness is past. There will be unceasing light, and on a reckoning of the days they will not enter; for the former darkness will be destroyed, and the light will be established before the Lord of Spirits. The light of uprightness will be established for ever before the Lord of Spirits.
+**1.** I began to speak the third parable concerning the righteous and the elect.
+
+**2.** Blessed are you, you righteous and elect, for glorious will be your lot!
+
+**3.** The righteous will be in the light of the sun, and the elect in the light of eternal life: there will be no end to the days of their life, and the days of the holy will be without number.
+
+**4.** They will seek the light and find righteousness with the Lord of Spirits: there will be peace to the righteous in the name of the Lord of the world.
+
+**5.** After that, it will be said to the holy that they should seek in heaven the secrets of righteousness, the heritage of faith; for it has become bright as the sun upon earth, and the darkness is past.
+
+**6.** There will be unceasing light, and on a reckoning of the days they will not enter; for the former darkness will be destroyed, and the light will be established before the Lord of Spirits. The light of uprightness will be established for ever before the Lord of Spirits.
 
 ---
 
 ## Chapter 59
 
-In those days, mine eyes saw the secrets of the lightnings and of the luminaries, and of the judgments they execute; and they lighten for a blessing or a curse as the Lord of Spirits wills. Then I saw the secrets of the thunder, how when it resounds above in the heaven, the peal thereof is heard; and they caused me to see the dwelling places of the earth, and the pealing of the thunder how it ministers unto well being and blessing, or serves for a curse before the Lord of Spirits. After that all the secrets of the luminaries and lightnings were shown to me, how they lighten to give blessing and satisfy.
+**[1].** In those days, mine eyes saw the secrets of the lightnings and of the luminaries, and of the judgments they execute; and they lighten for a blessing or a curse as the Lord of Spirits wills.
+
+**[2].** Then I saw the secrets of the thunder, how when it resounds above in the heaven, the peal thereof is heard; and they caused me to see the dwelling places of the earth, and the pealing of the thunder how it ministers unto well being and blessing, or serves for a curse before the Lord of Spirits.
+
+**[3].** After that all the secrets of the luminaries and lightnings were shown to me, how they lighten to give blessing and satisfy.
+
+> **Editorial note:** The whole of Chapter LIX is bracketed as an interpolation in the 1893 edition.
 
 ---
 
 ## Chapter 60
 
-In the year five hundred, in the seventh month, on the fourteenth day of the month in the life of Enoch. In that parable, I saw how the heaven of heavens quaked with a mighty earthquake, and the host of the Most High, and the angels, a thousand thousands, and ten thousand times ten thousand, were thrown into an exceeding great disquiet. The Head of Days sat on the throne of His glory, the angels and the righteous stood around Him. A great trembling seized me and fear took hold of me: my loins became relaxed and my whole being melted away; I fell upon my face. Then Michael sent another angel from among the holy ones, and he raised me up. My spirit returned; for I had not been able to endure the look of this host, the commotion and quaking of the heaven. Michael said unto me: —What vision has so disquieted you? Until this day lasted the day of His mercy; for He was merciful and long suffering towards those who dwell on the earth. But when the day, the power, the punishment, and the judgment, have come which the Lord of Spirits has prepared for those who serve not the righteous law, and for those who deny the righteous judgment, and for those who take His name in vain; that day is prepared, for the elect a covenant, but for sinners an inquisition. On that day will two monsters be parted: a female monster named Leviathan to dwell in the depths of the ocean over the fountains of the waters. But the male is called Behemoth, who occupies with his breast a waste wilderness named Dendain, on the east of the garden where the elect and righteous dwell, where my grandfather was taken up, the seventh from Adam, the first man whom the Lord of Spirits created. I besought that other angel that he should show me the might of those monsters, how they were parted on one day, and the one was placed in the depth of the sea, and the other in the mainland of the wilderness. He spoke to me: —You son of man, you do seek here to know what is hidden. Then spoke unto me the other angel who went with me and showed me what was hidden, what is first and last, in the heaven in the height and beneath the earth in the depth, and at the ends of the heaven, and on the foundation of the heaven, and in the chambers of the winds: how the spirits are parted, how the weighing is done, how the fountains of the spirits are reckoned each according to the power of the spirit, the power of the lights of the moon, , and how it is a power of righteousness; how the divisions of the stars according to their names, and all the divisions are divided.
+**[1].** In the year five hundred, in the seventh month, on the fourteenth day of the month in the life of Enoch.
 
-The thunders according to the places where they fall, and all the divisions which are made among the lightnings that it may lighten and that their hosts may at once obey. For the thunder has places of rest: there it must wait until it may peal; the thunder and lightning are inseparable, and although not one, and undivided, they both go together through the spirit, and separate not. For when the lightning lightens, the thunder utters its voice, and the spirit enforces a pause during the peal, and divides equally between them; for the treasury of their peals is like the sand, and each one of them as it peals is held in with a bridle, and turned back by the power of the spirit and pushed forward according to the number of the quarters of the earth. The spirit of the sea is masculine and strong, and according to the might of his strength he draws, it back with a rein, and in like manner it is driven forward and dispersed amid all the mountains of the earth. The spirit of the hoar frost is his own angel, and the spirit of the hail is a good angel. The spirit of the snow he has let go, on account of his strength, it has a special spirit, and that which ascends from it is like smoke, and its name is frost. The spirit of the mist is not united with them in their chambers but it has a special chamber; for its course is in clearness, and in light, in darkness, in winter, in summer, and its chamber is light, and it is its own angel. The spirit of the dew has its dwelling at the ends of the heaven, and is connected with the chambers of the rain; its course is in winter and summer; and its clouds and the clouds of the mist are connected, and the one gives to the other. When the spirit of the rain goes forth from its chamber, the angels come and open the chamber and lead it out. And when it is diffused over the whole earth, and as often as it unites with the water on the earth. For the waters are for those who dwell on the earth; for they are nourishment for the earth from the Most High who is in heaven: therefore there is a measure for the rain, and the angels take it in charge. All these things I saw towards the garden of the righteous. The angel of peace who was with me spoke to me: —These two monsters are prepared to be fed conformably to the greatness of God, that the punishment of the Lord of Spirits may cause lamentation, and slay the sons with their mothers, and the children with their fathers. When the punishment of the Lord of Spirits shall rest upon them, it will rest in order that the punishment of the Lord of Spirits may not come in vain upon them: afterwards the judgment will take place according to His mercy and His patience.
+**[2].** In that parable, I saw how the heaven of heavens quaked with a mighty earthquake, and the host of the Most High, and the angels, a thousand thousands, and ten thousand times ten thousand, were thrown into an exceeding great disquiet.
+
+**[3].** The Head of Days sat on the throne of His glory, the angels and the righteous stood around Him.
+
+**[4].** A great trembling seized me and fear took hold of me: my loins became relaxed and my whole being melted away; I fell upon my face.
+
+**[5].** Then Michael sent another angel from among the holy ones, and he raised me up. My spirit returned; for I had not been able to endure the look of this host, the commotion and quaking of the heaven.
+
+**[6].** Michael said unto me: —What vision has so disquieted you? Until this day lasted the day of His mercy; for He was merciful and long suffering towards those who dwell on the earth.
+
+**[7].** But when the day, the power, the punishment, and the judgment, have come which the Lord of Spirits has prepared for those who serve not the righteous law, and for those who deny the righteous judgment, and for those who take His name in vain; that day is prepared, for the elect a covenant, but for sinners an inquisition.
+
+**[8].** On that day will two monsters be parted: a female monster named Leviathan to dwell in the depths of the ocean over the fountains of the waters.
+
+**[9].** But the male is called Behemoth, who occupies with his breast a waste wilderness named Dendain, on the east of the garden where the elect and righteous dwell, where my grandfather was taken up, the seventh from Adam, the first man whom the Lord of Spirits created.
+
+**[10].** I besought that other angel that he should show me the might of those monsters, how they were parted on one day, and the one was placed in the depth of the sea, and the other in the mainland of the wilderness.
+
+**[11].** He spoke to me: —You son of man, you do seek here to know what is hidden.
+
+**[12].** Then spoke unto me the other angel who went with me and showed me what was hidden, what is first and last, in the heaven in the height and beneath the earth in the depth, and at the ends of the heaven, and on the foundation of the heaven, and in the chambers of the winds:
+
+**[13].** how the spirits are parted, how the weighing is done, how the fountains of the spirits are reckoned each according to the power of the spirit, the power of the lights of the moon, , and how it is a power of righteousness; how the divisions of the stars according to their names, and all the divisions are divided.
+
+**[14].** The thunders according to the places where they fall, and all the divisions which are made among the lightnings that it may lighten and that their hosts may at once obey.
+
+**[15].** For the thunder has places of rest: there it must wait until it may peal; the thunder and lightning are inseparable, and although not one, and undivided, they both go together through the spirit, and separate not.
+
+**[16].** For when the lightning lightens, the thunder utters its voice, and the spirit enforces a pause during the peal, and divides equally between them; for the treasury of their peals is like the sand, and each one of them as it peals is held in with a bridle, and turned back by the power of the spirit and pushed forward according to the number of the quarters of the earth.
+
+**[17].** The spirit of the sea is masculine and strong, and according to the might of his strength he draws, it back with a rein, and in like manner it is driven forward and dispersed amid all the mountains of the earth.
+
+**[18].** The spirit of the hoar frost is his own angel, and the spirit of the hail is a good angel.
+
+**[19].** The spirit of the snow he has let go, on account of his strength, it has a special spirit, and that which ascends from it is like smoke, and its name is frost.
+
+**[20].** The spirit of the mist is not united with them in their chambers but it has a special chamber; for its course is in clearness, and in light, in darkness, in winter, in summer, and its chamber is light, and it is its own angel.
+
+**[21].** The spirit of the dew has its dwelling at the ends of the heaven, and is connected with the chambers of the rain; its course is in winter and summer; and its clouds and the clouds of the mist are connected, and the one gives to the other.
+
+**[22].** When the spirit of the rain goes forth from its chamber, the angels come and open the chamber and lead it out. And when it is diffused over the whole earth, and as often as it unites with the water on the earth.
+
+**[23].** For the waters are for those who dwell on the earth; for they are nourishment for the earth from the Most High who is in heaven: therefore there is a measure for the rain, and the angels take it in charge.
+
+**[24].** All these things I saw towards the garden of the righteous.
+
+**[25].** The angel of peace who was with me spoke to me: —These two monsters are prepared to be fed conformably to the greatness of God, that the punishment of the Lord of Spirits may cause lamentation, and slay the sons with their mothers, and the children with their fathers. When the punishment of the Lord of Spirits shall rest upon them, it will rest in order that the punishment of the Lord of Spirits may not come in vain upon them: afterwards the judgment will take place according to His mercy and His patience.
+
+> **Editorial note:** The whole of Chapter LX is a Noachic interpolation and is bracketed in the 1893 edition.
 
 ---
 
 ## Chapter 61
 
-I saw in those days, how long cords were given to those angels, and they took to themselves wings and flew; they went towards the North. I asked the angel, saying: Why have these angels taken the cords and gone off? And he said to me: —They have gone to measure. The angel who went with me said to me: —These are bringing to the righteous the measures of the righteous and the ropes of the righteous, that they may stay themselves on the name of the Lord of Spirits for ever and ever. The elect will begin to dwell with the elect, and those measures will be given to faith and will strengthen righteousness. These measures will reveal everything that is hidden in the depths of the earth, and those who have been destroyed by the desert, those who have been devoured by the fish of the sea, by the beasts, that they may return and stay themselves on the day of the Elect One; for no one will be destroyed before the Lord of Spirits and none can be destroyed. All the powers who dwell above in the heaven received a command, one voice, and one light like unto fire. That One above all they blessed, extolled, lauded with wisdom, and showed themselves wise in utterance, and in the spirit of life. The Lord of Spirits placed the Elect One on the throne of glory and he will judge all the works of the holy in the heaven, and weigh their deeds in the balance. When he shall lift his countenance to judge their secret ways according to the word of the name of the Lord of Spirits, and their path according to the way of the righteous judgment of the Lord of Spirits, then will they all with one voice speak and bless, glorify, extol, and laud the name of the Lord of Spirits. He will call on all the host of the heavens, and all the holy ones above, and the host of God, the Cherubim, Seraphim, and Ophanim, all the angels of power, all the angels of principalities, the Elect One, and the other powers on the earth, over the water, on that day; they will raise one voice and bless, and glorify in the spirit of faith, in the spirit of wisdom, and of patience, in the spirit of mercy, in the spirit of judgment, of peace, in the spirit of goodness, and will all say with one voice: — Blessed is He, and may the name of the Lord of Spirits be blessed for ever and ever! All who sleep not above in heaven will bless Him: all the holy ones who are in heaven will bless Him, and all the elect who dwell in the garden of life, every spirit of light who is able to bless, and glorify, extol and hallow your blessed name, and all flesh which will beyond measure glorify, and bless your name for ever and ever. For great is the mercy of the Lord of Spirits, and He is long suffering, and all His work, all the extent of His work, He has revealed to the righteous and elect in the name of the Lord of Spirits.
+**1.** I saw in those days, how long cords were given to those angels, and they took to themselves wings and flew; they went towards the North.
+
+**2.** I asked the angel, saying: Why have these angels taken the cords and gone off? And he said to me: —They have gone to measure.
+
+**3.** The angel who went with me said to me: —These are bringing to the righteous the measures of the righteous and the ropes of the righteous, that they may stay themselves on the name of the Lord of Spirits for ever and ever.
+
+**4.** The elect will begin to dwell with the elect, and those measures will be given to faith and will strengthen righteousness.
+
+**5.** These measures will reveal everything that is hidden in the depths of the earth, and those who have been destroyed by the desert, those who have been devoured by the fish of the sea, by the beasts, that they may return and stay themselves on the day of the Elect One; for no one will be destroyed before the Lord of Spirits and none can be destroyed.
+
+**6.** All the powers who dwell above in the heaven received a command, one voice, and one light like unto fire.
+
+**7.** That One above all they blessed, extolled, lauded with wisdom, and showed themselves wise in utterance, and in the spirit of life.
+
+**8.** The Lord of Spirits placed the Elect One on the throne of glory and he will judge all the works of the holy in the heaven, and weigh their deeds in the balance.
+
+**9.** When he shall lift his countenance to judge their secret ways according to the word of the name of the Lord of Spirits, and their path according to the way of the righteous judgment of the Lord of Spirits, then will they all with one voice speak and bless, glorify, extol, and laud the name of the Lord of Spirits.
+
+**10.** He will call on all the host of the heavens, and all the holy ones above, and the host of God, the Cherubim, Seraphim, and Ophanim, all the angels of power, all the angels of principalities, the Elect One, and the other powers on the earth, over the water, on that day;
+
+**11.** they will raise one voice and bless, and glorify in the spirit of faith, in the spirit of wisdom, and of patience, in the spirit of mercy, in the spirit of judgment, of peace, in the spirit of goodness, and will all say with one voice: — Blessed is He, and may the name of the Lord of Spirits be blessed for ever and ever!
+
+**12.** All who sleep not above in heaven will bless Him: all the holy ones who are in heaven will bless Him, and all the elect who dwell in the garden of life, every spirit of light who is able to bless, and glorify, extol and hallow your blessed name, and all flesh which will beyond measure glorify, and bless your name for ever and ever.
+
+**13.** For great is the mercy of the Lord of Spirits, and He is long suffering, and all His work, all the extent of His work, He has revealed to the righteous and elect in the name of the Lord of Spirits.
 
 ---
 
 ## Chapter 62
 
-So the Lord commanded the kings, the mighty, the exalted, and those who dwell on the earth, and said: —Open your eyes and lift up your horns if you are able to recognise the Elect One. The Lord of Spirits seated him on the throne of His glory, and the spirit of righteousness was poured out upon him, and the word of his mouth slew all the sinners, and all the unrighteous were destroyed before his face. There will stand up in that day all the kings, and the mighty, the exalted, and those who hold the earth, and they will see and recognize him how he sits on the throne of his glory, and righteousness is judged before him, and no lying word is spoken before him. Then shall pain come upon them as on a woman in travail, who finds it grievous to bring forth when her son enters the mouth of the womb and she has pain in bringing forth. One portion of them will look on the other and they will be terrified; their countenance will fall and pain will seize them when they see that Son of Man sitting on the throne of his glory. The kings, the mighty, and all who possess the earth will glorify, bless, and extol him who rules over all, who was hidden For the Son of Man was hidden before Him, and the Most High preserved him in the presence of His might, and revealed him to the elect. The congregation of the holy and elect will be sown, and all the elect will stand before him on that day. All the kings, the mighty, the exalted, and those who rule the earth, will fall down on their faces before him and worship, and set their hope upon that Son of Man, will petition him, and supplicate for mercy at his hands. Nevertheless, that Lord of Spirits will press them that they will hastily go forth from His presence, and their faces will be filled with shame and darkness will be piled upon their faces. The angels of punishment will take them in charge to execute vengeance on them, because they have oppressed His children and His elect. They will be a spectacle for the righteous and for His elect: they will rejoice over them because the wrath of the Lord of Spirits rests upon them and His sword is drunk with their blood. The righteous, and elect will be saved on that day, and will never again from thenceforth see the face of the sinners and unrighteous. The Lord of Spirits will abide over them, and with that Son of Man will they eat, lie down, and rise up for ever and ever. The righteous and elect will have risen from the earth and ceased to be of downcast countenance, and will have been clothed with garments of glory. These shall be your garments: garments of life before the Lord of Spirits. And your garments will not grow old and your glory will not pass away before the Lord of Spirits.
+**1.** So the Lord commanded the kings, the mighty, the exalted, and those who dwell on the earth, and said: —Open your eyes and lift up your horns if you are able to recognise the Elect One.
+
+**2.** The Lord of Spirits seated him on the throne of His glory, and the spirit of righteousness was poured out upon him, and the word of his mouth slew all the sinners, and all the unrighteous were destroyed before his face.
+
+**3.** There will stand up in that day all the kings, and the mighty, the exalted, and those who hold the earth, and they will see and recognize him how he sits on the throne of his glory, and righteousness is judged before him, and no lying word is spoken before him.
+
+**4.** Then shall pain come upon them as on a woman in travail, who finds it grievous to bring forth when her son enters the mouth of the womb and she has pain in bringing forth.
+
+**5.** One portion of them will look on the other and they will be terrified; their countenance will fall and pain will seize them when they see that Son of Man sitting on the throne of his glory.
+
+**6.** The kings, the mighty, and all who possess the earth will glorify, bless, and extol him who rules over all, who was hidden
+
+**7.** For the Son of Man was hidden before Him, and the Most High preserved him in the presence of His might, and revealed him to the elect.
+
+**8.** The congregation of the holy and elect will be sown, and all the elect will stand before him on that day.
+
+**9.** All the kings, the mighty, the exalted, and those who rule the earth, will fall down on their faces before him and worship, and set their hope upon that Son of Man, will petition him, and supplicate for mercy at his hands.
+
+**10.** Nevertheless, that Lord of Spirits will press them that they will hastily go forth from His presence, and their faces will be filled with shame and darkness will be piled upon their faces.
+
+**11.** The angels of punishment will take them in charge to execute vengeance on them, because they have oppressed His children and His elect.
+
+**12.** They will be a spectacle for the righteous and for His elect: they will rejoice over them because the wrath of the Lord of Spirits rests upon them and His sword is drunk with their blood.
+
+**13.** The righteous, and elect will be saved on that day, and will never again from thenceforth see the face of the sinners and unrighteous.
+
+**14.** The Lord of Spirits will abide over them, and with that Son of Man will they eat, lie down, and rise up for ever and ever.
+
+**15.** The righteous and elect will have risen from the earth and ceased to be of downcast countenance, and will have been clothed with garments of glory.
+
+**16.** These shall be your garments: garments of life before the Lord of Spirits. And your garments will not grow old and your glory will not pass away before the Lord of Spirits.
 
 ---
 
 ## Chapter 63
 
-In those days, will the mighty, and the kings who possess the earth implore His angels of punishment to whom they were delivered to grant them a little respite, that they might fall down before the Lord of Spirits, worship and confess their sins before Him. They will bless and glorify the Lord of Spirits, and say: —Blessed is the Lord of Spirits, the Lord of kings, the Lord of the mighty, ad the Lord of the rulers, the Lord of glory, the Lord of wisdom of every secret is clear. Thy power is from generation to generation, and your glory for ever and ever: deep are all your secrets and innumerable, and your righteousness is beyond reckoning. We have now learn that we should glorify and bless the Lord of kings, and Him who is King over all kings. They will say: —Would that we had rest to glorify, thank Him and confess our faith before His glory! Now we long for a little rest but find it not: we are driven away and obtain it not: light has vanished from before us, and darkness is our dwelling place for ever and ever; For we have not believed before Him nor glorified the name of the Lord of Spirits, nor glorified our Lord, but our hope was in the sceptre of our kingdom and in our glory. In the day of our suffering and tribulation, He saves us not, and we find no respite wherein to confess our faith, that our Lord is true in all His works and in His judgments, and His righteousness and His judgments have no respect of persons. We shall pass away from before His face on account of our works, and all our sins are reckoned up in judgement. Now they will say to them: —Our souls are satisfied with the mammon of unrighteousness, but this does not prevent us from descending into the flame of the pain of Sheol. After that their countenance will be filled with darkness before that Son of Man, and they will be banished from his presence, and the sword will dwell among them before his face. Thus spoke the Lord of Spirits: —This is the ordinance, and judgment of the mighty, and the kings, and the exalted, and those who possess the earth before the Lord of Spirits.
+**1.** In those days, will the mighty, and the kings who possess the earth implore His angels of punishment to whom they were delivered to grant them a little respite, that they might fall down before the Lord of Spirits, worship and confess their sins before Him.
+
+**2.** They will bless and glorify the Lord of Spirits, and say: —Blessed is the Lord of Spirits, the Lord of kings, the Lord of the mighty, ad the Lord of the rulers, the Lord of glory, the Lord of wisdom of every secret is clear.
+
+**3.** Thy power is from generation to generation, and your glory for ever and ever: deep are all your secrets and innumerable, and your righteousness is beyond reckoning.
+
+**4.** We have now learn that we should glorify and bless the Lord of kings, and Him who is King over all kings.
+
+**5.** They will say: —Would that we had rest to glorify, thank Him and confess our faith before His glory!
+
+**6.** Now we long for a little rest but find it not: we are driven away and obtain it not: light has vanished from before us, and darkness is our dwelling place for ever and ever;
+
+**7.** For we have not believed before Him nor glorified the name of the Lord of Spirits, nor glorified our Lord, but our hope was in the sceptre of our kingdom and in our glory.
+
+**8.** In the day of our suffering and tribulation, He saves us not, and we find no respite wherein to confess our faith, that our Lord is true in all His works and in His judgments, and His righteousness and His judgments have no respect of persons.
+
+**9.** We shall pass away from before His face on account of our works, and all our sins are reckoned up in judgement.
+
+**10.** Now they will say to them: —Our souls are satisfied with the mammon of unrighteousness, but this does not prevent us from descending into the flame of the pain of Sheol.
+
+**11.** After that their countenance will be filled with darkness before that Son of Man, and they will be banished from his presence, and the sword will dwell among them before his face.
+
+**12.** Thus spoke the Lord of Spirits: —This is the ordinance, and judgment of the mighty, and the kings, and the exalted, and those who possess the earth before the Lord of Spirits.
 
 ---
 
 ## Chapter 64
 
-Other forms I saw in that place in secret. I heard the voice of the angel saying: —These are the angels who descended to the earth and revealed what was hidden to the children of men, and seduced the children of men into committing sin.
+**1.** Other forms I saw in that place in secret.
+
+**2.** I heard the voice of the angel saying: —These are the angels who descended to the earth and revealed what was hidden to the children of men, and seduced the children of men into committing sin.
 
 ---
 
