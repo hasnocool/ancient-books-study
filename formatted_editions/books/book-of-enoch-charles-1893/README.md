@@ -1,12 +1,23 @@
-# The Book of Enoch (1 Enoch) — R. H. Charles (1893)
+# The Book of Enoch (1 Enoch) — source-attributed Charles/Dillmann text
 
-This reading edition is based on the Ethiopic 1 Enoch text attributed by the repository source compilation to R. H. Charles and Professor Dillmann (1893).
+This directory contains a faithful formatted reading draft of the 1 Enoch chapter text found in the repository's combined Enoch transcription. That source attributes the Ethiopic/Geez text to R. H. Charles and Professor August Dillmann (1893). The exact wording has not yet been collated line by line against the 1893 printed edition.
 
-It is intentionally separate from 2 Enoch, also called *The Book of the Secrets of Enoch*, which survives in a distinct Slavonic textual tradition.
+## What is included — and what is not
+
+- **1 Enoch text:** all 108 chapter entries in the selected repository transcription are represented in the six reading files. A normalized text comparison confirmed that each chapter body is present after page-number and layout cleanup.
+- **Opening of Chapter I:** the blessing sentence placed before the source table of contents has been moved into Chapter 1, where it belongs in the reading sequence.
+- **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They are deliberately excluded here because 2 Enoch is a separate work and must have its own edition.
+- **Full 1893 Charles volume:** this directory does not reproduce the complete 391-page scholarly volume. Charles's general introduction, special introductions, critical and exegetical notes, appendices, and indices are not included.
+
+## Why some chapters look like paragraphs
+
+The `Enoch N.` labels in the repository transcription are chapter labels, not paragraph numbers. The original 1893 printing also divides the chapters into numbered verses. The repository transcription has largely dropped those verse numbers and joined the verse text into continuous paragraphs. For example, the 1893 printing gives Chapter II three numbered verses, while the source transcription presents the material as one paragraph.
+
+The Markdown headings therefore identify real chapters, but the current files do **not** preserve the complete verse-level structure. Verse numbers and verse breaks must be restored from the printed edition or a reliable facsimile; they must not be guessed. Some short chapters are genuinely brief, so a one-paragraph chapter is not automatically an error.
 
 ## Contents
 
-| Book | Chapters | Reading edition |
+| Source division | Chapters | Reading edition |
 |---|---:|---|
 | 1. The Watchers | 1–36 | [Read Book 1](./book-01-watchers-chapters-01-36.md) |
 | 2. The Parables | 37–71 | [Read Book 2](./book-02-parables-chapters-37-71.md) |
@@ -15,30 +26,25 @@ It is intentionally separate from 2 Enoch, also called *The Book of the Secrets 
 | 5. The Laws of Enoch | 91–105 | [Read Book 5](./book-05-laws-of-enoch-chapters-91-105.md) |
 | 6. The Deluge | 106–108 | [Read Book 6](./book-06-deluge-chapters-106-108.md) |
 
+These six divisions are retained from the repository compilation; they are not presented as a new critical reconstruction of the book's literary structure.
+
 ## Editorial policy
 
-- Preserve the historical translation's wording and sequence.
-- Retain the six book divisions found in the repository's source compilation.
-- Use one Markdown chapter heading for each source chapter.
-- Rejoin hard-wrapped scan lines into readable paragraphs.
-- Remove standalone printed page numbers and divider labels only.
-- Do not silently modernize language, repair uncertain readings, or invent missing text.
+- Preserve the repository source's wording and sequence.
+- Use one chapter heading for each source chapter marker.
+- Do not invent verse numbers absent from the source transcription.
+- Rejoin hard-wrapped lines, remove isolated print page numbers and source divider labels, and retain real text.
+- Do not silently modernize language, repair uncertain readings, or reconstruct missing text.
 - Keep the separate Slavonic 2 Enoch material out of 1 Enoch.
-- Mark every file as a formatted draft until it has been collated against the 1893 printed edition.
-
-## Source selection
-
-The repository has several Enoch-related files. This edition uses `books_02/The Book of Enoch.txt`, duplicated byte-for-byte in `books_05/The Book of Enoch.txt`. The combined file interleaves 1 Enoch chapters 1–108 with Slavonic 2 Enoch chapters. The two traditions have been separated by their explicit source headings.
-
-The modern Knibb-attributed file `books_01/Book-of-Enoch (screen).txt` was not used as the text source for this edition.
-
-See [SOURCE_NOTES.md](./SOURCE_NOTES.md) for provenance and extraction details.
+- Mark the files as drafts until compared with the stated historical edition.
 
 ## Verification status
 
-- 1 Enoch chapter headings found: 108 of 108.
-- Chapter sequence checked: 1–108, with Chapter 13 identified by the source heading `Chapt 13.`.
-- Separate Slavonic chapter headings identified and excluded.
-- Textual accuracy against the 1893 facsimile: not yet verified.
+- **Chapter coverage against selected source:** 108 of 108 chapter entries present.
+- **Text presence check:** all 108 chapter bodies match the selected repository transcription after normalization of whitespace, page numbers, and divider labels.
+- **Chapter 13:** source heading `Chapt 13.` normalized to `Chapter 13`.
+- **Verse structure:** not yet restored; the selected transcription does not preserve the full verse numbering.
+- **Historical text accuracy:** not yet verified line by line against the 1893 facsimile.
+- **2 Enoch:** 68 Slavonic sections are recorded in the source but have not yet been formatted in this directory.
 
-This is a reading-formatting project, not a new translation, critical edition, or claim that the source transcription is free of OCR errors.
+This is a formatted transcription draft, not a new translation, paraphrase, complete reproduction of the 1893 scholarly volume, or verified critical edition. See [SOURCE_NOTES.md](./SOURCE_NOTES.md) for provenance and extraction details.
