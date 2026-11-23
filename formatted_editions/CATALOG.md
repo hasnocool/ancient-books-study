@@ -5,6 +5,7 @@ This catalog tracks derivative reading editions. The numbered `books_*` director
 | Work | Formatted path | Source file | Mode | Status | Notes |
 |---|---|---|---|---|---|
 | *Corpus Hermeticum* — all 15 tractates | [Open complete work index](./books/corpus-hermeticum-mead-1906/README.md) | `books_04/Corpus_Hermeticum_Mead_1906.txt` | Faithful formatted transcription | Formatted drafts | All 15 tractates structured; section 5 is absent in Tractate XV's supplied transcription. Three supplementary pieces included; the *Asclepius* extract is incomplete. Facsimile collation remains outstanding. |
+| *The Book of Enoch* (1 Enoch; Charles, 1893) | [Open six-part edition](./books/book-of-enoch-charles-1893/README.md) | `books_02/The Book of Enoch.txt` | Faithful formatted transcription | Formatted drafts | All 108 chapters formatted in six parts. Interleaved Slavonic 2 Enoch chapters excluded. Historical scan collation remains outstanding. |
 
 ## Processing queue
 
