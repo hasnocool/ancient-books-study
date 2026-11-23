@@ -9,11 +9,13 @@
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
 - **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
-- **Status:** Chapter coverage transferred; verse structure and textual collation outstanding
+- **Status:** Verse structure restored for Chapters LXXII–LXXXII; text-transfer comparison passed for all eleven chapters; wording collation remains outstanding
 
 ## Editorial statement
 
-The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapter headings are retained; verse numbering and boundaries remain to be restored from the printed edition.
+The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Verse numbering and boundaries have been restored from the 1893 printing as a structural reference. The repository wording has not been collated word-for-word against that printing.
+
+Chapters LXXX and LXXXI are marked as interpolations in Charles's 1893 apparatus. Chapter LXXXII's printed sequence omits verse 13 and labels two successive units verse 14; those labels are preserved rather than silently renumbered.
 
 The combined source also interleaves chapters from the separate Slavonic `Book of the Secrets of Enoch` (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
 
