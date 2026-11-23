@@ -355,13 +355,57 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 17
 
-They took me away to a place where there were forms like flaming fire, and when they wished they appeared as men. They conducted me to the place of the whirlwind, and to a mountain, the point of whose summit reached to heaven. I saw the places of the luminaries, and of the thunder at the ends thereof; in the depths thereof, a fiery bow and arrows, and their quiver, and a fiery sword, and all the lightnings. They took me to the water of life, and to the fire of the west, which receives every setting of the sun. I came to a river of fire, the fire of which flows like water, and discharges itself into the great sea towards the west. I saw all the great rivers, and came to a great darkness, and went to the place where all flesh wanders. I saw the mountains of the darkness of winter, and the place whence the waters of the entire deep flow. I saw the mouths of all the rivers of the earth, and the mouth of the deep.
+**1.** They took me away to a place where there were forms like flaming fire, and when they wished they appeared as men.
+
+**2.** They conducted me to the place of the whirlwind, and to a mountain, the point of whose summit reached to heaven.
+
+**3.** I saw the places of the luminaries, and of the thunder at the ends thereof; in the depths thereof, a fiery bow and arrows, and their quiver, and a fiery sword, and all the lightnings.
+
+**4.** They took me to the water of life, and to the fire of the west, which receives every setting of the sun.
+
+**5.** I came to a river of fire, the fire of which flows like water, and discharges itself into the great sea towards the west.
+
+**6.** I saw all the great rivers, and came to a great darkness, and went to the place where all flesh wanders.
+
+**7.** I saw the mountains of the darkness of winter, and the place whence the waters of the entire deep flow.
+
+**8.** I saw the mouths of all the rivers of the earth, and the mouth of the deep.
 
 ---
 
 ## Chapter 18
 
-I saw the chambers of all the winds, and I saw how He had furnished with them the whole creation and the firm foundations of the earth. I saw the cornerstone of the earth; I saw the four winds which bear the earth, and the firmament of the heaven. I saw how the winds stretch out the vaults of heaven, and have their station between heaven and earth: these are the pillars of the heaven. I saw the winds which turn the heaven, which bring the circumference of the sun, and all the stars to their setting. I saw the winds on the earth which carry the clouds; and I saw the paths of the angels: I saw at the end of the earth the firmament of the heaven above. I proceeded towards the south, and there it burns day and night, where there are seven mountains of magnificent stones; three towards the east and three towards the south: indeed of those towards the east: one was of coloured stone, one of pearls, one of antimony; and those towards the south of red stone. But the middle one reached to heaven like the throne of God, of alabaster, and the summit of the throne was of sapphire. I saw a flaming fire which was in all the mountains. I saw there a place over against the great earth: there the heavens were gathered together. I saw a deep abyss with pillars of heavenly fire, and among them I saw pillars of heavenly fire fall which were in number beyond count, alike towards the height, and towards the depth. Over that abyss, I saw a place which had no firmament of the heaven above, and no foundation of earth beneath it: there was no water upon it, and no birds, but it was a waste place. What I saw there was horrible. Seven stars like great burning mountains, and like spirits, which besought me. The angel said: —This is the place where heaven and earth terminate. It serves for a prison for the stars of heaven and the host of heaven. The stars which roll over the fire, are they which have transgressed the commandment of God before their rising, because they did not come forth at the appointed time. He was wroth with them and bound them until the time when their guilt should be consummated in the year of the mystery.
+**1.** I saw the chambers of all the winds, and I saw how He had furnished with them the whole creation and the firm foundations of the earth.
+
+**2.** I saw the cornerstone of the earth; I saw the four winds which bear the earth, and the firmament of the heaven.
+
+**3.** I saw how the winds stretch out the vaults of heaven, and have their station between heaven and earth: these are the pillars of the heaven.
+
+**4.** I saw the winds which turn the heaven, which bring the circumference of the sun, and all the stars to their setting.
+
+**5.** I saw the winds on the earth which carry the clouds; and I saw the paths of the angels: I saw at the end of the earth the firmament of the heaven above.
+
+**6.** I proceeded towards the south, and there it burns day and night, where there are seven mountains of magnificent stones; three towards the east and three towards the south:
+
+**7.** indeed of those towards the east: one was of coloured stone, one of pearls, one of antimony; and those towards the south of red stone.
+
+**8.** But the middle one reached to heaven like the throne of God, of alabaster, and the summit of the throne was of sapphire.
+
+**9.** I saw a flaming fire which was in all the mountains.
+
+**10.** I saw there a place over against the great earth: there the heavens were gathered together.
+
+**11.** I saw a deep abyss with pillars of heavenly fire, and among them I saw pillars of heavenly fire fall which were in number beyond count, alike towards the height, and towards the depth.
+
+**12.** Over that abyss, I saw a place which had no firmament of the heaven above, and no foundation of earth beneath it: there was no water upon it, and no birds, but it was a waste place.
+
+**13.** What I saw there was horrible. Seven stars like great burning mountains, and like spirits, which besought me.
+
+**14.** The angel said: —This is the place where heaven and earth terminate. It serves for a prison for the stars of heaven and the host of heaven.
+
+**15.** The stars which roll over the fire, are they which have transgressed the commandment of God before their rising, because they did not come forth at the appointed time.
+
+**16.** He was wroth with them and bound them until the time when their guilt should be consummated in the year of the mystery.
 
 ---
 
