@@ -229,7 +229,7 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 **4.** Enoch you scribe of righteousness, go, announce to the watchers of the heaven who have abandoned the high heaven, and the holy eternal place, and have defiled themselves with women, and have done as the children of men do, and have taken unto themselves wives, and have grossly defiled themselves on the earth.
 
-**5.** They will have no peace on the earth nor forgiveness of sin, and inasmuch as they delight themselves in their children,
+**5.** They will have no peace on the earth nor forgiveness of sin:, and inasmuch as they delight themselves in their children,
 
 **6.** the murder of their beloved ones they shall see, and over the destruction of their children will they lament, and will make supplication unto eternity, but mercy, and peace will they not attain.
 
