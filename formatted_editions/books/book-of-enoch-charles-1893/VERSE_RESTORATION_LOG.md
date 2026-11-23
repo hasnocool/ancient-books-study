@@ -51,6 +51,47 @@ R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Eth
 
 The brackets reflect the 1893 editor's treatment of interpolated passages. In Chapter IV the printed text has no verse numeral; none is added here.
 
+### Book 2 — The Parables (Chapters XXXVII–LXX)
+
+| Chapter | Structure in the 1893 printing | Printed pages | Reading file |
+|---|---|---:|---|
+| XXXVII | Verses 1–5 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XXXVIII | Verses 1–6 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XXXIX | Bracketed verses 1–2; verses 3–14 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XL | Verses 1–10 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLI | Verses 1–2; bracketed verses 3–8; verse 9 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLII | Verses 1–3 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLIII | Entire chapter bracketed; verses 1–4 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLIV | One unnumbered sentence; entire chapter bracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLV | Verses 1–6 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLVI | Verses 1–8 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLVII | Verses 1–4 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLVIII | Verses 1–10 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| XLIX | Verses 1–4 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| L | Entire chapter bracketed; verses 1–5 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LI | Verses 1–5 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LII | Verses 1–9 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LIII | Verses 1–7 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LIV | Verses 1–6; bracketed verses 7–10 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LV | Bracketed verses 1–2; verses 3–4 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LVI | Verses 1–4; bracketed verses 5–8 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LVII | Bracketed verses 1–3 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LVIII | Verses 1–6 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LIX | Entire chapter bracketed; verses 1–3 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LX | Entire chapter bracketed; verses 1–25 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXI | Verses 1–13 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXII | Verses 1–16 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXIII | Verses 1–12 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXIV | Verses 1–2 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXV | Noachic interpolation; verses 1–12 bracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXVI | Noachic interpolation; verses 1–3 bracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXVII | Noachic interpolation; verses 1–13 bracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXVIII | Noachic interpolation; verses 1–5 bracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXIX | Verses 1–25 bracketed; verses 26–29 unbracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXX | Verses 1–2 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+
+> Printed page references for this table have not yet been populated; the verse numbering and interpolation boundaries were checked against the facsimile. The compilation's additional Chapter 71 is preserved as a separate source-only section and is not assigned a Charles 1893 verse structure.
+
 ## Text-preservation check
 
 The chapter bodies for Chapters II–X were compared with the selected repository source after removing the inserted verse labels and editorial notes; all matched. Chapter I also contains the opening blessing that appears before the table of contents in the repository transcription, so the comparison must include that prefatory sentence as the start of Chapter I.
@@ -63,8 +104,8 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 
 ## Pending
 
-- Chapters XXXVII–LXXI: restore verse structure from the printed edition.
-- Chapters XXXVII–LXXI: restore verse structure.
-- Chapters LXXII–CVIII: restore verse structure.
+- Chapters LXXII–CVIII: restore verse structure from the printed edition.
+- Identify the textual source of the compilation's supplementary Chapter 71.
+- Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Decide whether to retain this repository text as a distinct derivative or create a separate exact Charles 1893 edition alongside it.
