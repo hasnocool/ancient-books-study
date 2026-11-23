@@ -4,18 +4,18 @@
 
 ## Edition record
 
-- **Translator / editor attribution in the source:** R. H. Charles, based on Professor Dillmann's Ethiopic text (1893)
+- **Attribution in the source compilation:** R. H. Charles / Professor August Dillmann (1893); exact textual identity not verified
 - **Textual tradition:** Ethiopic 1 Enoch
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
-- **Editorial mode:** Faithful formatted transcription
-- **Status:** Formatted draft; textual collation is still required
+- **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
+- **Status:** Chapter coverage transferred; verse structure and textual collation outstanding
 
 ## Editorial statement
 
-This file preserves the chapter text attributed to the 1893 Charles/Dillmann edition in the repository's combined source transcription. Only layout has been normalized: hard-wrapped scan lines have been rejoined into paragraphs, standalone printed page numbers and source book-divider lines have been removed, and the original chapter sequence is presented as Markdown headings. Wording, spelling, punctuation, and apparent reading errors have not been modernized or silently corrected.
+The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapter headings are retained; verse numbering and boundaries remain to be restored from the printed edition.
 
-The combined source also interleaves chapters from the separate Slavonic *Book of the Secrets of Enoch* (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
+The combined source also interleaves chapters from the separate Slavonic `Book of the Secrets of Enoch` (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
 
 ---
 
