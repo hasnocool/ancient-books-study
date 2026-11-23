@@ -1,0 +1,693 @@
+DOI 10.1179/030801807X163670
+© 2007 Institute of Materials, Minerals and Mining. Published by Maney on behalf of the Institute
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+27
+The Antikythera Mechanism reconsidered*
+M. T. WRIGHT
+Centre for the History of Science, Technology and Medicine, Imperial College London,
+London SW7 2AZ, UK
+The Antikythera Mechanism, the world’s oldest known geared mechanism, became widely
+known through the work of Derek Price who, concluding that its dials yielded astronomical
+and calendrical information, called it a ‘calendar computer’. Price rightly drew attention to
+its importance as direct evidence for a high level of mechanical accomplishment in ancient
+times, but his account of the instrument itself is deficient. I have developed a new recon-
+struction on the basis of an independent survey of the original, drawing on my knowledge
+of early mechanism and of the history of craft techniques, and on my experience as a
+practical mechanic. This reconstruction follows the observed detail far more closely than
+does Price’s. It displays somewhat different astronomical information, according closely
+with the contemporary literary evidence of interest in the making of planetaria. The main
+features of the new reconstruction, previously described elsewhere in a series of papers, are
+here brought together so as to convey a better impression of the whole. A model, made to
+the same scale as the original, demonstrates that the reconstruction is workable.
+In 1900, just off the small Greek island of Antikythera in the Western Aegean, sponge-
+divers discovered statues on the sea bed at a depth variously reported as between about
+forty-three and fifty-five metres. These were the largest items in a cargo of mixed luxury
+goods from a shipwreck which has subsequently been dated, by several independent
+studies, to the early decades of the first century BC.1 The Greek government employed the
+divers to recover what they could, and the material was taken to the National Museum in
+Athens where much of it may now be seen on display.
+* Note added 29 November 2006: This paper was submitted on 2 September 2006 and accepted for publica-
+tion on 26 October 2006. Since then the Antikythera Mechanism Research Project Group has published
+interesting findings (T. Freeth et al.: ‘Decoding the ancient Greek astronomical calculator known as the
+Antikythera Mechanism’, Nature, 2006, 444, 587–591). Their independent survey has included study of the
+newly discovered fragment F, a part of the lower back dial which was not available to me. Their reading of the
+inscriptions on this dial reveals that the function displayed on it was the eclipse cycle of 223 synodic months,
+distributed around the four-turn spiral scale. (As eclipses of the Sun are rare events, the engraved sequence
+may, in principle, afford means for dating the Mechanism.) One revolution of the pointer thus represented
+(223÷4) synodic months, not one draconitic month as I have suggested. The Group offers a modification of
+my gear train which achieves this function and also incorporates exactly those mechanical features that I
+characterised as having probably been made redundant by alteration of the instrument. The satisfactory way in
+which the Group’s suggestions for these parts fall in with my own observations of the artefact itself, and
+remove residual difficulties with my reconstruction, lead me to believe that they are correct. I have no hesita-
+tion either in adopting the Group’s revisions of the function of the lower back dial and of the internal
+mechanism or in withdrawing statements concerning these features that conflict with them. The changes,
+though important, are physically quite slight, and do not affect my arguments for other significant features of
+my reconstruction. I stand by the conclusions of my paper.
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+28
+M. T. Wright
+The considerable bulk of this ‘Antikythera treasure’ included spectacular artefacts which
+drew much attention. Understandably, therefore, the small pieces of the fragmentary
+instrument which forms the subject of the present paper were examined closely only some
+months later, when engraved lettering was noticed on them. The inscriptions showed that
+the instrument’s purpose had been astronomical, and traces of toothed wheels and gradu-
+ated dials could be seen, but the artefact’s enormous importance, as the world’s earliest
+known geared mechanism, was recognised only later.
+The first official description of what we now call the Antikythera Mechanism is found
+in a museum publication of 1903.2 Four distinct fragments, designated A, B, C and D (A,
+B, C and D in later literature), were described and illustrated by photographs and a few
+line-drawings. Further fragments, E and F, have been identified more recently within the
+museum’s store. Some flakes of what had been a separate plate, detached from fragment C
+during cleaning, have been reassembled to form what is now called fragment G, and many
+further similar flakes from fragments A, B and C, mostly very small, are numbered for
+reference.
+The nature of the fragments is such that much of their detail remains hidden from
+direct view, even after cleaning. Radiography, carried out in the early 1970s by
+Charalambos Karakalos, revealed much more and encouraged Derek de Solla Price to
+attempt a complete description and reconstruction of the instrument, in a paper which has
+become well known.3
+Price opened this paper with an account of the finding of the wreck and recovery of the
+cargo, and with the history of studies of the fragments prior to his own; and concluded
+with a masterly essay on the historical significance of the instrument. Between these
+sections, he devoted half the paper to a description of the evidence available to him
+(mainly of fragments A, B and C and the assembly now called fragment G) and his
+reconstruction based upon it.
+Price described an instrument of bronze, contained in a wooden case. Three dial dis-
+plays, one on the ‘front’ and two on the ‘back’, were interconnected by internal gearing and
+driven forward together by the rotation of a single input shaft.4 Two pointers on the front
+showed the mean places in the Zodiac of the Sun and Moon (the first also showing the
+date), and their motion was combined in an epicyclic differential gear to drive a display of
+the synodic month on the back.5 Simpler gearing to the other back dial displayed supple-
+mentary information. Further bronze ‘door plates’, the surviving pieces of which are
+densely engraved with writing which appears to have an astronomical significance, lay over
+the front and rear dials. Price identified no specific purpose for the instrument, but called
+it a ‘calendar computer’.
+Numerous models have been made, based more or less closely on Price’s account. I
+have shown that Price’s reconstruction is fundamentally incorrect.6 Therefore none of
+these models, however well or badly made, possesses any basis in historical reality; nor can
+any of them offer any true insight into the design, construction or function of the original.
+Classical literature includes passages that refer to instruments showing the places of the
+Sun, Moon and planets. Price presented several in translation, the earliest written by Cicero
+(Marcus Tullius Cicero, 106–43BC), during whose lifetime the Antikythera ship was lost. It
+had been usual to suppose that ancient attainments in mechanical technology were only
+modest, and that these instruments must have been simpler than the authors implied; but
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+29
+Price suggested that the Antikythera Mechanism, with its dozens of small gear wheels,
+compels us to revise our perception of their probable degree of technical development.
+His paper was recognised as an important contribution,7 but with hindsight we see that
+few readers can have taken the time to appraise the detailed argument by which Price
+arrived at his reconstruction.
+A NEW SURVEY OF THE ARTEFACT
+While working on a later Greek geared instrument for which the Antikythera Mechanism
+provided important comparison material,8 I was compelled to re-read Price’s paper with
+care and began to notice objections to his account. Price contradicted himself, and contra-
+dicted or ignored detail that could be seen in the illustrations; he appealed to arguments
+concerning the design and execution of mechanic’s work that carried little or no convic-
+tion, or even made no sense at all; and his reconstruction was both bizarre and incomplete.
+What one sees depends on what one’s training and experience predispose one to see. I
+became convinced that by bringing to bear powers of observation developed as a museum
+curator in the study of intricate mechanism and craft techniques, together with the practi-
+cal insights of a skilled workman, I might make a worthwhile contribution to the study of
+the Antikythera Mechanism. In due course I arranged to examine the original fragments
+myself, in collaboration with the late Allan Bromley.9 It became clear immediately that
+Price really was mistaken in important respects; and so we made a wholly independent
+survey of every detail, amassing data by direct examination and measurement, photography
+and radiography.10
+Since Price had clearly faced difficulty in determining the spatial relationship between
+closely spaced features seen in radiographs, I devised apparatus to adapt standard X-ray
+equipment for linear tomography.11 This technique allows one to prepare sets of plates
+which, once collated, enable one to plot the depths of features within the object.12 We
+achieved a radiographic resolution considerably better than 0.1 millimetres. This is of the
+same order of magnitude as both the working clearances in the instrument and the degree
+of fine adjustment that a workman might have achieved using simple tools and the naked
+eye. It is an order of magnitude smaller than the ruling dimension of the thinnest compo-
+nents. At this resolution the definition of the image appeared to be limited not by the
+imaging technique but by the ruined state of the artefact.
+Our large bulk of research material demanded painstaking analysis, for which Bromley
+removed it all to Sydney. His attempt was however cut short by the onset of a serious and
+ultimately fatal illness. After some delay, most of the material was recovered and work on
+it resumed in London. By this time the web of Price’s reconstruction had unravelled
+almost completely, but it proved harder to establish a new scheme that both accorded with
+observation and possessed a satisfactory internal logic. That has now been achieved, as is
+described step by step in the series of papers listed in the Bibliography below.
+There remains a problem in publishing the radiographs which comprise the most
+important part of our research material. The range of image-density in a successful radio-
+graph may be enormous, far beyond that which can be achieved in printing on paper. The
+problem is exacerbated where, as here, the variation in radiographic density of the artefact
+is itself very large. There is no simple way of publishing many of our images without so
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+30
+M. T. Wright
+much loss of quality as to make them practically meaningless. With linear tomographic
+images the problem is still worse, because they necessarily have much visual ‘noise’ and
+rather low contrast, and can in general be understood only by an experienced observer.
+These plane images could be made clearer by the application of relatively simple tech-
+niques in information engineering; and, using more elaborate procedures, they could be
+reconstituted as a virtual three-dimensional image. Easily intelligible images are however
+now obtained as a more direct outcome of the use of modern scanning equipment.13
+It must be said that the poor state and limited extent of the original fragments is such
+that images of them, however good, can never alone lead to an exact description of the
+whole of the original instrument; but our radiography has yielded enough clear informa-
+tion about the general mechanical arrangement of the fragments for me to have some
+confidence in publishing a reconstruction of the instrument’s arrangement and function. I
+have illustrated it and demonstrated its practicability by constructing a full-size working
+model (Fig. 1).
+The basis of the resulting reconstruction is a new survey of the arrangement of the gear
+wheels, together with new estimates of the numbers of their teeth. Both the method and
+the results of the survey have been published.14 A very great mass of further mechanical
+detail was obtained, which is also embodied in the model. The order in which the elements
+of my new reconstruction were actually established was a matter of expediency. They are
+described here in a different order more suited to a logical exposition, beginning with what
+is seen in the original fragments and working outward.
+1
+The Antikythera Mechanism, reconstruction by M. T. Wright (2005): a front view, b back view
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+31
+THE ORIGINAL FRAGMENTS
+All the surviving metallic parts seem to have been made of bronze, mostly from quite thin
+sheet, between one and two millimetres thick. Many parts appear to be almost wholly
+converted to corrosion products, but exquisite surface detail is retained in many places.
+The possibility exists that there were components of iron or steel, but these would have
+perished preferentially through electrochemical action.
+Most of the surviving internal mechanism, the remains of some twenty-seven small gear
+wheels ranging from about nine to about 130 millimetres in diameter and arranged in com-
+pound trains on twelve separate axes, is found in the largest piece, fragment A (Fig. 2). The
+greatest dimension of the fragment itself is about 217 millimetres. Most of the wheels were
+fitted to arbors which ran in pivot-holes made in a frame plate.15 Enough of the outline of
+the frame plate – one straight edge and one right-angled corner – survives to suggest that
+the plate was rectangular. A portion of a dial plate (I follow Price in calling it the back dial)
+lies roughly parallel to the frame plate. The remains of a wooden batten, presumably one
+of a pair that separated the dial from the frame plate, lies between them, close to the pre-
+served edge of the frame plate. There are traces of two further pieces of wood, just beyond
+the side and bottom edges of the frame plate, that met at the corner in a mitred joint.
+Fragment B, with greatest dimension about 124 millimetres (Fig. 3), comprises mainly a
+further part of the back dial plate with two broken arbors and the trace of one further
+wheel. It fits against fragment A; while fragment E, with greatest dimension about 64
+millimetres, includes a further small piece of the dial and fits between A and B (Fig. 4).
+Together they afford a glimpse of the arrangement of the dial: two systems with (in their
+fragmentary state) the superficial appearance of sets of detached rings, one above the
+other, on a rectangular plate roughly twice as high as it was wide. The newly discovered
+fragment F includes a further piece of this back dial plate, with traces of woodwork
+forming a mitred joint at the corner of the plate.
+2
+The Antikythera Mechanism, original fragment A: a front view, b back view
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+32
+M. T. Wright
+Fragment C has greatest dimension about 120 millimetres (Fig. 5). The largest single
+component within it is a corner of the dial from the opposite (front) face, which formed
+the principal display. This square dial bore two concentric rings of graduations: one,
+engraved on the plate immediately outside a large central circular opening, was divided into
+360 parts (degrees), in groups of thirty engraved with the names of the twelve signs of the
+Zodiac; the other, divided into 365 parts (days), in groups of thirty engraved with the
+names of the months of the year according to the Egyptian calendar,16 was laid out on a
+detached ring that lay flush, in a circular sink. Near the corner of the dial is a small sliding
+bolt worked by a thumb-button, which served to hold the dial in place. Behind this piece
+of dial, cemented to it by corrosion products, lies a circular component containing
+the remains of a tiny contrate wheel.17 Price identified this component tentatively as a
+hand-knob, but it actually formed an important part of the central feature of the front dial:
+a device for displaying the phase of the Moon.18
+All these fragments include traces of the bronze plates that lay over the dials, densely
+inscribed with lettering. Some pieces of them have been removed from the main fragments
+during cleaning and conservation, and some have been reassembled separately to form
+what is now termed fragment G. The remaining detached pieces, mostly very small flakes,
+are now designated by numbers. I accepted the help of an eminent epigraphist in trying to
+extend the published readings of the lettering, and so made no serious attempt to read it
+myself;19 but I did note that Price and his collaborators were unduly tentative in recording
+as ‘uncertain’ many letters that I found clearly legible. Perhaps they were obliged to work
+under difficult conditions.
+3
+The Antikythera Mechanism, original fragment B: a outside, b inside
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+33
+Fragment D comprises two wheels, lying together with the trace of a thin plain plate
+between them. The two wheels are not quite concentric, and the arbor on which they must
+have been mounted is absent. There is no place for them anywhere in the other extant
+fragments and their original purpose cannot be determined. Probably they formed part of
+one of the several trains that are conjecturally restored in my reconstruction.
+4
+The Antikythera Mechanism, original fragments A, B and E posed together
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+34
+M. T. Wright
+GENERAL ARRANGEMENT OF THE INSTRUMENT
+The whole movement is built around a reverted train,20 which connects the large wheel on
+one face of fragment A (Fig. 2a) and the arbor that passes up through its central boss. As
+Price showed, the velocity ratio of this train (19:254) has an astronomical significance: in
+nineteen years there are, to a good approximation, 235 synodic months and hence 254
+sidereal or tropical months.21 Therefore the rotation of the wheel and of the central arbor
+drove pointers showing respectively the apparent motions of the Sun and Moon in longi-
+tude; but in an important correction to Price’s scheme, the train takes in one more arbor
+5
+The Antikythera Mechanism, original fragment C: a outside, b inside
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+35
+than he thought, and so the wheel and arbor rotate in the same sense.22 Supposing that
+they rotated in opposite senses, Price added a reversing wheel, lying over the large wheel.
+This extra wheel is now discarded; indeed, examination of the original shows that it could
+never have been fitted. Without it, the way lies open to the more elaborate reconstruction
+of the front dial described below.
+The Moon pointer incorporated the Moon-phase device that is partially preserved in
+fragment C (Fig. 5); and the Sun and Moon pointers, and perhaps others (see below), were
+read against the Zodiac scale of the dial, part of which is preserved in fragment C also,
+which must have been positioned over fragment A, concentric with its central axis. Price
+seemed uncertain as to whether there was a direct join between fragments A and C.23 In
+fact there is none, and so both the correct orientation of the dial and its separation from
+fragment A are indeterminate.
+The front dial display also included an indication of the day of the year. According to
+the Egyptian calendar the dates of the equinox and solstices changed by one day every
+fourth year. This explains the provision of the moveable calendar ring.
+Fragment A includes much of two further gear trains, leading away from different
+points in the reverted train to carry motion to the two dials on the back of the instrument
+(Fig. 4). The train to the upper back dial is a straightforward fixed-axis train. That to the
+lower back dial includes an epicyclic assembly (Fig. 2b), which Price identified, incorrectly,
+as a differential gear. Each back dial system includes a small offset subsidiary dial on which
+a small pointer rotated more slowly than the principal pointer at the centre.
+While the batten between the frame plate and the back dial may have been merely a
+spacer, the further woodwork beyond the edge of the frame plate is interpreted as the
+remnant of a case embracing the plate and enclosing the mechanism mounted on it. The
+front dial would have fitted neatly to a case of this size. The piece of the back dial remain-
+ing in fragment A overhangs the extant woodwork. Therefore the case must have been
+stepped out to embrace the rectangular back dial plate, as the trace of a further mitred joint
+at the corner of fragment F confirms. My model (Fig. 1) shows the general arrangement,
+but the correction of dimensions and some minor details may be called for in the light of
+an examination of fragment F.24
+Although Price called the plates that lay over the dials ‘door plates’, there is no evidence
+that they were jointed to the casework. I have modelled them as detached covers which
+drop onto rims of woodwork projecting beyond the dials. They serve the practical pur-
+poses of allowing the user to rest the instrument on one face while working it, and of
+forming a closed protective box when it is carried around. The surviving pieces of the
+originals were densely inscribed with lettering. The legible texts, as reported by Price,25 are
+very fragmentary, but they appear to constitute data allowing the instrument to be set to
+the correct date and some sort of account of astronomical phenomena and period-
+relations associated with what was shown on the dials. These plates are not shown in my
+photographs.
+The mechanism was driven by turning a contrate wheel, preserved in fragment A. The
+wheel has a large rectangular central hole which I interpret as a socket designed to receive
+a tongue formed on a wooden hand knob which, in my model, is inserted into a socket in
+the side of the case. The arrangement is comparable to the coupling between the tuning
+pegs of a lyre and the key used for adjusting them, but inverted.
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+36
+M. T. Wright
+THE BACK DIALS AND THEIR GEAR TRAINS
+The upper and lower back dials have spiral scales,26 the lower having four turns and the
+upper five. Each scale is flanked by a spiral slot cut right through the plate, perhaps to
+allow loosely riveted captive beads to be pushed freely along the scales as moveable mark-
+ers (Fig. 1b). The model illustrates the possibility that the outer volutes of the two spiral
+systems may have been joined, to form a single continuous S-shaped curve.
+The establishment of the correct spatial relationship between fragments A and B, and of
+the layout of the dials, led to the reconstruction of the display function of the upper back
+dial and the restoration of the train leading to its centre.27 Each rotation of the main
+pointer represents 3.8 years: that is, forty-seven synodic months according to the approxi-
+mation which – as noted above – is built into the central reverted train. Each turn of
+the scale was divided into forty-seven equal parts, and so the full five-turn spiral scale
+represents 235 synodic months, or nineteen years.
+The subsidiary dial appears to have been divided into four quadrants marked with char-
+acters for the numbers nineteen, thirty-eight, fifty-seven and seventy-six. The gear train
+driving its pointer, lost at the upper edge of fragment B, is restored accordingly. The small
+pointer keeps a count of the nineteen-year cycles indicated by the principal display. Each
+full turn of the pointer signifies the passage of seventy-six years: an interval, known as the
+Kallippic Period,28 that was used by astronomers in time-reckoning.29
+This display might have been used in comparing the solar Egyptian calendar, which was
+used by astronomers, and which is engraved on the front dial, with any of the lunar or
+luni-solar calendars otherwise used in Hellenistic society before (and, in some cases, for
+many years following) the introduction of the Julian calendar in 44BC. It also served as a
+counter in establishing the intervals of time between astronomical indications shown on
+the other dials by different settings of the instrument. The latter function, especially,
+makes good sense in relation to the reconstruction of the front dial discussed below. The
+user could move beads along the spiral slot to mark significant calendrical or astronomical
+events. For example, the 235-month scale is long enough to contain rather more than
+one so-called ‘Saros’ eclipse cycle of 223 synodic months.30 Each of the individual
+eclipse-possibilities of the cycle might be marked by the placing of a bead. Reference to the
+223-month cycle, and to the nineteen- and seventy-six-year cycles, is found inscribed on
+one of the fragments of the back ‘door plate’.31
+Price was mistaken in identifying the epicyclic arrangement in the train to the lower
+back dial as a differential gear; in reality it appears to have had only one input, not two,32
+so that the assembly would have served to modify slightly the velocity ratio of the fixed-
+axis section of the train. Its presence raises interesting questions as to both the designer’s
+intention and his design procedure, but any attempt to answer them is frustrated by the
+severe mutilation of most of the wheels. I conjecture that each revolution of the main
+pointer at the centre of the dial was intended to represent one ‘draconitic month’, approxi-
+mately 27¼ days. This is the mean period between successive passages of the Moon past
+either of its nodes, the points at which its apparent path intersects that of the Sun.33
+Eclipses can occur only when the Moon is near a node, and so this display was intended
+for predicting when they might occur. The spiral scale was divided into 218 equal parts,
+54½ approximate half-days per turn. The significance of its four turns is that, by this
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+37
+reckoning, the full scale contains a whole number of days (109). The half-day divisions
+might have been used in attempting to judge whether a predicted eclipse would be visible.
+As on the upper dial, the spiral slot allows the placing of markers at will. The subsidiary
+pointer rotates once in twelve turns of the principal one, moving over a circle marked to
+indicate the passage of four, eight and twelve draconitic months. It enables the user to
+keep count of the turns of the main pointer.
+THE FRONT DIAL
+All the features of the new reconstruction described so far follow from detail found in the
+original fragments; and so too do some elements of the front dial. The concentric mobiles
+in fragment A, the large wheel and central arbor (Fig. 2a), gave motion to pointers showing
+the places of the Sun and Moon on the Zodiac scale of fragment C (Fig. 5a) and the date
+on its calendar scale. To these is added the display of the phase of the Moon, recon-
+structed from the circular component within fragment C (Fig. 5b).34 Beyond this, there is
+clear evidence that the large wheel in fragment A carried epicyclic gearing, indicating that
+the front dial display was more elaborate still. However, this hard evidence cannot be
+explained without some degree of conjectural restoration, and so the further features of
+any reconstruction remain debatable. I have shown that it is possible to reconstruct the
+front dial so as to include indications of the places of all five planets.35 The restored
+epicyclic mechanism serves to model the epicyclic theory that had been introduced into
+Hellenistic astronomy late in the third century BC.
+The possible function of the restored mechanism is limited by its mechanical and astro-
+nomical context. One turn of the wheel represented one year, so the choice is restricted to
+the modelling of phenomena with a tropical period of one year: the observed motion of
+the Sun (as distinct from its mean motion, represented by that of the wheel itself),36 or the
+motion of one of the two ‘inferior’ planets, Mercury and Venus,37 which are always seen
+close to the Sun. A simple epicyclic model of any one of these three functions might
+account for the evidence. However, the wheel representing the epicycle for Venus must be
+large in relation to the platform on which it is mounted, and large forces are generated in
+the associated components. The need to construct the assembly to an adequate scale pro-
+vides a reason for the otherwise unexplained large size of the wheel, which suggests that
+this planet was indeed included. The designer’s interest in Venus is also shown by a frag-
+mentary inscription: ‘. . . tgz aQrodiatgz . . .’, ‘. . . of Venus . . .’.38 Seeing, however, that
+none of the five planets then known was accorded the special status that would justify
+individual treatment to the exclusion of the others, it is improbable that, having adopted a
+mechanical arrangement that could replicate the motion of the planets, the designer would
+have been content to model only one. It seems more likely that he would have been inter-
+ested in repeating the arrangement several times over so as to develop a full and consistent
+display of the motions of all the planets.
+I have accordingly developed a conjectural reconstruction that is more elaborate than
+the physical evidence actually demands, but which is called for, at the very least as an
+exploration of what is possible, by the general character of the instrument, its observed
+detail, and the contemporary interest in models showing the motion of the planets that is
+so clearly expressed by ancient authors. In this reconstruction, the front dial shows the
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+38
+M. T. Wright
+places of all five planets known in antiquity, as well as those of the Sun and Moon; but the
+elaboration is achieved by simple means, using only elements of the mechanical repertoire
+found elsewhere within the extant fragments. Using similar epicyclic mechanism in each
+case, it models the solar and lunar theories of Hipparchos (c. 190 to after 126BC) and the
+planetary theory associated with Apollonios of Perga (fl. c. 230BC).
+As well as providing room to model an epicycle for Venus to a sufficient scale, the large
+wheel can also carry wheels modelling epicycles for Mercury and the Sun, together with the
+trains to drive them; so I restore all three. The angular motion of each celestial body about
+the central axis is described by that of a pin set eccentrically in its epicycle disc. Each pin
+is engaged with a slotted lever fixed to one of a set of nested pipes on the central axis,
+through which its motion is carried up to a pointer on the upper end. A further pointer,
+driven directly from the large wheel, indicates the date.
+A precedent for the use of pin and slotted follower is found elsewhere within the
+original fragments of the Antikythera Mechanism, as noted below. In my present model
+the central pipes are thin-walled tubes (for which those found in the aulos serve as a
+precedent)39 with the levers and pointers soldered on. The pipes are therefore divided,
+with stepped couplings part-way up to transmit torque to the pointers while allowing the
+assembly to be taken apart. These thin-walled tubes are to be replaced by thick-walled
+pipes with the levers and hands fitted on to squares: an arrangement, more closely based
+on details found in the original, which will obviate the need to divide the pipes.
+In order to demonstrate that a consistent level of astronomical sophistication can be
+achieved, the lunar theory of Hipparchos is also modelled. For this a small epicyclic
+platform is fixed to the central arbor, lying within the arbors for the epicycles for the Sun,
+Mercury and Venus.
+The ‘superior’ planets, Mars, Jupiter and Saturn, with their different tropical periods,
+must have their epicycles carried on three separate platforms running at different speeds.
+These are contained in three individual assemblies, contrived in the same style as the rest
+and using the same repertoire of machine elements. They lie one above another, over the
+parts just described and under the dial. The latter must therefore stand high enough above
+the frame plate to make room. This presents no difficulty since there is no join between
+fragments A and C to establish by how far the dial was above the frame plate before the
+original instrument broke up.
+The latch on the surviving piece of the front dial shows that the user was expected to
+gain access to the mechanism beneath, perhaps to set the planetary indications correctly.
+Taking this hint, I arranged the assemblies for the planets so that they may be lifted out of
+the case for resetting. It proved convenient to rely on their fit against the sides of the
+wooden case as a way of aligning them. If the corresponding parts of the original were
+similarly arranged, their loss through the decay of the case during its long immersion is
+easily explained.
+The most obvious way of giving motion to these assemblies for the superior planets is
+to transmit it through a side arbor from the large wheel in fragment A below. I interpret
+two small bars, seen at about the ‘seven o’clock’ position from the centre of the wheel in
+fragment A (Fig. 2a), as provision for the lower bearing of such an arbor, which confirms
+the existence of further mechanism driven in this way. This is, therefore, evidence that
+supports my reconstruction of the instrument as a planetarium.
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+39
+EVIDENCE FOR ALTERATION
+The instrument appears to have been altered after its initial manufacture.40 The most
+obvious of several indicative features is the stepped form of the wooden case (Fig. 1a): a
+design that follows inevitably from the detail of the remaining traces of woodwork but one
+which has the air of having been improvised. It suggests that the front part of the instru-
+ment – comprising the front dial, the internal frame plate and the mechanism between
+them – was designed and built, neatly contained in the smaller part of the case, without the
+present back dial; and that the case was subsequently extended to enclose the back dial.
+One would expect a new dial, made specifically for the instrument, to have been designed
+to fit the dimensions of the existing case. The back dial could not be fitted without altering
+the case and was, therefore, probably made for some other instrument. The Antikythera
+Mechanism as we have it appears to be a ‘marriage’.
+This hypothesis explains some odd internal features, most especially a redundant set of
+gear teeth cut on the edge of the epicyclic platform (Fig. 2b). Certainly some alteration has
+taken place here. The probable count of 223 teeth in this wheel suggests a connection with
+the 223-month eclipse period-relation, and so a possible relevance to the lower back dial
+display. It may be a relic of an earlier gear train, perhaps part of the gearing previously
+fitted behind the back dial in its earlier existence as a separate instrument.
+A further remarkable feature is the arrangement of the two epicyclic wheels planted on
+the large wheel that has just been discussed. These lie face-to-face but turn about separate
+centres, coupled by a pin projecting from the face of the lower wheel into a radial slot
+in the upper one.41 The loss of material due to damage has left the slot in the upper
+wheel open-ended, so that it was wrongly identified by Price as evidence of a repair. The
+ensemble introduces a fluctuation into the velocity-ratio of the train which serves no
+useful purpose in the present context. Its redundancy suggests that this is a further
+element from another mechanism, reused in a way for which it was not originally intended.
+The question arises as to whether the epicyclic platform with the paired wheels planted on
+it once formed an ensemble in some other design, or whether we have here elements taken
+from two separate designs, brought together in the realisation of a third. In any case the
+presence here of the pin-and-slotted-follower ensemble has an immediate significance, in
+providing the necessary precedent for its use with each of the restored epicyclic motions
+under the front dial.
+CONCLUSION
+Apart from its relevance to the reconstruction of the epicyclic assemblies under the front
+dial, the discovery of the kinematic ensemble of driving pin and slotted follower in this
+instrument of the first century BC is an important addition to our knowledge of the history
+of technology. Previously, this combination was thought to appear for the first time in a
+book written in 1204 or 1206.42
+In considering an incomplete historical artefact one should give due weight to a ‘mini-
+mal’ reconstruction: one to which as little as possible is added in accounting for the extant
+evidence. Price’s reconstruction of the Antikythera Mechanism appeared minimal, but it
+is damned by his misinterpretation of the internal arrangement and his imposition of
+wishful-thinking in conflict with observable detail. With our new understanding of the
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+40
+M. T. Wright
+internal mechanical arrangement, of the design and functions of the two back dials,
+of the Moon-phase display, and of the significance of the evidence of further, lost
+epicyclic mechanism under the front dial, we may consider a more satisfactory minimal
+reconstruction.
+In this reconstruction the front dial would offer indications of the places of the Sun and
+Moon and of the day of the year. Thus far, it would resemble Price’s reconstruction, but
+with the addition of the central display showing the phase of the Moon. There would also
+have to be a further complication to account for the lost epicyclic mechanism: either a
+modification of the mean motion of the Sun (probably according to the solar theory of
+Hipparchos), or a display of the motion of one of the inferior planets (probably Venus). If
+no further planets were shown, then some other explanation would have to be found for
+the feature that I interpret as provision for a side arbor to carry motion up to further
+mechanism associated with this dial. The upper back dial would display the relationship
+between synodic months and years and the nineteen- and seventy-six-year cycles connect-
+ing them. According to my conjectural reconstruction the lower back dial would show the
+draconitic month subdivided into half-days, and the spiral slots running along the scales of
+the upper and lower dials would be fitted with moveable markers.
+In a material sense this would be an acceptable minimal reconstruction; but it would
+still offer only rather simple and oddly selective indications, contrasting incongruously
+with the device’s considerable internal complication and the human impulse to make any
+instrument as comprehensive as possible. Moreover (for what it may be worth) no written
+record of just such an instrument is known.
+The literature does, however, bear witness to the making of planetaria, and encourages
+us to interpret the traces of lost mechanism under the front dial accordingly, as parts of a
+planetarium display. Having devised one epicyclic movement, the designer could not have
+overlooked the possibility of repeating it as many times as he wished. I have shown that
+just such a full set of planetarium indications is practicable, and is compatible both with
+the evidence of the original fragments and with what we know of the astronomy of
+the time. Formal uses may be suggested for this more elaborate instrument. The ancient
+literary accounts assembled by Price suggest use for philosophical study, educational
+demonstration, intellectual entertainment, and the prediction of notable astronomical
+events such as eclipses. Another use is suggested by the rise in interest in personal
+horoscopy during the first century BC.43 In order to cast an individual’s horoscope the
+astrologer had to know the places of the Sun, Moon and all the planets at the moment of
+birth. Archaeological evidence, comprising many such listings on slips of papyrus, suggests
+that this data was commonly derived from written tables. It is however reasonable to
+suppose that a planetarium instrument might have been used instead, if it were available.
+In any case, the evident enthusiasm of a variety of present-day spectators to whom I have
+demonstrated my model, echoing that of Cicero in the first century BC, shows that the
+instrument’s value as an intellectual entertainment alone probably provided a sufficient
+incentive for its design and construction.
+Price encouraged us to think of the Antikythera Mechanism, and the astronomical
+instruments alluded to in literature, in the same context. We may now go further. The
+sophistication of what survives of the Antikythera Mechanism, and the facility with which
+an extended reconstruction of it as a planetarium may be devised and made to work, sug-
+gests that it was indeed a planetarium. By the same token, the instruments to which ancient
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+41
+authors refer, in a manner suggesting that they were well known to their readership, might
+have approached the Antikythera Mechanism in their degree of mechanical complexity:
+ancient planetaria were probably neither as rare nor as naive as many scholars have
+supposed. If the Antikythera Mechanism is a solitary surviving example of the genre, that
+is because it alone chanced to be lost in antiquity out of reach of the scrap-metal man,
+to be discovered and recognised in modern times. The uniqueness of its survival is not
+evidence of its uniqueness in the milieu in which it was designed and made. Moreover, the
+fact that this instrument has been altered, and is the outcome of the marriage of pre-
+existing instruments, provides evidence that it comes from a workshop tradition within
+which a range of comparable instruments was made. Our perception of Hellenistic culture
+must encompass both the degree of technical attainment to which the Antikythera Mecha-
+nism bears witness, and the fact that affluent members of society must have been willing
+to patronise workshops which could make such things. That enlarged historical perception
+is even more valuable to us than the specific detail of this one surviving instrument.
+ACKNOWLEDGEMENTS
+I have received particular encouragement during the writing of this paper from Dr J. V.
+Field, Miss A. S. Hobbs and Professor F. A. J. L. James. All three have read drafts of my
+text and made many invaluable suggestions. I alone, however, am responsible for whatever
+shortcomings may remain.
+BIBLIOGRAPHY
+My previous papers on this subject, to date, are listed here in order of publication. Within
+the notes to the present paper reference is made to them thus: MTW I, etc.
+I.
+M. T. Wright, A. G. Bromley and H. Magou: ‘Simple X-ray tomography and the
+Antikythera Mechanism’, PACT (Journal of the European Study Group on Physical,
+Chemical, Biological and Mathematical Techniques Applied to Archaeology), 1995, 45,
+531–543.
+II.
+M. T. Wright and A. G. Bromley: ‘Current work on the Antikythera Mechanism’,
+Proc. Conf. on Ancient Greek Technology, Thessaloniki, Greece, September 1997,
+19–25.
+III.
+M. T. Wright: ‘A planetarium display for the Antikythera Mechanism’, Horological
+Journal, 2002, 144, 169–173 and 193.
+IV.
+M. T. Wright and A. G. Bromley: ‘Towards a new reconstruction of the Antikythera
+Mechanism’, in Extraordinary Machines and Structures in Antiquity, (ed. S.A. Paipetis),
+81–94; 2003, Patras, Peri Technon.
+V.
+M. T. Wright: ‘In the steps of the master mechanic’, Proc. Conf. on Ancient Greece
+and the Modern World, University of Patras, Greece, 2003, 86–97.
+VI.
+M. T. Wright: ‘Epicyclic gearing and the Antikythera Mechanism, part 1’, Anti-
+quarian Horology, 2003, 27, 270–279.
+VII.
+M. T. Wright: ‘The scholar, the mechanic and the Antikythera Mechanism’, Bulletin
+of the Scientific Instrument Society, 2004, (80), 4–11.
+VIII. M. T. Wright: ‘The Antikythera Mechanism: a new gearing scheme’, Bulletin of the
+Scientific Instrument Society, 2005, (85), 2–7.
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+42
+M. T. Wright
+IX.
+M. T. Wright: ‘Epicyclic gearing and the Antikythera Mechanism, part 2’, Anti-
+quarian Horology, 2005, 29, 51–63.
+X.
+M. T. Wright: ‘Counting months and years: the upper back dial of the Antikythera
+Mechanism’, Bulletin of the Scientific Instrument Society, 2005, (87), 8–13.
+XI.
+M. T. Wright: ‘The Antikythera Mechanism and the early history of the Moon phase
+display’, Antiquarian Horology, 2006, 29, 319–329.
+XII.
+M. T. Wright: ‘Understanding the Antikythera Mechanism’, Proc. Conf. on Ancient
+Greek Technology, TEE Athens, Greece, 2006, 49–60.
+NOTES
+1. The authors of one compilation offer dates in the range c. 80–50BC, based on the study of various items
+of cargo (G. D. Weinberg (ed.): ‘The Antikythera shipwreck reconsidered’, Transactions of the American
+Philosophical Society, 1965, 55, 3). Bol suggests a date within the decade 100–90BC for the marble sculptures
+(P. C. Bol: Die Skulpturen des Schiffsfundes von Antikythera; 1972, Berlin, Gebr. Mann Verlag). Silver coins
+originating from Pergamon, recovered more recently by Jacques Cousteau, are dated to 86BC (The Cousteau
+Odyssey: Diving for Roman Plunder, Warner Brothers Home Video PES34045, 1976).
+2. I. N. Svoronos: The National Museum in Athens; 1903, Athens (in Greek); subsequently published in
+German as J. N. Svoronos: Das Athener Nationalmuseum; 1908, Athens, Beck & Barth.
+3. D. J. de S. Price: ‘Gears from the Greeks’, Transactions of the American Philosophical Society, 1974, 64, 7;
+reprinted as D. J. de S. Price: Gears from the Greeks; 1975, New York, NY, Science History Publications.
+4. Price mentioned the possibility that the instrument might have been driven by a water-clock or other
+self-moving device, but preferred the more sober suggestion that it was worked by hand.
+5. The synodic month is the period from New Moon to New Moon.
+6. MTW II. (Citations in this form refer to my previous papers on this subject, collected in a numbered
+sequence in the Bibliography above.)
+7. For example, see the review of Price’s paper, R. Mercier: ‘The Antikythera Mechanism’, Journal for the
+History of Astronomy, 1977, 8, 143–145; and the obituary of Price by G. L’E. Turner: Annals of Science, 1984,
+41, 105–107.
+8. J. V. Field and M. T. Wright: ‘Gears from the Byzantines: a portable sundial with calendrical gearing’,
+Annals of Science, 1985, 42, 87–138.
+9. Allan George Bromley, 1947–2002, latterly Associate Professor, Basser Department of Computer Science,
+University of Sydney, Australia.
+10. Our first findings were published as A. G. Bromley: ‘Observations of the Antikythera Mechanism’,
+Antiquarian Horology, 1990, 18, 641–652. A full account of the rest of this material by the present author is
+currently in preparation.
+11. MTW I.
+12. Resolution in depth is now achieved more conveniently, although at much higher cost, by using
+computer-aided tomography (CAT), and the resulting images are easier for the untrained observer to
+comprehend; but such apparatus was then a novelty and its use was not available to us.
+13. See www.antikythera-mechanism.gr.
+14. For the method of estimating the numbers of teeth, see MTW VII. The results of the survey are reported
+in MTW VIII.
+15. Arbor denotes a rotating member to which wheels, etc. are fixed. The more familiar near-synonyms, axle,
+shaft and spindle, connote to the mechanic the bearing of a load, a heavy component and rapid rotation,
+respectively.
+16. The Egyptian calendar, favoured by astronomers because it was more stable and predictable than the
+lunar and luni-solar calendars otherwise used in the Greek-speaking world, comprised a year of 365 days
+divided into twelve months of thirty days each and a group of five ‘epagomenal’ (extra) days.
+17. A contrate wheel is a gear wheel with the teeth projecting axially from one face.
+18. Its correct interpretation is discussed in MTW XI.
+19. The epigraphist’s report is still awaited.
+20. A reverted train is turned back so that its ends connect concentric mobiles. The commonest example is
+the set of gears connecting the hour and minute hands of a conventional clock or watch dial.
+INTERDISCIPLINARY SCIENCE REVIEWS, 2007, VOL. 32, NO. 1
+The Antikythera Mechanism reconsidered
+43
+21. This period-relation, commonly associated in modern literature with the Greek astronomer Meton
+(fl. 432BC), was widely known in antiquity (O. Neugebauer: A History of Ancient Mathematical Astronomy;
+1975, Berlin, Springer).
+22. MTW II.
+23. Within his 1974 paper (see Note 3), Price contradicted himself on this point.
+24. I have so far had no access to the recently found fragment F.
+25. D. J. de S. Price: ‘Gears from the Greeks’, pp. 46ff (see Note 3).
+26. For analysis of the sections of dial in fragments A and B, see MTW VII.
+27. MTW X.
+28. Kallippos was interested in the commensurability of year, synodic month, and day, and pointed out that,
+to a good approximation, seventy-six years equals 940 synodic months or 27 759 days (O. Neugebauer:
+A History of Ancient Mathematical Astronomy (see Note 21)).
+29. The subsequent use of the Kallippic Period of seventy-six years as a convenient measure of time is found
+in The Almagest, Book III (passim). See G. J. Toomer: Ptolemy’s Almagest; 1984, London, Duckworth.
+30. Saros, a misnomer originated by Edmund Halley, is the common modern term for the cycle of 223
+synodic months, widely recognised in antiquity, after which the pattern of eclipses repeats with few
+variations.
+31. D. J. de S. Price: ‘Gears from the Greeks’, Figs. 36, 39a and 39b, and p. 50 (see Note 3). From my own
+inspection of the original, I do not share Price’s doubt in reading the number 223.
+32. For discussion of the lower back dial and the train serving it, see MTW VI and MTW IX.
+33. The plane of the Moon’s orbit changes continually so that the nodes, defined by its line of intersection
+with the Ecliptic, move round slowly in relation to the background of stars in a direction opposite to that
+in which the Moon moves. Consequently the draconitic month is short.
+34. MTW XI.
+35. The reconstruction is developed in MTW IV and MTW V. A first attempt at modelling the planetarium
+display is discussed and illustrated in MTW III.
+36. Since the Earth’s orbit is elliptical, and its angular velocity about the Sun is subject to Kepler’s Area Law,
+the apparent motion of the Sun in relation to the stars is not uniform through the year.
+37. In the geocentric system a planet is termed inferior or superior depending on whether it is supposed to lie
+below or above the Sun. From the heliocentric standpoint, the inferior planets lie within the Earth’s orbit
+while the superior planets lie outside it. In contrast to the observed behaviour of the inferior planets, the
+superior planets may be seen at any angular separation from the Sun.
+38. D. J. de S. Price: ‘Gears from the Greeks’, pp. 47 (Fig. 36) and 50 (see Note 3).
+39. The aulos was a common ancient reed instrument. Its body was regularly made of lengths of hollow
+bone fitted within a thin-walled bronze tube. In some elaborate models there were outer bronze sleeves
+controlling side-holes, which had therefore to move on the inner sleeve but still make an airtight joint.
+40. A first discussion of the evidence for alteration may be found in MTW XII. The question is pursued
+further in another paper, now in preparation.
+41. This feature is discussed and illustrated in MTW VII and again in MTW IX.
+42. Ibn al-Razzaz al-Jazari: The Book of Knowledge of Ingenious Mechanical Devices, (trans. D. R. Hill); 1974,
+Dordrecht, Reidel.
+43. A. Jones: Astronomical Papyri from Oxyrhynchus; 1999, Philadelphia, PA, American Philosophical Society.
+Michael Wright (m.t.wright@imperial.ac.uk) worked at the Science Museum, London, from 1971 until 2004,
+where he was Curator of Mechanical Engineering from 1985. There he specialised in the history of mechanism
+and of craft tools and techniques, and developed a forensic approach to the study of artefacts. He is now an
+Honorary Research Associate at the Centre for the History of Science, Technology and Medicine at Imperial
+College London. His current interests are diverse, but centre on the study of mechanical technology and craft
+technique as exemplified by artefacts of all periods from antiquity to early modern times, especially horological
+and scientific instruments.
