@@ -87,19 +87,51 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 6
 
-It came to pass when the children of men had multiplied in those days that beautiful and comely daughters were born unto them. The angels, the sons of the heavens, saw, and lusted after them, spoke to one another: —Come, now let us choose us wives from among the children of men, and beget children. Semjaza who was their leader spoke unto them: —I fear you will not indeed agree to do this deed, and then I alone shall have to pay the penalty of a great sin. Then answered all unto him, and spoke: —Let us all swear an oath, and bind ourselves by mutual imprecations, not to abandon this plan, but to carry it into execution. Then they swore all together, and bound themselves by mutual imprecations to its fulfilment. They were in all two hundred. They descended in the days of Jared on the summit of Mount Hermon, and they called it Mount Hermon, because they had sworn, and bound themselves by mutual imprecations upon it. These are the names of their leaders: Semjaza, their leader, Urakibarameel, Kokabiel, Tamiel, Ramuel, Danel, Zaqilo, Saraqujal, Asael, Armaros, Batraal, Anani, Zaqebe, Samsaveel, Sartael, Turel, Jomjael, Arazjal. These are their chiefs of tens, and all the others were with them.
+**1.** It came to pass when the children of men had multiplied in those days that beautiful and comely daughters were born unto them.
+
+**2.** The angels, the sons of the heavens, saw, and lusted after them, spoke to one another: —Come, now let us choose us wives from among the children of men, and beget children.
+
+**3.** Semjaza who was their leader spoke unto them: —I fear you will not indeed agree to do this deed, and then I alone shall have to pay the penalty of a great sin.
+
+**4.** Then answered all unto him, and spoke: —Let us all swear an oath, and bind ourselves by mutual imprecations, not to abandon this plan, but to carry it into execution.
+
+**5.** Then they swore all together, and bound themselves by mutual imprecations to its fulfilment. They were in all two hundred.
+
+**6.** They descended in the days of Jared on the summit of Mount Hermon, and they called it Mount Hermon, because they had sworn, and bound themselves by mutual imprecations upon it.
+
+**7.** These are the names of their leaders: Semjaza, their leader, Urakibarameel, Kokabiel, Tamiel, Ramuel, Danel, Zaqilo, Saraqujal, Asael, Armaros, Batraal, Anani, Zaqebe, Samsaveel, Sartael, Turel, Jomjael, Arazjal.
+
+**8.** These are their chiefs of tens, and all the others were with them.
 
 ---
 
 ## Chapter 7
 
-They took unto themselves wives, and each chose for himself one, and they began to go in unto them, and they mixed with them, and taught them charms, and enchantments, and made them acquainted with the cutting of roots, and of woods. They became pregnant, and they bare great giants, whose height was three thousand ells. These consumed all the acquisitions of men until men could no longer sustain them. Then the giants turned them against mankind in order to devour them. They began to sin against birds, and beasts, and reptiles, and fish, and to devour one another’s flesh, and drink the blood thereof. Then the earth complained of the unrighteous ones.
+**1.** They took unto themselves wives, and each chose for himself one, and they began to go in unto them, and they mixed with them, and taught them charms, and enchantments, and made them acquainted with the cutting of roots, and of woods.
+
+**2.** They became pregnant, and they bare great giants, whose height was three thousand ells.
+
+**3.** These consumed all the acquisitions of men until men could no longer sustain them.
+
+**4.** Then the giants turned them against mankind in order to devour them.
+
+**5.** They began to sin against birds, and beasts, and reptiles, and fish, and to devour one another’s flesh, and drink the blood thereof.
+
+**6.** Then the earth complained of the unrighteous ones.
 
 ---
 
 ## Chapter 8
 
-Azazel taught men to make swords, and knives, and shields, and coats of mail, and made known to them metals, and the are of working them, bracelets, and ornaments, and the use of antimony, and the beautifying of the eyebrows, and the most costly, and choicest stones, and all colouring tinctures, so that the world was changed. There arose great godlessness, and much fornication, and they sinned, and all their ways became corrupt. Amezarak taught all the enchanters, and root cutters, Armaros the resolving of enchantments, Baraqal taught the astrologers, Kokabel the signs, and Temel taught astrology, and Asradel the course of the moon. As men perished, they cried, and their voice went up to heaven.
+**[1.]** Azazel taught men to make swords, and knives, and shields, and coats of mail, and made known to them metals, and the are of working them, bracelets, and ornaments, and the use of antimony, and the beautifying of the eyebrows, and the most costly, and choicest stones, and all colouring tinctures, so that the world was changed.
+
+**[2.]** There arose great godlessness, and much fornication, and they sinned, and all their ways became corrupt.
+
+**[3.]** Amezarak taught all the enchanters, and root cutters, Armaros the resolving of enchantments, Baraqal taught the astrologers, Kokabel the signs, and Temel taught astrology, and Asradel the course of the moon.
+
+**4.** As men perished, they cried, and their voice went up to heaven.
+
+> **Editorial note:** The 1893 Charles edition brackets verses 1–3 as an interpolation. The square brackets around the verse numbers here record that structural feature; they are not added to the source wording.
 
 ---
 
