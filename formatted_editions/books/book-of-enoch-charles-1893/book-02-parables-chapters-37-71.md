@@ -1,6 +1,6 @@
 # The Book of Enoch — Book 2: The Parables
 
-> 1 Enoch, chapters 37–71
+> 1 Enoch, chapters 37–70; compilation section 71 retained separately below
 
 ## Edition record
 
@@ -9,11 +9,11 @@
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
 - **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
-- **Status:** Chapter coverage transferred; verse structure and textual collation outstanding
+- **Status:** Verse structure restored for Chapters XXXVII–LXX; Chapter 71 retained as a source-only supplementary section; facsimile collation and source-lineage identification outstanding
 
 ## Editorial statement
 
-The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapter headings are retained; verse numbering and boundaries remain to be restored from the printed edition.
+The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapters XXXVII–LXX now use verse boundaries and numbering from the 1893 printing as a structural reference. The original repository wording is retained. The compilation's Chapter 71 is separated below because it does not appear in the Charles 1893 reference edition.
 
 The combined source also interleaves chapters from the separate Slavonic `Book of the Secrets of Enoch` (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
 
@@ -758,8 +758,8 @@ After this it came to pass that my spirit was hidden, and it ascended into the h
 
 ## Bibliographic reference
 
-R. H. Charles, trans. and ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
+**Supplied text:** `books_02/The Book of Enoch.txt`, a combined repository transcription whose introductory attribution names R. H. Charles / Professor Dillmann (1893). Direct comparison shows that the wording is not verbatim Charles 1893.
 
-**Repository transcription:** `books_02/The Book of Enoch.txt`.
+**Structural reference:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893), used for chapter/verse boundaries and interpolation markers only.
 
-**Verification needed:** Compare each chapter with a facsimile of the 1893 edition. This is a formatting draft, not a critical edition or a verified transcription.
+**Verification status:** Chapters XXXVII–LXX were checked for verse structure and their text was compared with the selected repository source; all 34 chapter bodies match after removal of editorial markup. The source wording has not been collated line by line against the 1893 text.
