@@ -213,19 +213,49 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 11
 
-In those days I will open the store chambers of blessing which are in the heaven, so as to send them down upon the earth over the work, and labour of the children of men. Peace and justice will be wedded throughout all the days of the world, and throughout all the generations of the world.
+**1.** In those days I will open the store chambers of blessing which are in the heaven, so as to send them down upon the earth over the work, and labour of the children of men.
+
+**2.** Peace and justice will be wedded throughout all the days of the world, and throughout all the generations of the world.
 
 ---
 
 ## Chapter 12
 
-Before all these things fell out, Enoch was hidden and no one of the children of men knew where he was hidden, and where he abode, and what had become of him. All his activities had to do with the holy ones, and with the watchers in his days. I Enoch, was blessing the great Lord, and the king of the world, when lo! The watchers called me Enoch, the scribe, and spoke to me. Enoch you scribe of righteousness, go, announce to the watchers of the heaven who have abandoned the high heaven, and the holy eternal place, and have defiled themselves with women, and have done as the children of men do, and have taken unto themselves wives, and have grossly defiled themselves on the earth. They will have no peace on the earth nor forgiveness of sin:, and inasmuch as they delight themselves in their children, the murder of their beloved ones they shall see, and over the destruction of their children will they lament, and will make supplication unto eternity, but mercy, and peace will they not attain.
+**1.** Before all these things fell out, Enoch was hidden and no one of the children of men knew where he was hidden, and where he abode, and what had become of him.
+
+**2.** All his activities had to do with the holy ones, and with the watchers in his days.
+
+**3.** I Enoch, was blessing the great Lord, and the king of the world, when lo! The watchers called me Enoch, the scribe, and spoke to me.
+
+**4.** Enoch you scribe of righteousness, go, announce to the watchers of the heaven who have abandoned the high heaven, and the holy eternal place, and have defiled themselves with women, and have done as the children of men do, and have taken unto themselves wives, and have grossly defiled themselves on the earth.
+
+**5.** They will have no peace on the earth nor forgiveness of sin, and inasmuch as they delight themselves in their children,
+
+**6.** the murder of their beloved ones they shall see, and over the destruction of their children will they lament, and will make supplication unto eternity, but mercy, and peace will they not attain.
 
 ---
 
 ## Chapter 13
 
-Enoch went and said: —Azazel. You shall find no peace. A severe sentence has gone forth against you. Rufael shall put you in bonds. Alleviation, intercession, and mercy will not be accorded to you, because of the oppression which you have taught, because of all the works of blasphemy, oppression, and sin which you have shown to the children of men. Then proceeding farther, I spoke to them all together, and they were all afraid, and were seized with fear, and trembling. They besought me to draw up a petition for them that they might find forgiveness, and to take their petition into the presence of God in heaven. For from thenceforward they could not speak nor lift up their eyes to heaven for shame of their sins for which they were punished. Then I composed their petition, and the prayer on behalf of their spirit, for their individual deeds for which they besought forgiveness, and forbearance. I went off, and sat down at the waters of Dan, in Dan, to the right of the west of Hermon; I read their petition until I fell asleep. Behold a dream visited me, and visions fell down upon me. I saw the vision of a chastisement to the intent that I should recount it to the sons of the heaven to reprimand them. When I awaked, I came to them, and they were all sitting together weeping with their faces covered at Ublesjael, which is between Lebanon, and Senecer. I recounted to them all the visions which I had seen in my sleep, and I began to recount those words of righteousness, and to reprimand the heavenly watchers.
+**1.** Enoch went and said: —Azazel. You shall find no peace. A severe sentence has gone forth against you. Rufael shall put you in bonds.
+
+**2.** Alleviation, intercession, and mercy will not be accorded to you, because of the oppression which you have taught, because of all the works of blasphemy, oppression, and sin which you have shown to the children of men.
+
+**3.** Then proceeding farther, I spoke to them all together, and they were all afraid, and were seized with fear, and trembling.
+
+**4.** They besought me to draw up a petition for them that they might find forgiveness, and to take their petition into the presence of God in heaven.
+
+**5.** For from thenceforward they could not speak nor lift up their eyes to heaven for shame of their sins for which they were punished.
+
+**6.** Then I composed their petition, and the prayer on behalf of their spirit, for their individual deeds for which they besought forgiveness, and forbearance.
+
+**7.** I went off, and sat down at the waters of Dan, in Dan, to the right of the west of Hermon; I read their petition until I fell asleep.
+
+**8.** Behold a dream visited me, and visions fell down upon me. I saw the vision of a chastisement to the intent that I should recount it to the sons of the heaven to reprimand them.
+
+**9.** When I awaked, I came to them, and they were all sitting together weeping with their faces covered at Ublesjael, which is between Lebanon, and Senecer.
+
+**10.** I recounted to them all the visions which I had seen in my sleep, and I began to recount those words of righteousness, and to reprimand the heavenly watchers.
 
 ---
 
