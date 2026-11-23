@@ -21,89 +21,245 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 ## Chapter 37
 
-The second vision of wisdom. The vision which saw Enoch, the son of Jared saw, son of Mahalalel, son of Cainan, son of Enos, son of Seth, son of Adam. This is the beginning, of the words of wisdom which I lifted up my voice to declare, and recount to those which dwell on earth: hear, you men of old time, and see, you that come after, the holy words which I will speak before the Lord of Spirits. It were better to declare to those men of old time, but even from those that come after, we will not withhold the beginning of wisdom. Until the present day the Lord of Spirits has never given such wisdom as I have received, according to my insight, according to the good pleasure of the Lord of Spirits, by whom the lot of eternal life has been given to me. Three Parables were imparted to me. I lifted up my voice and recounted them to those that dwell on the earth.
+**1.** The second vision of wisdom. The vision which saw Enoch, the son of Jared saw, son of Mahalalel, son of Cainan, son of Enos, son of Seth, son of Adam.
 
-First parable.
+**2.** This is the beginning, of the words of wisdom which I lifted up my voice to declare, and recount to those which dwell on earth: hear, you men of old time, and see, you that come after, the holy words which I will speak before the Lord of Spirits.
+
+**3.** It were better to declare to those men of old time, but even from those that come after, we will not withhold the beginning of wisdom.
+
+**4.** Until the present day the Lord of Spirits has never given such wisdom as I have received, according to my insight, according to the good pleasure of the Lord of Spirits, by whom the lot of eternal life has been given to me.
+
+**5.** Three Parables were imparted to me. I lifted up my voice and recounted them to those that dwell on the earth.
+
+*First parable.*
 
 ---
 
 ## Chapter 38
 
-When the congregation of the righteous will appear, sinners are judged for their sins and driven from the face of the earth. When the Righteous One shall appear before the eyes of the elect righteous, whose works are wrought in dependence on the Lord of Spirits, light will appear to the righteous and the elect who dwell on the earth, where then will be the dwelling of the sinners, where the resting place of those who have denied the Lord of Spirits? It had been good for them if they had not been born. When the secrets of the righteous shall be revealed, then will the sinners be judged and the godless driven from the presence of the righteous, and elect. From that time those who possess the earth will no longer be powerful, and exalted, and they will not be able to behold the face of the holy, for the light of the Lord of Spirits is seen on the face of the holy, and righteous and elect. Then the kings, and the mighty perish, will be given into the hand of the righteous and holy. Thenceforward none will seek for mercy for them with the Lord of Spirits, for their life is at an end.
+**1.** When the congregation of the righteous will appear, sinners are judged for their sins and driven from the face of the earth.
+
+**2.** When the Righteous One shall appear before the eyes of the elect righteous, whose works are wrought in dependence on the Lord of Spirits, light will appear to the righteous and the elect who dwell on the earth, where then will be the dwelling of the sinners, where the resting place of those who have denied the Lord of Spirits? It had been good for them if they had not been born.
+
+**3.** When the secrets of the righteous shall be revealed, then will the sinners be judged and the godless driven from the presence of the righteous, and elect.
+
+**4.** From that time those who possess the earth will no longer be powerful, and exalted, and they will not be able to behold the face of the holy, for the light of the Lord of Spirits is seen on the face of the holy, and righteous and elect.
+
+**5.** Then the kings, and the mighty perish, will be given into the hand of the righteous and holy.
+
+**6.** Thenceforward none will seek for mercy for them with the Lord of Spirits, for their life is at an end.
 
 ---
 
 ## Chapter 39
 
-It will come to pass in those days that elect, and holy children of the high heaven will descend, and their seed will become one with the children of men. In those days, Enoch, received books of zeal, and wrath, and books of disquiet, and expulsion, , and f mercy will not be accorded to them say the Lord of Spirits. In those days a cloud, and a whirlwind carried me off from the earth, and set me down at the end of the heavens. Here I saw another vision, the mansions of the holy and the resting places of the righteous. Here mine eyes saw their dwellings with His righteous angels, and their resting places with the holy, and they petitioned and interceded, and prayed for the children of men; righteousness flowed before them as water, and mercy like dew upon the earth so it is they fare for ever and ever. In that place mine eyes saw the Elect One of righteousness, and of faith, and how righteousness shall prevail in his days, and the righteous and elect shall be without number before him for ever and ever. I saw his dwelling place under the wings of the Lord of Spirits, and all the righteous and elect before him are beautifully resplendent as lights of fire, and their mouth is full of blessing; their lips extol the name of the Lord of Spirits and righteousness before Him never fail, and uprightness never fails before Him. Here I wished to dwell, and my soul longed for that dwelling place: here already heretofore had been my portion, for so has it been established concerning me, before the Lord of Spirits. In those days, I lauded and extolled the name of the Lord of Spirits with blessings, and praises, because He has destined for me blessing and glory, according to the good pleasure of the Lord of Spirits. For a long time my eyes regarded that place, and I blessed Him and extolled Him, saying: Blessed be, and may He be blessed from the beginning for evermore. Before Him there is no ceasing. He knows what the world is before it is created, and generation unto generation that shall arise: Those who sleep not bless you: they stand before your glory, and bless, laud, and extol, saying: —Holy, holy, holy, is the Lord of Spirits: He fills the earth with spirits. Here my eyes saw all those who sleep not, how they stand before Him, bless and say: —Blessed be you, and blessed be the name of the Lord for ever and ever. My face was changed until I could no longer see.
+**[1.]** It will come to pass in those days that elect, and holy children of the high heaven will descend, and their seed will become one with the children of men.
+
+**[2.]** In those days, Enoch, received books of zeal, and wrath, and books of disquiet, and expulsion, , and f mercy will not be accorded to them say the Lord of Spirits.
+
+**3.** In those days a cloud, and a whirlwind carried me off from the earth, and set me down at the end of the heavens.
+
+**4.** Here I saw another vision, the mansions of the holy and the resting places of the righteous.
+
+**5.** Here mine eyes saw their dwellings with His righteous angels, and their resting places with the holy, and they petitioned and interceded, and prayed for the children of men; righteousness flowed before them as water, and mercy like dew upon the earth so it is they fare for ever and ever.
+
+**6.** In that place mine eyes saw the Elect One of righteousness, and of faith, and how righteousness shall prevail in his days, and the righteous and elect shall be without number before him for ever and ever.
+
+**7.** I saw his dwelling place under the wings of the Lord of Spirits, and all the righteous and elect before him are beautifully resplendent as lights of fire, and their mouth is full of blessing; their lips extol the name of the Lord of Spirits and righteousness before Him never fail, and uprightness never fails before Him.
+
+**8.** Here I wished to dwell, and my soul longed for that dwelling place: here already heretofore had been my portion, for so has it been established concerning me, before the Lord of Spirits.
+
+**9.** In those days, I lauded and extolled the name of the Lord of Spirits with blessings, and praises, because He has destined for me blessing and glory, according to the good pleasure of the Lord of Spirits.
+
+**10.** For a long time my eyes regarded that place, and I blessed Him and extolled Him, saying: Blessed be, and may He be blessed from the beginning for evermore.
+
+**11.** Before Him there is no ceasing. He knows what the world is before it is created, and generation unto generation that shall arise:
+
+**12.** Those who sleep not bless you: they stand before your glory, and bless, laud, and extol, saying: —Holy, holy, holy, is the Lord of Spirits: He fills the earth with spirits.
+
+**13.** Here my eyes saw all those who sleep not, how they stand before Him, bless and say: —Blessed be you, and blessed be the name of the Lord for ever and ever.
+
+**14.** My face was changed until I could no longer see.
 
 ---
 
 ## Chapter 40
 
-After that, I saw thousands of thousands, and ten thousand times ten thousand, a multitude beyond number and reckoning, who stood before the Lord of Spirits. I looked, and on the four sides of the Lord of Spirits I saw four presences, different from those that sleep not, and I learnt their names, for the angel that came with me made known to me their names, and showed me all the hidden things. I heard the voice of those four presences as they gave glory before the Lord of Glory. The first voice blesses the Lord of Spirits for ever and ever. The second voice I heard blessing the Elect One; the elect ones who cleave to the Lord of Spirits. The third voice I heard pray and intercede for those who dwell on the earth and supplicate in the name of the Lord of Spirits. I heard the fourth voice fending off the Satans and forbidding them to appear before the Lord of Spirits to accuse them who dwell on the earth. After that I asked the angel of peace who went with me, who showed me everything that is hidden: Who are these four presences which I have seen, and whose words I have heard, and written down? He said to me: — This first is Michael the merciful and long suffering: The second who is set over all the diseases and the wounds of the children of men, is Rufael: The third who is set over all the powers, is Gabriel: , The fourth who is set over the repentance, and hope of those who inherit eternal life, is named Fanuel. These are the four angels of the Lord of Spirits and the four voices I heard in those days.
+**1.** After that, I saw thousands of thousands, and ten thousand times ten thousand, a multitude beyond number and reckoning, who stood before the Lord of Spirits.
+
+**2.** I looked, and on the four sides of the Lord of Spirits I saw four presences, different from those that sleep not, and I learnt their names, for the angel that came with me made known to me their names, and showed me all the hidden things.
+
+**3.** I heard the voice of those four presences as they gave glory before the Lord of Glory.
+
+**4.** The first voice blesses the Lord of Spirits for ever and ever.
+
+**5.** The second voice I heard blessing the Elect One; the elect ones who cleave to the Lord of Spirits.
+
+**6.** The third voice I heard pray and intercede for those who dwell on the earth and supplicate in the name of the Lord of Spirits.
+
+**7.** I heard the fourth voice fending off the Satans and forbidding them to appear before the Lord of Spirits to accuse them who dwell on the earth.
+
+**8.** After that I asked the angel of peace who went with me, who showed me everything that is hidden: Who are these four presences which I have seen, and whose words I have heard, and written down?
+
+**9.** He said to me: — This first is Michael the merciful and long suffering: The second who is set over all the diseases and the wounds of the children of men, is Rufael: The third who is set over all the powers, is Gabriel: , The fourth who is set over the repentance, and hope of those who inherit eternal life, is named Fanuel.
+
+**10.** These are the four angels of the Lord of Spirits and the four voices I heard in those days.
 
 ---
 
 ## Chapter 41
 
-After that I saw all the secrets of the heavens: how the kingdom is divided, how the actions of men are weighed upon the balance. There saw I the mansions of the elect, and the mansions of the holy, and mine eyes saw there all the sinners being driven from thence which had denied the name of the Lord of Spirits, and being dragged off:, they could not abide there because of the punishment which proceeds from the Lord of Spirits. There mine eyes saw the secrets of the lightning and of the thunder, and the secrets of the winds, how they are divided to blow over the earth, and the secrets of the clouds and dew:, there I saw from whence they proceed in that place, and from whence they saturate the dust of the earth. There I saw closed chambers out of which the winds are apportioned, and the chamber of the hail and winds, and the chamber of the mist and the cloud thereof hovers over the earth from before eternity. I saw the chambers of the sun and moon whence they proceed, where they come again, their glorious return, how one is superior to the other, and their stately orbit, how they do not leave their orbit, and they add nothing to their orbit, and they take nothing from it, and they keep faith with each other, abiding by the oath. First the sun goes forth, and traverses his path according to the commandment of the Lord of Spirits and mighty is His name for ever and ever. After that comes the hidden and the visible path of the moon traversing the orbit of her path in that place, by day and by night, the one holding a position opposite to the other before the Lord of Spirits. And they give thanks and praise, and rest not; for to them their thanksgiving is rest. For the sun changes oft for a blessing or a curse, and the course of the path of the moon is light to the righteous and darkness to the sinners in the name of the Lord, who made a separation between the light and the darkness, and divided the spirits of men, and strengthens the spirits of the righteous in the name of His righteousness. For neither angel nor power is able to prevent; for He appoints a judge for them all and he judges them all before Him.
+**1.** After that I saw all the secrets of the heavens: how the kingdom is divided, how the actions of men are weighed upon the balance.
+
+**2.** There saw I the mansions of the elect, and the mansions of the holy, and mine eyes saw there all the sinners being driven from thence which had denied the name of the Lord of Spirits, and being dragged off:, they could not abide there because of the punishment which proceeds from the Lord of Spirits.
+
+**[3.]** There mine eyes saw the secrets of the lightning and of the thunder, and the secrets of the winds, how they are divided to blow over the earth, and the secrets of the clouds and dew:, there I saw from whence they proceed in that place, and from whence they saturate the dust of the earth.
+
+**[4.]** There I saw closed chambers out of which the winds are apportioned, and the chamber of the hail and winds, and the chamber of the mist and the cloud thereof hovers over the earth from before eternity.
+
+**[5.]** I saw the chambers of the sun and moon whence they proceed, where they come again, their glorious return, how one is superior to the other, and their stately orbit, how they do not leave their orbit, and they add nothing to their orbit, and they take nothing from it, and they keep faith with each other, abiding by the oath.
+
+**[6.]** First the sun goes forth, and traverses his path according to the commandment of the Lord of Spirits and mighty is His name for ever and ever.
+
+**[7.]** After that comes the hidden and the visible path of the moon traversing the orbit of her path in that place, by day and by night, the one holding a position opposite to the other before the Lord of Spirits. And they give thanks and praise, and rest not; for to them their thanksgiving is rest.
+
+**[8.]** For the sun changes oft for a blessing or a curse, and the course of the path of the moon is light to the righteous and darkness to the sinners in the name of the Lord, who made a separation between the light and the darkness, and divided the spirits of men, and strengthens the spirits of the righteous in the name of His righteousness.
+
+**9.** For neither angel nor power is able to prevent; for He appoints a judge for them all and he judges them all before Him.
 
 ---
 
 ## Chapter 42
 
-Wisdom found no place where she might dwell; then a dwelling place was assigned her in the heavens. Wisdom came to make her dwelling among the children of men, and found no dwelling place: then Wisdom returned to her place, and took her seat among the angels. Unrighteousness came forth from her chambers and she found those whom she sought not, and dwelt with them as rain in a desert, and dew on a thirsty land.
+**1.** Wisdom found no place where she might dwell; then a dwelling place was assigned her in the heavens.
+
+**2.** Wisdom came to make her dwelling among the children of men, and found no dwelling place: then Wisdom returned to her place, and took her seat among the angels.
+
+**3.** Unrighteousness came forth from her chambers and she found those whom she sought not, and dwelt with them as rain in a desert, and dew on a thirsty land.
 
 ---
 
 ## Chapter 43
 
-Again I saw lightning and the stars of heaven; I saw how He called them all by their names, and they heard Him. I saw how they are weighed in a righteous balance according to their proportions of light, the width of their spaces, and the day of their appearing, and how their revolution produces lightning:, and their revolution according to the number of the angels, and how they keep faith with each other. I asked the angel who went with me and showed me what was hidden: What are these? He said to me: —the Lord of Spirits has showed you their parable: these are the names of the holy who dwell on the earth and believe in the name of the Lord of Spirits for ever and ever.
+**[1.]** Again I saw lightning and the stars of heaven; I saw how He called them all by their names, and they heard Him.
+
+**[2.]** I saw how they are weighed in a righteous balance according to their proportions of light, the width of their spaces, and the day of their appearing, and how their revolution produces lightning:, and their revolution according to the number of the angels, and how they keep faith with each other.
+
+**[3.]** I asked the angel who went with me and showed me what was hidden: What are these?
+
+**[4.]** He said to me: —the Lord of Spirits has showed you their parable: these are the names of the holy who dwell on the earth and believe in the name of the Lord of Spirits for ever and ever.
+
+> **Editorial note:** The 1893 edition brackets the whole of Chapter XLIII as an interpolation.
 
 ---
 
 ## Chapter 44
 
+> **[Entire chapter bracketed as an interpolation in the 1893 edition.]**
+
 Also other phenomena I saw in regard to the lightnings: how some of the stars arise, become lightnings, and cannot part with their new form.
 
-Second Parable.
+> **Editorial note:** Chapter XLIV is printed as a single unnumbered sentence and is bracketed as an interpolation in the 1893 edition.
 
 ---
 
 ## Chapter 45
 
-This is the second parable concerning those who deny the name of the dwelling of the holy ones, and the Lord of Spirits. They will not ascend into the heaven, and on the earth they will not come: such will be the lot of the sinners who deny the name of the Lord of Spirits, who are so preserved for the day of suffering and tribulation. On that day, Mine Elect One will sit on the throne of glory, and make choice amongst their deeds; their mansions will be innumerable and their souls will grow strong within them when they see Mine elect ones, and those who have called upon My glorious name. On that day, I will cause Mine Elect One to dwell among them and I will transform the heaven, and make it an eternal blessing and light. I will transform the earth and make it a blessing, and cause Mine elect ones to dwell upon it: but the sinners, and evil doers, will not set foot thereon. For I have seen, and satisfied with peace My righteous ones, and have caused them to dwell before Me: but for the sinners there is judgment impending with Me, so that I may destroy them from the face of the earth.
+**1.** This is the second parable concerning those who deny the name of the dwelling of the holy ones, and the Lord of Spirits.
+
+**2.** They will not ascend into the heaven, and on the earth they will not come: such will be the lot of the sinners who deny the name of the Lord of Spirits, who are so preserved for the day of suffering and tribulation.
+
+**3.** On that day, Mine Elect One will sit on the throne of glory, and make choice amongst their deeds; their mansions will be innumerable and their souls will grow strong within them when they see Mine elect ones, and those who have called upon My glorious name.
+
+**4.** On that day, I will cause Mine Elect One to dwell among them and I will transform the heaven, and make it an eternal blessing and light.
+
+**5.** I will transform the earth and make it a blessing, and cause Mine elect ones to dwell upon it: but the sinners, and evil doers, will not set foot thereon.
+
+**6.** For I have seen, and satisfied with peace My righteous ones, and have caused them to dwell before Me: but for the sinners there is judgment impending with Me, so that I may destroy them from the face of the earth.
 
 ---
 
 ## Chapter 46
 
-There I saw One who had a head of days, and His head was white like wool. With Him was another being whose countenance had the appearance of a man, and his face was full of graciousness like one of the holy angels. I asked the angel who went with me and showed me all the hidden things, concerning that Son of Man: who he was, whence he was, and why he went with the Head of Days? He answered, and said unto me: —This is the Son of Man who has righteousness, with whom dwells righteousness, and who reveals all the treasures of that which is hidden. The Lord of Spirits has chosen him because his lot before the Lord of Spirits has surpassed everything in uprightness for ever this Son of Man whom you has seen will arouse the kings, and the mighty ones from their couches, and the strong from their thrones, and will loosen the reins of the strong, and grind to powder the teeth of the sinners. He will put down the kings from their thrones and kingdoms, because they do not extol and praise him, nor thankfully acknowledge whence the kingdom was bestowed upon them. He will put down the countenance of the strong and shame will cover them: darkness will be their dwelling and worms their bed, and they will have no hope of rising from their beds, because they do not extol the name of the Lord of Spirits. These are those who make themselves masters of the stars of heaven, and raise their hands against the Most High, and tread down the earth, and dwell upon it. All their deeds manifest unrighteousness, and all their deeds are unrighteousness: their power rests upon their riches, and their faith is in the gods which they have made with their hands: the name of the Lord of Spirits have they denied. They will be driven forth from the houses of His congregations, and of the faithful who cleave to the name of the Lord of Spirits.
+**1.** There I saw One who had a head of days, and His head was white like wool.
+
+**2.** With Him was another being whose countenance had the appearance of a man, and his face was full of graciousness like one of the holy angels.
+
+**3.** I asked the angel who went with me and showed me all the hidden things, concerning that Son of Man: who he was, whence he was, and why he went with the Head of Days?
+
+**4.** He answered, and said unto me: —This is the Son of Man who has righteousness, with whom dwells righteousness, and who reveals all the treasures of that which is hidden. The Lord of Spirits has chosen him because his lot before the Lord of Spirits has surpassed everything in uprightness for ever.
+
+**5.** this Son of Man whom you has seen will arouse the kings, and the mighty ones from their couches, and the strong from their thrones, and will loosen the reins of the strong, and grind to powder the teeth of the sinners.
+
+**6.** He will put down the kings from their thrones and kingdoms, because they do not extol and praise him, nor thankfully acknowledge whence the kingdom was bestowed upon them. He will put down the countenance of the strong and shame will cover them: darkness will be their dwelling and worms their bed, and they will have no hope of rising from their beds, because they do not extol the name of the Lord of Spirits.
+
+**7.** These are those who make themselves masters of the stars of heaven, and raise their hands against the Most High, and tread down the earth, and dwell upon it. All their deeds manifest unrighteousness, and all their deeds are unrighteousness: their power rests upon their riches, and their faith is in the gods which they have made with their hands: the name of the Lord of Spirits have they denied.
+
+**8.** They will be driven forth from the houses of His congregations, and of the faithful who cleave to the name of the Lord of Spirits.
 
 ---
 
 ## Chapter 47
 
-In those days the prayer of the righteous, and the blood of the righteous, will have ascended from the earth before the Lord of Spirits. In those days will the holy ones who dwell above in the heavens unite with one voice, and supplicate, intercede, laud, give thanks, and bless the name of the Lord of Spirits on account of the blood of the righteous which has been shed, , that the prayer of the righteous may not be in vain before the Lord of Spirits, that judgment may be done unto them, and that they may not have to suffer for ever. In those days I saw the Head of Days when He had seated Himself on the throne of His glory, and the books of the living were opened before Him, and His whole host which is in heaven above and around Him stood before Him. The hearts of the holy were filled with joy that the number of righteousness had drawn near: the prayer of the righteous was heard, and the blood of the righteous required before the Lord of Spirits.
+**1.** In those days the prayer of the righteous, and the blood of the righteous, will have ascended from the earth before the Lord of Spirits.
+
+**2.** In those days will the holy ones who dwell above in the heavens unite with one voice, and supplicate, intercede, laud, give thanks, and bless the name of the Lord of Spirits on account of the blood of the righteous which has been shed, , that the prayer of the righteous may not be in vain before the Lord of Spirits, that judgment may be done unto them, and that they may not have to suffer for ever.
+
+**3.** In those days I saw the Head of Days when He had seated Himself on the throne of His glory, and the books of the living were opened before Him, and His whole host which is in heaven above and around Him stood before Him.
+
+**4.** The hearts of the holy were filled with joy that the number of righteousness had drawn near: the prayer of the righteous was heard, and the blood of the righteous required before the Lord of Spirits.
 
 ---
 
 ## Chapter 48
 
-In that place I saw a fountain of righteousness which was inexhaustible: around it were many fountains of wisdom and all the thirsty drank of them and were filled with wisdom, and had their dwellings with the righteous, and holy, and elect. at that hour, that Son of Man was named in the presence of the Lord of Spirits, and his name before the Head of Days. before the sun, and the signs were created, before the stars of the heaven were made, his name was named before the Lord of Spirits. He will be a staff to the righteous, on which they will support themselves and not fall, and he will be the light of the Gentiles, and the hope of those who are troubled of heart. All who dwell on earth will fall down and bow the knee before him, and will bless, laud and celebrate with song the Lord of Spirits. For this reason he has been chosen and hidden before Him, before the creation of the world and for evermore. The wisdom of the Lord of Spirits has revealed him to the holy and righteous, for he preserves the lot of the righteous, because they have hated and despised this world of unrighteousness, and have hated all its works and ways in the name of the Lord of Spirits: for they are saved in his name, and he is the avenger of their life. In those days the kings of the earth, and the strong who possess the earth, will be of downcast countenance because of the works of their hands; for on the day of their anguish and affliction their souls will not be saved. I will give them over into the hands of Mine elect: as straw in fire, and as lead in water they will burn before the face of the holy, and sink before the face of the righteous, and no trace of them will any more be found. On the day of their affliction, there will be rest on the earth: before them they will fall, and not rise again:, and there will be no one to take them with his hands and raise them, for they have denied the Lord of Spirits, and His Anointed. The name of the Lord of Spirits be blessed!
+**1.** In that place I saw a fountain of righteousness which was inexhaustible: around it were many fountains of wisdom and all the thirsty drank of them and were filled with wisdom, and had their dwellings with the righteous, and holy, and elect.
+
+**2.** at that hour, that Son of Man was named in the presence of the Lord of Spirits, and his name before the Head of Days.
+
+**3.** before the sun, and the signs were created, before the stars of the heaven were made, his name was named before the Lord of Spirits.
+
+**4.** He will be a staff to the righteous, on which they will support themselves and not fall, and he will be the light of the Gentiles, and the hope of those who are troubled of heart.
+
+**5.** All who dwell on earth will fall down and bow the knee before him, and will bless, laud and celebrate with song the Lord of Spirits.
+
+**6.** For this reason he has been chosen and hidden before Him, before the creation of the world and for evermore.
+
+**7.** The wisdom of the Lord of Spirits has revealed him to the holy and righteous, for he preserves the lot of the righteous, because they have hated and despised this world of unrighteousness, and have hated all its works and ways in the name of the Lord of Spirits: for they are saved in his name, and he is the avenger of their life.
+
+**8.** In those days the kings of the earth, and the strong who possess the earth, will be of downcast countenance because of the works of their hands; for on the day of their anguish and affliction their souls will not be saved.
+
+**9.** I will give them over into the hands of Mine elect: as straw in fire, and as lead in water they will burn before the face of the holy, and sink before the face of the righteous, and no trace of them will any more be found.
+
+**10.** On the day of their affliction, there will be rest on the earth: before them they will fall, and not rise again:, and there will be no one to take them with his hands and raise them, for they have denied the Lord of Spirits, and His Anointed. The name of the Lord of Spirits be blessed!
 
 ---
 
 ## Chapter 49
 
-For wisdom is poured out like water, and glory fails not before him for ever and ever. For he is mighty in all the secrets of righteousness, and unrighteousness will disappear as a shadow and have no continuance; because the Elect One stands before the Lord of Spirits and his glory is for ever and ever, and his might unto all generations. In him dwell the spirit of wisdom, and the spirit of Him who gives knowledge, the spirit of understanding, and of might, and the spirit of those who have fallen asleep in righteousness. He will judge the secret things and no one will be able to utter a lying word before him; for he is the Elect One before the Lord of Spirits according to His good pleasure.
+**1.** For wisdom is poured out like water, and glory fails not before him for ever and ever.
+
+**2.** For he is mighty in all the secrets of righteousness, and unrighteousness will disappear as a shadow and have no continuance; because the Elect One stands before the Lord of Spirits and his glory is for ever and ever, and his might unto all generations.
+
+**3.** In him dwell the spirit of wisdom, and the spirit of Him who gives knowledge, the spirit of understanding, and of might, and the spirit of those who have fallen asleep in righteousness.
+
+**4.** He will judge the secret things and no one will be able to utter a lying word before him; for he is the Elect One before the Lord of Spirits according to His good pleasure.
 
 ---
 
 ## Chapter 50
 
-In those days, a change will take place in the lot of the holy and elect ones:, and the light of days will abide upon them, and glory and honour will turn to the holy. On the day of affliction, evil will gather over the sinners, but the righteous will be victorious in the name of the Lord of Spirits:, and He will cause the others to witness that they may repent and forego the works of their hands. They will have no honour through the name of the Lord of Spirits, yet through His name they will be saved; the Lord of Spirits will have compassion on them, for His compassion is great. He is righteous in His judgment; in the presence of His glory and in His judgment no unrighteousness shall maintain itself: whosoever repents not before Him will perish. From henceforth He will show no mercy to them, say the Lord of Spirits.
+**[1.]** In those days, a change will take place in the lot of the holy and elect ones:, and the light of days will abide upon them, and glory and honour will turn to the holy.
+
+**[2.]** On the day of affliction, evil will gather over the sinners, but the righteous will be victorious in the name of the Lord of Spirits:, and He will cause the others to witness that they may repent and forego the works of their hands.
+
+**[3.]** They will have no honour through the name of the Lord of Spirits, yet through His name they will be saved; the Lord of Spirits will have compassion on them, for His compassion is great.
+
+**[4.]** He is righteous in His judgment; in the presence of His glory and in His judgment no unrighteousness shall maintain itself: whosoever repents not before Him will perish.
+
+**[5.]** From henceforth He will show no mercy to them, say the Lord of Spirits.
+
+> **Editorial note:** The 1893 edition brackets all of Chapter L as an interpolation.
 
 ---
 
