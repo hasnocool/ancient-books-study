@@ -25,6 +25,8 @@ R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Eth
 | XI | Verses 1–2 | 77 | [Book 1](./book-01-watchers-chapters-01-36.md) |
 | XII | Verses 1–6 | 77–78 | [Book 1](./book-01-watchers-chapters-01-36.md) |
 | XIII | Verses 1–10 | 78–79 | [Book 1](./book-01-watchers-chapters-01-36.md) |
+| XIV | Verses 1–25 | 79–82 | [Book 1](./book-01-watchers-chapters-01-36.md) |
+| XV | Verses 1–12 | 82–85 | [Book 1](./book-01-watchers-chapters-01-36.md) |
 
 The brackets reflect the 1893 editor's treatment of interpolated passages. In Chapter IV the printed text has no verse numeral; none is added here.
 
@@ -40,7 +42,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 
 ## Pending
 
-- Chapters XIV–XXXVI: restore verse structure from the printed edition.
+- Chapters XVI–XXXVI: restore verse structure from the printed edition.
 - Chapters XXXVII–LXXI: restore verse structure.
 - Chapters LXXII–CVIII: restore verse structure.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
