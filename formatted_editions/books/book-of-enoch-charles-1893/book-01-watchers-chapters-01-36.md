@@ -411,19 +411,53 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 19
 
-Uriel said to me: —Here will stand the angels who have connected themselves with women, and their spirits assuming many different forms have defiled mankind, and will lead them astray into sacrificing to demons as gods; here they will stand until the day of the great judgment on which they shall be judged until they are consummated. With their women also who led astray the angels of heaven, it will fare in like manner as with their friends. I, Enoch, alone saw the vision, the ends of all things: and no man will see what I have seen as I have seen.
+**1.** Uriel said to me: —Here will stand the angels who have connected themselves with women, and their spirits assuming many different forms have defiled mankind, and will lead them astray into sacrificing to demons as gods; here they will stand until the day of the great judgment on which they shall be judged until they are consummated.
+
+**2.** With their women also who led astray the angels of heaven, it will fare in like manner as with their friends.
+
+**3.** I, Enoch, alone saw the vision, the ends of all things: and no man will see what I have seen as I have seen.
 
 ---
 
 ## Chapter 20
 
-These are the names of the holy angels who watch. Uriel, one of the holy angels, the angel over the world and over Tartarus. Rufael, one of the holy angels, the angel of the spirits of men. Raguel, one of the holy angels, who takes vengeance on the world and on the luminaries. Michael, one of the holy angels, to wit, he that is set over the best part of mankind, over the people. Saraqael, one of the holy angels who is set over the spirits of the children of men whose spirits have sinned. Gabriel, one of the holy angels who is over Paradise, the seraphim and the cherubim.
+**1.** These are the names of the holy angels who watch.
+
+**2.** Uriel, one of the holy angels, the angel over the world and over Tartarus.
+
+**3.** Rufael, one of the holy angels, the angel of the spirits of men.
+
+**4.** Raguel, one of the holy angels, who takes vengeance on the world and on the luminaries.
+
+**5.** Michael, one of the holy angels, to wit, he that is set over the best part of mankind, over the people.
+
+**6.** Saraqael, one of the holy angels who is set over the spirits of the children of men whose spirits have sinned.
+
+**7.** Gabriel, one of the holy angels who is over Paradise, the seraphim and the cherubim.
 
 ---
 
 ## Chapter 21
 
-I went round to the place where nothing was made. I saw there something horrible. I saw neither a heaven above nor a firmly founded earth, but a place chaotic and horrible. Here I saw seven stars of the heaven bound together in it, like great mountains, and flaming as with fire. On this occasion I said: For what sin are they bound, and on what account they have been cast in here Then spoke Uriel, one of the holy angels, who was with me, and was chief over them, and said: —Wherefore do you ask, and why dost you enquire, and are curious? These are the stars which have transgressed the commandment of God, and are bound here until ten thousand ages, the number of the days of their guilt, are consummated. From thence I went to another place, which was still more horrible than the former, and I saw a horrible thing: a great fire was there which flamed and blazed. The place was cleft as far as the abyss, being full of great descending columns of fire: its extent and size I could not see, nor was I able to see its origin. Then I spoke: How horrible this place is and how hideous to look upon! Then Uriel answered me, one of the holy angels who was with me: he answered and spoke to me: —Why do you entertain such fear, and alarm at this horrible place and in the presence of this pain? He spoke to me: —This place is the prison of the angels, and here they will be imprisoned for ever.
+**1.** I went round to the place where nothing was made.
+
+**2.** I saw there something horrible. I saw neither a heaven above nor a firmly founded earth, but a place chaotic and horrible.
+
+**3.** Here I saw seven stars of the heaven bound together in it, like great mountains, and flaming as with fire.
+
+**4.** On this occasion I said: For what sin are they bound, and on what account they have been cast in here
+
+**5.** Then spoke Uriel, one of the holy angels, who was with me, and was chief over them, and said: —Wherefore do you ask, and why dost you enquire, and are curious?
+
+**6.** These are the stars which have transgressed the commandment of God, and are bound here until ten thousand ages, the number of the days of their guilt, are consummated.
+
+**7.** From thence I went to another place, which was still more horrible than the former, and I saw a horrible thing: a great fire was there which flamed and blazed. The place was cleft as far as the abyss, being full of great descending columns of fire: its extent and size I could not see, nor was I able to see its origin.
+
+**8.** Then I spoke: How horrible this place is and how hideous to look upon!
+
+**9.** Then Uriel answered me, one of the holy angels who was with me: he answered and spoke to me: —Why do you entertain such fear, and alarm at this horrible place and in the presence of this pain?
+
+**10.** He spoke to me: —This place is the prison of the angels, and here they will be imprisoned for ever.
 
 ---
 
