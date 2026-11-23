@@ -541,55 +541,107 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 26
 
-I went from thence to the middle of the earth and I saw a blessed and fruitful place, and there were branches there which had taken root, and grew out of a dismembered tree. Then I saw a holy mountain, and underneath the mountain to the east of it, a stream which flowed towards the south. I saw towards the east another mountain of the same height, and between them a deep and narrow ravine: in it also ran a stream skirting the mountain. To the west thereof there was another mountain, lower than the former and of small elevation, and underneath it, and between them both was a ravine and other deep, and sterile ravines were at the extremities of all three. All the ravines were deep and narrow of hard rock, and trees were planted upon them. I marvelled at the rocks, and I marvelled at the ravine, yea, I marvelled very much.
+**1.** I went from thence to the middle of the earth and I saw a blessed and fruitful place, and there were branches there which had taken root, and grew out of a dismembered tree.
+
+**2.** Then I saw a holy mountain, and underneath the mountain to the east of it, a stream which flowed towards the south.
+
+**3.** I saw towards the east another mountain of the same height, and between them a deep and narrow ravine: in it also ran a stream skirting the mountain.
+
+**4.** To the west thereof there was another mountain, lower than the former and of small elevation, and underneath it, and between them both was a ravine and other deep, and sterile ravines were at the extremities of all three.
+
+**5.** All the ravines were deep and narrow of hard rock, and trees were planted upon them.
+
+**6.** I marvelled at the rocks, and I marvelled at the ravine, yea, I marvelled very much.
 
 ---
 
 ## Chapter 27
 
-Then I said: For what object is this blessed land which is entirely filled with trees, and this accursed valley between. Then Uriel, one of the holy angels who was with me, answered me and spoke: —This accursed valley is for those who are accursed for ever: here will all those be gathered together who utter unseemly words with their lips against God, and speak hard things of His Glory; here will they be gathered together and here is the place of their punishment. In the last days there will be the spectacle of a righteous judgment upon them in the presence of the righteous continually for ever: here will those who have found mercy bless the Lord of glory, the Eternal King. In the days of judgment over the former, they will bless Him for the mercy in accordance with which He has assigned them. At that time I also blessed the Lord of Glory, and spoke to Him, and remembered His greatness, as was befitting.
+**1.** Then I said: For what object is this blessed land which is entirely filled with trees, and this accursed valley between.
+
+**2.** Then Uriel, one of the holy angels who was with me, answered me and spoke: —This accursed valley is for those who are accursed for ever: here will all those be gathered together who utter unseemly words with their lips against God, and speak hard things of His Glory; here will they be gathered together and here is the place of their punishment.
+
+**3.** In the last days there will be the spectacle of a righteous judgment upon them in the presence of the righteous continually for ever: here will those who have found mercy bless the Lord of glory, the Eternal King.
+
+**4.** In the days of judgment over the former, they will bless Him for the mercy in accordance with which He has assigned them.
+
+**5.** At that time I also blessed the Lord of Glory, and spoke to Him, and remembered His greatness, as was befitting.
 
 ---
 
 ## Chapter 28
 
-Then I went towards the east, into the midst of the mountain range of the desert, and I saw here nothing save a plain. Nevertheless it was filled with trees of this seed and water streamed down from above over it. It was manifest that there were many watercourses which flowed as well towards the north as to the west, and here also as everywhere water and dew ascended.
+**1.** Then I went towards the east, into the midst of the mountain range of the desert, and I saw here nothing save a plain.
+
+**2.** Nevertheless it was filled with trees of this seed and water streamed down from above over it.
+
+**3.** It was manifest that there were many watercourses which flowed as well towards the north as to the west, and here also as everywhere water and dew ascended.
 
 ---
 
 ## Chapter 29
 
-I went to another place, away from the desert, drawing near to the east of the mountain range. Then I saw the trees of judgment, particularly such as give forth the fragrance of frankincense, and myrrh, and the trees also were similar.
+**1.** I went to another place, away from the desert, drawing near to the east of the mountain range.
+
+**2.** Then I saw the trees of judgment, particularly such as give forth the fragrance of frankincense, and myrrh, and the trees also were similar.
 
 ---
 
 ## Chapter 30
 
-Above that above these, above the Eastern Mountain, and not far distant, I saw another place, valleys with unfailing streams. I saw a beautiful tree, which resembles a fragrant tree such as the mastic. on the sides of those valleys I saw sweet smelling cinnamon And passing over these I drew nigh to the east.
+**1.** Above that above these, above the Eastern Mountain, and not far distant, I saw another place, valleys with unfailing streams.
+
+**2.** I saw a beautiful tree, which resembles a fragrant tree such as the mastic.
+
+**3.** on the sides of those valleys I saw sweet smelling cinnamon And passing over these I drew nigh to the east.
 
 ---
 
 ## Chapter 31
 
-I saw other mountains on which there were trees, and there flowed forth from them as it were nectar, it is named Sarira and Galbanum. Over that mountain I saw another mountain whereon were aloe trees, and those trees were full of a hard substance like almonds. One of that fruit was better than all fragrant odours.
+**1.** I saw other mountains on which there were trees, and there flowed forth from them as it were nectar, it is named Sarira and Galbanum.
+
+**2.** Over that mountain I saw another mountain whereon were aloe trees, and those trees were full of a hard substance like almonds.
+
+**3.** One of that fruit was better than all fragrant odours.
 
 ---
 
 ## Chapter 32
 
-After these fragrant odours, as I looked towards the north, over the mountains, I saw seven mountains full of choice nard, and aromatic trees, and cinnamon, and pepper. Thence I went over the summits of those mountains, far towards the east, and passed above the Eritrean Sea, and went far from it, and passed over the angel Zutel. I came into the garden of righteousness, and saw beyond those trees many large trees growing there of goodly fragrance, large, very beautiful, and glorious, and the tree of wisdom which imparts great wisdom to those who eat of it. It is like the Carob tree: its fruit is like the clusters of the vine, very beautiful: the fragrance of the tree goes forth, and penetrates afar. I said: This tree is beautiful! How beautiful and attractive is its look! The holy angel Rufael, who was with me, answered me, and said: —This is the tree of wisdom of which your old father, and your aged mother, who were before you, have eaten and they learnt wisdom, and their eyes were opened, and they recognised that they were naked, and were driven out of the garden.
+**1.** After these fragrant odours, as I looked towards the north, over the mountains, I saw seven mountains full of choice nard, and aromatic trees, and cinnamon, and pepper.
+
+**2.** Thence I went over the summits of those mountains, far towards the east, and passed above the Eritrean Sea, and went far from it, and passed over the angel Zutel.
+
+**3.** I came into the garden of righteousness, and saw beyond those trees many large trees growing there of goodly fragrance, large, very beautiful, and glorious, and the tree of wisdom which imparts great wisdom to those who eat of it.
+
+**4.** It is like the Carob tree: its fruit is like the clusters of the vine, very beautiful: the fragrance of the tree goes forth, and penetrates afar.
+
+**5.** I said: This tree is beautiful! How beautiful and attractive is its look!
+
+**6.** The holy angel Rufael, who was with me, answered me, and said: —This is the tree of wisdom of which your old father, and your aged mother, who were before you, have eaten and they learnt wisdom, and their eyes were opened, and they recognised that they were naked, and were driven out of the garden.
 
 ---
 
 ## Chapter 33
 
-From thence I went to the ends of the earth and saw there great beasts, each differed from the other, and birds also differing in appearance, and beauty, and voice, and they all differed the one from the other. To the east of these beasts I saw the ends of the earth whereon the heaven rests, and the portals of the heaven were open. I saw how the stars of heaven come forth and I counted the portals out of which they proceed, and wrote down all their outlets, of each individual star by itself, according to their number, their names, their connexions, their positions, their times, and their months, as the holy angel Uriel who was with me showed me. He showed all things to me and wrote them down for me: also their names he wrote for me, and their laws, and their companies.
+**1.** From thence I went to the ends of the earth and saw there great beasts, each differed from the other, and birds also differing in appearance, and beauty, and voice, and they all differed the one from the other.
+
+**2.** To the east of these beasts I saw the ends of the earth whereon the heaven rests, and the portals of the heaven were open.
+
+**3.** I saw how the stars of heaven come forth and I counted the portals out of which they proceed, and wrote down all their outlets, of each individual star by itself, according to their number, their names, their connexions, their positions, their times, and their months, as the holy angel Uriel who was with me showed me.
+
+**4.** He showed all things to me and wrote them down for me: also their names he wrote for me, and their laws, and their companies.
 
 ---
 
 ## Chapter 34
 
-From thence I went towards the north to the ends of the earth. There I saw a great, and glorious wonder at the ends of the whole earth. Here I saw three open portals of heaven in the heaven: from each of them proceed north winds: when one of these blows there is: cold, hail, frost, snow, dew, and rain. Out of one portal it blows for good: but when they blow through the two other portals, it is with violence and it brings misfortune on the earth, and they blow violently.
+**1.** From thence I went towards the north to the ends of the earth. There I saw a great, and glorious wonder at the ends of the whole earth.
+
+**2.** Here I saw three open portals of heaven in the heaven: from each of them proceed north winds: when one of these blows there is: cold, hail, frost, snow, dew, and rain.
+
+**3.** Out of one portal it blows for good: but when they blow through the two other portals, it is with violence and it brings misfortune on the earth, and they blow violently.
 
 ---
 
@@ -601,7 +653,13 @@ From thence I went towards the west to the ends of the earth, and saw there, thr
 
 ## Chapter 36
 
-From thence, I went to the south to the ends of the earth, and saw there, three open portals of the heaven thence come the south wind, dew, rain, and wind. From thence I went to the east to the ends of the heaven, and saw here, the three eastern portals of heaven open and small portals above them. Through each of these small portals pass the stars of heaven, and run their course to the west on the path which is shown to them. When I saw it, I blessed, and so each time I blessed the Lord of Glory who had made the great and glorious wonders, to show the greatness of His work to the angels, and the souls of men, that they might praise His work and all His creation, that they might see the work of His might, and praise the great work of His hands, and bless Him for ever.
+**1.** From thence, I went to the south to the ends of the earth, and saw there, three open portals of the heaven thence come the south wind, dew, rain, and wind.
+
+**2.** From thence I went to the east to the ends of the heaven, and saw here, the three eastern portals of heaven open and small portals above them.
+
+**3.** Through each of these small portals pass the stars of heaven, and run their course to the west on the path which is shown to them.
+
+**4.** When I saw it, I blessed, and so each time I blessed the Lord of Glory who had made the great and glorious wonders, to show the greatness of His work to the angels, and the souls of men, that they might praise His work and all His creation, that they might see the work of His might, and praise the great work of His hands, and bless Him for ever.
 
 ---
 
