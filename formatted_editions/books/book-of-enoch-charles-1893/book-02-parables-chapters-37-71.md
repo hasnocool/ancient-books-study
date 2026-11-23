@@ -1,6 +1,6 @@
 # The Book of Enoch — Book 2: The Parables
 
-> 1 Enoch, chapters 37–70; compilation section 71 retained separately below
+> 1 Enoch, chapters 37–71
 
 ## Edition record
 
@@ -9,11 +9,11 @@
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
 - **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
-- **Status:** Verse structure restored for Chapters XXXVII–LXX; Chapter 71 retained as a source-only supplementary section; facsimile collation and source-lineage identification outstanding
+- **Status:** Verse structure restored for Chapters XXXVII–LXX; Chapter LXXI included as the final chapter of the Parables; 17 verse divisions restored; facsimile collation and source-lineage identification outstanding
 
 ## Editorial statement
 
-The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapters XXXVII–LXX now use verse boundaries and numbering from the 1893 printing as a structural reference. The original repository wording is retained. The compilation's Chapter 71 is separated below because it does not appear in the Charles 1893 reference edition.
+The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapters XXXVII–LXX now use verse boundaries and numbering from the 1893 printing as a structural reference. The original repository wording is retained. Chapter LXXI is part of the Parables and is titled “Two earlier Visions of Enoch” in Charles's text. Its 17 verse divisions are restored here; the repository wording remains unchanged.
 
 The combined source also interleaves chapters from the separate Slavonic `Book of the Secrets of Enoch` (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
 
