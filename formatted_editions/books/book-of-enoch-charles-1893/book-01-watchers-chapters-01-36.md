@@ -261,15 +261,83 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 14
 
-This book is the word of righteousness, and the reprimand of the eternal watchers, in accordance with the commandment of the Holy and Great One in that vision. I saw in my sleep what I will now recount with a tongue of flesh, and with my breath, which the Great One has put into the mouth of men, that they might converse with it, and understand in their heart. As He has created man, and given to him the power of understanding the word of wisdom, so has He created me also, and given me the power of reprimanding the watchers, the sons of heaven. I wrote out your petition, and in my vision it appeared so: your petition will not be granted throughout all the days of eternity. That judgment has been finally passed upon you, and no indulgence will be granted to you. From henceforth, you will never again ascend into heaven to all eternity. The decree has gone forth on the earth; they shall bind you for all the days of eternity. But previously you will see the destruction of your beloved sons, and you will not have them in your keeping, but they will fall before you by the sword. Your petition on their behalf will not be granted, nor that on your own: Likewise, despite your tears and prayers. You will receive nothing whatever contained in the writing which I have written.
+**1.** This book is the word of righteousness, and the reprimand of the eternal watchers, in accordance with the commandment of the Holy and Great One in that vision.
 
-The vision appeared to me so: behold in the vision clouds invited me, and a mist invited me: the course of the stars, and the lightnings drove, and impelled me, and the winds in the vision gave me wings, and drove me. They lifted me up into heaven, and I came until I drew nigh to a wall which is built of crystals, and surrounded by a fiery flame: and it began to affright me. I went into the fiery flame, and drew nigh to a large house which was built of crystals: and the walls of that house were like a mosaic crystal floor, and its groundwork was of crystal. Its ceiling was like the path of the stars, and lightnings, with fiery cherubim between, and their heaven was water. A flaming fire surrounded the walls of the house, and its portal blazed with fire. I entered into that house, and it was hot as fire, and cold as ice: there were no delights of life therein: fear covered me, and trembling gat hold upon me. As I quaked, and trembled, I fell upon my face, and beheld in a vision. Lo! There was a second house, greater than the former, all the portals of which stood open before me, and it was built of flames of fire. In every respect it so excelled in splendour, and magnificence, and extent that I cannot describe to you its splendour, and its extent. Its floor was fire, and above it were lightnings, and the path of the stars, and its ceiling also was flaming fire. I looked, and saw therein a lofty throne: its appearance was as hoarfrost; its circuit was as a shining sun, and the voices of Cherubim. From underneath the great throne came streams of flaming fire so that it was impossible to look thereon. The Great Glory sat thereon, and His raiment shone more brightly than the sun, and was whiter than any snow. None of the angels could enter, and could behold the face of the Honoured and Glorious One, and no flesh could behold Him. A flaming fire was round about Him, and a great fire stood before Him, and none of those who were around Him could draw near Him: ten thousand times ten thousand were before Him, but He stood in no need of counsel. The holiness of the holy ones, who were near Him, did not leave by night nor depart from Him. Until then I had had a veil on my face, and I was trembling. Then the Lord called me with His own mouth, and spoke to me: —Come here Enoch, and hear My holy word. He made me rise up, and approach the door: but I turned my face downwards.
+**2.** I saw in my sleep what I will now recount with a tongue of flesh, and with my breath, which the Great One has put into the mouth of men, that they might converse with it, and understand in their heart.
+
+**3.** As He has created man, and given to him the power of understanding the word of wisdom, so has He created me also, and given me the power of reprimanding the watchers, the sons of heaven.
+
+**4.** I wrote out your petition, and in my vision it appeared so: your petition will not be granted throughout all the days of eternity. That judgment has been finally passed upon you, and no indulgence will be granted to you.
+
+**5.** From henceforth, you will never again ascend into heaven to all eternity. The decree has gone forth on the earth; they shall bind you for all the days of eternity.
+
+**6.** But previously you will see the destruction of your beloved sons, and you will not have them in your keeping, but they will fall before you by the sword.
+
+**7.** Your petition on their behalf will not be granted, nor that on your own: Likewise, despite your tears and prayers. You will receive nothing whatever contained in the writing which I have written.
+
+**8.** The vision appeared to me so: behold in the vision clouds invited me, and a mist invited me: the course of the stars, and the lightnings drove, and impelled me, and the winds in the vision gave me wings, and drove me.
+
+**9.** They lifted me up into heaven, and I came until I drew nigh to a wall which is built of crystals, and surrounded by a fiery flame: and it began to affright me.
+
+**10.** I went into the fiery flame, and drew nigh to a large house which was built of crystals: and the walls of that house were like a mosaic crystal floor, and its groundwork was of crystal.
+
+**11.** Its ceiling was like the path of the stars, and lightnings, with fiery cherubim between, and their heaven was water.
+
+**12.** A flaming fire surrounded the walls of the house, and its portal blazed with fire.
+
+**13.** I entered into that house, and it was hot as fire, and cold as ice: there were no delights of life therein: fear covered me, and trembling gat hold upon me.
+
+**14.** As I quaked, and trembled, I fell upon my face, and beheld in a vision.
+
+**15.** Lo! There was a second house, greater than the former, all the portals of which stood open before me, and it was built of flames of fire.
+
+**16.** In every respect it so excelled in splendour, and magnificence, and extent that I cannot describe to you its splendour, and its extent.
+
+**17.** Its floor was fire, and above it were lightnings, and the path of the stars, and its ceiling also was flaming fire.
+
+**18.** I looked, and saw therein a lofty throne: its appearance was as hoarfrost; its circuit was as a shining sun, and the voices of Cherubim.
+
+**19.** From underneath the great throne came streams of flaming fire so that it was impossible to look thereon.
+
+**20.** The Great Glory sat thereon, and His raiment shone more brightly than the sun, and was whiter than any snow.
+
+**21.** None of the angels could enter, and could behold the face of the Honoured and Glorious One, and no flesh could behold Him.
+
+**22.** A flaming fire was round about Him, and a great fire stood before Him, and none of those who were around Him could draw near Him: ten thousand times ten thousand were before Him, but He stood in no need of counsel.
+
+**23.** The holiness of the holy ones, who were near Him, did not leave by night nor depart from Him.
+
+**24.** Until then I had had a veil on my face, and I was trembling. Then the Lord called me with His own mouth, and spoke to me: —Come here Enoch, and hear My holy word.
+
+**25.** He made me rise up, and approach the door: but I turned my face downwards.
 
 ---
 
 ## Chapter 15
 
-He answered, and spoke to me with His voice I have heard: —Fear not Enoch, you righteous man, and scribe of righteousness: Approach, and hear my voice. Go say to the watchers of heaven who have sent you to intercede for them: You should intercede for men, and not men for you. Wherefore have you left the high, holy, eternal heaven, and lain with women, and defiled yourselves with the daughters of men, and taken unto yourselves wives, and done like to the children of earth, and begotten giants sons. Whilst you were still spiritual, holy, in the enjoyment of eternal life, you have denied yourselves with women, have begotten with the blood of flesh, and have lusted after the blood of men, and produced flesh and blood, as those produce them who are mortal and short lived. Therefore I have given them wives also that they might impregnate them and children be borne by them, that so nothing might be, wanting to them on earth. But you were formerly spiritual, in the enjoyment of eternal immortal life, for all generations of the world. Therefore I have not appointed wives for you; for the spiritual have their dwelling in heaven. Now, the giants, who are produced from the spirits, and flesh, will be called evil spirits upon the earth, and on the earth will be their dwelling. Evil spirits proceed from their bodies; because they are created from above, from the holy watchers is their beginning and primal origin; they will be evil spirits on earth, and evil spirits will they be named. The spirits of heaven have their dwelling in heaven, but the spirits of the earth, which were born upon the earth, have on the earth their dwelling. The spirits of the giants will devour, oppress, destroy, attack, do battle, and cause destruction on the earth, and work affliction: they will take no kind of food, nor will they thirst, and they will be invisible. These spirits will rise up against the children of men, and against the women, because they have proceeded from them.
+**1.** He answered, and spoke to me with His voice I have heard: —Fear not Enoch, you righteous man, and scribe of righteousness: Approach, and hear my voice.
+
+**2.** Go say to the watchers of heaven who have sent you to intercede for them: You should intercede for men, and not men for you.
+
+**3.** Wherefore have you left the high, holy, eternal heaven, and lain with women, and defiled yourselves with the daughters of men, and taken unto yourselves wives, and done like to the children of earth, and begotten giants sons.
+
+**4.** Whilst you were still spiritual, holy, in the enjoyment of eternal life, you have denied yourselves with women, have begotten with the blood of flesh, and have lusted after the blood of men, and produced flesh and blood, as those produce them who are mortal and short lived.
+
+**5.** Therefore I have given them wives also that they might impregnate them and children be borne by them, that so nothing might be, wanting to them on earth.
+
+**6.** But you were formerly spiritual, in the enjoyment of eternal immortal life, for all generations of the world.
+
+**7.** Therefore I have not appointed wives for you; for the spiritual have their dwelling in heaven.
+
+**8.** Now, the giants, who are produced from the spirits, and flesh, will be called evil spirits upon the earth, and on the earth will be their dwelling.
+
+**9.** Evil spirits proceed from their bodies; because they are created from above, from the holy watchers is their beginning and primal origin; they will be evil spirits on earth, and evil spirits will they be named.
+
+**10.** The spirits of heaven have their dwelling in heaven, but the spirits of the earth, which were born upon the earth, have on the earth their dwelling.
+
+**11.** The spirits of the giants will devour, oppress, destroy, attack, do battle, and cause destruction on the earth, and work affliction: they will take no kind of food, nor will they thirst, and they will be invisible.
+
+**12.** These spirits will rise up against the children of men, and against the women, because they have proceeded from them.
 
 ---
 
