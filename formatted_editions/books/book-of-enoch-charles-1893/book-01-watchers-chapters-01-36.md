@@ -137,13 +137,77 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 9
 
-Then Michael, Gabriel, Surjan, and Urjan, looked down from heaven, and saw the great quantity of blood that had been shed upon the earth, and all the wrong that had been wrought upon the earth. They spoke to one another: —The earth made without inhabitant echoes the voice of their crying up to the gate of heaven. Now to you, holy ones of heaven, complain the souls of men, saying, procure us justice with the Most High they spoke to their Lord the King: —Lord of Lords, God of Gods, King of Kings, the throne of your glory unto all the generations of the ages, and your name holy, and glorious unto all the ages: blessed, and glorious are you! You have made all things, and over all things has you dominion: and all things are naked, and open in your sight, and you see all things, and nothing can hide itself from you. See then what Azazel has done, how he has taught all unrighteousness on earth, and revealed the secret things of the world which were wrought in the heavens. Semjaza to whom you had given authority to bear rule over his associates has made known enchantments. They have gone to the daughters of men upon the earth, and have slept with them, with those women, and defiled themselves, and revealed these sins unto them. The women have borne giants, and the whole earth has thereby been filled with blood, and unrighteousness. Now behold, the spirits of the souls which have died, are crying, and complaining to the gate of heaven, and their lamentations are ascending: and they cannot escape from the unrighteousness which is wrought on the earth. You know all things before they come to pass, and you knows this thing, and every thing affecting them, and yet you did not speak to us. What are we therefore to do in regard to this?
+**1.** Then Michael, Gabriel, Surjan, and Urjan, looked down from heaven, and saw the great quantity of blood that had been shed upon the earth, and all the wrong that had been wrought upon the earth.
+
+**2.** They spoke to one another: —The earth made without inhabitant echoes the voice of their crying up to the gate of heaven.
+
+**3.** Now to you, holy ones of heaven, complain the souls of men, saying, procure us justice with the Most High
+
+**4.** they spoke to their Lord the King: —Lord of Lords, God of Gods, King of Kings, the throne of your glory unto all the generations of the ages, and your name holy, and glorious unto all the ages: blessed, and glorious are you!
+
+**5.** You have made all things, and over all things has you dominion: and all things are naked, and open in your sight, and you see all things, and nothing can hide itself from you.
+
+**6.** See then what Azazel has done, how he has taught all unrighteousness on earth, and revealed the secret things of the world which were wrought in the heavens.
+
+**[7.]** Semjaza to whom you had given authority to bear rule over his associates has made known enchantments.
+
+**8.** They have gone to the daughters of men upon the earth, and have slept with them, with those women, and defiled themselves, and revealed these sins unto them.
+
+**9.** The women have borne giants, and the whole earth has thereby been filled with blood, and unrighteousness.
+
+**10.** Now behold, the spirits of the souls which have died, are crying, and complaining to the gate of heaven, and their lamentations are ascending: and they cannot escape from the unrighteousness which is wrought on the earth.
+
+**11.** You know all things before they come to pass, and you knows this thing, and every thing affecting them, and yet you did not speak to us. What are we therefore to do in regard to this?
 
 ---
 
 ## Chapter 10
 
-Then spoke the Most High, the Great, and Holy One, and sent Arsjalaljur, to the son of Lamech, and said to him: —Tell him in My name: hide thyself! And reveal to him the end that is approaching: for the whole earth will be destroyed, and a deluge will presently come upon the whole earth, and all that is on it, will be destroyed. Now instruct him that he may escape, and his seed may be preserved for all generations. Again the Lord spoke to Rafael: —Bind Azazel hand, and foot, and place him in the darkness: make an opening in the desert, which is in Dudael, and place him therein. Place upon him rough and jagged rocks, and cover him with darkness, and let him abide there for ever, and cover his face that he may not see the light. On the great day of judgment, he shall be cast into the fire. Heal the earth which the angels have defiled, and proclaim the healing of the earth, that I will heal the earth, and that all the children of men shall not perish through all the secret things that the watchers have disclosed, and have taught their sons. The whole earth has been defiled through the teaching of the works of Azazel: to him ascribe all the sin. God said to Gabriel: —Proceed against the bastards, and the reprobates, and against the children of fornication: destroy the children of fornication, and the children of the watchers from amongst men. Lead them out, and send them one against the other, that they may destroy each other in battle: for they shall not have length of days. No request that they make of you will be granted unto their fathers on their behalf although they hope to live an eternal life, and that each one of them will live five hundred years. The Lord said unto Michael: —Go, announce to Semjaza, and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness. When all their sons have slain one another, and they have seen the destruction of their beloved ones; bind them fast under the hills of the earth for seventy generations until the day of their judgment, and of their consummation, until the judgment which is for ever and ever is consummated. In those days, they will be led off to the abyss of fire: they will be confined in torment and in prison for ever and ever. Whosoever shall be condemned, and be destroyed with them from thenceforward, will be bound together with them to the end of all generations. Destroy all the lustful souls, and the children of the watchers, because they have oppressed mankind. Destroy all oppression from the face of the earth, and let every evil work come to an end: And the plant of righteousness, and uprightness will appear, labour will prove a blessing: righteousness, and uprightness will be established in joy for evermore. Then will all the righteous escape, and will live until they beget a thousand children, and all the days of their youth, and their old age, and Shabbat will they complete in peace. In those days will the whole earth be tilled in righteousness, and will all be planted with trees, and be full of blessing. All desirable trees will be planted on it, and vines will be planted on it: the vine which is planted thereon will yield wine in abundance, and of all the seed which is sown thereon will each measure bear ten thousand, and each measure of olives will yield ten presses of oil. Cleanse the earth from all oppression, and from all unrighteousness, and from all sin, and from all godlessness, and from all uncleanness which is wrought upon the earth: destroy them from off the earth. All the children of men shall become righteous, and all nations shall offer Me adoration, and praise and all will worship Me. The earth will be cleansed from all corruption, and from all sin, and from all punishment, and torment, and I will never again send upon it, from generation to generation, for ever.
+**[1.]** Then spoke the Most High, the Great, and Holy One, and sent Arsjalaljur, to the son of Lamech, and said to him:
+
+**[2.]** —Tell him in My name: hide thyself! And reveal to him the end that is approaching: for the whole earth will be destroyed, and a deluge will presently come upon the whole earth, and all that is on it, will be destroyed.
+
+**[3.]** Now instruct him that he may escape, and his seed may be preserved for all generations.
+
+**4.** Again the Lord spoke to Rafael: —Bind Azazel hand, and foot, and place him in the darkness: make an opening in the desert, which is in Dudael, and place him therein.
+
+**5.** Place upon him rough and jagged rocks, and cover him with darkness, and let him abide there for ever, and cover his face that he may not see the light.
+
+**6.** On the great day of judgment, he shall be cast into the fire.
+
+**7.** Heal the earth which the angels have defiled, and proclaim the healing of the earth, that I will heal the earth, and that all the children of men shall not perish through all the secret things that the watchers have disclosed, and have taught their sons.
+
+**8.** The whole earth has been defiled through the teaching of the works of Azazel: to him ascribe all the sin.
+
+**9.** God said to Gabriel: —Proceed against the bastards, and the reprobates, and against the children of fornication: destroy the children of fornication, and the children of the watchers from amongst men.
+
+**10.** Lead them out, and send them one against the other, that they may destroy each other in battle: for they shall not have length of days. No request that they make of you will be granted unto their fathers on their behalf although they hope to live an eternal life, and that each one of them will live five hundred years.
+
+**11.** The Lord said unto Michael: —Go, announce to Semjaza, and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness.
+
+**12.** When all their sons have slain one another, and they have seen the destruction of their beloved ones; bind them fast under the hills of the earth for seventy generations until the day of their judgment, and of their consummation, until the judgment which is for ever and ever is consummated.
+
+**13.** In those days, they will be led off to the abyss of fire: they will be confined in torment and in prison for ever and ever.
+
+**14.** Whosoever shall be condemned, and be destroyed with them from thenceforward, will be bound together with them to the end of all generations.
+
+**15.** Destroy all the lustful souls, and the children of the watchers, because they have oppressed mankind.
+
+**16.** Destroy all oppression from the face of the earth, and let every evil work come to an end: And the plant of righteousness, and uprightness will appear, labour will prove a blessing: righteousness, and uprightness will be established in joy for evermore.
+
+**17.** Then will all the righteous escape, and will live until they beget a thousand children, and all the days of their youth, and their old age, and Shabbat will they complete in peace.
+
+**18.** In those days will the whole earth be tilled in righteousness, and will all be planted with trees, and be full of blessing.
+
+**19.** All desirable trees will be planted on it, and vines will be planted on it: the vine which is planted thereon will yield wine in abundance, and of all the seed which is sown thereon will each measure bear ten thousand, and each measure of olives will yield ten presses of oil.
+
+**20.** Cleanse the earth from all oppression, and from all unrighteousness, and from all sin, and from all godlessness, and from all uncleanness which is wrought upon the earth: destroy them from off the earth.
+
+**21.** All the children of men shall become righteous, and all nations shall offer Me adoration, and praise and all will worship Me.
+
+**22.** The earth will be cleansed from all corruption, and from all sin, and from all punishment, and torment, and I will never again send upon it, from generation to generation, for ever.
+
+> **Editorial note:** The 1893 Charles edition brackets verses 1–3 as an interpolated Noah fragment and brackets verse 7 as an interpolation. Square brackets around these verse numbers record that printed structure; the source wording is retained.
 
 ---
 
