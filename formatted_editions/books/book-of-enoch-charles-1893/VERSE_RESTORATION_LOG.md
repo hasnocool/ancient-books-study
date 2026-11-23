@@ -93,6 +93,24 @@ The brackets reflect the 1893 editor's treatment of interpolated passages. In Ch
 
 > Printed page references for this table have not yet been populated; the verse numbering and interpolation boundaries were checked against the facsimile. Chapter LXXI is included as part of the Parables. The 17-verse division is recorded in Charles's later text; the 1912 edition notes a lost passage between verses 13 and 14. The repository text has no corresponding passage, and none has been reconstructed.
 
+### Book 3 — The Luminaries (Chapters LXXII–LXXXII)
+
+| Chapter | Structure in the 1893 printing | Reading file |
+|---|---|---|
+| LXXII | Verses 1–37 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXIII | Verses 1–8 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXIV | Verses 1–17 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXV | Verses 1–9; verse 5 bracketed | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXVI | Verses 1–14 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXVII | Verses 1–8 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXVIII | Verses 1–17 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXIX | Verses 1–6 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXX | Entire chapter bracketed; verses 1–8 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXXI | Entire chapter bracketed; verses 1–10 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXXII | Verses 1–12, 14, 14, 15–20 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+
+> Chapter LXXXII's numbering is irregular in the printed 1893 text: the sequence jumps from 12 to two successive 14 labels, then continues 15–20. The reading edition preserves that numbering rather than silently supplying verse 13 or changing the repeated 14.
+
 ## Text-preservation check
 
 Book 1 (Chapters I–XXXVI) and Book 2 (Chapters XXXVII–LXXI) were checked against the selected repository source after removal of inserted verse labels, editorial notes, page numbers, and source dividers. All 71 chapter bodies matched. Chapter I includes the opening blessing that appears before the table of contents in the repository transcription.
@@ -105,7 +123,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 
 ## Pending
 
-- Chapters LXXII–CVIII: restore verse structure from the printed edition.
+- Chapters LXXXIII–CVIII: restore verse structure from the printed edition.
 - Collate Chapter LXXI's lost-passage note against the 1893 printing and later Charles edition.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
