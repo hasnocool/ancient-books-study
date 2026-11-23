@@ -587,47 +587,172 @@ This is the end of the second parable.
 
 ## Chapter 65
 
-In those days Noah saw the earth that it was sinking down, and its destruction was near. He arose from thence, and went to the ends of the earth, and cried aloud to his grandfather Enoch. And Noah said three times with vehement utterance: Hear me, hear me, hear me. I said unto him: Tell me what it is that is falling out on the earth that the earth is so tired and shaken? May I not perish with it? Thereupon there was a great commotion on the earth, and a voice was heard from heaven and I fell on my face. Enoch my grandfather came and stood by me, and said unto me: —Why have you cried to me with a cry so vehement and sorrowful? A command has gone forth from the presence of the Lord concerning those who dwell on the earth that their end should be brought about, because they know all the secrets of the angels, all the violence of the Satans, all their hidden power, all the power of those who practise sorcery, the power of witchcraft, and the power of those who make molten images for the whole earth: how silver is produced from the dust of the earth, and how soft metal originates on the earth. For lead and tin are not produced from the earth like the first: it is a fountain which produces them and an angel stands therein, and that angel is an eminent one. After that my grandfather took hold of me with his hand and raised me up, and said unto me: Go, for I have asked the Lord of Spirits as touching this commotion on the earth. He said unto me: —Because of their unrighteousness, their judgment has been finally decided and it will no longer be reckoned before me, because of the months which they have searched out, and through which they know that the earth and those who dwell upon it will be destroyed. For these, there will be no place of refuge for ever, because they have shown them what was hidden, and for those who are condemned; but as for you, my son, the Lord of Spirits knows that you are pure and guiltless of this reproach concerning the secrets. He has destined your name to be among the holy and will preserve you from those who dwell on the earth, and has destined your seed in righteousness to kingship and great honours; from your seed will proceed a fountain of the righteous and holy without number for ever.
+**[1].** In those days Noah saw the earth that it was sinking down, and its destruction was near.
+
+**[2].** He arose from thence, and went to the ends of the earth, and cried aloud to his grandfather Enoch. And Noah said three times with vehement utterance: Hear me, hear me, hear me.
+
+**[3].** I said unto him: Tell me what it is that is falling out on the earth that the earth is so tired and shaken? May I not perish with it?
+
+**[4].** Thereupon there was a great commotion on the earth, and a voice was heard from heaven and I fell on my face.
+
+**[5].** Enoch my grandfather came and stood by me, and said unto me: —Why have you cried to me with a cry so vehement and sorrowful?
+
+**[6].** A command has gone forth from the presence of the Lord concerning those who dwell on the earth that their end should be brought about, because they know all the secrets of the angels, all the violence of the Satans, all their hidden power, all the power of those who practise sorcery, the power of witchcraft, and the power of those who make molten images for the whole earth:
+
+**[7].** how silver is produced from the dust of the earth, and how soft metal originates on the earth.
+
+**[8].** For lead and tin are not produced from the earth like the first: it is a fountain which produces them and an angel stands therein, and that angel is an eminent one.
+
+**[9].** After that my grandfather took hold of me with his hand and raised me up, and said unto me: Go, for I have asked the Lord of Spirits as touching this commotion on the earth.
+
+**[10].** He said unto me: —Because of their unrighteousness, their judgment has been finally decided and it will no longer be reckoned before me, because of the months which they have searched out, and through which they know that the earth and those who dwell upon it will be destroyed.
+
+**[11].** For these, there will be no place of refuge for ever, because they have shown them what was hidden, and for those who are condemned; but as for you, my son, the Lord of Spirits knows that you are pure and guiltless of this reproach concerning the secrets.
+
+**[12].** He has destined your name to be among the holy and will preserve you from those who dwell on the earth, and has destined your seed in righteousness to kingship and great honours; from your seed will proceed a fountain of the righteous and holy without number for ever.
+
+> **Editorial note:** Chapter LXV is part of the Noachic interpolation (LXV–LXIX.25) identified by Charles.
 
 ---
 
 ## Chapter 66
 
-After that he showed me the angels of punishment who are prepared to come, and let loose all the powers of the waters which are beneath in the earth in order to bring judgment and destruction, on all who live and dwell on the earth. the Lord of Spirits gave commandment to the angels who went forth, that they should not raise their hands but should wait; for those angels were over the powers of the waters. I went away from the presence of Enoch. .
+**[1].** After that he showed me the angels of punishment who are prepared to come, and let loose all the powers of the waters which are beneath in the earth in order to bring judgment and destruction, on all who live and dwell on the earth.
+
+**[2].** the Lord of Spirits gave commandment to the angels who went forth, that they should not raise their hands but should wait; for those angels were over the powers of the waters.
+
+**[3].** I went away from the presence of Enoch. .
+
+> **Editorial note:** The whole of Chapter LXVI is part of the Noachic interpolation (LXV–LXIX.25).
 
 ---
 
 ## Chapter 67
 
-In those days, the word of God came unto me and He said unto me: —Noah, your lot has come up before Me, a lot without blame, a lot of love, and uprightness. Now the angels are making a wooden building, and when they have completed that task, I will place My hand upon it and preserve it, and there will come forth from it a seed of life, and the earth will undergo a change so that it will not remain without inhabitant. I will make fast your seed before Me for ever and ever, and I will disperse those who dwell with you over the face of the earth lest they tempt, and will be blessed and will multiply on the earth in the name of the Lord.
+**[1].** In those days, the word of God came unto me and He said unto me: —Noah, your lot has come up before Me, a lot without blame, a lot of love, and uprightness.
+
+**[2].** Now the angels are making a wooden building, and when they have completed that task, I will place My hand upon it and preserve it, and there will come forth from it a seed of life, and the earth will undergo a change so that it will not remain without inhabitant.
+
+**[3].** I will make fast your seed before Me for ever and ever, and I will disperse those who dwell with you over the face of the earth lest they tempt, and will be blessed and will multiply on the earth in the name of the Lord.
 
 Judgment of the Watchers.
 
-He will imprison those angels who have shown unrighteousness in that burning valley which my grandfather Enoch, had formerly shown to me in the west, among the mountains of gold, and silver, iron, soft metal, and tin. I saw that valley in which there was a great convulsion, and a swelling of the waters. When all this took place, there was produced from that fiery molten metal, and from the convulsion wherewith they were convulsed in that place, a smell of sulphur; it was connected with those waters. And that valley of the angels who had seduced, burned continually under the earth there. Through the valleys of that land proceed streams of fire, where those angels are punished who had led astray those who dwell upon the earth. But in those days these waters will serve for the kings, the mighty, the exalted, and those who dwell on the earth, for the healing of the body, and for the punishment of the spirit, because their spirit is full of lust, that they may be punished in their body; for they have denied the Lord of Spirits, see their punishment daily and yet believe not in His name. In proportion as the burning of their bodies becomes severe, a corresponding change will take place in their spirit for ever and ever; for before the Lord of Spirits there will be none to utter a lying word. For the judgment will come upon them because they believe in the lust of their body, and have denied the Spirit of the Lord. Those same waters will undergo a change in those days; for when those angels are punished in these waters, these water springs will change their temperature, and when the angels ascend, this water of the springs will change and become cold. I heard Michael answering and saying: —This judgment wherewith the angels are judged is a testimony for the kings, the mighty, and for those who possess the earth. Because these waters of judgment minister to the healing of the body of the kings, and to the lust of their body; therefore they will not see and will not believe that those waters will change, and become a fire which burns for ever.
+**[4].** He will imprison those angels who have shown unrighteousness in that burning valley which my grandfather Enoch, had formerly shown to me in the west, among the mountains of gold, and silver, iron, soft metal, and tin.
+
+**[5].** I saw that valley in which there was a great convulsion, and a swelling of the waters.
+
+**[6].** When all this took place, there was produced from that fiery molten metal, and from the convulsion wherewith they were convulsed in that place, a smell of sulphur; it was connected with those waters.
+
+**[7].** And that valley of the angels who had seduced, burned continually under the earth there.
+
+**[8].** Through the valleys of that land proceed streams of fire, where those angels are punished who had led astray those who dwell upon the earth.
+
+**[9].** But in those days these waters will serve for the kings, the mighty, the exalted, and those who dwell on the earth, for the healing of the body, and for the punishment of the spirit, because their spirit is full of lust, that they may be punished in their body; for they have denied the Lord of Spirits, see their punishment daily and yet believe not in His name.
+
+**[10].** In proportion as the burning of their bodies becomes severe, a corresponding change will take place in their spirit for ever and ever; for before the Lord of Spirits there will be none to utter a lying word.
+
+**[11].** For the judgment will come upon them because they believe in the lust of their body, and have denied the Spirit of the Lord.
+
+**[12].** Those same waters will undergo a change in those days; for when those angels are punished in these waters, these water springs will change their temperature, and when the angels ascend, this water of the springs will change and become cold.
+
+**[13].** I heard Michael answering and saying: —This judgment wherewith the angels are judged is a testimony for the kings, the mighty, and for those who possess the earth. Because these waters of judgment minister to the healing of the body of the kings, and to the lust of their body; therefore they will not see and will not believe that those waters will change, and become a fire which burns for ever.
+
+> **Editorial note:** The whole of Chapter LXVII is part of the Noachic interpolation (LXV–LXIX.25).
 
 ---
 
 ## Chapter 68
 
-After that my grandfather Enoch, gave the signs of all the secrets in a book, and the parables which had been given to him; and he put them together for me in the words of the book of the parables. In those days Michael answered Rufael, and said: —The power of the spirit transports and provokes me: yet as regards the rigour of the judgment of the secrets, the judgment over the angels; who can endure the rigorous judgment which is passed, before which they melt away? Michael answered again, and spoke to Rufael: — Who is he whose heart is not softened concerning it, and whose reins are not troubled by this word of judgment that has been passed upon them, upon those whom they have so led out? it came to pass when he stood before the Lord of Spirits, Michael spoke so to Rufael: —I will not take their part under the eye of the Lord, for the Lord of Spirits is angry with them because they do as if they were like the Lord. Therefore all that is hidden will come upon them for ever and ever; for neither angel nor man will have his portion, but alone they undergo their judgment for ever and ever.
+**[1].** After that my grandfather Enoch, gave the signs of all the secrets in a book, and the parables which had been given to him; and he put them together for me in the words of the book of the parables.
+
+**[2].** In those days Michael answered Rufael, and said: —The power of the spirit transports and provokes me: yet as regards the rigour of the judgment of the secrets, the judgment over the angels; who can endure the rigorous judgment which is passed, before which they melt away?
+
+**[3].** Michael answered again, and spoke to Rufael: — Who is he whose heart is not softened concerning it, and whose reins are not troubled by this word of judgment that has been passed upon them, upon those whom they have so led out?
+
+**[4].** it came to pass when he stood before the Lord of Spirits, Michael spoke so to Rufael: —I will not take their part under the eye of the Lord, for the Lord of Spirits is angry with them because they do as if they were like the Lord.
+
+**[5].** Therefore all that is hidden will come upon them for ever and ever; for neither angel nor man will have his portion, but alone they undergo their judgment for ever and ever.
+
+> **Editorial note:** The whole of Chapter LXVIII is part of the Noachic interpolation (LXV–LXIX.25).
 
 ---
 
 ## Chapter 69
 
-After this judgment they will inspire fear and anger in them, because they have shown this to those who dwell on the earth. behold the names of those angels. These are their names: the first of them is Semjaza, the second Arestiqifa, the third Armen, the fourth Kokabael, the fifth Turel, the sixth Rimjal, the seventh Danel, the eighth Nuqael, the ninth Baraqel; the tenth Azazel, the eleventh Armers; the twelfth Batarjal, the thirteenth Basasael, the fourteenth AnaneL, the fifteenth Turjal, the sixteenth Simapisiel, the seventeenth Jetarel, the eighteenth Tumael, the nineteenth Tarel, the twentieth Rumael, the twenty first Izezeel. These are the chiefs of their angels, and the names of their chief ones over a hundred, over fifty, and over ten. The name of the first, Jequn: that is the one who led astray all the children of the angels, brought them down to the earth, and led them astray through the daughters of men. The second is called Asbeel: he imparted evil counsel to the children of the holy angels, and led them astray, so that they defiled their bodies with the daughters of men. The third is called Gadreel: it is he who has taught the children of men all the blows of death; he led Eve astray and showed to the sons of men the weapons of death, the coat of mail, the shield, the sword for battle, and all the weapons of death to the children of men. From his hand they have proceeded over those who dwell on the earth, from that hour for evermore. The fourth is called Penemue: he taught the children of men the bitter and the sweet, and taught them all the secrets of their wisdom. He instructed mankind in writing with ink and paper, and thereby many sinned from eternity to eternity and until this day. For when man was created to the end, it was not intended that he should give confirmation to his good faith with pen and ink in such wise. For man was created exactly like the angels, to the intent that he should continue righteous and pure; and death which destroys everything could not have taken hold of him; but through this, their knowledge, they are perishing, and through this power, it is consuming me. The fifth is called Kasdeja: he has taught the children of men all the wicked attacks of spirits and demons, the attacks of the embryo and the babe, that it may pass away; and the attacks of the soul, the bites of the serpent, the attacks which befall at noon, the son of the serpent named Tabat. This is the number of Kesbeel who showed the head of the oath to the holy ones when he dwelt high above in glory; its name is Beqa.
+**[1].** After this judgment they will inspire fear and anger in them, because they have shown this to those who dwell on the earth.
 
-He requested Michael to show this hidden name that they might mention it in the oath, so that those who revealed all that was hidden to the children of men might quake before that name and oath. This is the power of that oath, for it is powerful and strong; and He placed this oath Akae in the hand of Michael. These are the secrets of this oath: the heaven was made strong through the oath, and was suspended before the world was created and for ever: through it, the earth was founded upon the water, and from the secret recesses of the mountains come beautiful waters from the creation of the world unto eternity. Through that oath, the sea was created, and as its foundation He laid for it the sand against the time of anger and it dare not pass beyond it, from the creation of the world unto eternity. Through that oath, the depths are made fast, and abide, and stir not from their place, from eternity to eternity. Through that oath, the sun and moon complete their course and deviate not from the path prescribed to them, from eternity to eternity. Through that oath, the stars complete their course, and He calls them by their names, and they answer Him from eternity to eternity. In like manner, the spirits of the water, and of the winds, of all zephyrs, and the paths of all the bands of the spirits. In it are preserved the voices of the thunder and the light of the lightnings; in it are preserved the chambers of the hail, and of the hoar frost, the chambers of the mist, the chambers of the rain, and the dew. All these believe and give thanks before the Lord of Spirits, and glorify with all their power; and their food is nothing save thanksgiving: they thank, glorify, and extol, the name of the Lord of Spirits, for ever and ever. This oath is mighty over them, and through it they are preserved; their paths are preserved and their course is not destroyed. There was great joy amongst them, and they blessed, glorified, and extolled, because the name of the Son of Man was revealed unto them: he sat on the throne of his glory and the sum of judgment was committed unto him, the Son of Man; he caused the sinners and those who have led the world astray to pass away and be destroyed from off the face of the earth. With chains they shall be bound, and in their assemblage, place of destruction shall they be imprisoned and all their works vanish from the face of the earth. From henceforth, there will be nothing that is corruptible; for the Son of Man has appeared and sits on the throne of his glory; all evil will pass away before his face and depart. The word of the Son of Man will be strong before the Lord of Spirits. This is the third parable of Enoch.
+**[2].** behold the names of those angels. These are their names: the first of them is Semjaza, the second Arestiqifa, the third Armen, the fourth Kokabael, the fifth Turel, the sixth Rimjal, the seventh Danel, the eighth Nuqael, the ninth Baraqel; the tenth Azazel, the eleventh Armers; the twelfth Batarjal, the thirteenth Basasael, the fourteenth AnaneL, the fifteenth Turjal, the sixteenth Simapisiel, the seventeenth Jetarel, the eighteenth Tumael, the nineteenth Tarel, the twentieth Rumael, the twenty first Izezeel.
+
+**[3].** These are the chiefs of their angels, and the names of their chief ones over a hundred, over fifty, and over ten.
+
+**[4].** The name of the first, Jequn: that is the one who led astray all the children of the angels, brought them down to the earth, and led them astray through the daughters of men.
+
+**[5].** The second is called Asbeel: he imparted evil counsel to the children of the holy angels, and led them astray, so that they defiled their bodies with the daughters of men.
+
+**[6].** The third is called Gadreel: it is he who has taught the children of men all the blows of death; he led Eve astray and showed to the sons of men the weapons of death, the coat of mail, the shield, the sword for battle, and all the weapons of death to the children of men.
+
+**[7].** From his hand they have proceeded over those who dwell on the earth, from that hour for evermore.
+
+**[8].** The fourth is called Penemue: he taught the children of men the bitter and the sweet, and taught them all the secrets of their wisdom.
+
+**[9].** He instructed mankind in writing with ink and paper, and thereby many sinned from eternity to eternity and until this day.
+
+**[10].** For when man was created to the end, it was not intended that he should give confirmation to his good faith with pen and ink in such wise.
+
+**[11].** For man was created exactly like the angels, to the intent that he should continue righteous and pure; and death which destroys everything could not have taken hold of him; but through this, their knowledge, they are perishing, and through this power, it is consuming me.
+
+**[12].** The fifth is called Kasdeja: he has taught the children of men all the wicked attacks of spirits and demons, the attacks of the embryo and the babe, that it may pass away; and the attacks of the soul, the bites of the serpent, the attacks which befall at noon, the son of the serpent named Tabat.
+
+**[13].** This is the number of Kesbeel who showed the head of the oath to the holy ones when he dwelt high above in glory; its name is Beqa.
+
+**[14].** He requested Michael to show this hidden name that they might mention it in the oath, so that those who revealed all that was hidden to the children of men might quake before that name and oath.
+
+**[15].** This is the power of that oath, for it is powerful and strong; and He placed this oath Akae in the hand of Michael.
+
+**[16].** These are the secrets of this oath: the heaven was made strong through the oath, and was suspended before the world was created and for ever:
+
+**[17].** through it, the earth was founded upon the water, and from the secret recesses of the mountains come beautiful waters from the creation of the world unto eternity.
+
+**[18].** Through that oath, the sea was created, and as its foundation He laid for it the sand against the time of anger and it dare not pass beyond it, from the creation of the world unto eternity.
+
+**[19].** Through that oath, the depths are made fast, and abide, and stir not from their place, from eternity to eternity.
+
+**[20].** Through that oath, the sun and moon complete their course and deviate not from the path prescribed to them, from eternity to eternity.
+
+**[21].** Through that oath, the stars complete their course, and He calls them by their names, and they answer Him from eternity to eternity.
+
+**[22].** In like manner, the spirits of the water, and of the winds, of all zephyrs, and the paths of all the bands of the spirits.
+
+**[23].** In it are preserved the voices of the thunder and the light of the lightnings; in it are preserved the chambers of the hail, and of the hoar frost, the chambers of the mist, the chambers of the rain, and the dew.
+
+**[24].** All these believe and give thanks before the Lord of Spirits, and glorify with all their power; and their food is nothing save thanksgiving: they thank, glorify, and extol, the name of the Lord of Spirits, for ever and ever.
+
+**[25].** This oath is mighty over them, and through it they are preserved; their paths are preserved and their course is not destroyed.
+
+**26.** There was great joy amongst them, and they blessed, glorified, and extolled, because the name of the Son of Man was revealed unto them:
+
+**27.** he sat on the throne of his glory and the sum of judgment was committed unto him, the Son of Man; he caused the sinners and those who have led the world astray to pass away and be destroyed from off the face of the earth.
+
+**28.** With chains they shall be bound, and in their assemblage, place of destruction shall they be imprisoned and all their works vanish from the face of the earth.
+
+**29.** From henceforth, there will be nothing that is corruptible; for the Son of Man has appeared and sits on the throne of his glory; all evil will pass away before his face and depart. The word of the Son of Man will be strong before the Lord of Spirits. This is the third parable of Enoch.
+
+> **Editorial note:** Verses 1–25 are part of the Noachic interpolation (LXV–LXIX.25). Verses 26–29 are the conclusion of the third Similitude and are not bracketed in the 1893 edition.
 
 ---
 
 ## Chapter 70
 
-It came to pass after this that his name was carried aloft during his lifetime to the Son of Man and to the Lord of Spirits from amongst those who dwell on the earth. He was carried aloft on the chariots of the spirit, and the name vanished amongst them. From that day, I was no longer numbered amongst them; he set me between the two winds, between the North and the West, where the angels took the cords to measure for me the place for the elect and righteous. There I saw the first fathers and the righteous who from the beginning dwell in that place.
+**1.** It came to pass after this that his name was carried aloft during his lifetime to the Son of Man and to the Lord of Spirits from amongst those who dwell on the earth.
+
+**2.** He was carried aloft on the chariots of the spirit, and the name vanished amongst them. From that day, I was no longer numbered amongst them; he set me between the two winds, between the North and the West, where the angels took the cords to measure for me the place for the elect and righteous. There I saw the first fathers and the righteous who from the beginning dwell in that place.
 
 ---
 
-## Chapter 71
+## Supplementary source section — numbered Chapter 71 in the compilation
+
+> **Editorial note:** This section is present in the repository compilation but is not found in the 1893 Charles edition used for verse-structure collation. Its textual source and verse division remain unidentified; it is preserved without invented verse numbers.
+
 
 After this it came to pass that my spirit was hidden, and it ascended into the heavens: I saw the sons of the holy angels stepping on flames of fire: their garments were white, and their raiment and their faces shone like snow. I saw two streams of fire and the light of that fire shone like hyacinth; I fell on my face before the Lord of Spirits. The angel Michael, one of the archangels, seized me by my right hand and lifted me up, and introduced me to all the secrets of mercy, and the secrets of righteousness. He showed me all the secrets of the ends of the heaven, all the chambers of all the stars and of the luminaries, whence they proceed into the presence of the holy ones. The spirit translated Enoch, unto the heaven of heavens; there I saw in the midst of that light, a structure built of crystals, and between those crystals flames of living fire. My spirit saw how a fire girt that house around, on its four sides, streams full of living fire, and how they encircled that house. Round about were Seraphim, Cherubim, and Ophanim: these are they who sleep not and guard the throne of His glory. I saw angels who could not be counted; a thousand thousands and ten thousand times ten thousand, encircled that house, and Michael, Gabriel, Rufael, Fanuel, and the holy angels who are above in the heavens, go in and out of that house. There came forth from that house Michael, Gabriel, Rufael, Fanuel, and many holy angels without number. With them, the Head of Days: His head white and pure as wool, His raiment indescribable. I fell on my face and my whole body melted away, but my spirit was transfigured; I cried with a loud voice, with the spirit of power, and blessed, glorified, and extolled. These blessings which went forth out of my mouth were well pleasing before that Head of Days. That Head of Days came with Michael, Gabriel, Rufael, Fanuel, with thousands and ten thousand thousands angels without number. He came to me and greeted me with his voice, and said unto me: — You are the son of man who are born unto righteousness, and righteousness abides over you: the righteousness of the Head of Days forsakes you not. He said unto me: —He calls unto you peace in the name of the world to come; for from thence proceeds peace since the creation of the world, and so will it be with you for ever and ever, and ever. All who in the time to come walk in your ways, you whom righteousness never forsakes, their dwelling places will be with you and their heritage will be with you; they will not be separated from you for ever and ever, and ever. So there will be length of days with that Son of Man; the righteous will have peace, and to the righteous his path of uprightness in the name of the Lord of Spirits, for ever and ever.
 
