@@ -5,7 +5,7 @@ This directory contains a formatted derivative of the 1 Enoch text in the reposi
 ## What is included — and what is not
 
 - **1 Enoch chapter text:** all 108 chapter bodies in the selected repository transcription are represented across the six reading files. A normalized comparison confirms transfer from that source.
-- **Verse structure:** Chapters 1–5 now have verse divisions restored from the 1893 printing as a structural reference. Chapters 6–108 still require verse-level work.
+- **Verse structure:** Chapters 1–8 now have verse divisions restored from the 1893 printing as a structural reference. Chapters 9–108 still require verse-level work.
 - **Wording:** the existing repository wording is retained. It is not replaced with the different wording found in the 1893 printed edition.
 - **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They are a separate work and are excluded here pending their own edition.
 - **Full 1893 Charles volume:** this directory does not reproduce the complete 391-page scholarly volume, including its introductions, textual notes, appendices, Greek and Latin fragments, and indices.
@@ -14,7 +14,7 @@ This directory contains a formatted derivative of the 1 Enoch text in the reposi
 
 The heading `Enoch N.` in the repository transcription marks a chapter, not a paragraph. The original 1893 printing also numbers verses within chapters. Some chapters are genuinely short: Chapter II has three verses, Chapter III has one numbered verse, and Chapter IV is printed as one unnumbered unit. A single paragraph under a chapter heading can therefore be correct; other chapters have multiple verses which the repository transcription had flattened together.
 
-The restored first five chapters use bold verse numbers as compact paragraph labels. The verse divisions are taken from the 1893 printed edition, but the wording remains that of the repository transcription. This is explicitly a structural crosswalk, not a verbatim Charles text.
+The restored first eight chapters use bold verse numbers as compact paragraph labels. Chapter VIII's first three verse labels are bracketed because the 1893 edition brackets that passage as an interpolation. The verse divisions are taken from the 1893 printed edition, but the wording remains that of the repository transcription. This is explicitly a structural crosswalk, not a verbatim Charles text.
 
 ## Contents
 
@@ -42,7 +42,7 @@ These six divisions are retained from the repository compilation; they are not a
 
 - **Chapter coverage against selected source:** 108 of 108 chapter bodies transferred.
 - **Text transfer check:** all 108 chapter bodies match the selected repository source after normalization for whitespace, page numbers, and divider labels.
-- **Verse structure:** restored from the 1893 printing for Chapters 1–5 only; Chapters 6–108 remain pending.
+- **Verse structure:** restored from the 1893 printing for Chapters 1–8; Chapters 9–108 remain pending.
 - **Textual identity:** not a verbatim 1893 transcription. A direct comparison of Chapter I and other early passages shows wording differences between the source compilation and the printed book.
 - **2 Enoch:** 68 Slavonic sections are identified in the combined source and remain separate from this directory.
 
