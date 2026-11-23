@@ -35,6 +35,7 @@ A work may be divided into several Markdown files when that makes navigation, re
 ## Current editions
 
 - [Corpus Hermeticum — all 15 tractates and supplementary texts](./books/corpus-hermeticum-mead-1906/README.md)
+- [The Book of Enoch (1 Enoch) — R. H. Charles, 1893](./books/book-of-enoch-charles-1893/README.md)
 
 See the [catalog](./CATALOG.md) for progress and the exact source files used.
 
