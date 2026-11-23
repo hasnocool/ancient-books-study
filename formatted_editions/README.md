@@ -34,7 +34,7 @@ A work may be divided into several Markdown files when that makes navigation, re
 
 ## Current editions
 
-- [Corpus Hermeticum — Tractate I: Poemandres](./books/corpus-hermeticum-mead-1906/tractate-01-poemandres.md)
+- [Corpus Hermeticum — all 15 tractates and supplementary texts](./books/corpus-hermeticum-mead-1906/README.md)
 
 See the [catalog](./CATALOG.md) for progress and the exact source files used.
 
