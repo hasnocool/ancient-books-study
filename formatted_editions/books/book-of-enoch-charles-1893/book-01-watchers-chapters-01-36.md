@@ -343,7 +343,13 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 16
 
-In the days of murder, and of destruction, and of the death of the giants, when the spirits have gone forth from the souls of their flesh, in order to destroy without incurring judgment. So they will destroy until the day when the great consummation of the great world be consummated over the watchers, and the godless. Now as to the watchers who have sent you to intercede for them, who had been aforetime in heaven. Say to them: — You have been in heaven, and though the hidden things had not yet been revealed to you, you knew worthless mysteries, and these in the hardness of your hearts you have recounted to the women, and through these mysteries women, and men work much evil on earth. Therefore Say to them: Have no peace.
+**1.** In the days of murder, and of destruction, and of the death of the giants, when the spirits have gone forth from the souls of their flesh, in order to destroy without incurring judgment. So they will destroy until the day when the great consummation of the great world be consummated over the watchers, and the godless.
+
+**2.** Now as to the watchers who have sent you to intercede for them, who had been aforetime in heaven. Say to them: — You have been in heaven, and though the hidden things had not yet been revealed to you, you knew worthless mysteries, and these in the hardness of your hearts you have recounted to the women, and through these mysteries women, and men work much evil on earth.
+
+**4.** Therefore Say to them: Have no peace.
+
+> **Editorial note:** The 1893 printing moves from verse 2 to verse 4 in this chapter. Verse 3 is not present in that printed sequence; the reading text preserves the numbering rather than renumbering verse 4.
 
 ---
 
