@@ -38,12 +38,14 @@ Only 1 Enoch is reproduced in this directory. The Slavonic sections are delibera
 - Hard-wrapped lines are rejoined within paragraphs.
 - The opening blessing sentence in the compilation was placed at the start of Chapter I as the first-unit equivalent. Its wording is preserved from the compilation and is not a verbatim quote from Charles's 1893 printing.
 - For Chapters 1–36, verse labels follow the chapter/verse structure in Charles's 1893 printing (printed pp. 57–105). Chapter IV and Chapter XXXV are unnumbered units in that printing, so no verse number has been invented. Chapter VIII verses 1–3, Chapter IX verse 7, and Chapter X verses 1–3 are bracketed in the 1893 printing as interpolations; the reading file preserves those brackets on the verse labels.
-- Chapters 37–108 still require verse boundaries to be restored from an identified structural reference. No verse numbers are inferred from paragraph length.
+- For Chapters 37–70, verse labels follow the chapter/verse structure in Charles's 1893 printing. The 1893 editor's interpolation markers have been preserved: XXXIX.1–2; XLI.3–8; XLIII; XLIV; L; LIV.7–LV.2; LVI.5–LVII.3a; LIX; LX; and LXV–LXIX.25. The complete chapter bodies for XXXVII–LXX were compared with the selected repository source after removal of structural markup; all 34 matched.
+- The repository compilation's numbered Chapter 71 is not present in the Charles 1893 structural sequence used here. It is retained in Book 2 as a supplementary source section without invented verse numbering.
+- Chapters LXXII–CVIII still require verse boundaries to be restored. No verse numbers are inferred from paragraph length.
 - No spelling or wording has been silently modernized or repaired in the formatted derivative.
 
 ## Completeness and verification
 
-A normalized comparison was performed between the 108 chapter bodies in the selected repository transcription and the 108 chapter bodies in the formatted files. All 108 matched after normalization for whitespace, standalone page numbers, and source divider labels. This verifies transfer from the selected repository transcription; it does **not** establish that the selected transcription itself is complete or textually identical to the 1893 printed edition.
+A normalized comparison was performed between all 108 numbered chapter bodies in the selected repository transcription and the formatted files. The first 70 bodies were rechecked after verse restoration: 36 Book 1 chapters and 34 Book 2 chapters matched after normalization of whitespace, page numbers, source dividers, and editorial markup. The supplementary compilation Chapter 71 is retained separately. The remaining 72–108 files have their original first-pass chapter-body transfer check; verse-level restoration remains outstanding. This verifies transfer from the selected repository transcription; it does **not** establish that the selected transcription itself is complete or textually identical to the 1893 printed edition.
 
 The complete 1893 volume contains substantially more than the Enoch narrative: it includes general and special introductions, critical and exegetical notes, appendices, Greek and Latin fragments, and indices. Those scholarly materials are outside the scope of this reading-text derivative.
 
