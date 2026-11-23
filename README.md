@@ -13,6 +13,7 @@ The repository is primarily a **document collection**, not an application. Most 
 | [`books_03/`](./books_03/) | Pseudepigrapha, Egyptology, chemistry, mythology, classical texts, and comparative ancient literature. |
 | [`books_04/`](./books_04/) | Enochic and Hermetic literature, ancient science and medicine, papyri, Kabbalah, archaeology, and astronautic or alternative-history works. |
 | [`books_05/`](./books_05/) | A broader combined collection covering architecture, archaeology, ancient engineering, translations, religious texts, and esoteric studies. |
+| [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading editions, editorial standards, templates, and progress catalog. |
 
 The numbered directories record collection batches or additions rather than strict subject taxonomies. Some documents are duplicated between directories under the same or slightly different filenames.
 
@@ -26,6 +27,10 @@ The numbered directories record collection batches or additions rather than stri
 - [`Corpus_Hermeticum_Mead_1906.txt`](./books_04/Corpus_Hermeticum_Mead_1906.txt)
 - [`The Rhind Papyrus Volume 1.txt`](./books_05/The_Rhind_Papyrus_Volume_1.txt)
 - [`Voynich Manuscript.txt`](./books_05/Voynich_Manuscript.txt)
+
+## Formatted reading editions
+
+The original numbered source collections are preserved unchanged. Structured reading editions are maintained separately in [`formatted_editions/`](./formatted_editions/), with a style guide, reusable template, source catalog, and verification status for each work.
 
 ## Using the collection
 
