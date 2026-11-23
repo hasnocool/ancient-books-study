@@ -189,7 +189,7 @@ Second Parable.
 
 **3.** I asked the angel who went with me and showed me all the hidden things, concerning that Son of Man: who he was, whence he was, and why he went with the Head of Days?
 
-**4.** He answered, and said unto me: —This is the Son of Man who has righteousness, with whom dwells righteousness, and who reveals all the treasures of that which is hidden. The Lord of Spirits has chosen him because his lot before the Lord of Spirits has surpassed everything in uprightness for ever.
+**4.** He answered, and said unto me: —This is the Son of Man who has righteousness, with whom dwells righteousness, and who reveals all the treasures of that which is hidden. The Lord of Spirits has chosen him because his lot before the Lord of Spirits has surpassed everything in uprightness for ever
 
 **5.** this Son of Man whom you has seen will arouse the kings, and the mighty ones from their couches, and the strong from their thrones, and will loosen the reins of the strong, and grind to powder the teeth of the sinners.
 
