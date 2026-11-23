@@ -9,13 +9,13 @@
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
 - **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
-- **Status:** Verse structure restored for Chapters 1–15; Chapters 16–36 remain chapter-only; textual collation outstanding
+- **Status:** Verse structure restored for Chapters 1–36; Chapters 37–108 remain to be restored; textual collation outstanding
 
 ## Editorial statement
 
-The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but direct comparison shows that the supplied wording is not a verbatim transcription of that printing. The text below therefore preserves the repository's own wording. For Chapters 1–15, verse divisions and numbering have been restored from the 1893 edition as a structural reference only; no wording has been silently replaced with Charles's printed translation.
+The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but direct comparison shows that the supplied wording is not a verbatim transcription of that printing. The text below therefore preserves the repository's own wording. For Chapters 1–36, verse divisions and numbering have been restored from the 1893 edition as a structural reference only; no wording has been silently replaced with Charles's printed translation.
 
-Chapters 6–36 still await verse-level restoration. Hard-wrapped lines, standalone page numbers, and source book-divider labels were normalized during the initial formatting pass. The separate Slavonic *Book of the Secrets of Enoch* (2 Enoch) remains excluded from this 1 Enoch edition.
+Chapters 1–36 now have verse-level structure restored. Chapter IV and Chapter XXXV are unnumbered units in the 1893 printing; Chapter VIII verses 1–3, Chapter IX verse 7, and Chapter X verses 1–3 are bracketed as interpolations; Chapter XVI preserves the printed numbering gap from verse 2 to verse 4. Chapters 37–108 still await verse-level restoration. Hard-wrapped lines, standalone page numbers, and source book-divider labels were normalized during the initial formatting pass. The separate Slavonic *Book of the Secrets of Enoch* (2 Enoch) remains excluded from this 1 Enoch edition.
 
 ---
 
