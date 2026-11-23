@@ -19,17 +19,9 @@ The combined source also interleaves chapters from the separate Slavonic *Book o
 
 ---
 
-## Opening statement retained from the source compilation
-
-The repository source places the following sentence before its table of contents rather than within the numbered chapter text:
-
-> These are the words of blessing of Enoch, wherewith he blessed the elect and righteous; those who will be living in the day of tribulation, when all the wicked and godless are to be removed.
-
-This opening statement is preserved here as unnumbered prefatory text; it has not been silently merged into Chapter 1.
-
----
-
 ## Chapter 1
+
+These are the words of blessing of Enoch, wherewith he blessed the elect and righteous; those who will be living in the day of tribulation, when all the wicked and godless are to be removed.
 
 Enoch answered and spoke: I, Enoch, a righteous, whose eyes were opened by God, that he might see a vision of the Holy One in the heavens, which the angels showed me, and from them I heard everything, and I understood what I saw, but not for this generation but for the remote generations which are for to come. Concerning the elect I spoke, and uttered a parable concerning them: the Holy, and Great One will come forth from His dwelling, the God of the world. Going from thence He will tread on Mount Sinai, and appear with His hosts, and in the strength of His might appear from heaven. Everyone will be smitten with fear, and the watchers will quake, and great fear and trembling will seize them unto the ends of the earth. The high mountains will be shaken, and the high hills will be made low, and will melt like wax before the flame. The earth will be rent, and all that is upon the earth will perish, and there will be a judgment upon everything, and upon all the righteous. But to the righteous, He will give peace, and will protect the elect, and grace will be upon them, and they will all belong to God, and it will be well with them, and they will be blessed, and the light of God will shine upon them. Lo! He comes with ten thousands of His holy ones to execute judgment upon them, and He will destroy the ungodly, and will convict all flesh of all that the sinners, and ungodly have wrought, and ungodly committed against Him.
 
