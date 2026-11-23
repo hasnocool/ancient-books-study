@@ -89,12 +89,13 @@ The brackets reflect the 1893 editor's treatment of interpolated passages. In Ch
 | LXVIII | Noachic interpolation; verses 1–5 bracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
 | LXIX | Verses 1–25 bracketed; verses 26–29 unbracketed | — | [Book 2](./book-02-parables-chapters-37-71.md) |
 | LXX | Verses 1–2 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
+| LXXI | Verses 1–17; first vision 1–4, second vision 5–17 | — | [Book 2](./book-02-parables-chapters-37-71.md) |
 
-> Printed page references for this table have not yet been populated; the verse numbering and interpolation boundaries were checked against the facsimile. The compilation's additional Chapter 71 is preserved as a separate source-only section and is not assigned a Charles 1893 verse structure.
+> Printed page references for this table have not yet been populated; the verse numbering and interpolation boundaries were checked against the facsimile. Chapter LXXI is included as part of the Parables. The 17-verse division is recorded in Charles's later text; the 1912 edition notes a lost passage between verses 13 and 14. The repository text has no corresponding passage, and none has been reconstructed.
 
 ## Text-preservation check
 
-The chapter bodies for Chapters II–X were compared with the selected repository source after removing the inserted verse labels and editorial notes; all matched. Chapter I also contains the opening blessing that appears before the table of contents in the repository transcription, so the comparison must include that prefatory sentence as the start of Chapter I.
+Book 1 (Chapters I–XXXVI) and Book 2 (Chapters XXXVII–LXXI) were checked against the selected repository source after removal of inserted verse labels, editorial notes, page numbers, and source dividers. All 71 chapter bodies matched. Chapter I includes the opening blessing that appears before the table of contents in the repository transcription.
 
 This confirms that the verse markup did not change the transferred source wording. It does not establish that the repository's underlying wording is identical to the 1893 edition.
 
@@ -105,7 +106,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 ## Pending
 
 - Chapters LXXII–CVIII: restore verse structure from the printed edition.
-- Identify the textual source of the compilation's supplementary Chapter 71.
+- Collate Chapter LXXI's lost-passage note against the 1893 printing and later Charles edition.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Decide whether to retain this repository text as a distinct derivative or create a separate exact Charles 1893 edition alongside it.
