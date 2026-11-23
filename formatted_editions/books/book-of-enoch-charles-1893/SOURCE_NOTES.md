@@ -38,3 +38,12 @@ Only 1 Enoch chapters 1–108 are reproduced in this directory. The Slavonic sec
 ## Verification and rights
 
 The underlying 1893 printed edition is identifiable through library catalog records. That does not by itself certify every line of the repository's combined transcription or the copyright status of every later-added editorial element. This derivative excludes the modern Knibb text and the combined source's non-1-Enoch Slavonic sections, and still requires collation with the historical facsimile. Confirm applicable rights before redistribution in any jurisdiction.
+
+
+## Bibliographic cross-check
+
+- [Open Library record for the 1893 edition](https://openlibrary.org/works/OL16305356W/The_book_of_Enoch) identifies the work as *The Book of Enoch* (1893), translated from Professor Dillmann's Ethiopic text and associated with R. H. Charles.
+- [Wikisource transcription of the Charles translation](https://en.wikisource.org/wiki/The_Book_of_Enoch_%28Charles%29) provides a chapter-by-chapter comparison reference.
+- A [digitized 1893 scan](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf) is available for facsimile collation.
+
+These links identify the historical edition and comparison references. They do not substitute for checking the repository text line by line against the scan.
