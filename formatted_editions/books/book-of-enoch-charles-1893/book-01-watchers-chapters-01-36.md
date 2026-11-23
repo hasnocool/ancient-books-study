@@ -463,25 +463,79 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 ## Chapter 22
 
-Then I went to another place, and he showed me in the west a great high mountain and hard rocks, and four beautiful places. There were there deep and wide places perfectly smooth, as smooth as something which rolls, and deep, and black to look at. This time Rufael answered me, one of the holy angels who was with me and spoke to me: —These hollow places, whereon the spirits of the souls of the dead are assembled, have been created to this very end, that all the souls of the children of men should assemble here. These places are appointed as their habitation until the day of their judgment, and until their appointed period, and this appointed period is long until the great judgment comes upon them. I saw the spirits of the children of men who were dead, and their voice penetrated to the heaven and complained. This time I asked the angel Rufael who was with me, and spoke to him: Whose spirit is that one yonder whose voice so penetrates and complains? He answered me, and spoke so to me saying: —This is the spirit which went forth from Abel, whom his brother Cain slew, and he keeps complaining of him until his seed is destroyed from the face of the earth, and his seed disappears from amongst the seed of men. Therefore at that time I asked regarding him, and regarding the judgment of all: Why is one separated from the other? He answered me and spoke to me: —These three divisions are made to separate the spirits of the dead. And the souls of the righteous are so separated: there is a spring of water, and light above it. Such likewise has been made for sinners when they die, and are buried in the earth without incurring judgment in their lifetime. Here their souls are placed apart in this great pain, until the great day of judgment and punishment, and torture of the revilers for ever, and vengeance for their souls: there they will be bound for ever. Such a division has been made for the souls of those who complain, and make known their destruction when they were slain in the days of the sinners. So it has been made for the souls of men who were not righteous, but sinners complete in their crimes: they will be with criminals like themselves; but their souls will not be slain on the day of judgment, nor will they be raised from thence. Then I blessed the Lord of glory, and said: Blessed be my Lord, the Lord of righteousness, who rules for ever!
+**1.** Then I went to another place, and he showed me in the west a great high mountain and hard rocks, and four beautiful places.
+
+**2.** There were there deep and wide places perfectly smooth, as smooth as something which rolls, and deep, and black to look at.
+
+**3.** This time Rufael answered me, one of the holy angels who was with me and spoke to me: —These hollow places, whereon the spirits of the souls of the dead are assembled, have been created to this very end, that all the souls of the children of men should assemble here.
+
+**4.** These places are appointed as their habitation until the day of their judgment, and until their appointed period, and this appointed period is long until the great judgment comes upon them.
+
+**5.** I saw the spirits of the children of men who were dead, and their voice penetrated to the heaven and complained.
+
+**6.** This time I asked the angel Rufael who was with me, and spoke to him: Whose spirit is that one yonder whose voice so penetrates and complains?
+
+**7.** He answered me, and spoke so to me saying: —This is the spirit which went forth from Abel, whom his brother Cain slew, and he keeps complaining of him until his seed is destroyed from the face of the earth, and his seed disappears from amongst the seed of men.
+
+**8.** Therefore at that time I asked regarding him, and regarding the judgment of all: Why is one separated from the other?
+
+**9.** He answered me and spoke to me: —These three divisions are made to separate the spirits of the dead. And the souls of the righteous are so separated: there is a spring of water, and light above it.
+
+**10.** Such likewise has been made for sinners when they die, and are buried in the earth without incurring judgment in their lifetime.
+
+**11.** Here their souls are placed apart in this great pain, until the great day of judgment and punishment, and torture of the revilers for ever, and vengeance for their souls: there they will be bound for ever.
+
+**12.** Such a division has been made for the souls of those who complain, and make known their destruction when they were slain in the days of the sinners.
+
+**13.** So it has been made for the souls of men who were not righteous, but sinners complete in their crimes: they will be with criminals like themselves; but their souls will not be slain on the day of judgment, nor will they be raised from thence.
+
+**14.** Then I blessed the Lord of glory, and said: Blessed be my Lord, the Lord of righteousness, who rules for ever!
 
 ---
 
 ## Chapter 23
 
-From thence I went to another place towards the west, unto the ends of the earth. I saw a burning fire which ran without resting, and paused not from its course day or night but regularly. I asked, saying: What is this which rests not? This time Raguel, one of the holy angels who was with me, answered and spoke to me: —This burning fire in the direction of the west, the course of which you have seen all the luminaries of heaven.
+**1.** From thence I went to another place towards the west, unto the ends of the earth.
+
+**2.** I saw a burning fire which ran without resting, and paused not from its course day or night but regularly.
+
+**3.** I asked, saying: What is this which rests not?
+
+**4.** This time Raguel, one of the holy angels who was with me, answered and spoke to me: —This burning fire in the direction of the west, the course of which you have seen all the luminaries of heaven.
 
 ---
 
 ## Chapter 24
 
-From thence I went to another place of the earth, and he showed me a mountain range of fire which flamed day, and night. I approached it and saw seven magnificent mountains, each different from the other, and magnificent beautiful stones, magnificent as a whole, of glorious appearance and fair exterior: three towards the east: one founded on the other, and three towards the south: one upon the other, and deep winding ravines; no one of which joined with any other. The seventh mountain was between these, and in their elevation they all resemble the seats of a throne:, and the throne was encircled with fragrant trees. Amongst them was a tree such as I had never yet smelt. Neither was any amongst them nor were others like it; it had a fragrance beyond all fragrance: its leaves, and blooms, and wood wither not for ever:, and its fruit is beautiful, and it resembles the dates of a palm. On this occasion I said: Behold this beautiful tree, beautiful to look upon; its leaves are fair and its fruit very delightful to the eye. Then answered Michael, one of the holy, and honoured angels who was with me, and was in charge thereof.
+**1.** From thence I went to another place of the earth, and he showed me a mountain range of fire which flamed day, and night.
+
+**2.** I approached it and saw seven magnificent mountains, each different from the other, and magnificent beautiful stones, magnificent as a whole, of glorious appearance and fair exterior: three towards the east: one founded on the other, and three towards the south: one upon the other, and deep winding ravines; no one of which joined with any other.
+
+**3.** The seventh mountain was between these, and in their elevation they all resemble the seats of a throne:, and the throne was encircled with fragrant trees.
+
+**4.** Amongst them was a tree such as I had never yet smelt. Neither was any amongst them nor were others like it; it had a fragrance beyond all fragrance: its leaves, and blooms, and wood wither not for ever:, and its fruit is beautiful, and it resembles the dates of a palm.
+
+**5.** On this occasion I said: Behold this beautiful tree, beautiful to look upon; its leaves are fair and its fruit very delightful to the eye.
+
+**6.** Then answered Michael, one of the holy, and honoured angels who was with me, and was in charge thereof.
 
 ---
 
 ## Chapter 25
 
-He spoke to me: —Enoch, what do you ask as touching the fragrance of this tree, and what do you seek to know? Then I, Enoch answered him and said: I should like to know about everything, but especially about this tree. He answered me, and said: —This high mountain which you has seen, whose summit is like the throne of the Lord, is His throne, where the Holy and Great One, the Lord of Glory, the Eternal King, will sit when He shall come down to visit the earth with goodness. No mortal is permitted to touch this tree of delicious fragrance until the great day of judgment, when He shall avenge and bring everything to its consummation for ever. This tree, I say, will be given to the righteous and humble. By its fruit life will be given to the elect: it will be transplanted to the north, to the holy place, to the temple of the Lord, the Eternal King. Then they will rejoice with joy and be glad: they will enter the holy habitation: the fragrance thereof will be in their limbs, and they will live a long life on earth such as your fathers have lived. And in their days no sorrow or pain or trouble or calamity will affect them. Then I blessed the Lord of Glory, the Eternal King, because He has prepared such for the righteous, and has created it and promised to give it to them.
+**1.** He spoke to me: —Enoch, what do you ask as touching the fragrance of this tree, and what do you seek to know?
+
+**2.** Then I, Enoch answered him and said: I should like to know about everything, but especially about this tree.
+
+**3.** He answered me, and said: —This high mountain which you has seen, whose summit is like the throne of the Lord, is His throne, where the Holy and Great One, the Lord of Glory, the Eternal King, will sit when He shall come down to visit the earth with goodness.
+
+**4.** No mortal is permitted to touch this tree of delicious fragrance until the great day of judgment, when He shall avenge and bring everything to its consummation for ever.
+
+**5.** This tree, I say, will be given to the righteous and humble. By its fruit life will be given to the elect: it will be transplanted to the north, to the holy place, to the temple of the Lord, the Eternal King.
+
+**6.** Then they will rejoice with joy and be glad: they will enter the holy habitation: the fragrance thereof will be in their limbs, and they will live a long life on earth such as your fathers have lived. And in their days no sorrow or pain or trouble or calamity will affect them.
+
+**7.** Then I blessed the Lord of Glory, the Eternal King, because He has prepared such for the righteous, and has created it and promised to give it to them.
 
 ---
 
