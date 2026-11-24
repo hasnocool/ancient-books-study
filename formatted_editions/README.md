@@ -38,7 +38,7 @@ See the [completeness audit](./COMPLETENESS_AUDIT.md) before treating any format
 
 - [Corpus Hermeticum — all 15 tractates and supplementary texts](./books/corpus-hermeticum-mead-1906/README.md)
 - [The Book of Enoch (1 Enoch) — source-attributed reading edition](./books/book-of-enoch-charles-1893/README.md) ([verse restoration log](./books/book-of-enoch-charles-1893/VERSE_RESTORATION_LOG.md); structure restored through Chapter CVIII)
-- [The Book of the Secrets of Enoch (2 Enoch) — 68-chapter formatted draft](./books/book-of-the-secrets-of-enoch-morfill-1896/README.md)
+- [The Book of the Secrets of Enoch (2 Enoch) — 68 chapters plus appendix](./books/book-of-the-secrets-of-enoch-morfill-1896/README.md)
 
 See the [catalog](./CATALOG.md) for progress and the exact source files used.
 
