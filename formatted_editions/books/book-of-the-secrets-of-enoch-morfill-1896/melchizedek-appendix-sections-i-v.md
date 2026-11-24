@@ -170,7 +170,7 @@ The following fragment of the Melchizedekian literature was found by Professor S
 
 **30.** And Nir rose from his sleep, and blessed the Lord, who had appeared unto him, saying : ' Blessed is the Lord God of my fathers, who has spoken unto me, {some, MSS. add—who will not allow the depreciation of my priesthood in the priesthood of my fathers, as thy word), who made a great priest in my days in the womb of my wife Sopanima.
 
-**[Verse 31 — variant]** Some MSS. add: Because I had no family and this child shall be to me in the place of my family, and shall be as a son to me, and thou shalt honour him with Thy servants the priests, with Seth, and Enoch, and Tharasidam, Maleleil, and Enos, and thy servant, and thus Melchizedek shall be a priest in another generation.
+**[Verse 31 — variant]** {Some MSS. add— Because I had no family and this child shall be to me in the place of my family, and shall be as a son to me, and thou shalt honour him with Thy servants the priests, with Seth, and Enoch, and Tharasidam, Maleleil, and Enos, and thy servant, and thus Melchizedek shall be a priest in another generation.
 
 **32.** For I know that this generation shall end in confusion, and all shall perish. And Noe, my brother, shall be preserved in that day.
 
