@@ -165,7 +165,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 - Chapter XCVIII: verses 1–16 restored; normalized source-body match passed. OCR marker 56 retained.
 - Chapter XCIX: verses 1–16 restored; normalized source-body match passed.
 - Chapter C: verses 1–13 restored; normalized source-body match passed. OCR marker 57 retained.
-- Chapters XCI–CVIII are now verse-restored. OCR page/footnote markers are retained as source artifacts, not interpreted as verse numbers.
+- Chapters XCI–CVIII have verse labels inserted, with the order caveats noted above. OCR page/footnote markers are retained as source artifacts, not interpreted as verse numbers.
 - Collate Chapter LXXI's lost-passage note against the 1893 printing and later Charles edition.
 - Collate the repository wording against the 1893 facsimile and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Decide whether to retain this repository text as a distinct derivative or create a separate exact Charles 1893 edition alongside it.
