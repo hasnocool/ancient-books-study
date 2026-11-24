@@ -2,7 +2,7 @@
 
 > Appendix sections I–V in the 1896 edition. Later retypes sometimes number these chapters 69–73; this edition keeps the appendix's printed I–V labels.
 
-**Status:** Complete appendix coverage from the repository's standalone 1896 OCR, with verse structure normalized from the printed numbering and cross-checked against a clean retype. OCR wording and readings remain uncollated against page images.
+**Status:** Complete appendix coverage from the repository's standalone 1896 OCR. Verse structure is normalized from the printed numbering and cross-checked against a clean retype; OCR wording and readings remain uncollated against page images.
 
 ## Appendix introduction (1896)
 
@@ -116,7 +116,7 @@ The following fragment of the Melchizedekian literature was found by Professor S
 
 **3.** When Sopanima knew of lier conception she was ashamed, and felt humbled, and concealed herself all the days, till she brought forth, and no one of the people knew.
 
-**4.** And when days were accomplished and the day of birth began to draw near, Nir remembered about his wife, and called her to himself in his house, that he might talk to her.
+**4.** And when 282 days were accomplished and the day of birth began to draw near, Nir remembered about his wife, and called her to himself in his house, that he might talk to her.
 
 **5.** And Sopanima came to Nir, her husband, being with child, and the appointed day of the birth was drawing near.
 
@@ -214,7 +214,7 @@ The following fragment of the Melchizedekian literature was found by Professor S
 
 ## Appendix Section V
 
-**1.** And God called Noe on the mountain of Ararat, between Assyria, and Armenia, in the land of Arabia, by the sea, and said to him : ' Make there an ark of 300 ells in length, and in breadth ells, and in height 30, and two stories in the midst, and the doors about an ell.
+**1.** And God called Noe on the mountain of Ararat, between Assyria, and Armenia, in the land of Arabia, by the sea, and said to him : ' Make there an ark of 300 ells in length, and in breadth 50 ells, and in height 30, and two stories in the midst, and the doors about an ell.
 
 **2.** And of those 300 ells, and of ours 15,000, and so of those 50, and of ours 2000 and 500, and so of those 30, and of ours 900, and of those one ell, and of ours 50.'
 
@@ -242,3 +242,4 @@ The following fragment of the Melchizedekian literature was found by Professor S
 
 - Appendix Section III, verse 31 is a manuscript variant; the source footnote says the verse is not found in all manuscripts. The variant text is retained and labelled.
 - Appendix Section IV includes a source note identifying a reading as a variant of Section III, verse 37; the note is moved here rather than left in the body.
+- Page-number lines 86–93 were removed. Standalone numbers inside the text (for example 50, 100, and 282) are retained as text, not mistaken for page furniture.
