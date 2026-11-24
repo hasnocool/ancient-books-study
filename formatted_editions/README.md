@@ -39,6 +39,9 @@ See the [completeness audit](./COMPLETENESS_AUDIT.md) before treating any format
 - [Corpus Hermeticum — all 15 tractates and supplementary texts](./books/corpus-hermeticum-mead-1906/README.md)
 - [The Book of Enoch (1 Enoch) — source-attributed reading edition](./books/book-of-enoch-charles-1893/README.md) ([verse restoration log](./books/book-of-enoch-charles-1893/VERSE_RESTORATION_LOG.md); structure restored through Chapter CVIII)
 - [The Book of the Secrets of Enoch (2 Enoch) — 68 chapters plus appendix](./books/book-of-the-secrets-of-enoch-morfill-1896/README.md)
+- [The Gospel of Thomas — Mark M. Mattison public-domain translation](./books/gospel-of-thomas-mattison-public-domain/README.md)
+- [Vitruvius — The Ten Books on Architecture (Morgan/Warren, 1914)](./books/vitruvius-morgan-1914/README.md)
+- [Sefer ha-Yashar / Book of Jasher — Moses Samuel (1840)](./books/book-of-jasher-samuel-1840/README.md)
 
 See the [catalog](./CATALOG.md) for progress and the exact source files used.
 
