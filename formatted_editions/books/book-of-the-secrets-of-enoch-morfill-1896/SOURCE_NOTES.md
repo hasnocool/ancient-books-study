@@ -1,28 +1,29 @@
-# Source notes — 2 Enoch (Morfill/Charles, 1896)
+# Source notes — 2 Enoch (Morfill/Charles 1896)
 
-## Selected transcription
+## Selected source
 
-`books_02/The Book of Enoch.txt` is a combined transcription of Ethiopic 1 Enoch and Slavonic 2 Enoch. Its Slavonic sections are explicitly labelled `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. This edition extracts only those 68 numbered sections and keeps them separate from 1 Enoch.
+`texts/jewish-morfill/2-enoch.usfm` in [rewtraw/anagnosis-texts](https://github.com/rewtraw/anagnosis-texts) is a structured transcription of:
 
-The integrated source attributes the Slavonic translation to Professors Morfill and Sokoloff and Charles (1896). The separately archived source file is:
+W. R. Morfill, trans.; R. H. Charles, ed., *The Book of the Secrets of Enoch* (Oxford: Clarendon Press, 1896).
 
-`books_05/The Book of the Secrets of Enoch translated from the Slavonic by W R Morfill 1896.txt`
+Its source note states that the text was character-level OCR collated and corrected by hand from two scans of the 1896 edition (Archive items `bookofsecretsofe00morf` and `cu31924014633568`). It excludes Charles's introduction, apparatus, commentary, and the Melchizedek appendix.
 
-Its title page identifies W. R. Morfill as translator and R. H. Charles as editor (Oxford, Clarendon Press, 1896). It is a Cornell University Library OCR transcription of archive item `cu31924014633568`.
+## Chapter mapping
 
-- [Internet Archive / Cornell scan identifier](https://archive.org/details/cu31924014633568)
-- Cornell OCR source note: “There are no known copyright restrictions in the United States on the use of the text.”
+The USFM file has 69 numbered blocks:
+- Block 1 is the prologue (displayed separately).
+- Blocks 2–69 map to the 68 main chapters.
 
-The standalone OCR was used to confirm bibliographic identity, not to replace the selected integrated transcription. No line-by-line collation between these two OCR sources or the facsimile has yet been completed.
+The formatted files preserve 68 chapter headings and 360 numbered verses, plus the prologue. Verse labels are inherited from the selected transcription, not invented here.
 
-## Transfer QA
+## Comparison sources in this repository
 
-- Source sections located: 68/68, numbered 1–68.
-- Extracted chapter bodies: 68/68.
-- Existing notes reported a 68/68 normalized transfer check. A fresh independent audit did not reproduce that result: 53 chapters matched under a simple whitespace/layout normalization; 15 chapters showed unresolved differences, likely including ambiguous boundaries and text handling. This is not enough to identify the precise errors, so body completeness is now marked unverified.
-- No verse numbers were invented or added.
-- OCR artifacts, uncertain readings, and textual variants remain for future collation.
+- `books_02/The Book of Enoch.txt`: combined transcription with Slavonic 2 Enoch sections interleaved with 1 Enoch. It is unsuitable for direct chapter extraction without filtering 1 Enoch insertions.
+- `books_05/The Book of the Secrets of Enoch translated from the Slavonic by W R Morfill 1896.txt`: OCR of the standalone Morfill/Charles volume, including front matter, notes, and the Melchizedek appendix. It remains a comparison witness; no independent full collation against it or the scan has been completed.
 
-## Rights caveat
+## Textual limits
 
-The source file reports no known copyright restrictions in the United States. This is not a legal determination for every jurisdiction, nor does it automatically clear the rights in modern OCR, scans, annotations, or digital transcription.
+- Main chapters 1–68 and prologue are included.
+- The Melchizedekian appendix (five printed sections, commonly numbered 69–73 in later retypes) is pending as a separate file.
+- No modern translation has been silently substituted.
+- This formatted draft is not a critical edition and is not independently verified against the facsimile.
