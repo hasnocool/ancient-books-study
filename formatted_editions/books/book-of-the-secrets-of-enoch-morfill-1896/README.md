@@ -1,34 +1,35 @@
-# The Book of the Secrets of Enoch (2 Enoch) — formatted source draft
+# The Book of the Secrets of Enoch (2 Enoch) — Morfill/Charles 1896
 
-This is a separate formatted edition of the **Slavonic Enoch** material, not a continuation or alternate chapter numbering for 1 Enoch.
+**2 Enoch is a separate work from 1 Enoch.** This edition contains the 68 main chapters of the Slavonic Enoch, with verse numbering retained, and the prologue shown separately.
 
-## Scope
+## Scope and text base
 
-- **68 numbered chapters/sections:** all sections labelled `Enoch Slavonic 1.` through `Enoch Slavonic 68.` in the selected integrated transcription.
-- **Source base:** `books_02/The Book of Enoch.txt`, where the Slavonic material is interleaved with 1 Enoch. Only those 68 Slavonic sections are extracted here.
-- **Bibliographic identification:** the source compilation attributes this Slavonic translation to W. R. Morfill / Sokoloff and Charles (1896). The separately archived OCR file `books_05/The Book of the Secrets of Enoch translated from the Slavonic by W R Morfill 1896.txt` identifies W. R. Morfill as translator and R. H. Charles as editor.
-- **Textual status:** four reading files contain chapter labels 1–68. Because source markers in the integrated transcription are out of numerical order/interleaved, an independent normalized transfer audit did not pass all chapters. Treat body completeness as unverified pending boundary review. This does **not** establish a verbatim transcription of the 1896 printing.
-- **Verse divisions:** not restored. The 68 chapter divisions are source section headings, not paragraphs invented by this project.
-- **Editorial apparatus:** the separate Morfill/Charles source contains introduction, notes, and apparatus. Those are not included in this reading draft; no critical notes have been silently blended into the text.
+- **68 main chapters / 360 numbered verses**, plus the prologue.
+- The chapter/verse text is based on the manually collated USFM transcription at [rewtraw/anagnosis-texts](https://github.com/rewtraw/anagnosis-texts/blob/main/texts/jewish-morfill/2-enoch.usfm). Its source note says it was collated and corrected from two scans of W. R. Morfill and R. H. Charles, *The Book of the Secrets of Enoch* (Oxford: Clarendon Press, 1896).
+- The source transcription excludes Charles's introduction, critical apparatus, commentary, and the Melchizedek appendix.
+- The repository's own OCR files `books_02/The Book of Enoch.txt` and `books_05/The Book of the Secrets of Enoch translated from the Slavonic by W R Morfill 1896.txt` are retained as comparison witnesses. The combined `books_02` transcription interleaves 2 Enoch with 1 Enoch, so it was **not** used as the chapter extraction base.
+- No paraphrase or modernization is intended. This is a formatted transcription draft; it has not been independently collated by this project against page images.
 
-## Reading files
+## Files
 
 | Chapters | File |
 |---|---|
-| 1–17 | [Chapters 1–17](./chapters-01-17.md) |
+| Prologue + 1–17 | [Chapters 1–17](./chapters-01-17.md) |
 | 18–34 | [Chapters 18–34](./chapters-18-34.md) |
 | 35–51 | [Chapters 35–51](./chapters-35-51.md) |
 | 52–68 | [Chapters 52–68](./chapters-52-68.md) |
 
+## Appendix
+
+The 1896 edition also prints a Melchizedekian appendix in five sections (I–V), often numbered 69–73 in later retypes. That appendix is not part of the 68 main chapters and is **not yet included**. It will be formatted separately from the standalone OCR source.
+
 ## Formatting
 
-- Chapter numbers are preserved from the 68 Slavonic source headings.
-- Some OCR page-number lines and hard-wrap artifacts were removed in the earlier formatting pass; the exact removal decisions require a renewed audit.
-- Hard-wrapped lines were joined; some line-ending hyphens were removed.
-- Paragraph breaks were retained where the source contains blank lines.
-- No paraphrase or modernization was performed.
-- Verse restoration and comparison against the standalone 1896 scan remain future work.
+- Chapter and verse labels follow the collated USFM source.
+- Original print-page markers were omitted from the reading files.
+- Paragraph breaks are formatting only; they do not create chapter divisions.
+- Source variants, brackets, and supplied readings are retained where present in the source transcription.
 
-## Provenance and rights
+## Rights and provenance
 
-See [SOURCE_NOTES.md](./SOURCE_NOTES.md). The Cornell scan metadata states that no known copyright restrictions apply in the United States; confirm rights independently for other jurisdictions and for any modern digital transcription.
+The translation was published in 1896 and is public domain in the United States. The third-party USFM source asserts public-domain status and documents its scan provenance. Confirm jurisdiction-specific rights for modern digital transcriptions.
