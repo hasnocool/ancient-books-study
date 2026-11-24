@@ -126,6 +126,13 @@ The brackets reflect the 1893 editor's treatment of interpolated passages. In Ch
 
 > The 1893 printed text brackets Chapter XC verse 15 as an interpolation. Verse boundaries are restored without replacing the repository compilation's differing wording.
 
+### Book 5 — The Laws of Enoch (Chapters XCI–CV)
+
+- Chapter text remains complete as transferred from the selected repository source.
+- Paragraph breaks were inserted for readability by grouping sentences; **these are not verse divisions**.
+- Chapter 91 has a known structural complication: the 1893 Charles arrangement moves verses 12–17 into the Apocalypse of Weeks material after Chapter 93. The repository source's chapter sequence does not reliably represent that arrangement. This must be resolved during verse restoration without duplicating or omitting text.
+- External structural reference used for numbering: R. H. Charles, *The Book of Enoch*, section 5, Chapters 91–105 (GodRules transcription). The wording differs from this repository text, so it is a structural reference only.
+
 ## Text-preservation check
 
 Book 1 (Chapters I–XXXVI) and Book 2 (Chapters XXXVII–LXXI) were checked against the selected repository source after removal of inserted verse labels, editorial notes, page numbers, and source dividers. All 71 chapter bodies matched. Chapter I includes the opening blessing that appears before the table of contents in the repository transcription.
