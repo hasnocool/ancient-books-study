@@ -23,7 +23,7 @@ The formatted files preserve 68 chapter headings and 360 numbered verses, plus t
 
 ## Textual limits
 
-- Main chapters 1–68 and prologue are included.
-- The Melchizedekian appendix (five printed sections, commonly numbered 69–73 in later retypes) is pending as a separate file.
+- Main chapters 1–68 and prologue are included (360 numbered verses).
+- The Melchizedekian appendix is included separately as sections I–V (104 verses), commonly numbered 69–73 in later retypes. It was formatted from the standalone repository OCR and verse counts/boundaries cross-checked against a clean retype; it has not been collated line by line against page images.
 - No modern translation has been silently substituted.
 - This formatted draft is not a critical edition and is not independently verified against the facsimile.
