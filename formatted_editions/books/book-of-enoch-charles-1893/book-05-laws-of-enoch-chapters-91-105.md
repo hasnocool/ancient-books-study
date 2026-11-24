@@ -199,17 +199,37 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 ## Chapter 99
 
-Woe to them who act godlessly, and glory in lying words, and extol them: you will perish, and no happy life will be yours.  Woe to them who pervert the words of uprightness, and transgress the eternal law, and transform themselves into what they were not, mean, into sinners: they shall be trodden under foot upon the earth.  In those days make ready, you righteous, to raise your prayers as a memorial, and you will place them as a testimony before the angels in order that they may place the sin of the sinners for a memorial before the Most High.
+**[Verse 1]** Woe to them who act godlessly, and glory in lying words, and extol them: you will perish, and no happy life will be yours.
 
-In those days the nations will be stirred up, and the families of the nations will arise on the day of destruction.  In those days those who are reduced to want will go forth, and mangle their children, and they will cast them away, and there will be miscarriages; and they will cast away their sucklings, and will not return unto them, and will have no pity on their beloved ones.  Again I swear to you sinners, that sin is prepared for a day of unceasing bloodshed.
+**[Verse 2]** Woe to them who pervert the words of uprightness, and transgress the eternal law, and transform themselves into what they were not, mean, into sinners: they shall be trodden under foot upon the earth.
 
-They will worship stones, and others will make graven images of gold, and silver, and wood, and clay, and others will worship impure spirits, and demons, and all kinds of superstitions not according to knowledge, notwithstanding no manner of help will be found in them.  They will become godless by reason of the foolishness of their hearts, and their eyes will be blinded through the fear of their hearts, and through visions in their dreams.  Through these they will become godless, and fearful, because they work all their works in a lie, and they worship a stone: therefore in an instant will they perish.
+**[Verse 3]** In those days make ready, you righteous, to raise your prayers as a memorial, and you will place them as a testimony before the angels in order that they may place the sin of the sinners for a memorial before the Most High.
 
-But in those days blessed are all they who accept the words of wisdom, and understand them, and follow out the paths of the Most High, and walk in the path of His righteousness, and become not godless with the godless; for they will be saved.  Woe to you who hope for misfortune to your neighbour; for you will be slain in Sheol.  Woe to you who make deceitful, and false measures, and who tempt on the earth; for they will thereby be utterly consumed.
+**[Verse 4]** In those days the nations will be stirred up, and the families of the nations will arise on the day of destruction.
 
-Woe to you who build your houses through the grievous toil of others, and their building material is nothing save the bricks, and stones of sin, I tell you, you will have no peace.  Woe to them who reject the measure, and eternal heritage of their fathers, and whose souls follow after idols; for they will have no rest.  Woe to them who work unrighteousness, and aid oppression, and slay their neighbours until the day of the great judgment.
+**[Verse 5]** In those days those who are reduced to want will go forth, and mangle their children, and they will cast them away, and there will be miscarriages; and they will cast away their sucklings, and will not return unto them, and will have no pity on their beloved ones.
 
-For He will cast down your glory, and bring affliction on your hearts, and will arouse the spirit of His indignation to destroy you all with the sword; and all the righteous, and holy will remember your sins.
+**[Verse 6]** Again I swear to you sinners, that sin is prepared for a day of unceasing bloodshed.
+
+**[Verse 7]** They will worship stones, and others will make graven images of gold, and silver, and wood, and clay, and others will worship impure spirits, and demons, and all kinds of superstitions not according to knowledge, notwithstanding no manner of help will be found in them.
+
+**[Verse 8]** They will become godless by reason of the foolishness of their hearts, and their eyes will be blinded through the fear of their hearts, and through visions in their dreams.
+
+**[Verse 9]** Through these they will become godless, and fearful, because they work all their works in a lie, and they worship a stone: therefore in an instant will they perish.
+
+**[Verse 10]** But in those days blessed are all they who accept the words of wisdom, and understand them, and follow out the paths of the Most High, and walk in the path of His righteousness, and become not godless with the godless; for they will be saved.
+
+**[Verse 11]** Woe to you who hope for misfortune to your neighbour; for you will be slain in Sheol.
+
+**[Verse 12]** Woe to you who make deceitful, and false measures, and who tempt on the earth; for they will thereby be utterly consumed.
+
+**[Verse 13]** Woe to you who build your houses through the grievous toil of others, and their building material is nothing save the bricks, and stones of sin, I tell you, you will have no peace.
+
+**[Verse 14]** Woe to them who reject the measure, and eternal heritage of their fathers, and whose souls follow after idols; for they will have no rest.
+
+**[Verse 15]** Woe to them who work unrighteousness, and aid oppression, and slay their neighbours until the day of the great judgment.
+
+**[Verse 16]** For He will cast down your glory, and bring affliction on your hearts, and will arouse the spirit of His indignation to destroy you all with the sword; and all the righteous, and holy will remember your sins.
 ---
 
 ## Chapter 100
