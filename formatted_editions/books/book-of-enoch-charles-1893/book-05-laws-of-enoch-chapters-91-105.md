@@ -184,7 +184,7 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 **[Verse 10]** Now, know you that you are prepared for the day of destruction: wherefore do not hope to live, you sinners, but you shall depart, and die; for you know no ransom; for you are prepared for the day of the great judgment, and for the day of tribulation, and great shame for your spirit.
 
-**[Verse 11]** Woe to you, obstinate of heart, who work wickedness, and eat blood: whence have you good things to eat, and drink, and to be filled?  From all the good things which our Lord, the Most High, has placed in abundance on the earth; and you indeed shall have no peace.
+**[Verse 11]** Woe to you, obstinate of heart, who work wickedness, and eat blood: whence have you good 56 things to eat, and drink, and to be filled?  From all the good things which our Lord, the Most High, has placed in abundance on the earth; and you indeed shall have no peace.
 
 **[Verse 12]** Woe to you who love the deeds of unrighteousness: wherefore do you hope for good hap unto yourselves?  Know that you shall be delivered into the hands of the righteous, and they will cut off your necks, and slay you, and will have no pity upon you.
 
