@@ -15,6 +15,8 @@
 
 The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapter headings and verse divisions are restored using Charles 1917 as a structural reference; repository wording is retained.
 
+**Order note:** Charles's 1917 edition relocates 106:17 after 106:14. This file preserves the repository source order (verse 17 follows verse 16); the rearrangement is documented but not applied.
+
 The combined source also interleaves chapters from the separate Slavonic `Book of the Secrets of Enoch` (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
 
 ---
