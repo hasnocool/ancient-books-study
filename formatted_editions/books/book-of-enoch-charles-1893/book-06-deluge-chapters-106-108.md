@@ -9,7 +9,7 @@
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
 - **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
-- **Status:** Chapter coverage transferred; verse structure and textual collation outstanding
+- **Status:** Chapter coverage transferred; Chapter CVII verses 1–3 restored; remaining verse structure and textual collation outstanding
 
 ## Editorial statement
 
