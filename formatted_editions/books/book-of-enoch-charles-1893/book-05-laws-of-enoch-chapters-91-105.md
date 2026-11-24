@@ -129,15 +129,25 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 8]** Woe to you, you mighty, who with might oppress the righteous; for the day of your destruction will come.  In those days many, and good days will come to the righteous , in the day of your judgment.
 ---
 
-## Chapter 97
+**[Verse 1]** Believe, you righteous; for the sinners will come to shame, and perish in the day of unrighteousness.
 
-Believe, you righteous; for the sinners will come to shame, and perish in the day of unrighteousness.  It will become known to you that the Most High is mindful of your destruction, and the angels of heaven rejoice over your destruction.  What will you do, you sinners, and where will you flee on that day of judgment when you hear the voice of the prayer of the righteous?
+**[Verse 2]** It will become known to you that the Most High is mindful of your destruction, and the angels of heaven rejoice over your destruction.
 
-It will not fare with you as with them, you against whom this word will stand as a testimony: you have been companions of sinners.  In those days the prayer of the righteous will reach unto the Lord, and the days of your judgment will overtake you.  All the words of your unrighteousness will be read out before the Great Holy One, and your faces will be covered with shame, and every work which is grounded in unrighteousness will be rejected.
+**[Verse 3]** What will you do, you sinners, and where will you flee on that day of judgment when you hear the voice of the prayer of the righteous?
 
-Woe to you, you sinners, on the mid ocean, and the dry land, for their remembrance of you is evil.  Woe to you who acquire silver, and gold in unrighteousness, yet say: We have increased in riches: we have possessions; and we have acquired everything we desire.  Now let us do that which we purpose; for we have gathered silver, and our granaries are full, and plentiful as water are the husbandmen in our houses.
+**[Verse 4]** It will not fare with you as with them, you against whom this word will stand as a testimony: you have been companions of sinners.
 
-Like water your lies will flow away; for riches will not abide with you but will ascend suddenly from you; for you have acquired it all in unrighteousness, and you will be given over to a great condemnation.
+**[Verse 5]** In those days the prayer of the righteous will reach unto the Lord, and the days of your judgment will overtake you.
+
+**[Verse 6]** All the words of your unrighteousness will be read out before the Great Holy One, and your faces will be covered with shame, and every work which is grounded in unrighteousness will be rejected.
+
+**[Verse 7]** Woe to you, you sinners, on the mid ocean, and the dry land, for their remembrance of you is evil.
+
+**[Verse 8]** Woe to you who acquire silver, and gold in unrighteousness, yet say: We have increased in riches: we have possessions; and we have acquired everything we desire.
+
+**[Verse 9]** Now let us do that which we purpose; for we have gathered silver, and our granaries are full, and plentiful as water are the husbandmen in our houses.
+
+**[Verse 10]** Like water your lies will flow away; for riches will not abide with you but will ascend suddenly from you; for you have acquired it all in unrighteousness, and you will be given over to a great condemnation.
 ---
 
 ## Chapter 98
