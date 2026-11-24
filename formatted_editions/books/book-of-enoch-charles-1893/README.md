@@ -6,7 +6,7 @@ This directory contains a formatted derivative of the 1 Enoch text in the reposi
 
 - **1 Enoch source text:** all 108 numbered chapter bodies in the selected repository transcription are represented across the six reading files.
 - **Verse structure restored:** Chapters I–XC now have verse divisions restored from Charles's printed text as a structural reference. The repository transcription's wording is preserved and has not been silently replaced.
-- **Remaining verse work:** Chapters XCI–CVIII still require verse-level restoration.
+- **Remaining verse work:** Chapters XCI–CVIII still require verse-level restoration. In Book 5, paragraph breaks are readability-only and must not be mistaken for verse divisions.
 - **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They belong to the separate *Book of the Secrets of Enoch* and are excluded here pending their own edition.
 - **Full 1893 Charles volume:** this directory does not reproduce the complete scholarly volume, including its introductions, textual notes, appendices, Greek and Latin fragments, and indices.
 
