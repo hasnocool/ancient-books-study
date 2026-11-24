@@ -162,6 +162,8 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 10]** Like water your lies will flow away; for riches will not abide with you but will ascend suddenly from you; for you have acquired it all in unrighteousness, and you will be given over to a great condemnation.
 ---
 
+## Chapter 98
+
 **[Verse 1]** Now I swear to you, to the wise and foolish, for you will experience much on the earth.
 
 **[Verse 2]** For you men will put on more adornments than a woman, and coloured garments more than a virgin: in royalty, and in grandeur, and in power, and in silver, and in gold, and in purple, and in splendour, and in food they will be poured out as water.
