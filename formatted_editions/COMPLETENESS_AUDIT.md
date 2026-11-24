@@ -92,10 +92,11 @@ A project may still be described as **complete against its selected repository t
 
 - Edition: `books/vitruvius-morgan-1914/`.
 - Front matter, Books I–X, and index/end matter are present in 12 contiguous source ranges.
-- Automated comparison against `books_05/vitruviustenbook00vitruoft.txt` confirmed every extracted range matches exactly. The 12 ranges reconstruct the 681,311-character source file without gaps or overlap.
+- Each of the 12 extracted text ranges was fetched back from GitHub and compared byte-for-byte with the corresponding source slice in `books_05/vitruviustenbook00vitruoft.txt`; all 12 comparisons passed.
+- The Book I, Book II, and Book III start offsets were checked against the actual main-text headings. The earlier table-of-contents headings were not used as boundaries.
+- The 12 ranges reconstruct the complete 681,311-character source file in order, without gaps or overlap.
 - Book X attribution note records that Morgan completed the translation except for the final four chapters, completed by Herbert Langford Warren from Chapter XIII onward.
 - The source is OCR. Exact transfer does not establish OCR correctness; facsimile proofing remains outstanding.
-
 
 ## Sefer ha-Yashar — Moses Samuel, 1840 / Parry, 1887
 
