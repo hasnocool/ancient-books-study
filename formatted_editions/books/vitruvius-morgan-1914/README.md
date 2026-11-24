@@ -36,7 +36,7 @@ The preface states that Morgan completed the translation except for the final fo
 ## Completeness verification
 - Ten main-text Book divisions are separated in order, I–X.
 - Front matter and index/end matter are preserved separately.
-- The front matter, ten book ranges, and index range are contiguous slices that reconstruct the entire 681,311-character source file exactly, without gaps or overlap.
+- The front matter, ten book ranges, and index range are contiguous source slices. The first two book boundaries were corrected against the actual main-text headings (not the earlier table-of-contents entries). A subsequent exact concatenation check is recorded in the audit.
 - This verifies source-file transfer and correct book partitioning. It does not verify OCR accuracy against the 1914 page images.
 - The source preface explicitly documents Warren's responsibility for the final four chapters of Book X.
 
