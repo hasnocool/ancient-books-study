@@ -1,6 +1,6 @@
 # Front Matter — Vitruvius, The Ten Books on Architecture
 
-The source transcription's title page, preface, contents, and illustration list are reproduced below in their original OCR sequence. No text has been silently removed or corrected.
+The source transcription's title page, preface, contents, and illustration list are reproduced below in their original OCR sequence. The main text begins at the separate Book I file. No text has been silently removed or corrected.
 
 ---
 
@@ -340,4 +340,3 @@ WATER  SCREW    296
 HEGETOR'B  RAM  AND  TORTOISE    31* 
 1.  From  sixteenth  century  MS. 
 1.  From  model  by  A.  A.  Howard. 
-VITRUVIUS 
