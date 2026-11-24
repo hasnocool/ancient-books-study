@@ -1,6 +1,6 @@
 # 1 Enoch — Complete Modern-Language Edition
 
-<badge>108 of 108 chapters drafted</badge>
+**Status: 108 of 108 chapters drafted and committed.**
 
 This directory contains a separate modern-language rendering of all 108 numbered chapters of 1 Enoch found in the repository's selected transcription.
 
