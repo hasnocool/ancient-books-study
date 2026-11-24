@@ -22,7 +22,14 @@
 
 ## Appendix
 
-The 1896 edition also prints a Melchizedekian appendix in five sections (I–V), often numbered 69–73 in later retypes. It is included separately here: [Melchizedekian Appendix](./melchizedek-appendix-sections-i-v.md). The main chapters and appendix have complete coverage; the appendix remains an OCR draft, not a facsimile-verified transcription.
+The 1896 edition also prints a Melchizedekian appendix in five sections (I–V), often numbered 69–73 in later retypes. It is included separately here: [Melchizedekian Appendix](./melchizedek-appendix-sections-i-v.md). The five sections contain 104 numbered or explicitly bracketed variant verses (I: 19; II: 26; III: 37 including the bracketed variant 31; IV: 11; V: 11). The appendix remains an OCR draft, not a facsimile-verified transcription.
+
+## Verification
+
+- Automated comparison against the cited USFM source found all 68 chapter headings and all 361 verse labels (one prologue verse plus 360 main-text verses) in the four Markdown files.
+- After removing USFM verse markers and Markdown labels, all 361 main-text verse bodies matched exactly in sequence; no text-body mismatches were found.
+- Appendix audit found five sections and 104 verse entries when the bracketed manuscript variant at III.31 is counted; the numbering sequence and variant are retained as printed/editorially marked in the source.
+- This verifies transfer from the selected USFM transcription and structural coverage, not the USFM transcription against the 1896 page images. The appendix wording likewise remains uncollated against facsimile pages.
 
 ## Formatting
 
