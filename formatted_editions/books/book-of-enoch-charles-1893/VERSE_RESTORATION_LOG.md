@@ -143,7 +143,7 @@ This confirms that the verse markup did not change the transferred source wordin
 
 Verse numbers and breaks have been borrowed from Charles's 1893 printing as a structural reference. The repository's wording is preserved in place. This is not a verbatim Charles transcription: direct comparison shows lexical and grammatical differences, and those differences need their own textual collation.
 
-## Pending
+## Completed verse-restoration pass
 
 - Verse restoration now covers Chapters I–CVIII. Chapters XCI, CVI, CVII, and CVIII were completed in the final restoration pass using Charles 1917 as a structural reference. The source wording remains the selected repository transcription.
 - Chapter XCII: verses 1–5 restored; source wording preserved and checked against the chapter body.
@@ -167,6 +167,5 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 - Chapter C: verses 1–13 restored; normalized source-body match passed. OCR marker 57 retained.
 - Chapters XCI–CVIII are now verse-restored. OCR page/footnote markers are retained as source artifacts, not interpreted as verse numbers.
 - Collate Chapter LXXI's lost-passage note against the 1893 printing and later Charles edition.
-- Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
-- Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
+- Collate the repository wording against the 1893 facsimile and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Decide whether to retain this repository text as a distinct derivative or create a separate exact Charles 1893 edition alongside it.
