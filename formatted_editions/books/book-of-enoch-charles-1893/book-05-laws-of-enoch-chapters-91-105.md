@@ -73,7 +73,7 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 **[Verse 12 — interpolation]** [And who is there that can see all the works of heaven?  How should there be one who could behold the heaven, and who is there who could understand the things of heaven, and see a soul or a spirit, and tell thereof, or ascend, and see all their ends, and conceive them or do like them?]
 
-**[Verse 13 — interpolation]** [Who is there of all men that could know what is the length, and the breadth of the earth, and to whom has been shown the measure of all of them?]
+**[Verse 13 — interpolation]** [54 Who is there of all men that could know what is the length, and the breadth of the earth, and to whom has been shown the measure of all of them?]
 
 **[Verse 14 — interpolation]** [Or is there any one who could discern the length of the heaven, and how high it is, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?]
 ---
@@ -128,7 +128,7 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 **[Verse 3]** Wherefore fear not, you that suffer; for healing will be your portion, and a bright light will enlighten you, and you will hear the voice of rest from heaven.
 
-**[Verse 4]** Woe unto you, you sinners, for your riches make you appear like the righteous, but your hearts convict you of being sinners, and this word will be a testimony against you, for a memorial of wickedness.
+**[Verse 4]** Woe unto you, you sinners, for your riches make you appear like the righteous, but your hearts convict you of being sinners, and this word will be a testimony against 55 you, for a memorial of wickedness.
 
 **[Verse 5]** Woe to you who devour the finest of the wheat, and drink the power of the source of the fountain, and tread under foot the lowly with your might.
 
