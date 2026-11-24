@@ -1,7 +1,7 @@
 # Completeness and Structure Audit
 
 **Audit date:** 2026-11-23  
-**Scope:** The two reading projects currently stored under `formatted_editions/books/`.
+**Scope:** Three reading projects currently stored under `formatted_editions/books/`.
 
 ## What “complete” means here
 
