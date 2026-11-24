@@ -25,10 +25,11 @@ After some days my son Methuselah took a wife for his son Lamech and she became 
 
 ---
 
-## Chapter 107
+**[Verse 1]** I saw written on them that generation upon generation will transgress, until a generation of righteousness arises, and transgression will be destroyed, and sin will pass away from the earth, and all manner of good will come upon it.
 
-I saw written on them that generation upon generation will transgress, until a generation of righteousness arises, and transgression will be destroyed, and sin will pass away from the earth, and all manner of good will come upon it. Now, my son, go, and make known to your son Lamech that this son, which has been born, is in truth his son, and that is no lie. When Methuselah had heard the words of his father Enoch, for he had shown to him all the secret things, he returned, and showed to him, and called the name of that son Noah; for he will cause the earth to rejoice in compensation for all destruction.
+**[Verse 2]** Now, my son, go, and make known to your son Lamech that this son, which has been born, is in truth his son, and that is no lie.
 
+**[Verse 3]** When Methuselah had heard the words of his father Enoch, for he had shown to him all the secret things, he returned, and showed to him, and called the name of that son Noah; for he will cause the earth to rejoice in compensation for all destruction.
 ---
 
 ## Chapter 108
