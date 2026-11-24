@@ -6,7 +6,7 @@ This directory contains a formatted derivative of the 1 Enoch text in the reposi
 
 - **1 Enoch source text:** all 108 numbered chapter bodies in the selected repository transcription are represented across the six reading files.
 - **Verse structure restored:** Chapters I–CVIII now have verse divisions restored from Charles's printed texts as structural references. The repository transcription's wording is preserved and has not been silently replaced.
-- **Verse structure:** All 108 chapters now have verse divisions restored using Charles printed editions as structural references. Chapter 91 verse 11 is marked interpolation; Charles relocates 91:12–17 after chapter 93. Chapter 106 follows the source chapter order and labels Charles's relocated verse 17 accordingly. Chapter 108 has verses 1–15. Verse restoration is not a word-for-word collation against Charles. Chapter CVII has verses 1–3 restored and its missing chapter heading has been added. In Book 5, paragraph breaks are readability-only and must not be mistaken for verse divisions.
+- **Restoration notes:** Chapter 91 verse 11 is marked interpolation; Charles relocates 91:12–17 after chapter 93. Chapter 106 follows the source chapter order and labels Charles's relocated verse 17 accordingly. Chapter 107's missing heading was restored; its verses are 1–3. Chapter 108 has verses 1–15. Verse restoration is not a word-for-word collation against Charles.
 - **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They belong to the separate *Book of the Secrets of Enoch* and are excluded here pending their own edition.
 - **Full 1893 Charles volume:** this directory does not reproduce the complete scholarly volume, including its introductions, textual notes, appendices, Greek and Latin fragments, and indices.
 
@@ -14,7 +14,7 @@ This directory contains a formatted derivative of the 1 Enoch text in the reposi
 
 The heading `Enoch N.` in the repository transcription marks a chapter, not a paragraph. The printed text also numbers verses within chapters. Some chapters are genuinely short: Chapter II has three verses, Chapter III has one numbered verse, and Chapters IV and XXXV are unnumbered units. A single paragraph under a chapter heading can therefore be correct; other chapters have multiple verses which the repository transcription had flattened together.
 
-The reading files now preserve chapter/verse structure for Chapters I–XC. The restoration retains irregularities in the printed numbering rather than inventing missing verses: Chapter XVI runs from verse 2 to verse 4. Interpolations marked by Charles are shown with bracketed verse numbers and editorial notes.
+The reading files now preserve chapter/verse structure for Chapters I–CVIII. The restoration retains irregularities in the printed numbering rather than inventing missing verses: Chapter XVI runs from verse 2 to verse 4. Interpolations marked by Charles are shown with bracketed verse numbers and editorial notes.
 
 Chapter LXXI is the final chapter of the Parables and is titled “Two earlier Visions of Enoch.” It contains two visions: verses 1–4 and verses 5–17. Charles's later 1912 text records a lost passage between verses 13 and 14; the selected repository transcription does not contain that passage, and it has not been reconstructed.
 
@@ -47,7 +47,7 @@ The six divisions are retained from the repository compilation. They are not pre
 - **Book 2 verse structure:** Chapters XXXVII–LXXI restored; all 35 chapter bodies match the selected repository source after removal of inserted labels, notes, and section dividers.
 - **Book 3 verse structure:** Chapters LXXII–LXXXII restored; all 11 chapter bodies match the selected repository source after removal of inserted labels and notes.
 - **Book 4 verse structure:** Chapters LXXXIII–XC restored; all 8 chapter bodies match the selected repository source after removal of inserted labels and notes. Chapter XC verse 15 remains bracketed as an interpolation in the 1893 printing.
-- **Remaining verse structure:** Verse restoration remains for Chapter XCI, CVI, and CVIII.
+- **Textual collation remaining:** compare the repository wording against the 1893 facsimile; check OCR artifacts, omissions, and the lost-passage note in Chapter LXXI.
 - **Textual identity:** the selected repository text is not a verbatim Charles 1893 transcription. Exact lineage and complete textual accuracy remain unresolved.
 - **2 Enoch:** 68 Slavonic sections are identified separately in the combined source and remain outside this directory.
 
