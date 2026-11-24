@@ -45,7 +45,7 @@ Do not say this about the righteous and good who are still alive: “During thei
 
 ### Verse 10
 
-“ They have been brought low, with no one to help or speak for them. They have gained nothing. They are tortured and worn down, and each day they have little hope of seeing a better life.”
+“They have been brought low, with no one to help or speak for them. They have gained nothing. They are tortured and worn down, and each day they have little hope of seeing a better life.”
 
 ### Verse 11
 
