@@ -13,7 +13,7 @@ The following are candidates, not approvals to reproduce their full contents. Co
 
 | Candidate | Existing source path(s) | Initial action |
 |---|---|---|
-| *The Book of the Secrets of Enoch* (2 Enoch; Morfill/Charles, 1896) | [Open formatted draft](./books/book-of-the-secrets-of-enoch-morfill-1896/README.md) | `books_02/The Book of Enoch.txt`; standalone OCR in `books_05/` | Faithful formatted transcription | Formatted draft | Four reading files contain all 68 numbered sections. The sections are extracted from a combined transcription where markers are physically out of order/interleaved; an independent transfer audit is unresolved. No verses added; facsimile collation remains outstanding. |
+
 | *The Gospel of Thomas* | `books_03/The Gospel Of Thomas.txt`; `books_04/Gospel_of_Thomas.txt` | Compare the two source files and identify their translation/edition before selecting a text. |
 | *The Book of Enoch* (1 Enoch) | `books_01/Book-of-Enoch (screen).txt`; `books_02/The Book of Enoch.txt`; `books_05/The Book of Enoch.txt` | Compare edition identities; do not merge translations or treat duplicate filenames as proof of identical text. |
 | *The Rhind Mathematical Papyrus* | `books_02/Arnold Buffum Chace, Ludlow Bull, Henry Parker Manning - The Rhind Mathematical Papyrus. Volume II. Photographs, Transcription, Transliteration, Literal Translation. 2-Mathematical Association of Amer.txt`; `books_05/The_Rhind_Papyrus_Volume_1.txt` | Inspect volume/part identity; one listed source is empty. |
