@@ -79,3 +79,19 @@ A project may still be described as **complete against its selected repository t
 - Coverage: prologue, all 114 sayings in numerical order, closing title, and separate translator's notes.
 - Four reading files split at saying headings: 1–30, 31–60, 61–90, 91–114.
 - Source: Mark M. Mattison's translation, explicitly dedicated to the public domain on Gospels.net. Transfer used a digital mirror identifying the Gospels.net source; this is not an independent facsimile or Coptic collation.
+
+
+## Gospel of Thomas — Mattison public-domain translation
+
+- Edition: `books/gospel-of-thomas-mattison-public-domain/`.
+- Prologue and all 114 sayings are present in numerical order, followed by the closing title; translator's notes are separated.
+- Four reading files contain 30, 30, 30, and 24 sayings. A repository fetch audit confirmed 114/114 headings and no sequence errors.
+- Translation rights are based on Mattison's explicit public-domain dedication on Gospels.net. This is not an independent Coptic facsimile collation.
+
+## Vitruvius — Morgan/Warren, 1914
+
+- Edition: `books/vitruvius-morgan-1914/`.
+- Front matter, Books I–X, and index/end matter are present in 12 contiguous source ranges.
+- Automated comparison against `books_05/vitruviustenbook00vitruoft.txt` confirmed every extracted range matches exactly. The 12 ranges reconstruct the 681,311-character source file without gaps or overlap.
+- Book X attribution note records that Morgan completed the translation except for the final four chapters, completed by Herbert Langford Warren from Chapter XIII onward.
+- The source is OCR. Exact transfer does not establish OCR correctness; facsimile proofing remains outstanding.
