@@ -47,7 +47,7 @@ The six divisions are retained from the repository compilation. They are not pre
 - **Book 2 verse structure:** Chapters XXXVII–LXXI restored; all 35 chapter bodies match the selected repository source after removal of inserted labels, notes, and section dividers.
 - **Book 3 verse structure:** Chapters LXXII–LXXXII restored; all 11 chapter bodies match the selected repository source after removal of inserted labels and notes.
 - **Book 4 verse structure:** Chapters LXXXIII–XC restored; all 8 chapter bodies match the selected repository source after removal of inserted labels and notes. Chapter XC verse 15 remains bracketed as an interpolation in the 1893 printing.
-- **Remaining verse structure:** Chapters XCI–CVIII remain to be restored.
+- **Remaining verse structure:** Verse restoration remains for Chapter XCI, CVI, and CVIII.
 - **Textual identity:** the selected repository text is not a verbatim Charles 1893 transcription. Exact lineage and complete textual accuracy remain unresolved.
 - **2 Enoch:** 68 Slavonic sections are identified separately in the combined source and remain outside this directory.
 
