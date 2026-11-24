@@ -23,6 +23,9 @@ The following are candidates, not approvals to reproduce their full contents. Co
 
 | *The Book of Enoch* (1 Enoch) | `books_01/Book-of-Enoch (screen).txt`; `books_02/The Book of Enoch.txt`; `books_05/The Book of Enoch.txt` | Compare the alternate Knibb translation and source edition against the completed Charles/Dillmann-based edition; do not merge translations. Check rights before redistribution. |
 | *The Rhind Mathematical Papyrus* | `books_02/Arnold Buffum Chace, Ludlow Bull, Henry Parker Manning - The Rhind Mathematical Papyrus. Volume II. Photographs, Transcription, Transliteration, Literal Translation. 2-Mathematical Association of Amer.txt`; `books_05/The_Rhind_Papyrus_Volume_1.txt` | Volume I is available as a 1927 public-domain scan at [Wikisource/Wikimedia](https://en.wikisource.org/wiki/Index:The_Rhind_Mathematical_Papyrus,_Volume_I.pdf), but the repository's local Volume I text file is empty. Import a reliable text/OCR layer, then format both volumes as a single two-volume work. Volume II is 1929 and the existing OCR is noisy. |
+| *Gospel of Mary Magdalene* | `books_04/Gospel_of_Mary_Magdalene.txt` | **Rights review.** The supplied source identifies a 2002 English translation and commentary, copyright held by Inner Traditions. Do not reproduce the modern translation/commentary without permission; seek a public-domain translation or format only permitted primary-text material. |
+| *The Upanishads* | `books_03/Upanishads.txt` | **Rights review.** The source is Eknath Easwaran's 1987/2007 copyrighted translation with modern introductions and notes. Seek a public-domain translation for a separate edition. |
+| *The Bhagavad Gita* | `books_01/Bhagavad_Gita.txt`; `books_02/Bhagavad_Gita.txt` | **Rights review.** The two files are duplicates of Eknath Easwaran's 1985/2007 copyrighted translation and chapter introductions. Seek a public-domain translation for a separate edition. |
 
 ## Status definitions
 
