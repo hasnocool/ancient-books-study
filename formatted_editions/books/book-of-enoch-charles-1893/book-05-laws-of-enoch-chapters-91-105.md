@@ -97,13 +97,19 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 11]** Your righteous ones in those days will be a cause of shame to the sinners, and the godless.
 ---
 
-## Chapter 95
+**[Verse 1]** Oh that mine eyes were a cloud of water that I might weep over you, and shed my tears as a cloud of water; that so I might rest from my trouble of heart!
 
-Oh that mine eyes were a cloud of water that I might weep over you, and shed my tears as a cloud of water; that so I might rest from my trouble of heart!  Who has permitted you to practise hate, and wickedness?  May judgment light upon you, sinners!
+**[Verse 2]** Who has permitted you to practise hate, and wickedness?  May judgment light upon you, sinners!
 
-Fear not the sinners, you righteous; for again will the Lord deliver them into your hands that you may execute judgment on them according to your desires.  Woe to you who fulminate irreversible anathemas: healing shall therefore be far from you because of your sins.  Woe to you who requite your neighbour with evil; for you will be requited according to your works.
+**[Verse 3]** Fear not the sinners, you righteous; for again will the Lord deliver them into your hands that you may execute judgment on them according to your desires.
 
-Woe to you, lying witnesses, and to those who weigh out injustice, for suddenly will you perish.  Woe to you sinners, for you persecute the righteous; for you will be delivered up, and persecuted, you people of injustice, and heavy will their yoke be upon you.
+**[Verse 4]** Woe to you who fulminate irreversible anathemas: healing shall therefore be far from you because of your sins.
+
+**[Verse 5]** Woe to you who requite your neighbour with evil; for you will be requited according to your works.
+
+**[Verse 6]** Woe to you, lying witnesses, and to those who weigh out injustice, for suddenly will you perish.
+
+**[Verse 7]** Woe to you sinners, for you persecute the righteous; for you will be delivered up, and persecuted, you people of injustice, and heavy will their yoke be upon you.
 ---
 
 ## Chapter 96
