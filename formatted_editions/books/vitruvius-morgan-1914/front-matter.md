@@ -1,6 +1,6 @@
 # Front Matter — Vitruvius, The Ten Books on Architecture
 
-The following is the source transcription's front matter, including title page, preface, contents, and illustration list. It is retained in the original OCR transcription.
+The source transcription's title page, preface, contents, and illustration list are reproduced below in their original OCR sequence. No text has been silently removed or corrected.
 
 ---
 
