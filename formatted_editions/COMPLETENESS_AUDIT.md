@@ -48,7 +48,9 @@ Passing the first check does not automatically pass the second or third. A faith
 **Reading index:** [2 Enoch](./books/book-of-the-secrets-of-enoch-morfill-1896/README.md)  
 **Sources:** third-party manually collated USFM main text; repository standalone OCR for the appendix.
 
-- Main text: 68 chapters / 360 numbered verses, plus a separate prologue. USFM blocks 2–69 map to Chapters 1–68; block 1 is the prologue.
+- Main text: 68 chapters / 360 numbered verses, plus a separate one-verse prologue. USFM blocks 2–69 map to Chapters 1–68; block 1 is the prologue.
+- An automated sequence comparison against the cited USFM found all 68 chapter headings and 361 verse entries (prologue plus main text) in the four Markdown files. All 361 verse bodies matched the USFM text exactly after removal of verse labels and layout markup; no mismatches were found.
+- Appendix audit: five sections, with 19 + 26 + 37 + 11 + 11 = 104 entries. Section III.31 is an explicitly bracketed manuscript variant and is counted separately; no verse number was silently inserted.
 - The main text files were generated from the collated USFM source with chapter and verse markers retained. Verse numbering is continuous within each chapter.
 - The appendix is separately included as sections I–V (104 verses), based on the repository standalone OCR. Its verse structure was checked against a clean retype; OCR wording has not been collated against page images.
 - Appendix Section III verse 31 is marked as a manuscript variant. The source footnote notes it is not present in all manuscripts; the variant is retained.
