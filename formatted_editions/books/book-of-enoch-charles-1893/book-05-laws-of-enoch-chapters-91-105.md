@@ -74,15 +74,27 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 14 — interpolation]** [Or is there any one who could discern the length of the heaven, and how high it is, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?]
 ---
 
-## Chapter 94
+**[Verse 1]** Now I say unto you, my sons, love righteousness, and walk therein; for the paths of righteousness are worthy of acceptation, but the paths of unrighteousness are suddenly destroyed, and vanish.
 
-Now I say unto you, my sons, love righteousness, and walk therein; for the paths of righteousness are worthy of acceptation, but the paths of unrighteousness are suddenly destroyed, and vanish.  To certain men of a generation will the paths of violence, and of death be revealed, and they will hold themselves afar from them, and will not follow them.  Now I say unto you, the righteous: Walk not in the path of wickedness, nor on the paths of death, and draw not nigh unto them lest you be destroyed.
+**[Verse 2]** To certain men of a generation will the paths of violence, and of death be revealed, and they will hold themselves afar from them, and will not follow them.
 
-But seek, and choose for yourselves righteousness, and a holy life, and walk in the paths of peace that you may live, and prosper.  Hold fast my words in the thoughts of your hearts, and suffer them not to be effaced from your hearts; for I know that sinners will tempt men to make wisdom wicked, and no place will be found for her, and no manner of temptation will diminish.  Woe to those who build unrighteousness, and oppression, and lay deceit as a foundation; for they will be suddenly overthrown, and will have no peace.
+**[Verse 3]** Now I say unto you, the righteous: Walk not in the path of wickedness, nor on the paths of death, and draw not nigh unto them lest you be destroyed.
 
-Woe to those that build their houses with sin; for they will be overthrown from their foundation, and will fall by the sword; and those who acquire gold, and silver will perish in judgment suddenly.  Woe to you rich, for you have trusted in your riches, and from your riches you shall depart, because you have not remembered the Most High in the days of your riches.  You have committed blasphemy, and unrighteousness, and have become ready for the day of slaughter, and the day of darkness, and the day of the great judgment.
+**[Verse 4]** But seek, and choose for yourselves righteousness, and a holy life, and walk in the paths of peace that you may live, and prosper.
 
-Thus I speak, and declare unto you that He who has created you will overthrow you, and for your fall there will be no compassion, and your Creator will rejoice at your destruction.  Your righteous ones in those days will be a cause of shame to the sinners, and the godless.
+**[Verse 5]** Hold fast my words in the thoughts of your hearts, and suffer them not to be effaced from your hearts; for I know that sinners will tempt men to make wisdom wicked, and no place will be found for her, and no manner of temptation will diminish.
+
+**[Verse 6]** Woe to those who build unrighteousness, and oppression, and lay deceit as a foundation; for they will be suddenly overthrown, and will have no peace.
+
+**[Verse 7]** Woe to those that build their houses with sin; for they will be overthrown from their foundation, and will fall by the sword; and those who acquire gold, and silver will perish in judgment suddenly.
+
+**[Verse 8]** Woe to you rich, for you have trusted in your riches, and from your riches you shall depart, because you have not remembered the Most High in the days of your riches.
+
+**[Verse 9]** You have committed blasphemy, and unrighteousness, and have become ready for the day of slaughter, and the day of darkness, and the day of the great judgment.
+
+**[Verse 10]** Thus I speak, and declare unto you that He who has created you will overthrow you, and for your fall there will be no compassion, and your Creator will rejoice at your destruction.
+
+**[Verse 11]** Your righteous ones in those days will be a cause of shame to the sinners, and the godless.
 ---
 
 ## Chapter 95
