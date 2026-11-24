@@ -7,7 +7,7 @@ This directory contains a formatted derivative of the 1 Enoch text in the reposi
 - **1 Enoch source text:** all 108 numbered chapter bodies in the selected repository transcription are represented across the six reading files.
 - **Verse structure restored:** Chapters I–CVIII now have verse divisions restored from Charles's printed texts as structural references. The repository transcription's wording is preserved and has not been silently replaced.
 - **Restoration notes:** Chapter 91 verse 11 is marked interpolation; Charles relocates 91:12–17 after chapter 93. Chapter 106 follows the repository source sequence. Charles relocates verse 17 after verse 14; that rearrangement is noted but not applied, so the verse labels are present while the printed Charles sequence is not reproduced. Chapter 107's missing heading was restored; its verses are 1–3. Chapter 108 has verses 1–15. Verse restoration is not a word-for-word collation against Charles.
-- **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They belong to the separate *Book of the Secrets of Enoch* and are excluded here pending their own edition.
+- **2 Enoch:** the combined source also contains 68 Slavonic sections marked `Enoch Slavonic 1.` through `Enoch Slavonic 68.`. They belong to the separate *Book of the Secrets of Enoch* and are excluded here; they now have a separate formatted edition at [2 Enoch — Morfill/Charles 1896](../book-of-the-secrets-of-enoch-morfill-1896/README.md).
 - **Full 1893 Charles volume:** this directory does not reproduce the complete scholarly volume, including its introductions, textual notes, appendices, Greek and Latin fragments, and indices.
 
 ## Why some chapters look like paragraphs
@@ -49,6 +49,6 @@ The six divisions are retained from the repository compilation. They are not pre
 - **Book 4 verse structure:** Chapters LXXXIII–XC restored; all 8 chapter bodies match the selected repository source after removal of inserted labels and notes. Chapter XC verse 15 remains bracketed as an interpolation in the 1893 printing.
 - **Textual collation remaining:** compare the repository wording against the 1893 facsimile; check OCR artifacts, omissions, and the lost-passage note in Chapter LXXI.
 - **Textual identity:** the selected repository text is not a verbatim Charles 1893 transcription. Exact lineage and complete textual accuracy remain unresolved.
-- **2 Enoch:** 68 Slavonic sections are identified separately in the combined source and remain outside this directory.
+- **2 Enoch:** 68 Slavonic sections are identified separately in the combined source and remain outside this directory. They are now covered by the separate [2 Enoch formatted edition](../book-of-the-secrets-of-enoch-morfill-1896/README.md), which includes the main 68 chapters and the Melchizedekian appendix.
 
 This is a formatted source derivative, not a new translation, verified verbatim Charles transcription, or complete reproduction of the 1893 scholarly volume. See [SOURCE_NOTES.md](./SOURCE_NOTES.md) and the [verse-restoration log](./VERSE_RESTORATION_LOG.md).
