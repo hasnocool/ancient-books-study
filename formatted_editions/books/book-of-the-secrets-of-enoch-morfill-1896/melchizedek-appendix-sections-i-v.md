@@ -110,7 +110,7 @@ The following fragment of the Melchizedekian literature was found by Professor S
 
 ## Appendix Section III
 
-**1.** I. And the wife of Nir, named Sopanima, being barren, brought forth no child to Nir.
+**1.** And the wife of Nir, named Sopanima, being barren, brought forth no child to Nir.
 
 **2.** And Sopanima was in the time of her old age, and on the day of her death she conceived in her womb, and Nir the priest did not sleep with her, nor knew her from the day that the Lord appointed him to serve before the face of the people.
 
