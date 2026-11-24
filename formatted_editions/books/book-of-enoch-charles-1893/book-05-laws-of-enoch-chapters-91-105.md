@@ -34,6 +34,8 @@ After this, in the tenth week in the seventh part, there will be the great etern
 Now I tell you, my sons, and I show you the paths of righteousness, and the paths of violence, and I will show them to you again that you may know what will happen.  Now, hearken, my sons, and walk in the paths of righteousness, and walk not in paths of violence; for all who walk in the paths of unrighteousness will perish forever.
 ---
 
+## Chapter 92
+
 **[Verse 1]** Written by Enoch, the scribe, this complete doctrine of wisdom which deserves the praise of all men, and is a judge of the whole earth, for all my children who will dwell on the earth, and the future generations who will observe uprightness, and peace.
 
 **[Verse 2]** Let not your spirit be troubled on account of the times; for the Holy Great One has appointed days for all things.
@@ -44,6 +46,8 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 **[Verse 5]** Sin will perish in darkness forever, and will no more be seen from that day for evermore.
 ---
+
+## Chapter 93
 
 **[Verse 1]** After that Enoch, began to recount from the books.  Enoch spoke: —l
 
@@ -74,6 +78,8 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 14 — interpolation]** [Or is there any one who could discern the length of the heaven, and how high it is, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?]
 ---
 
+## Chapter 94
+
 **[Verse 1]** Now I say unto you, my sons, love righteousness, and walk therein; for the paths of righteousness are worthy of acceptation, but the paths of unrighteousness are suddenly destroyed, and vanish.
 
 **[Verse 2]** To certain men of a generation will the paths of violence, and of death be revealed, and they will hold themselves afar from them, and will not follow them.
@@ -97,6 +103,8 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 11]** Your righteous ones in those days will be a cause of shame to the sinners, and the godless.
 ---
 
+## Chapter 95
+
 **[Verse 1]** Oh that mine eyes were a cloud of water that I might weep over you, and shed my tears as a cloud of water; that so I might rest from my trouble of heart!
 
 **[Verse 2]** Who has permitted you to practise hate, and wickedness?  May judgment light upon you, sinners!
@@ -111,6 +119,8 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 **[Verse 7]** Woe to you sinners, for you persecute the righteous; for you will be delivered up, and persecuted, you people of injustice, and heavy will their yoke be upon you.
 ---
+
+## Chapter 96
 
 **[Verse 1]** Be hopeful you righteous; for suddenly will the sinners perish before you, and you will have lordship over them according to your desires.  ,
 
@@ -128,6 +138,8 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 **[Verse 8]** Woe to you, you mighty, who with might oppress the righteous; for the day of your destruction will come.  In those days many, and good days will come to the righteous , in the day of your judgment.
 ---
+
+## Chapter 97
 
 **[Verse 1]** Believe, you righteous; for the sinners will come to shame, and perish in the day of unrighteousness.
 
