@@ -146,6 +146,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 ## Pending
 
 - Chapters XCI–CVIII: restore verse structure from the printed edition.
+- Chapter XCII: verses 1–5 restored; source wording preserved and checked against the chapter body.
 - Collate Chapter LXXI's lost-passage note against the 1893 printing and later Charles edition.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
