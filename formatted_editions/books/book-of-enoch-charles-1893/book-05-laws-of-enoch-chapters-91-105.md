@@ -112,13 +112,21 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 7]** Woe to you sinners, for you persecute the righteous; for you will be delivered up, and persecuted, you people of injustice, and heavy will their yoke be upon you.
 ---
 
-## Chapter 96
+**[Verse 1]** Be hopeful you righteous; for suddenly will the sinners perish before you, and you will have lordship over them according to your desires.  ,
 
-Be hopeful you righteous; for suddenly will the sinners perish before you, and you will have lordship over them according to your desires.  , And in the day of the tribulation of sinners, your children will mount, and rise as eagles, and higher than the vultures will be your nest, and you will ascend as squirrels, and enter the crevices of the earth, and the clefts of the rock for ever before the unrighteous, and they will sigh, and weep because of you as satyrs.  Wherefore fear not, you that suffer; for healing will be your portion, and a bright light will enlighten you, and you will hear the voice of rest from heaven.
+**[Verse 2 — interpolation]** [And in the day of the tribulation of sinners, your children will mount, and rise as eagles, and higher than the vultures will be your nest, and you will ascend as squirrels, and enter the crevices of the earth, and the clefts of the rock for ever before the unrighteous, and they will sigh, and weep because of you as satyrs.]
 
-Woe unto you, you sinners, for your riches make you appear like the righteous, but your hearts convict you of being sinners, and this word will be a testimony against you, for a memorial of wickedness.  Woe to you who devour the finest of the wheat, and drink the power of the source of the fountain, and tread under foot the lowly with your might.  Woe to you who drink water at all times; for suddenly will you be requited, and will dry up, and wither, because you have forsaken the fountain of life.
+**[Verse 3]** Wherefore fear not, you that suffer; for healing will be your portion, and a bright light will enlighten you, and you will hear the voice of rest from heaven.
 
-Woe to you who work unrighteousness, and deceit, and blasphemy: it will be a memorial against you for evil.  Woe to you, you mighty, who with might oppress the righteous; for the day of your destruction will come.  In those days many, and good days will come to the righteous , in the day of your judgment.
+**[Verse 4]** Woe unto you, you sinners, for your riches make you appear like the righteous, but your hearts convict you of being sinners, and this word will be a testimony against you, for a memorial of wickedness.
+
+**[Verse 5]** Woe to you who devour the finest of the wheat, and drink the power of the source of the fountain, and tread under foot the lowly with your might.
+
+**[Verse 6]** Woe to you who drink water at all times; for suddenly will you be requited, and will dry up, and wither, because you have forsaken the fountain of life.
+
+**[Verse 7]** Woe to you who work unrighteousness, and deceit, and blasphemy: it will be a memorial against you for evil.
+
+**[Verse 8]** Woe to you, you mighty, who with might oppress the righteous; for the day of your destruction will come.  In those days many, and good days will come to the righteous , in the day of your judgment.
 ---
 
 ## Chapter 97
