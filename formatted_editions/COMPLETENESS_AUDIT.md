@@ -95,3 +95,12 @@ A project may still be described as **complete against its selected repository t
 - Automated comparison against `books_05/vitruviustenbook00vitruoft.txt` confirmed every extracted range matches exactly. The 12 ranges reconstruct the 681,311-character source file without gaps or overlap.
 - Book X attribution note records that Morgan completed the translation except for the final four chapters, completed by Herbert Langford Warren from Chapter XIII onward.
 - The source is OCR. Exact transfer does not establish OCR correctness; facsimile proofing remains outstanding.
+
+
+## Sefer ha-Yashar — Moses Samuel, 1840 / Parry, 1887
+
+- Edition: `books/book-of-jasher-samuel-1840/`.
+- All 91 chapter headings (I–XCI) were found, one each. Each complete chapter block was verified present in the formatted files (91/91).
+- The source OCR lists Chapter XLVII before Chapter XLVI. The formatted reading order places them numerically as XLVI then XLVII; this editorial ordering change is documented and needs facsimile confirmation.
+- The translator's preface and contents are preserved; the modern 1988 reprint wrapper and advertising matter are excluded. This is the medieval Sefer ha-Yashar, not the lost biblical Book of Jasher.
+- OCR quality and all text readings remain uncollated against the 1887 page images.
