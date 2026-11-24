@@ -145,7 +145,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 
 ## Pending
 
-- Chapters XCI–CVIII: restore remaining verse structure (remaining: XCI, CVI, CVIII).
+- Verse restoration now covers Chapters I–CVIII. Chapters XCI, CVI, CVII, and CVIII were completed in the final restoration pass using Charles 1917 as a structural reference. The source wording remains the selected repository transcription.
 - Chapter XCII: verses 1–5 restored; source wording preserved and checked against the chapter body.
 - Chapters XCIII–XCV: verses restored; exact source body matches were checked before committing.
 - Chapter CI (101): verses 1–9 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
@@ -153,7 +153,10 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 - Chapter CIII (103): verses 1–15 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
 - Chapter CIV (104): verses 1–13 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
 - Chapter CV (105): verses 1–2 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
-- Chapter CVII (107): verses 1–3 restored using the Charles 1917 chapter structure as a reference; source wording preserved and checked. This is a structural cross-reference, not a 1917 text collation.
+- Chapter CVI (106): verses 1–19 restored. Charles 1917's sequence relocates verse 17 before verses 15–16; the reading file preserves the repository source's wording and sequence but marks those verse numbers accordingly. Chapter-body normalized match passed.
+- Chapter CVII (107): verses 1–3 restored using Charles 1917 as a structural reference; source wording preserved and checked.
+- Chapter CVIII (108): verses 1–15 restored using Charles 1917 as a structural reference; source wording preserved and checked. Chapter-body normalized match passed.
+- Chapter XCI (91): verses 1–19 restored, with verse 11 marked interpolation. Charles relocates verses 12–17 after Chapter 93 in the printed order; the repository chapter remains in numerical order. Chapter-body normalized match passed.
 - Chapter XCIII: verses 1–10 and bracketed interpolated verses 11–14 restored; chapter-body wording was checked after markup insertion. The 1917 structural reference places 91:12–17 after 93:10, so this chapter's questions are bracketed interpolation material in the reference.
 - Chapter XCIV: verses 1–11 restored; source wording checked after markup insertion.
 - Chapter XCV: verses 1–7 restored; source wording checked after markup insertion.
@@ -162,7 +165,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 - Chapter XCVIII: verses 1–16 restored; normalized source-body match passed. OCR marker 56 retained.
 - Chapter XCIX: verses 1–16 restored; normalized source-body match passed.
 - Chapter C: verses 1–13 restored; normalized source-body match passed. OCR marker 57 retained.
-- Chapter XCI, CII, and CIV: OCR markers 53, 58, and 59 respectively were restored after final body comparison. These markers are retained as source transcription artifacts, not interpreted as verse numbers.
+- Chapters XCI–CVIII are now verse-restored. OCR page/footnote markers are retained as source artifacts, not interpreted as verse numbers.
 - Collate Chapter LXXI's lost-passage note against the 1893 printing and later Charles edition.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
 - Collate the repository wording against the 1893 text and identify omissions, substitutions, modernizations, and OCR artifacts.
