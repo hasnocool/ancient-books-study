@@ -71,3 +71,11 @@ Do not use “complete edition” or “verified transcription” in a title, ba
 - notes, appendices, and other material included in the declared scope.
 
 A project may still be described as **complete against its selected repository transcription** when that narrower check has passed and the limitation is stated clearly.
+
+
+## Gospel of Thomas — Mattison public-domain translation
+
+- Formatted edition: `books/gospel-of-thomas-mattison-public-domain/`.
+- Coverage: prologue, all 114 sayings in numerical order, closing title, and separate translator's notes.
+- Four reading files split at saying headings: 1–30, 31–60, 61–90, 91–114.
+- Source: Mark M. Mattison's translation, explicitly dedicated to the public domain on Gospels.net. Transfer used a digital mirror identifying the Gospels.net source; this is not an independent facsimile or Coptic collation.
