@@ -234,15 +234,31 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 ## Chapter 100
 
-In those days the fathers together with their sons will be smitten in one place, brothers will fall in death one with another until it streams with their blood like a river.  For a man will not withhold his hand from slaying his sons, and his sons, and the sinner will not withhold his hand from his honoured brother: from dawn until sunset they will slay one another.  The horses will walk up to the breast in the blood of sinners, and the chariot will be submerged to its height.
+**[Verse 1]** In those days the fathers together with their sons will be smitten in one place, brothers will fall in death one with another until it streams with their blood like a river.
 
-In those days the angels will descend into the secret places, and will gather into one place all those who brought down sin, and the Most High will arise on that day of judgment to execute great judgment amongst sinners.  Over the righteous, and holy he will appoint as guardians holy angels to guard them as the apple of an eye until He has made an end of all wickedness, and all sin, and though the righteous sleep a long sleep, they have nought to fear.  The wise amongst men will see the truth, and the children of earth will understand all the words of this book, and recognise that their riches will not be able to save them in the overthrow of their sins.
+**[Verse 2]** For a man will not withhold his hand from slaying his sons, and his sons, and the sinner will not withhold his hand from his honoured brother: from dawn until sunset they will slay one another.
 
-Woe to you sinners, when you afflict the righteous on the day of great trouble, and burn them with fire: therefore you will be requited according to your works.  Woe to you, obstinate of heart, who watch in order to devise wickedness: therefore fear shall come upon you, and there will be none to help you.  Woe to you, you sinners; for on account of the words of your mouth, and on account of the deeds of your hands which you have godlessly wrought, you will burn in a fire of blazing flame.
+**[Verse 3]** The horses will walk up to the breast in the blood of sinners, and the chariot will be submerged to its height.
 
-Now know you that the angels will seek out your deeds in heaven from the sun, and from the moon, and from the stars in reference to your sins because you execute judgment on the righteous upon earth.  He will summon to testify against you cloud, and mist, and dew, and rain; for they will all be withheld by you from descending upon you, and that because of your sins.  Now give presents to the rain that it be not withheld from descending upon you, nor yet the dew, when it has received gold, and silver from you that it may descend.
+**[Verse 4]** In those days the angels will descend into the secret places, and will gather into one place all those who brought down sin, and the Most High will arise on that day of judgment to execute great judgment amongst sinners.
 
-When the hoar frost, and snow with their chilliness, and all the winds of the snow with all their plagues fall upon you, in those days you will not be able to stand before them.
+**[Verse 5]** Over the righteous, and holy he will appoint as guardians holy angels to guard them as the apple of an eye until He has made an end of all wickedness, and all sin, and though the righteous sleep a long sleep, they have nought to fear.
+
+**[Verse 6]** The wise amongst men will see the truth, and the children of earth will understand all the words of this book, and recognise that their riches will not be able to save them in the overthrow of their sins.
+
+**[Verse 7]** Woe to you sinners, when you afflict the righteous on the day of great trouble, and burn them with fire: therefore you will be requited according to your works.
+
+**[Verse 8]** Woe to you, obstinate of heart, who watch in order to devise wickedness: therefore fear shall come upon you, and there will be none to help you.
+
+**[Verse 9]** Woe to you, you sinners; for on account of the words of your mouth, and on account of the deeds of your hands which you have godlessly wrought, you will burn in a fire of blazing flame.
+
+**[Verse 10]** Now know you that the angels will seek out your deeds in heaven from the sun, and from the moon, and from the stars in reference to your sins because you execute judgment on the righteous upon earth.
+
+**[Verse 11]** He will summon to testify against you cloud, and mist, and dew, and rain; for they will all be withheld by you from descending upon you, and that because of your sins.
+
+**[Verse 12]** Now give presents to the rain that it be not withheld from descending upon you, nor yet the dew, when it has received gold, and silver from you that it may descend.
+
+**[Verse 13]** When the hoar frost, and snow with their chilliness, and all the winds of the snow with all their plagues fall upon you, in those days you will not be able to stand before them.
 ---
 
 ## Chapter 101
