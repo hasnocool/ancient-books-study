@@ -162,19 +162,37 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 10]** Like water your lies will flow away; for riches will not abide with you but will ascend suddenly from you; for you have acquired it all in unrighteousness, and you will be given over to a great condemnation.
 ---
 
-## Chapter 98
+**[Verse 1]** Now I swear to you, to the wise and foolish, for you will experience much on the earth.
 
-Now I swear to you, to the wise and foolish, for you will experience much on the earth.  For you men will put on more adornments than a woman, and coloured garments more than a virgin: in royalty, and in grandeur, and in power, and in silver, and in gold, and in purple, and in splendour, and in food they will be poured out as water.  Therefore they will be wanting in knowledge, and wisdom, and they will perish thereby together with their possessions, and with all their glory, and their splendour, and in shame, and in slaughter, and in great destitution will their spirits be cast into the furnace of lire.
+**[Verse 2]** For you men will put on more adornments than a woman, and coloured garments more than a virgin: in royalty, and in grandeur, and in power, and in silver, and in gold, and in purple, and in splendour, and in food they will be poured out as water.
 
-I have sworn unto you, you sinners, as a mountain does not become a slave, and will not, nor a hill the handmaid of a woman, even so sin has not been sent upon the earth, but man of himself has created it, and into great condemnation will those fall who commit it.  barrenness has not been given to the woman, but on account of the deeds of her own hands she dies without children.  I have sworn unto you, you sinners, by the Holy, and Great One that all your evil deeds are revealed in the heavens, and that none of your deeds of oppression are covered or hidden.
+**[Verse 3]** Therefore they will be wanting in knowledge, and wisdom, and they will perish thereby together with their possessions, and with all their glory, and their splendour, and in shame, and in slaughter, and in great destitution will their spirits be cast into the furnace of lire.
 
-Do not think in your spirit nor say in your heart that you do not know, and that you do not see that every sin is every day recorded in the presence of the Most High.  From henceforth you know that all your oppression wherewith you oppressed is written down every day until the day of your judgment.  Woe to you fools, for through your folly will you perish: you have transgressed against the wise, and so good hap will not be your portion.
+**[Verse 4]** I have sworn unto you, you sinners, as a mountain does not become a slave, and will not, nor a hill the handmaid of a woman, even so sin has not been sent upon the earth, but man of himself has created it, and into great condemnation will those fall who commit it.
 
-Now, know you that you are prepared for the day of destruction: wherefore do not hope to live, you sinners, but you shall depart, and die; for you know no ransom; for you are prepared for the day of the great judgment, and for the day of tribulation, and great shame for your spirit.  Woe to you, obstinate of heart, who work wickedness, and eat blood: whence have you good things to eat, and drink, and to be filled?  From all the good things which our Lord, the Most High, has placed in abundance on the earth; and you indeed shall have no peace.
+**[Verse 5]** barrenness has not been given to the woman, but on account of the deeds of her own hands she dies without children.
 
-Woe to you who love the deeds of unrighteousness: wherefore do you hope for good hap unto yourselves?  Know that you shall be delivered into the hands of the righteous, and they will cut off your necks, and slay you, and will have no pity upon you.  Woe to you who rejoice in the tribulation of the righteous; for no grave of yours will be seen.
+**[Verse 6]** I have sworn unto you, you sinners, by the Holy, and Great One that all your evil deeds are revealed in the heavens, and that none of your deeds of oppression are covered or hidden.
 
-Woe to you who set at nought the words of the righteous; for no hope of life will be yours.  Woe to you who write down lying, and godless words; for they write down their lies that men may hear them, and transgress against neighbour.  Therefore they will have no peace but will die a sudden death.
+**[Verse 7]** Do not think in your spirit nor say in your heart that you do not know, and that you do not see that every sin is every day recorded in the presence of the Most High.
+
+**[Verse 8]** From henceforth you know that all your oppression wherewith you oppressed is written down every day until the day of your judgment.
+
+**[Verse 9]** Woe to you fools, for through your folly will you perish: you have transgressed against the wise, and so good hap will not be your portion.
+
+**[Verse 10]** Now, know you that you are prepared for the day of destruction: wherefore do not hope to live, you sinners, but you shall depart, and die; for you know no ransom; for you are prepared for the day of the great judgment, and for the day of tribulation, and great shame for your spirit.
+
+**[Verse 11]** Woe to you, obstinate of heart, who work wickedness, and eat blood: whence have you good things to eat, and drink, and to be filled?  From all the good things which our Lord, the Most High, has placed in abundance on the earth; and you indeed shall have no peace.
+
+**[Verse 12]** Woe to you who love the deeds of unrighteousness: wherefore do you hope for good hap unto yourselves?  Know that you shall be delivered into the hands of the righteous, and they will cut off your necks, and slay you, and will have no pity upon you.
+
+**[Verse 13]** Woe to you who rejoice in the tribulation of the righteous; for no grave of yours will be seen.
+
+**[Verse 14]** Woe to you who set at nought the words of the righteous; for no hope of life will be yours.
+
+**[Verse 15]** Woe to you who write down lying, and godless words; for they write down their lies that men may hear them, and transgress against neighbour.
+
+**[Verse 16]** Therefore they will have no peace but will die a sudden death.
 ---
 
 ## Chapter 99
