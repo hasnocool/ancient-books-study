@@ -27,7 +27,7 @@ He answered: “This is the Son of Man, who embodies righteousness and with whom
 
 ### Verse 5
 
-“ This Son of Man whom you have seen will awaken kings and powerful people from their couches and the mighty from their thrones. He will break the power of the strong and crush the teeth of sinners.
+“This Son of Man whom you have seen will awaken kings and powerful people from their couches and the mighty from their thrones. He will break the power of the strong and crush the teeth of sinners.
 
 ### Verse 6
 
