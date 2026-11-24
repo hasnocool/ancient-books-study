@@ -2,11 +2,11 @@
 
 This log records verse boundaries cross-referenced to Charles's printed editions, with the 1893 Clarendon Press text as the primary structural reference. Where chapters 101–105 were restored in this pass, the 1917 Charles edition was used to verify numbering and boundaries; the repository wording remains unchanged. The words inside the formatted reading edition remain the words of the repository's combined transcription, which is not a verbatim reproduction of the 1893 text.
 
-## Reference edition
+## Reference editions
 
-R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
-
-- [Digitized 1893 facsimile (PDF)](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf)
+- R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893). [Digitized facsimile (PDF)](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf)
+- R. H. Charles, *The Book of Enoch* (SPCK, 1917), used for later verse-boundary cross-checks. [Project Gutenberg eBook 77935](https://www.gutenberg.org/ebooks/77935)
+- [Theosis Library: 1 Enoch 91–108, manuscript and Charles 1917 structural cross-reference](https://theosislibrary.com/library/verified-enoch-ethiopic-epistle)
 
 ## Restored chapters
 
@@ -154,7 +154,7 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 - Chapter CIV (104): verses 1–13 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
 - Chapter CV (105): verses 1–2 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
 - Chapter CVI (106): verses 1–19 restored. Charles 1917's sequence relocates verse 17 before verses 15–16; the reading file preserves the repository source's wording and sequence but marks those verse numbers accordingly. Chapter-body normalized match passed.
-- Chapter CVII (107): verses 1–3 restored using Charles 1917 as a structural reference; source wording preserved and checked.
+- Chapter CVII (107): verses 1–3 restored using Charles 1917 as a structural reference; source wording preserved and checked. A missing Chapter 107 heading in the formatted file was restored during final QA.
 - Chapter CVIII (108): verses 1–15 restored using Charles 1917 as a structural reference; source wording preserved and checked. Chapter-body normalized match passed.
 - Chapter XCI (91): verses 1–19 restored, with verse 11 marked interpolation. Charles relocates verses 12–17 after Chapter 93 in the printed order; the repository chapter remains in numerical order. Chapter-body normalized match passed.
 - Chapter XCIII: verses 1–10 and bracketed interpolated verses 11–14 restored; chapter-body wording was checked after markup insertion. The 1917 structural reference places 91:12–17 after 93:10, so this chapter's questions are bracketed interpolation material in the reference.
