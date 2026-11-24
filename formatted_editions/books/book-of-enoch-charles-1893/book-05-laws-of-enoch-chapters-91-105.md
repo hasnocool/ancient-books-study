@@ -240,7 +240,7 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 
 **[Verse 3]** The horses will walk up to the breast in the blood of sinners, and the chariot will be submerged to its height.
 
-**[Verse 4]** In those days the angels will descend into the secret places, and will gather into one place all those who brought down sin, and the Most High will arise on that day of judgment to execute great judgment amongst sinners.
+**[Verse 4]** In those days the angels will descend into the 57 secret places, and will gather into one place all those who brought down sin, and the Most High will arise on that day of judgment to execute great judgment amongst sinners.
 
 **[Verse 5]** Over the righteous, and holy he will appoint as guardians holy angels to guard them as the apple of an eye until He has made an end of all wickedness, and all sin, and though the righteous sleep a long sleep, they have nought to fear.
 
