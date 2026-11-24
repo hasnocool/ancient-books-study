@@ -45,19 +45,33 @@ Now I tell you, my sons, and I show you the paths of righteousness, and the path
 **[Verse 5]** Sin will perish in darkness forever, and will no more be seen from that day for evermore.
 ---
 
-## Chapter 93
+**[Verse 1]** After that Enoch, began to recount from the books.  Enoch spoke: —l
 
-After that Enoch, began to recount from the books.  Enoch spoke: —l Concerning the children of righteousness, and concerning the elect of the world, and the plant of uprightness, of these I will speak to you, and announce to you, my sons, I Enoch, according to that which appeared to me in the heavenly vision, and know through the word of the holy angels, and have learnt from the heavenly tables.  Enoch began to recount from the books, and spoke: —I was born the seventh in the first week, while judgment, and righteousness still tarried.
+**[Verse 2]** Concerning the children of righteousness, and concerning the elect of the world, and the plant of uprightness, of these I will speak to you, and announce to you, my sons, I Enoch, according to that which appeared to me in the heavenly vision, and know through the word of the holy angels, and have learnt from the heavenly tables.
 
-After me there will arise in the second week great wickedness, and deceit will spring up j, and in it there will be the first end, and in it a man will be saved; and after it is ended unrighteousness will grow up, and He will make a law for the sinners.  After that in the third week at its close a man will be chosen as the plant of righteous judgment, and after him will come for evermore the plant of righteousness.  After that in the fourth week, at its close, visions of the holy, and righteous will be seen, and a law for all future generations, and an enclosure will be made for them.
+**[Verse 3]** Enoch began to recount from the books, and spoke: —I was born the seventh in the first week, while judgment, and righteousness still tarried.
 
-After that in the fifth week, at its close, will the house of glory, and dominion be built forever.  After that in the sixth week, all those who live in it will be blinded, and the hearts of all of them will be given over to a wicked forgetfulness of wisdom, and in it a man will ascend; , and at its close the house of dominion will be burnt with fire, and the whole race of the elect root will be dispersed.  After that in the seventh week will a generation arise, and many will be its deeds, and all its deeds will be apostate.
+**[Verse 4]** After me there will arise in the second week great wickedness, and deceit will spring up j, and in it there will be the first end, and in it a man will be saved; and after it is ended unrighteousness will grow up, and He will make a law for the sinners.
 
-At its close will the elect of righteousness of the eternal plant of righteousness be elected to receive sevenfold instruction concerning His whole creation.  For who is there of all the children of men that is able to hear the voice of the Holy One, and quakes not?  And who is there that can think His thoughts?
+**[Verse 5]** After that in the third week at its close a man will be chosen as the plant of righteous judgment, and after him will come for evermore the plant of righteousness.
 
-And who is there that can see all the works of heaven?  How should there be one who could behold the heaven, and who is there who could understand the things of heaven, and see a soul or a spirit, and tell thereof, or ascend, and see all their ends, and conceive them or do like them?  Who is there of all men that could know what is the length, and the breadth of the earth, and to whom has been shown the measure of all of them?
+**[Verse 6]** After that in the fourth week, at its close, visions of the holy, and righteous will be seen, and a law for all future generations, and an enclosure will be made for them.
 
-Or is there any one who could discern the length of the heaven, and how high it is, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?
+**[Verse 7]** After that in the fifth week, at its close, will the house of glory, and dominion be built forever.
+
+**[Verse 8]** After that in the sixth week, all those who live in it will be blinded, and the hearts of all of them will be given over to a wicked forgetfulness of wisdom, and in it a man will ascend; , and at its close the house of dominion will be burnt with fire, and the whole race of the elect root will be dispersed.
+
+**[Verse 9]** After that in the seventh week will a generation arise, and many will be its deeds, and all its deeds will be apostate.
+
+**[Verse 10]** At its close will the elect of righteousness of the eternal plant of righteousness be elected to receive sevenfold instruction concerning His whole creation.
+
+**[Verse 11 — interpolation]** [For who is there of all the children of men that is able to hear the voice of the Holy One, and quakes not?  And who is there that can think His thoughts?]
+
+**[Verse 12 — interpolation]** [And who is there that can see all the works of heaven?  How should there be one who could behold the heaven, and who is there who could understand the things of heaven, and see a soul or a spirit, and tell thereof, or ascend, and see all their ends, and conceive them or do like them?]
+
+**[Verse 13 — interpolation]** [Who is there of all men that could know what is the length, and the breadth of the earth, and to whom has been shown the measure of all of them?]
+
+**[Verse 14 — interpolation]** [Or is there any one who could discern the length of the heaven, and how high it is, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?]
 ---
 
 ## Chapter 94
