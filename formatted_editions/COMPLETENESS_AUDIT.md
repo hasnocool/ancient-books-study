@@ -43,7 +43,7 @@ Passing the first check does not automatically pass the second or third. A faith
 
 **Assessment:** Complete against the selected repository transcription at the chapter-body and verse-structure formatting level; not a reproduction of the entire 1893 scholarly volume, and not textually verified against the facsimile. The separate 2 Enoch material remains to be formatted as its own work.
 
-## Release rule
+## 3. 2 Enoch — Morfill/Charles (1896)\n\n**Reading index:** [2 Enoch](./books/book-of-the-secrets-of-enoch-morfill-1896/README.md)\n**Sources:** `books_02/The Book of Enoch.txt` (integrated 68-section transcription); standalone OCR in `books_05/`.\n\n- Four formatted files present chapters 1–68.\n- Chapter labels were preserved from the integrated source's 68 `Enoch Slavonic N.` markers and arranged numerically.\n- The integrated source markers occur out of order and are interspersed with other Enoch material. A fresh independent normalized chapter-body audit did not pass all chapters; some mismatches reflect ambiguous marker boundaries and must be resolved rather than reported as verified.\n- No verse divisions have been invented. The edition remains a formatted draft, not a facsimile-verified edition.\n- The standalone Morfill/Charles OCR has visible scan errors; bibliographic identity is confirmed, but complete text collation remains pending.\n\n**Assessment:** The 68 chapter headings are present, but text completeness should remain unverified until the chapter boundaries and source text are independently audited.\n\n## Release rule
 
 Do not use “complete edition” or “verified transcription” in a title, badge, or catalog status until the relevant printed edition has been checked for:
 
