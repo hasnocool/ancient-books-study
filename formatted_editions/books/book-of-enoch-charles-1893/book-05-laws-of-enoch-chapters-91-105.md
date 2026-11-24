@@ -34,11 +34,15 @@ After this, in the tenth week in the seventh part, there will be the great etern
 Now I tell you, my sons, and I show you the paths of righteousness, and the paths of violence, and I will show them to you again that you may know what will happen.  Now, hearken, my sons, and walk in the paths of righteousness, and walk not in paths of violence; for all who walk in the paths of unrighteousness will perish forever.
 ---
 
-## Chapter 92
+**[Verse 1]** Written by Enoch, the scribe, this complete doctrine of wisdom which deserves the praise of all men, and is a judge of the whole earth, for all my children who will dwell on the earth, and the future generations who will observe uprightness, and peace.
 
-Written by Enoch, the scribe, this complete doctrine of wisdom which deserves the praise of all men, and is a judge of the whole earth, for all my children who will dwell on the earth, and the future generations who will observe uprightness, and peace.  Let not your spirit be troubled on account of the times; for the Holy Great One has appointed days for all things.  The righteous one will arise from sleep, will arise, and walk in the path of righteousness, and all his path, and conversation will be in eternal goodness, and grace.
+**[Verse 2]** Let not your spirit be troubled on account of the times; for the Holy Great One has appointed days for all things.
 
-He will be gracious to the righteous, and will give him eternal uprightness, and will give him power, and he will live in goodness, and righteousness, and will walk in eternal light.  Sin will perish in darkness forever, and will no more be seen from that day for evermore.
+**[Verse 3]** The righteous one will arise from sleep, will arise, and walk in the path of righteousness, and all his path, and conversation will be in eternal goodness, and grace.
+
+**[Verse 4]** He will be gracious to the righteous, and will give him eternal uprightness, and will give him power, and he will live in goodness, and righteousness, and will walk in eternal light.
+
+**[Verse 5]** Sin will perish in darkness forever, and will no more be seen from that day for evermore.
 ---
 
 ## Chapter 93
