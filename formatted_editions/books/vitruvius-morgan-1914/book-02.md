@@ -2,7 +2,7 @@
 
 **Edition:** Morris Hicky Morgan translation, Harvard University Press, 1914.
 
-
+**Text status:** Original source OCR, preserved without silent correction.
 
 ---
 
