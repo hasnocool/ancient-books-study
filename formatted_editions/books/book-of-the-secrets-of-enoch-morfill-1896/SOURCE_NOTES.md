@@ -19,7 +19,7 @@ The standalone OCR was used to confirm bibliographic identity, not to replace th
 
 - Source sections located: 68/68, numbered 1–68.
 - Extracted chapter bodies: 68/68.
-- Normalized comparison: 68/68 matched the selected source section after removing page-number-only lines and normalizing whitespace and OCR line-wrap hyphenation.
+- Existing notes reported a 68/68 normalized transfer check. A fresh independent audit did not reproduce that result: 53 chapters matched under a simple whitespace/layout normalization; 15 chapters showed unresolved differences, likely including ambiguous boundaries and text handling. This is not enough to identify the precise errors, so body completeness is now marked unverified.
 - No verse numbers were invented or added.
 - OCR artifacts, uncertain readings, and textual variants remain for future collation.
 
