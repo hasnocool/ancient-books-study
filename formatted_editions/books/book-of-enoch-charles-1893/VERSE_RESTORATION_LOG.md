@@ -1,6 +1,6 @@
 # Enoch Verse Restoration Log
 
-This log records verse boundaries restored from the printed 1893 Clarendon Press edition. The words inside the formatted reading edition remain the words of the repository's combined transcription, which is not a verbatim reproduction of the 1893 text.
+This log records verse boundaries cross-referenced to Charles's printed editions, with the 1893 Clarendon Press text as the primary structural reference. Where chapters 101–105 were restored in this pass, the 1917 Charles edition was used to verify numbering and boundaries; the repository wording remains unchanged. The words inside the formatted reading edition remain the words of the repository's combined transcription, which is not a verbatim reproduction of the 1893 text.
 
 ## Reference edition
 
@@ -145,10 +145,15 @@ Verse numbers and breaks have been borrowed from Charles's 1893 printing as a st
 
 ## Pending
 
-- Chapters XCI–CVIII: restore verse structure from the printed edition (remaining: XCI, CI–CVI, CVIII).
+- Chapters XCI–CVIII: restore remaining verse structure (remaining: XCI, CVI, CVIII).
 - Chapter XCII: verses 1–5 restored; source wording preserved and checked against the chapter body.
 - Chapters XCIII–XCV: verses restored; exact source body matches were checked before committing.
-- Chapter CVII: verses 1–3 restored using the Charles 1917 chapter structure as a reference; source wording preserved and checked. This is a structural cross-reference, not a 1917 text collation.
+- Chapter CI (101): verses 1–9 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
+- Chapter CII (102): verses 1–11 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
+- Chapter CIII (103): verses 1–15 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
+- Chapter CIV (104): verses 1–13 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
+- Chapter CV (105): verses 1–2 restored using the Charles 1917 numbering; source wording preserved and checked. Chapter body normalized-match passed.
+- Chapter CVII (107): verses 1–3 restored using the Charles 1917 chapter structure as a reference; source wording preserved and checked. This is a structural cross-reference, not a 1917 text collation.
 - Chapter XCIII: verses 1–10 and bracketed interpolated verses 11–14 restored; chapter-body wording was checked after markup insertion. The 1917 structural reference places 91:12–17 after 93:10, so this chapter's questions are bracketed interpolation material in the reference.
 - Chapter XCIV: verses 1–11 restored; source wording checked after markup insertion.
 - Chapter XCV: verses 1–7 restored; source wording checked after markup insertion.
