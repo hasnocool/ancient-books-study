@@ -25,6 +25,8 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 ---
 
+## Chapter 107
+
 **[Verse 1]** I saw written on them that generation upon generation will transgress, until a generation of righteousness arises, and transgression will be destroyed, and sin will pass away from the earth, and all manner of good will come upon it.
 
 **[Verse 2]** Now, my son, go, and make known to your son Lamech that this son, which has been born, is in truth his son, and that is no lie.
