@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Read-only quality checks for the Ancient Books Study corpus (Python 3.12+)."""
 from __future__ import annotations
-import argparse, collections, hashlib, json, re, sys, unicodedata
+import argparse, collections, difflib, hashlib, json, re, sys, unicodedata
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -70,22 +70,58 @@ def audit_duplicates(root: Path) -> dict:
         base = root / folder
         if base.exists():
             archive_files.extend(walk_files(base))
-    exact, normalized = collections.defaultdict(list), collections.defaultdict(list)
+    exact, normalized, texts = collections.defaultdict(list), collections.defaultdict(list), {}
+    stem_groups = collections.defaultdict(list)
     for path in archive_files:
         rel = path.relative_to(root).as_posix()
         exact[sha256_file(path)].append(rel)
-        if path.stat().st_size <= 8 * 1024 * 1024:
-            try:
-                text = path.read_text(encoding="utf-8")
-            except (UnicodeDecodeError, OSError):
-                continue
-            normalized[hashlib.sha256(normalized_text(text).encode("utf-8")).hexdigest()].append(rel)
+        if path.stat().st_size > 4 * 1024 * 1024:
+            continue
+        try:
+            raw = path.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError):
+            continue
+        norm = normalized_text(raw)
+        normalized[hashlib.sha256(norm.encode("utf-8")).hexdigest()].append(rel)
+        if len(norm) >= 300:
+            stem = re.sub(r"[^a-z0-9]+", "", path.stem.casefold())
+            if stem:
+                # Restrict fuzzy comparisons to similarly named files of similar size.
+                sample = norm[:8000] + " " + norm[-8000:]
+                texts[rel] = (len(norm), sample, sha256_file(path))
+                stem_groups[stem].append(rel)
     exact_groups = [sorted(v) for v in exact.values() if len(v) > 1]
     normalized_groups = [sorted(v) for v in normalized.values() if len(v) > 1]
-    return {"archive_file_count": len(archive_files),
-            "exact_duplicate_groups": sorted(exact_groups),
-            "normalized_text_duplicate_groups": sorted(normalized_groups),
-            "note": "Exact groups have identical bytes. Normalized groups match after Unicode compatibility normalization, case-folding, and whitespace normalization; these are review candidates, not deletion instructions."}
+    near_pairs = []
+    seen_pairs = set()
+    for members in stem_groups.values():
+        for index, left in enumerate(members):
+            for right in members[index + 1:]:
+                pair = tuple(sorted((left, right)))
+                if pair in seen_pairs:
+                    continue
+                seen_pairs.add(pair)
+                left_size, left_sample, left_hash = texts[left]
+                right_size, right_sample, right_hash = texts[right]
+                if left_hash == right_hash:
+                    continue
+                ratio_size = min(left_size, right_size) / max(left_size, right_size)
+                if ratio_size < 0.85:
+                    continue
+                similarity = difflib.SequenceMatcher(None, left_sample, right_sample).ratio()
+                if similarity >= 0.96:
+                    near_pairs.append({
+                        "files": [left, right],
+                        "sample_similarity": round(similarity, 4),
+                        "normalized_length_ratio": round(ratio_size, 4),
+                    })
+    return {
+        "archive_file_count": len(archive_files),
+        "exact_duplicate_groups": sorted(exact_groups),
+        "normalized_text_duplicate_groups": sorted(normalized_groups),
+        "near_duplicate_candidate_pairs": sorted(near_pairs, key=lambda item: item["sample_similarity"], reverse=True),
+        "note": "Exact groups have identical bytes. Normalized groups match after Unicode compatibility normalization, case-folding, and whitespace normalization. Near-duplicate pairs are conservative same-filename/similar-size sample matches; inspect full files before deciding whether they are editions, OCR variants, or true duplicates."
+    }
 
 def heading_slug(text: str) -> str:
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
@@ -341,6 +377,7 @@ def main(argv: list[str] | None = None) -> int:
         choices=("all", "inventory", "duplicates", "markdown", "provenance", "enoch", "compare", "catalog"))
     parser.add_argument("--root", type=Path, default=Path.cwd(), help="Repository root (default: current directory)")
     parser.add_argument("--json-out", type=Path, help="Optional path for a machine-readable JSON report")
+    parser.add_argument("--catalog-out", type=Path, help="Optional path for a generated catalog preview; never overwrites the maintained catalog by default")
     args = parser.parse_args(argv)
     root = args.root.resolve()
     if not root.is_dir():
