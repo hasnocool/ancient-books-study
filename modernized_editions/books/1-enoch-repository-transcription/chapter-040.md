@@ -35,7 +35,7 @@ The third voice prays and intercedes for those who live on the earth, making req
 
 ### Verse 7
 
-The fourth voice drives away the accusers and prevents them from appearing before the Lord of Spirits to accuse the people who live on the earth.
+The fourth voice drives away the Satans, the adversaries, and prevents them from appearing before the Lord of Spirits to accuse the people who live on the earth.
 
 ### Verse 8
 
