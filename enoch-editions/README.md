@@ -36,3 +36,13 @@ See [the historical-source collation log](../formatted_editions/books/book-of-en
 
 
 An additional, separate 418-page Google Books-derived 1893 scan is available at [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf). It is not the 428-page Cornell/Internet Archive scan vendored above. These are two distinct digitizations of the same historical Clarendon Press edition; do not confuse their page counts or file identities.
+
+## Follow-up visual page-image access audit — 25 November 2026
+
+A third distinct 1893 Clarendon scan was identified: a Knox College / University of Toronto copy mirrored at [Luminist](https://s3.us-west-1.wasabisys.com/luminist/EB/C/Charles_ed%20-%20Book%20of%20Enoch.pdf). Its searchable PDF text identifies the 1893 Clarendon title page and the translated-text range pp. 55–308. The scan is approximately 30.5 MB; the page-image service refused the PDF as too large, and no internal page image was inspected.
+
+The Cornell (428-page), University of Michigan/Google Books (418-page), and Knox College/Toronto copies are three distinct digitizations of the 1893 edition. Internal printed-page images for the 1893 translation range could not be rendered from any of them in this environment. Title-page thumbnails, OCR/searchable text, and catalogue metadata do not count as visual page proofing; printed pp. 55–308 remain outstanding.
+
+The authentic 1917 Claremont SPCK scan was also retried via the 6.73 MB Commons-hosted PDF. Printed p. 152 still fails to render (zero-based PDF index 153, cache miss). The visually inspected pages remain printed pp. 149–151 and 153–154; p. 152 remains open. The file is a 1962 tenth impression of the edition first published in 1917.
+
+See the detailed [historical-source collation log](../formatted_editions/books/book-of-enoch-charles-1893/SOURCE_COLLATION_LOG.md) and [chapter review log](../modernized_editions/books/1-enoch-repository-transcription/REVIEW_LOG.md).
