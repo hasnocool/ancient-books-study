@@ -299,3 +299,16 @@ A PDF text layer is a search aid, not a substitute for checking the scanned page
 - [ ] Have a second reviewer check unresolved or consequential readings.
 
 **Current conclusion:** The source-attributed reading edition is a complete chapter-body transfer of the selected repository transcription according to the repository's recorded checks. It is not a verbatim Charles 1893 transcription, not a facsimile-verified critical edition, and not a reproduction of the complete 1893 scholarly volume.
+
+
+## Vendored scan acquisition — 25 November 2026
+
+The repository now contains both source PDFs in `enoch-editions/`, added in commit `3b40e629641377b3cb966497082171544c05fc23`:
+
+| Witness | Repository file | Git blob SHA | Size |
+|---|---|---|---:|
+| 1893 Charles/Dillmann | `enoch-editions/enoch-1893-charles-dillmann.pdf` | `398352f3010cd7f059c91a24e8c32b9f8b1539a6` | 540,432 bytes |
+| 1917 Charles/Oesterley | `enoch-editions/enoch-1917-charles-oesterley.pdf` | `9bd830eafb560890c6c78d2f89d828b603d6a979` | 438,198 bytes |
+
+This closes the source-acquisition gap: the exact PDF artifacts are now versioned with the project. It does **not** itself close either collation task. The current review environment can verify the repository entries and blob identifiers, but the GitHub connector does not expose binary PDF contents for local rasterization. The earlier page-image findings therefore remain unchanged: only 1917 printed pp. 153–154 have been visually inspected; 1917 pp. 150–152 and the 1893 chapter pages remain to be rendered and checked. Do not mark visual collation complete until the vendored PDFs have been rasterized and every relevant printed page has been reviewed.
+
