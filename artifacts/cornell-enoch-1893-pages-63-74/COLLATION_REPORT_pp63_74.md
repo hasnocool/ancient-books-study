@@ -2,8 +2,8 @@
 
 **Source:** Cornell / Internet Archive scan `enoch-1893-clarendon-original.pdf` (identifier: `cu31924014590545`)
 **BookReader leaves:** n84–n95
-**Downloaded:** 12/12 JPEG images (340×569, medium quality)
-**Extraction:** OCR text layer from embedded PDF text + BookReader page images
+**Committed image files:** 12/12 BookReader JPEGs (340×569, medium quality), with manifest and SHA-256 hashes
+**OCR basis:** Embedded PDF text layer; page summaries and OCR statistics are reported here, but individual `printed_p063.txt`–`printed_p074.txt` files are not committed in this directory.
 
 ## Page Mapping & File Inventory
 
@@ -52,9 +52,9 @@
 
 | Page | BookReader JPEG | PDF Native Scan | Visual Inspection |
 |------|-----------------|-----------------|-------------------|
-| 63–74 | ✅ Downloaded (340×569) | ✅ Extracted (1360×2274) | ⏳ Pending |
+| 63–74 | ✅ Downloaded and individually opened (340×569) | Higher-resolution PNGs are referenced as local extraction outputs but are not present in this committed directory | Page identity and broad layout checked 12/12; fine-text/apparatus proofing pending |
 
-**Note:** BookReader images are medium-quality JPEGs (340×569). PDF native scans (1360×2274, JPXDecode) are higher resolution and should be used for detailed verification.
+**Note:** BookReader images are medium-quality JPEGs (340×569). The repository tree at this commit contains the 12 JPEGs, manifest, and this report; it does not contain the referenced `printed_p063_full.png`–`printed_p074_full.png` files or per-page OCR `.txt` files. If those files exist in a local working directory, they must be added or otherwise made available before they can be independently checked from the repository. Higher-resolution scans (1360×2274) are still required for detailed apparatus and diplomatic verification.
 
 ## Verification Protocol
 
@@ -79,7 +79,8 @@ For each page, the following must be confirmed by human inspection:
 
 ## Next Steps
 
-1. **Visual inspection**: Open all 12 BookReader JPEGs and 12 PDF native PNGs
-2. **Spot-check OCR**: Compare 3–5 lines per page against image
-3. **Record defects**: Log any discrepancies in a page-level defect log
-4. **Update ledger**: Only after individual inspection, increment visual proofing count
+1. ✅ Open each of the 12 committed BookReader JPEGs individually; printed folios 63–74 and broad layout are visible
+2. **High-resolution inspection**: Obtain and inspect all 12 native PDF page images; the small apparatus and Greek glyphs are not reliably readable in the medium JPEGs
+3. **OCR comparison**: Compare 3–5 lines per page against high-resolution images; per-page OCR text files are not currently committed
+4. **Record defects**: Log textual, punctuation, Greek, apparatus, and layout discrepancies separately
+5. **Update ledger**: Do not treat the medium-resolution page/layout checks as full diplomatic proofing
