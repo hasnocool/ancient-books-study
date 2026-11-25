@@ -5,7 +5,7 @@
 
 **Editorial method:** Complete verse-by-verse modernization of all 19 numbered verses in the repository transcription. Archaic wording is updated while the source sequence and substance are retained. This is not a new translation from the Ethiopic, and the repository transcription has not been verified as a verbatim copy of the 1893 Charles/Dillmann printing.
 
-**Order note:** Verse 17 remains in the repository's position after verse 16; the alternate placement reported in the source edition's editorial statement has not been silently applied.
+**Order note:** The repository keeps verse 17 after verse 16. Charles's 1917 text prints the giants clause immediately after 106:14 and before 106:15–16; his introduction explicitly says 106:17a should be read immediately after 106:14. The repository sequence is retained, and the witness order is documented below rather than silently applied.
 
 ---
 
@@ -91,4 +91,6 @@ I, Enoch, answered: “The Lord is about to do something new on the earth. I hav
 
 - All **19 numbered verses** in the repository's Chapter 106 have been rendered individually.
 - No verse has been intentionally omitted or replaced by a chapter summary.
+- **1917 witness reading and order:** In the 1917 printed text, the clause following 106:14 reads that the angels “shall produce on the earth giants not according to the spirit, but according to the flesh,” followed by the great punishment and cleansing of the earth. Charles identifies this as 106:17a and directs that it be read immediately after 106:14. The repository transcription instead phrases the clause as “The giants are not spiritual beings; they belong to the physical world” and places it after 106:16. Both the wording/agency and sequence differ. This modernization preserves the selected repository wording and order; it does not silently replace them with the 1917 witness.
+- The 1917 text-layer evidence for printed pp. 151–152 was examined, but those page images were not successfully retrieved for visual inspection in this pass. This is not a completed visual collation of Chapter 106.
 - This rendering follows the repository's chapter and verse divisions and preserves its chapter sequence; it does not silently substitute another translation's wording or arrangement.
