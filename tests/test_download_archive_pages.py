@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import unittest
 
-from tools.download_archive_pages import candidate_urls, jpeg_dimensions
+from tools.download_archive_pages import candidate_urls, has_jpeg_eoi, jpeg_dimensions
 
 
 class JpegDimensionsTests(unittest.TestCase):
@@ -24,6 +24,10 @@ class JpegDimensionsTests(unittest.TestCase):
         )
         self.assertEqual(jpeg_dimensions(sample), (1360, 2276))
 
+    def test_requires_end_of_image_marker(self) -> None:
+        self.assertTrue(has_jpeg_eoi(b"\xff\xd8payload\xff\xd9"))
+        self.assertFalse(has_jpeg_eoi(b"\xff\xd8payload"))
+
     def test_rejects_non_jpeg_data(self) -> None:
         self.assertIsNone(jpeg_dimensions(b"not a jpeg"))
 
@@ -32,12 +36,23 @@ class JpegDimensionsTests(unittest.TestCase):
 
 
 class CandidateUrlTests(unittest.TestCase):
-    def test_builds_bookreader_size_fallbacks(self) -> None:
+    def test_builds_medium_first_fallbacks_by_default(self) -> None:
         self.assertEqual(
             candidate_urls("cu31924014590545", 323),
             [
                 "https://archive.org/download/cu31924014590545/page/n323_medium.jpg",
                 "https://archive.org/download/cu31924014590545/page/n323_large.jpg",
+                "https://archive.org/download/cu31924014590545/page/n323.jpg",
+                "https://archive.org/download/cu31924014590545/page/n323_small.jpg",
+            ],
+        )
+
+    def test_large_first_fallbacks_for_proofing(self) -> None:
+        self.assertEqual(
+            candidate_urls("cu31924014590545", 323, prefer_large=True),
+            [
+                "https://archive.org/download/cu31924014590545/page/n323_large.jpg",
+                "https://archive.org/download/cu31924014590545/page/n323_medium.jpg",
                 "https://archive.org/download/cu31924014590545/page/n323.jpg",
                 "https://archive.org/download/cu31924014590545/page/n323_small.jpg",
             ],
