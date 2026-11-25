@@ -67,25 +67,29 @@ Only 1 Enoch is reproduced in this directory. The Slavonic sections are delibera
 These references establish the historical edition and provide comparison material. They do not prove that the supplied repository transcription was taken directly from the 1893 printing.
 
 
-## Repository-bundled PDF provenance correction — 25 November 2026
+## Repository PDF provenance audit — 25 November 2026
 
-The two files under `enoch-editions/` are project-supplied research artifacts, but neither is a photographic scan of the historical edition identified by its filename:
+The `enoch-editions/` directory contains two older project transcriptions and two newly added historical scans. The older files should not be represented as facsimiles; the newly added originals are the intended page-image witnesses.
 
-| Repository artifact | Git blob SHA | Local file properties | Provenance finding |
-|---|---|---|---|
-| `enoch-editions/enoch-1893-charles-dillmann.pdf` | `398352f3010cd7f059c91a24e8c32b9f8b1539a6` | 540,432 bytes; 66 PDF pages | Modern digitally typeset composite. It combines a claimed 1893 Dillmann/Charles Ethiopic text with Slavonic *2 Enoch* / later material and internal Book 1–6 divisions. Not a facsimile of the 1893 Clarendon Press volume. |
-| `enoch-editions/enoch-1917-charles-oesterley.pdf` | `9bd830eafb560890c6c78d2f89d828b603d6a979` | 438,198 bytes; 101 PDF pages | Word-processed/digitally typeset transcription with PDFMaker metadata dated 2005, not a scanned 1917 impression. It stops after 107:3 and contains no Chapter 108. |
+| Repository file | Git blob SHA | Size | Provenance and role |
+|---|---|---:|---|
+| `enoch-1893-charles-dillmann.pdf` | `398352f3010cd7f059c91a24e8c32b9f8b1539a6` | 540,432 bytes | Modern 66-page composite/re-typeset compilation, integrating 1 Enoch and Slavonic 2 Enoch / later material. It is not the 1893 Clarendon volume. |
+| `enoch-1893-clarendon-original.pdf` | `38be2b5e0e95779f92dcb19a745fc654b010b711` | 16,777,301 bytes | New large scan identified by the repository commit as the Cornell/Internet Archive 1893 Clarendon original (428 scanned pages). The external catalog and title page independently identify the Cornell-held Oxford Clarendon Press edition of 1893. Use this PDF for the 1893 page-image audit. |
+| `enoch-1917-charles-oesterley.pdf` | `9bd830eafb560890c6c78d2f89d828b603d6a979` | 438,198 bytes | 101-page Word/PDFMaker 2005 transcription, not a 1917 facsimile. It ends after 107:3 and has no Chapter 108. |
+| `enoch-1917-spck-original.pdf` | `80523ea72dfed5c4159dce85420e9ab1496dd3d4` | 7,051,515 bytes | New full SPCK scan described in the repository commit as a 160-page Claremont scan. The scanned copy identifies itself as the tenth impression (1962), first published in 1917; its preface says it reprints Charles's 1912 second edition. Use it as the page-image witness to the 1917 textual edition, while accurately describing the scanned physical impression as 1962. |
 
-The repository copies were rendered and inspected at their endings. The 1893-labelled file moves from 1 Enoch 105 into separate Slavonic material and later repackages 106–108 under its own “Book 6 — The Deluge” heading. The 1917-labelled file ends after 107:3. Their filenames therefore must not be used as proof of historical identity, complete coverage, or page-level authenticity.
+### Historical publication and scan notes
 
-### Separate historical witnesses used for comparison
+- **1893:** The Cornell/Internet Archive catalogue record identifies the scan as *The Book of Enoch*, Oxford: Clarendon Press, 1893, Internet Archive identifier `cu31924014590545`. The scanned title page names R. H. Charles and the Clarendon Press. The original historical volume's main translated text covers Chapters 1–104. Appendix E separately contains a New Latin fragment (106:1–18); it does not supply a complete Chapter 105–108 translation.
+- **1917:** The full SPCK edition includes Chapters 105–108. The newly added repository PDF is a scan of a later 1962 impression, not the first impression of 1917. The preface indicates that the translation reprints Charles's 1912 second edition.
+- The repository files' blob hashes and byte sizes are supplied to identify the precise current artifacts. No byte-for-byte identity with external Wikimedia/Internet Archive files is claimed.
 
-- **Authentic 1893 Clarendon scan:** [Wikimedia Commons / Internet Archive Google Books scan](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf); [Cornell/Internet Archive searchable OCR](https://archive.org/stream/cu31924014590545/cu31924014590545_djvu.txt). This is the 1893 main translation, Chapters 1–104 (printed pp. 55–308), with the Latin fragment 106:1–18 separately in Appendix E.
-- **Authentic 1917 Charles/Oesterley scan:** [1917 digitized facsimile](https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf). Its introduction identifies it as the reprint of Charles's 1912 second edition. It includes Chapters 105–108.
+### Page-image review status
 
-### 1917 visual review boundary
+- **1893:** The new Cornell scan is now available inside this repository, but a systematic visual collation of printed pp. 55–308 remains outstanding. Earlier assistant-led sequential work used the searchable OCR and critical apparatus; it must not be described as full page-image proofing.
+- **1917:** Printed pp. 150, 151, 153, and 154 have been visually inspected in the full scan. Printed p. 152 remains uninspected because image retrieval failed. The full scan's text layer for Chapters 105–108 has been reviewed, so p. 152 is a missing image check, not missing text.
+- The older 101-page project transcription ending at 107:3 is not evidence for the complete 1917 edition and cannot substitute for the full scan of Chapter 108.
 
-For the authentic 1917 facsimile, page images were visually inspected for printed pp. 149–151 and 153–154. The image for printed p. 152 could not be retrieved in this pass. The searchable text layer for Chapters 105–108 was checked, and the visual checks of pp. 153–154 confirm the Chapter 108 text at the end of the volume. Consequently, the 1917 page-image review remains incomplete by one uninspected page (p. 152), even though Chapter 108 itself is present and its final pages were visually checked.
+### Editorial consequence
 
-The earlier statement that the repository's bundled 101-page “1917” PDF ends at 107:3 refers only to that project transcription. It must not be conflated with the authentic 1917 facsimile linked above.
-
+Continue to preserve the selected repository transcription in the formatted and modernized reading editions unless a deliberate, source-specific emendation is documented. Differences in wording, verse order, interpolation status, or witness readings belong in the collation log, not in silent harmonization.
