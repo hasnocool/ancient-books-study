@@ -174,3 +174,14 @@ Do not mark a full chapter reviewed because only its headings, word counts, or f
 Both source PDFs are now committed in the repository at `enoch-editions/enoch-1893-charles-dillmann.pdf` (Git blob `398352f3010cd7f059c91a24e8c32b9f8b1539a6`, 540,432 bytes) and `enoch-editions/enoch-1917-charles-oesterley.pdf` (Git blob `9bd830eafb560890c6c78d2f89d828b603d6a979`, 438,198 bytes), commit `3b40e629641377b3cb966497082171544c05fc23`.
 
 The source scans are now available as version-controlled project artifacts. This update records acquisition only; it adds no verse-level approval and no new visual page checks. The binary-file retrieval path available in this review session does not expose PDF bytes for local rendering. Keep the existing visual status unchanged: 1917 printed pp. 153–154 checked; pp. 150–152 and the 1893 chapter pages remain unchecked. Continue to label the historical collation incomplete until the page images are actually inspected.
+
+
+## Direct attachment inspection update — 25 November 2026
+
+The two user-supplied PDFs were available as local files and were rendered for visual inspection. This supersedes the previous statement that the binary PDFs could not be rendered.
+
+**1917 attachment:** `enoch-1917-charles-oesterley.pdf`, 101 PDF pages. PDF page 99 was visually checked and contains the end of Chapter 104, all of Chapter 105, and the Chapter 106 heading. PDF page 100 was visually checked and contains 106:1–14. PDF page 101 was visually checked and contains 106:17a followed by 106:15–19, then 107:1–3. This confirms that 106:17a is printed between 106:14 and 106:15 in this witness. The attachment ends after 107:3 and contains no Chapter 108. Do not mark 108 visually collated against this attachment.
+
+**1893-labelled attachment:** `enoch-1893-charles-dillmann.pdf`, 66 PDF pages. It is not a photographic scan of the 1893 Clarendon Press edition. Its opening identifies it as a combined/compiled text integrating a claimed 1893 Geez/Dillmann/Charles text with 2 Enoch (Slavonic) attributed to Morfill and Sokoloff / Charles 1896. It uses modern typesetting, internal “Book 1”–“Book 6” divisions, and interleaved “Enoch Slavonic” sections. The content around PDF page 60 moves from 1 Enoch 105 into “Enoch Slavonic 49”; later it presents 106–108 as “Book 6 - The Deluge.” This is not an acceptable facsimile witness for the requested 1893 chapter-by-chapter historical collation.
+
+**Status correction:** 1917 attachment visual check is complete only for its actual contents (PDF pp. 99–101; Chapters 105–107:3). Chapter 108 is absent from this attachment. The 1893 Chapters 1–104 historical collation remains blocked by lack of the authentic 1893 facsimile. No independent human semantic approval is claimed.
