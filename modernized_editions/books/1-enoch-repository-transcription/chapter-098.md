@@ -27,7 +27,9 @@ I declare this to you sinners: just as a mountain does not become a slave, nor a
 
 ### Verse 5
 
-Childlessness was not imposed upon a woman as a punishment from outside. The source text says that a woman dies without children because of the deeds of her own hands. This difficult ancient claim is retained here as part of the passage, not endorsed as a factual or medical statement.
+A woman is not made barren; because of her own deeds, she dies without children.
+
+**Editorial note:** This verse preserves the source's ancient moral explanation of childlessness; it is not a factual or medical statement.
 
 ### Verse 6
 
