@@ -1,0 +1,642 @@
+{
+  "pages_processed": [
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259
+  ],
+  "repo_chapters": [
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+  ],
+  "total_ocr_segments": 483,
+  "total_matches": 60,
+  "matches": [
+    {
+      "page": 191,
+      "ocr_excerpt": "LXXII 1. The Book of the courses of the luminaries of\nthe heaven and the relations of each, according to their\nclasses, their dominion and their seasons, according to their\nnames and places of origin,",
+      "repo_chapter": 72,
+      "repo_verse": 1,
+      "repo_excerpt": "The Book of the courses of the luminaries of the heaven and the relations of each, according to their classes, their dominion, their seasons, according to their names, places of origin, according to t",
+      "similarity": 0.915,
+      "status": "matched"
+    },
+    {
+      "page": 193,
+      "ocr_excerpt": "heaven, he comes forth through that fourth portal thirty\nmornings in succession and sets directly opposite in the\nfourth portal in the west of the heaven. 9. And during\nthis period day becomes longer ",
+      "repo_chapter": 72,
+      "repo_verse": 8,
+      "repo_excerpt": "When the sun rises in the heaven, he comes forth through that fourth portal thirty mornings in succession, and sets directly opposite in the fourth portal in the west of the heaven.",
+      "similarity": 0.808,
+      "status": "matched"
+    },
+    {
+      "page": 194,
+      "ocr_excerpt": "the sun rises from that fourth portal, and sets in the fourth,\nand returns to the fifth portal of the east thirty mornings in\nsuccession, and rises from and sets in the fifth portal. 12.\nThen the day ",
+      "repo_chapter": 72,
+      "repo_verse": 11,
+      "repo_excerpt": "the sun rises from that fourth portal, and sets in the fourth, and returns to the fifth portal of the east thirty mornings in succession, and rises from, and sets in the fifth portal.",
+      "similarity": 0.95,
+      "status": "matched"
+    },
+    {
+      "page": 195,
+      "ocr_excerpt": "sets in the west, and returns to the east and rises thirty\nmornings in the third portal and sets in the west in the third\nportal. 22. And on that day the night becomes longer\nthan the day, and night b",
+      "repo_chapter": 72,
+      "repo_verse": 21,
+      "repo_excerpt": "The sun rises from that portal, and sets in the west, and returns to the east, and rises thirty mornings in the third portal, and sets in the west in the third portal.",
+      "similarity": 0.703,
+      "status": "partial"
+    },
+    {
+      "page": 196,
+      "ocr_excerpt": "amounts to ten parts and the day to eight. 31. And on\nthat day the sun rises from that second portal, and sets in the\nwest, and returns to the east, and rises in the third portal for\none and thirty mo",
+      "repo_chapter": 72,
+      "repo_verse": 31,
+      "repo_excerpt": "on that day the sun rises from that second portal, and sets in the west, and returns to the east, and rises in the third portal for one, and thirty mornings, and sets in the west of the heaven.",
+      "similarity": 0.758,
+      "status": "partial"
+    },
+    {
+      "page": 196,
+      "ocr_excerpt": "34. On that account its course by day becomes\ndaily longer, and its course by night nightly shorter. 35\nAnd this is the law and the course of the sun, and his return\nas often as he returns sixty times",
+      "repo_chapter": 72,
+      "repo_verse": 34,
+      "repo_excerpt": "On that account its course by day becomes daily longer, and its course by night nightly shorter.",
+      "similarity": 0.649,
+      "status": "partial"
+    },
+    {
+      "page": 196,
+      "ocr_excerpt": "LXXIII. 1. And after this law I saw another law dealing\nwith the smaller luminary, which is called the moon. 2.",
+      "repo_chapter": 73,
+      "repo_verse": 1,
+      "repo_excerpt": "After this law I saw another law dealing with the smaller luminary, which is called the moon.",
+      "similarity": 0.912,
+      "status": "matched"
+    },
+    {
+      "page": 197,
+      "ocr_excerpt": "Her circumference is like the circumference of the heaven,\nand her chariot in which she rides is driven by the wind and\nlight is given to her in (definite) measure. 3. Her rising\nand setting changes e",
+      "repo_chapter": 73,
+      "repo_verse": 2,
+      "repo_excerpt": "Her circumference is like the circumference of the heaven, and her chariot in which she rides is driven by the wind, and light is given to her in measure.",
+      "similarity": 0.864,
+      "status": "matched"
+    },
+    {
+      "page": 198,
+      "ocr_excerpt": "her whole circumference is empty, without light, with the ex-\nception of one seventh part of her and the fourteenth part of\nthe half of her light. 6. And when she receives one seventh\npart of the half",
+      "repo_chapter": 73,
+      "repo_verse": 5,
+      "repo_excerpt": "the one half of her projects by a seventh part, and her whole circumference is empty, without light, with the exception of one seventh part of her, and the fourteenth part of the half of her light.",
+      "similarity": 0.725,
+      "status": "partial"
+    },
+    {
+      "page": 202,
+      "ocr_excerpt": "thousand and ninety-two days, and in five years eighteen\nhundred and twenty days, so that in eight years there are two\nthousand nine hundred and twelve days. 14. In three\nyears there accrue to the moo",
+      "repo_chapter": 74,
+      "repo_verse": 13,
+      "repo_excerpt": "In three years there are one thousand, and ninety two days, and in five years eighteen hundred, and twenty days, so that in eight years there are two thousand nine hundred, and twelve days.",
+      "similarity": 0.802,
+      "status": "matched"
+    },
+    {
+      "page": 203,
+      "ocr_excerpt": "LXXYV. 1. And the leaders of the heads of the thousands,\nwho are placed over the whole creation and over all the stars,\nhave also to do with the four intercalary days, which cannot be\nseparated from t",
+      "repo_chapter": 75,
+      "repo_verse": 1,
+      "repo_excerpt": "The leaders of the heads of the thousands, who are placed over the whole creation, and over all the stars, have also to do with the four intercalary days, which cannot be separated from their function",
+      "similarity": 0.925,
+      "status": "matched"
+    },
+    {
+      "page": 204,
+      "ocr_excerpt": "Uriel showed me in the circumference of the sun\u2019s chariot in\nthe heaven twelve door-openings through which the rays of\nthe sun break forth ; and from them is warmth diffused over\nthe earth, when they ",
+      "repo_chapter": 75,
+      "repo_verse": 4,
+      "repo_excerpt": "In like manner Uriel showed me in the circumference of the suns chariot in the heaven twelve door openings through which the rays of the sun break forth; and from them is warm diffused over the earth,",
+      "similarity": 0.92,
+      "status": "matched"
+    },
+    {
+      "page": 204,
+      "ocr_excerpt": "LXXVI. 1. And at the ends of the earth I saw twelve\nportals opened for all the winds, from which the winds",
+      "repo_chapter": 76,
+      "repo_verse": 1,
+      "repo_excerpt": "At the ends of the earth I saw twelve portals opened for all the winds, from which the winds proceed, and blow over the earth.",
+      "similarity": 0.793,
+      "status": "partial"
+    },
+    {
+      "page": 205,
+      "ocr_excerpt": "proceed and blow over the earth. 2. Three of them are\nopened on the face (i.e. the east) of the heavens, and three\nin the west, and three on the right (i.e. the south) of the\nheaven, and three on the ",
+      "repo_chapter": 76,
+      "repo_verse": 2,
+      "repo_excerpt": "Three of them are opened on the face of the heavens, and three in the west, and three on the right of the heaven, and three on the left.",
+      "similarity": 0.78,
+      "status": "partial"
+    },
+    {
+      "page": 206,
+      "ocr_excerpt": "and rain, locusts and destruction. 10. And after these the\nnorth winds : from the seventh portal towards the east come\ndew and rain, locusts and destruction. 11. And from the\nmiddle portal come in a d",
+      "repo_chapter": 76,
+      "repo_verse": 10,
+      "repo_excerpt": "After these the north winds: from the seventh portal towards the east come dew, and rain, locusts, and destruction.",
+      "similarity": 0.717,
+      "status": "partial"
+    },
+    {
+      "page": 207,
+      "ocr_excerpt": "LXXVIIL 1. And the first quarter is called the east, because\nit is the first: and the second, the south, because the Most\nHigh descends there, and there in quite a special sense He\n2. And the west is\n",
+      "repo_chapter": 77,
+      "repo_verse": 1,
+      "repo_excerpt": "The first quarter is called the east, because it is the first:, and the second, the south, because the Most High descends there, and there in quite a special sense He who is blessed for ever comes dow",
+      "similarity": 0.83,
+      "status": "matched"
+    },
+    {
+      "page": 209,
+      "ocr_excerpt": "and the fourth Erde. 3. These are the two large luminaries :\ntheir circumference is like the circumference of the heaven,\nand in size they are both alike, 4. And in the circumfer-\nence of the sun ther",
+      "repo_chapter": 78,
+      "repo_verse": 3,
+      "repo_excerpt": "These are the two large luminaries: their circumference is like the circumference of the heaven, and in size they are both alike.",
+      "similarity": 0.784,
+      "status": "partial"
+    },
+    {
+      "page": 211,
+      "ocr_excerpt": "months she makes of thirty days at her appointed time, and\nthree months she makes of twenty-nine days each, in which\nshe accomplishes her waning in the first period of time, and\nin the first portal in",
+      "repo_chapter": 78,
+      "repo_verse": 15,
+      "repo_excerpt": "Three months she makes of thirty days at her appointed time, and three months she makes of twenty nine days each, in which she accomplishes her waning in the first period of time, and in the first por",
+      "similarity": 0.965,
+      "status": "matched"
+    },
+    {
+      "page": 211,
+      "ocr_excerpt": "LXXIX. 1. And now, my son, I have shown thee every-\nthing, and the law of all the stars of the heaven is completed.\n2. And he showed me all their laws for every day, for every\nseason of bearing rule, ",
+      "repo_chapter": 79,
+      "repo_verse": 1,
+      "repo_excerpt": "Now my son, I have shown you everything, and the law of all the stars of the heaven is completed.",
+      "similarity": 0.626,
+      "status": "partial"
+    },
+    {
+      "page": 212,
+      "ocr_excerpt": "month : 4. And the waning which takes place in the first\nportal, in its season till one hundred and seventy-seven days\nhave elapsed : reckoned according to weeks, twenty-five weeks\nand two days. 5. Sh",
+      "repo_chapter": 79,
+      "repo_verse": 4,
+      "repo_excerpt": "the waning which takes place in the first portal, in its season until one hundred, and seventy seven days have elapsed: reckoned according to weeks, twenty five weeks, and two days.",
+      "similarity": 0.919,
+      "status": "matched"
+    },
+    {
+      "page": 216,
+      "ocr_excerpt": "I am recounting and writing down, and I have revealed to thee\neverything, and given thee books concerning all of them : (so)\npreserve, my son Methuselah, the books from thy father\u2019s\nhand and commit th",
+      "repo_chapter": 82,
+      "repo_verse": 1,
+      "repo_excerpt": "Now my son Methuselah, all these things I am recounting, and writing down, and I have revealed to you everything, and given you books concerning all of them: preserve, my son Methuselah, the books fro",
+      "similarity": 0.65,
+      "status": "partial"
+    },
+    {
+      "page": 217,
+      "ocr_excerpt": "which lead them in and enter with them four days. 5.\nAnd owing to them men will be at fault and will not reckon\nthem in the reckoning of the whole course of the world : yea,\nmen will be at fault, and ",
+      "repo_chapter": 82,
+      "repo_verse": 5,
+      "repo_excerpt": "Owing to them men will be at fault, and will not reckon them in the reckoning, of the whole course of the world: yea, men will be at fault, and not recognise them accurately.",
+      "similarity": 0.754,
+      "status": "partial"
+    },
+    {
+      "page": 218,
+      "ocr_excerpt": "first; and after them the twelve leaders of the orders who\ndivide the months ; and for the three hundred and sixty days\nthere are the heads over thousands who divide the days; and for\nthe four interca",
+      "repo_chapter": 82,
+      "repo_verse": 11,
+      "repo_excerpt": "Their four leaders who divide the four parts of the year enter first; and after them the twelve leaders of the orders who divide the months; , and for the three hundred, and sixty days there are the h",
+      "similarity": 0.67,
+      "status": "partial"
+    },
+    {
+      "page": 218,
+      "ocr_excerpt": "13. And these\nare the names of the leaders who divide the four parts of the\nyear which are ordained : Melke\u00e9l, and Helemm\u00e9l\u00e9k, and\nM\u00e9l\u00e9jal, and Nar\u00e9l. 14. And the names of those which\nthey lead: AdnAr",
+      "repo_chapter": 82,
+      "repo_verse": 13,
+      "repo_excerpt": "These are the names of the leaders who divide the four parts of the year which are ordained: Melkeel, and Helemmelek, and Melejal, and Narel.",
+      "similarity": 0.786,
+      "status": "partial"
+    },
+    {
+      "page": 219,
+      "ocr_excerpt": "20. These are the names, and the orders, and the\nleaders of those heads of thousands: G\u00e9dadl, and K\u00e9\u00e9l, and\nHe\u00e9\u00e9l, and the name of the head of a thousand which is added\nto them, Asfa\u00e9l; and the days o",
+      "repo_chapter": 82,
+      "repo_verse": 20,
+      "repo_excerpt": "These are the names, and the orders, and the leaders of those heads of thousands: Gedael, and Keel, and Heel, and the name of the head of a thousand which is added to them, Asfael; and the days of his",
+      "similarity": 0.935,
+      "status": "matched"
+    },
+    {
+      "page": 223,
+      "ocr_excerpt": "LXXXIII. 1. \u2018And now, my son Methuselah, I will show\nthee all my visions which I have seen, recounting (them) before\nthee. 2. Two visions I saw before I took a wife, and the",
+      "repo_chapter": 83,
+      "repo_verse": 1,
+      "repo_excerpt": "Now my son Methuselah, I will show you all my visions which I have seen, recounting before you.",
+      "similarity": 0.657,
+      "status": "partial"
+    },
+    {
+      "page": 224,
+      "ocr_excerpt": "one was quite unlike the other: on the first occasion when I\nwas learning to write, on the second, before I took thy\nmother, I saw a terrible vision, and concerning them I prayed\nto the Lord. 3. I had",
+      "repo_chapter": 83,
+      "repo_verse": 2,
+      "repo_excerpt": "Two visions I saw before I took a wife, and the one was quite unlike the other: on the first occasion when I was learning to write, on the second, before I took your mother, I saw a terrible vision, a",
+      "similarity": 0.745,
+      "status": "partial"
+    },
+    {
+      "page": 225,
+      "ocr_excerpt": "prayed and implored, and wrote down my prayer for the\ngenerations of the world, and I will show everything to\nthee, my son Methuselah. 11. And when I had gone\ndown and forth and saw the heaven, and sa",
+      "repo_chapter": 83,
+      "repo_verse": 10,
+      "repo_excerpt": "After that I arose, and prayed, and implored, and wrote down my prayer for the generations of the world, and I will show everything, to you, my son Methuselah.",
+      "similarity": 0.724,
+      "status": "partial"
+    },
+    {
+      "page": 225,
+      "ocr_excerpt": "LXXXIV. 1. And I uplifted my hands in righteousness\nand blessed the Holy and Great One, and spoke with the\nbreath of my mouth, and with the tongue of flesh, which\nGod has made for the children of the ",
+      "repo_chapter": 84,
+      "repo_verse": 1,
+      "repo_excerpt": "I uplifted my hands in righteousness, and blessed the Holy, and Great One, and spoke with the breath of my mouth, and with the tongue of flesh, which God has made for the children of the flesh of men,",
+      "similarity": 0.925,
+      "status": "matched"
+    },
+    {
+      "page": 228,
+      "ocr_excerpt": "4. And that black young bull gored the red one and pursued him\nover the earth, and thereupon I could no longer see that red\nyoung bull. 5. But that black young bull grew and a heifer\njoined him, and I",
+      "repo_chapter": 85,
+      "repo_verse": 4,
+      "repo_excerpt": "That black young bull gored the red one, and pursued him over the earth, and thereupon I could no longer see that red young bull (Abel).",
+      "similarity": 0.756,
+      "status": "partial"
+    },
+    {
+      "page": 229,
+      "ocr_excerpt": "LXXXVIL 1. And again I saw how they began to gore\neach other and to devour each other, and the earth began to\ncry aloud. 2. And I again raised mine eyes to heaven, and\nI saw in the vision, and behold ",
+      "repo_chapter": 87,
+      "repo_verse": 1,
+      "repo_excerpt": "Again I saw how they began to gore each other, and to devour each other, and the earth began to cry aloud.",
+      "similarity": 0.686,
+      "status": "partial"
+    },
+    {
+      "page": 230,
+      "ocr_excerpt": "LXXXVIIL 1. And I saw one of those four who had\ncome forth before, and he seized that first star which had\nfallen from the heaven and bound it hand and foot and laid it\nin an abyss: now that abyss was",
+      "repo_chapter": 88,
+      "repo_verse": 1,
+      "repo_excerpt": "I saw one of those four who had come forth before, and he seized that first star which had fallen from the heaven, and bound it hand, and foot, and laid it in an abyss: now that abyss was narrow, and ",
+      "similarity": 0.875,
+      "status": "matched"
+    },
+    {
+      "page": 231,
+      "ocr_excerpt": "LXXXIX. 1. And one of those four went to that white bull\nand instructed him in a secret, as he trembled: he was born a\nbull and became a man, and built for himself a great vessel\nand dwelt thereon; an",
+      "repo_chapter": 89,
+      "repo_verse": 1,
+      "repo_excerpt": "One of those four went to that white bull, and instructed him in a secret, as he trembled: he was born a bull, and became a man, and built for himself a great vessel , and dwelt thereon; and three bul",
+      "similarity": 0.72,
+      "status": "partial"
+    },
+    {
+      "page": 232,
+      "ocr_excerpt": "that flood. 6. But that vessel floated on the water, while\nall the oxen and elephants and camels and asses sank to the\nbottom together with all the animals, so that I could no\nlonger see them, and the",
+      "repo_chapter": 89,
+      "repo_verse": 6,
+      "repo_excerpt": "But that vessel floated on the water, while all the oxen, and elephants, and camels, and asses sank to the bottom together with all the animals, so that I could no longer see them, and they were not a",
+      "similarity": 0.925,
+      "status": "matched"
+    },
+    {
+      "page": 235,
+      "ocr_excerpt": "wolves departed in pursuit of the sheep with all their\npower. 22. And the Lord of the sheep went with them,\nas their leader, and all His sheep followed Him: His face\nwas dazzling and glorious and terr",
+      "repo_chapter": 89,
+      "repo_verse": 22,
+      "repo_excerpt": "The Lord of the sheep went with them, as their leader, and all His sheep followed Him: His face was dazzling, and glorious, terrible to behold.",
+      "similarity": 0.729,
+      "status": "partial"
+    },
+    {
+      "page": 236,
+      "ocr_excerpt": "34. And when they saw it, they feared and trembled\nat its presence, and desired to return to their folds",
+      "repo_chapter": 89,
+      "repo_verse": 34,
+      "repo_excerpt": "When they saw it, they feared, and trembled at its presence, and desired to return to their folds.",
+      "similarity": 0.941,
+      "status": "matched"
+    },
+    {
+      "page": 236,
+      "ocr_excerpt": "35.\nAnd that sheep took other sheep with it, and came to those\nsheep which had fallen away, and thereupon began to slay\nthem ; and the sheep feared its presence, and (thus) that sheep\nbrought back tho",
+      "repo_chapter": 89,
+      "repo_verse": 35,
+      "repo_excerpt": "That sheep took other sheep with it, and came to those sheep which had fallen away, and thereupon began to slay them; and the sheep feared its presence, and that sheep brought back those sheep that ha",
+      "similarity": 0.915,
+      "status": "matched"
+    },
+    {
+      "page": 237,
+      "ocr_excerpt": "1 saw till this sheep which had met that sheep which led the\nsheep fell asleep ; and I saw till all the great sheep perished\nand little ones arose in their place, and they came to a\npasture, and appro",
+      "repo_chapter": 89,
+      "repo_verse": 37,
+      "repo_excerpt": "I saw until this sheep which had met that sheep which led the sheep fell asleep ; and I saw until all the great sheep perished, and little ones arose in their place, and they came to a pasture, and ap",
+      "similarity": 0.925,
+      "status": "matched"
+    },
+    {
+      "page": 238,
+      "ocr_excerpt": "foxes and the wild boars began\nto devour those sheep till the\nLord of the sheep raised up",
+      "repo_chapter": 89,
+      "repo_verse": 42,
+      "repo_excerpt": "The dogs, and the foxes, and the wild boars began to devour those sheep until the Lord of the sheep raised up another sheep, a ram from their midst, which led them.",
+      "similarity": 0.696,
+      "status": "partial"
+    },
+    {
+      "page": 238,
+      "ocr_excerpt": "another sheep, a ram from\ntheir midst, which led them.\n43. And that ram began to\nbutt on either side those dogs,\nfoxes, and wild boars till he\nhad destroyed them all",
+      "repo_chapter": 89,
+      "repo_verse": 43,
+      "repo_excerpt": "That ram began to butt on either side those dogs, foxes, and wild boars until he had destroyed them all.",
+      "similarity": 0.743,
+      "status": "partial"
+    },
+    {
+      "page": 238,
+      "ocr_excerpt": "44.\nAnd the eyes of that sheep\nwere opened and it saw that\nram, which was amongst the\nsheep, forgetting its dignity\nand beginning to butt those",
+      "repo_chapter": 89,
+      "repo_verse": 44,
+      "repo_excerpt": "The eyes of that sheep were opened, and it saw that ram, which was amongst the sheep, forgetting its dignity, and beginning to butt those sheep, and trampling upon them, and behaving itself unseemly.",
+      "similarity": 0.784,
+      "status": "partial"
+    },
+    {
+      "page": 239,
+      "ocr_excerpt": "45. And the Lord\nof the sheep sent the lamb to\nanother lamb and raised it to\nbeing a ram and leader of the\nsheep instead of that ram\nwhich had been forgetful of\n46. And it\nwent to it and spake with it",
+      "repo_chapter": 89,
+      "repo_verse": 45,
+      "repo_excerpt": "The Lord of the sheep sent the lamb to another lamb, and raised it to being a ram, and leader of the sheep instead of that ram which had been forgetful of its dignity.",
+      "similarity": 0.861,
+      "status": "matched"
+    },
+    {
+      "page": 239,
+      "ocr_excerpt": "alone, and raised it to being\nram, and made it the prince\nand leader of the sheep; but\nduring all these things those\ndogs oppressed the sheep. 474.\nAnd the first ram pursued\nthat second ram, and that\n",
+      "repo_chapter": 89,
+      "repo_verse": 46,
+      "repo_excerpt": "It went to it, and spoke with it alone, and raised it to being ram, and made it the prince and leader of the sheep; but during all these things those dogs oppressed the sheep.",
+      "similarity": 0.757,
+      "status": "partial"
+    },
+    {
+      "page": 240,
+      "ocr_excerpt": "o\nThe Book of Enoch. [Sect. IV.\nram. 48. And that second\nram arose and led the sheep,\nand that ram begat many\nsheep and fell asleep; and a\nlittle sheep became ram in its\nstead and became prince and\nle",
+      "repo_chapter": 89,
+      "repo_verse": 48,
+      "repo_excerpt": "That second ram arose, and led the sheep, and that ram begat many sheep, and fell asleep; and a little sheep became ram in its stead, and became prince , and leader of those sheep.",
+      "similarity": 0.816,
+      "status": "matched"
+    },
+    {
+      "page": 240,
+      "ocr_excerpt": "49.\nAnd those sheep grew and\nmultiplied ; and all the dogs\nand foxes and wild boars\nfeared and fled before it,\nand that ram butted and killed all the wild beasts, and those\nwild beasts had no longer a",
+      "repo_chapter": 89,
+      "repo_verse": 49,
+      "repo_excerpt": "Those sheep grew, and multiplied; and all the dogs, and foxes, and wild boars feared, and fled before it, and that ram butted, and killed all the wild beasts, and those wild beasts had no longer any p",
+      "similarity": 0.84,
+      "status": "matched"
+    },
+    {
+      "page": 241,
+      "ocr_excerpt": "became great and broad, and a lofty and great tower was\nbuilt for those sheep: it was built on the house for the Lord\nof the sheep, and that house was low, but the tower was\nelevated and lofty, and th",
+      "repo_chapter": 89,
+      "repo_verse": 50,
+      "repo_excerpt": "That house became great, and broad, and a lofty , and great tower was built for those sheep: it was built on the house for the Lord of the sheep, and that house was low, but the tower was elevated, an",
+      "similarity": 0.91,
+      "status": "matched"
+    },
+    {
+      "page": 243,
+      "ocr_excerpt": "them, and He spake to the shepherds and their companions :\n\u201cLet each individual of you pasture the sheep henceforward, and",
+      "repo_chapter": 89,
+      "repo_verse": 59,
+      "repo_excerpt": "He called seventy shepherds, and put away those sheep that they might pasture them, and He spoke to the shepherds, and their companions: \u2014Let each individual of you pasture the sheep henceforward, and",
+      "similarity": 0.72,
+      "status": "partial"
+    },
+    {
+      "page": 245,
+      "ocr_excerpt": "and I began to weep and lament on account of those sheep.",
+      "repo_chapter": 89,
+      "repo_verse": 69,
+      "repo_excerpt": "Each one slew, and destroyed many more than was prescribed; and I began to weep, and lament on account of those sheep.",
+      "similarity": 0.651,
+      "status": "partial"
+    },
+    {
+      "page": 246,
+      "ocr_excerpt": "70. And thus in the vision I saw that seribe how he wrote down\nevery one that was destroyed by those shepherds, day by day,\nand carried this same entire book up to the Lord of the sheep\nand laid it do",
+      "repo_chapter": 89,
+      "repo_verse": 70,
+      "repo_excerpt": "Thus in the vision I saw that scribe how he wrote down every one that was destroyed by those shepherds, day by day, and carried this same entire book up to the Lord of the sheep, and laid it down, and",
+      "similarity": 0.95,
+      "status": "matched"
+    },
+    {
+      "page": 248,
+      "ocr_excerpt": "shepherds undertook the pasturing of the sheep, and they\nseverally completed their periods as did the first; and\nothers received them into their hand, to pasture them for\ntheir period, each shepherd f",
+      "repo_chapter": 90,
+      "repo_verse": 1,
+      "repo_excerpt": "I saw until that in this manner thirty-six shepherds undertook the pasturing of the sheep, and they severally completed their periods as did the first; and others received them into their hand, to pas",
+      "similarity": 0.74,
+      "status": "partial"
+    },
+    {
+      "page": 249,
+      "ocr_excerpt": "until that twenty-three undertook the pasturing, and they",
+      "repo_chapter": 90,
+      "repo_verse": 5,
+      "repo_excerpt": "I saw until that twenty-three undertook the pasturing, and they completed in their several periods fifty eight times.",
+      "similarity": 0.655,
+      "status": "partial"
+    },
+    {
+      "page": 249,
+      "ocr_excerpt": "completed in their several periods fifty-eight times.",
+      "repo_chapter": 90,
+      "repo_verse": 5,
+      "repo_excerpt": "I saw until that twenty-three undertook the pasturing, and they completed in their several periods fifty eight times.",
+      "similarity": 0.612,
+      "status": "partial"
+    },
+    {
+      "page": 250,
+      "ocr_excerpt": "behold lambs were borne by those white sheep, and they",
+      "repo_chapter": 90,
+      "repo_verse": 6,
+      "repo_excerpt": "But behold lambs were borne by those white sheep, and they began to open their eyes, and to see, and to cry to the sheep.",
+      "similarity": 0.617,
+      "status": "partial"
+    },
+    {
+      "page": 251,
+      "ocr_excerpt": "began to open their eyes and to see, and to ery to the sheep.\n7. But the sheep did not ery to them and did not hear what\nthey said to them, but were exceedingly deaf, and their eyes\nwere exceedingly a",
+      "repo_chapter": 90,
+      "repo_verse": 7,
+      "repo_excerpt": "But the sheep did not cry to them, and did not hear what they said to them, but were exceedingly deaf, and their eyes were exceedingly, and forcibly blinded.",
+      "similarity": 0.751,
+      "status": "partial"
+    },
+    {
+      "page": 252,
+      "ocr_excerpt": "eyes were opened. 10. And it looked at them and their\neyes opened, and it cried to the sheep and the rams saw it\nand all ran to it, 11. And notwithstanding all this, those\neagles and vultures and rave",
+      "repo_chapter": 90,
+      "repo_verse": 10,
+      "repo_excerpt": "It looked at them, and their eyes opened, and it cried to the sheep, and the rams saw it, and all ran to it.",
+      "similarity": 0.675,
+      "status": "partial"
+    },
+    {
+      "page": 254,
+      "ocr_excerpt": "mand of the Lord, till he opened that book concerning the\ndestruction which those twelve last shepherds had wrought\nand showed, that they had destroyed much more than their\npredecessors, before the Lo",
+      "repo_chapter": 90,
+      "repo_verse": 17,
+      "repo_excerpt": "I saw that man who wrote the book according to the command of the Lord, until he opened that book concerning the destruction which those twelve last shepherds had wrought, and showed, that they had de",
+      "similarity": 0.65,
+      "status": "partial"
+    },
+    {
+      "page": 255,
+      "ocr_excerpt": "2a2.\nAnd He spake to that man who wrote before Him who was\none of the seven white ones, and said unto him: \u00a2 Take those\nseventy shepherds to whom I delivered the sheep, and who\ntaking them on their ow",
+      "repo_chapter": 90,
+      "repo_verse": 22,
+      "repo_excerpt": "He spoke to that man who wrote before Him who was one of the seven white ones, and said unto him: \u2014Take those seventy shepherds to whom I delivered the sheep, and who taking them on their own authorit",
+      "similarity": 0.94,
+      "status": "matched"
+    },
+    {
+      "page": 256,
+      "ocr_excerpt": "ment was held first over the stars, and they were judged and\nfound guilty and went to the place of condemnation, and they\nwere cast into an abyss, full of fire and flaming, and full\nof pillars of fire",
+      "repo_chapter": 90,
+      "repo_verse": 24,
+      "repo_excerpt": "The judgment was held first over the stars, and they were judged, and found guilty, and went to the place of condemnation, and they were cast into an abyss, full of fire, and flaming, and full of pill",
+      "similarity": 0.86,
+      "status": "matched"
+    },
+    {
+      "page": 258,
+      "ocr_excerpt": "35. And the eyes of\nthem all were opened to see the good, and there was not one\namongst them that did not see. 36. And I saw that that\nhouse was large and broad and very full. 37. And T saw\nthat a whi",
+      "repo_chapter": 90,
+      "repo_verse": 35,
+      "repo_excerpt": "The eyes of them all were opened to see the good, and there was not one amongst them that did not see.",
+      "similarity": 0.669,
+      "status": "partial"
+    },
+    {
+      "page": 259,
+      "ocr_excerpt": "39. And I slept in their midst : then I awokeand\nsaw everything., 40. This is the vision which I saw while\nI slept, and I awoke and blessed the Lord of righteousness\nand gave Him glory. 41. Then I fel",
+      "repo_chapter": 90,
+      "repo_verse": 40,
+      "repo_excerpt": "This is the vision which I saw while I slept, and I awoke, and blessed the Lord of righteousness, and gave Him glory.",
+      "similarity": 0.726,
+      "status": "partial"
+    }
+  ]
+}
