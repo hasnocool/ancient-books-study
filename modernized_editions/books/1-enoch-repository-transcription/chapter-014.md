@@ -77,7 +77,7 @@ Just as God created human beings and gave them the ability to understand words o
 
 ### Verse 18
 
-“I looked and saw a lofty throne. It looked like frost; its surrounding brilliance was like a shining sun, and there were the voices of cherubim.
+“I looked and saw a lofty throne. Its appearance was like hoarfrost; its circuit was like a shining sun, and there were the voices of cherubim.
 
 ### Verse 19
 
