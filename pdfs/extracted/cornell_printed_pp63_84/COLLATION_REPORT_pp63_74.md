@@ -1,4 +1,4 @@
-# Text-Layer Collation Report: Printed pp. 63–74
+# OCR Inventory and Initial Text-Layer Review: Printed pp. 63–74
 
 **Source:** Cornell / IA scan  (cu31924014590545)
 **Extraction:** OCR text layer from embedded PDF text
@@ -24,3 +24,6 @@
 - Greek fragments garbled in critical apparatus
 - Ligatures broken (fi, fl, ff)
 - Page numbers 65, 71 not detected by OCR (confirmed by content continuity)
+
+
+**Scope limitation:** This file is an OCR inventory with short excerpts and preliminary defect notes. It is not a word-for-word diplomatic collation and does not compare every OCR line against the page image. The committed repository contains the 12 medium-resolution BookReader JPEGs and manifest; native full-resolution PNGs and per-page OCR text files are not present in this directory.
