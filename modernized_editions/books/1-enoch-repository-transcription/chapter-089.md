@@ -101,7 +101,7 @@ The wolves pursued the sheep until they reached a sea of water, the Red Sea.
 
 ### Verse 24
 
-The sea divided, and the water stood like walls on either side of the sheep. Their Lord, who led them, placed himself between the sheep and the wolves.
+The sea divided, and the water stood on either side of the sheep. Their Lord, who led them, placed himself between the sheep and the wolves.
 
 ### Verse 25
 
