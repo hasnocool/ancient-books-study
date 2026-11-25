@@ -67,7 +67,7 @@ Then the Lord spoke to Rafael: “Bind Azazel by his hands and feet and put him 
 
 ### Verse 15
 
-“‘Destroy all the spirits devoted to lust and the children of the Watchers, because they have oppressed humanity.
+“‘Destroy all souls given to lust, along with the children of the Watchers, because they have oppressed humanity.
 
 ### Verse 16
 
