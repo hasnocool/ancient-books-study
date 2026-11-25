@@ -4,18 +4,20 @@
 
 ## Edition record
 
-- **Attribution in the source compilation:** R. H. Charles / Professor August Dillmann (1893); exact textual identity not verified
+- **1893 printed witness:** R. H. Charles, *The Book of Enoch* (Oxford: Clarendon Press, 1893), pp.302–308
+- **Parallel later witness:** Charles/Oesterley, 1917 edition (reprinting Charles's 1912 second edition)
+- **Repository source:** combined 1 Enoch transcription; exact textual identity to 1893 not established
 - **Textual tradition:** Ethiopic 1 Enoch
 - **Source file:** `books_02/The Book of Enoch.txt`
 - **Duplicate source:** `books_05/The Book of Enoch.txt` (same Git blob)
 - **Editorial mode:** Formatted source derivative; original wording retained from the repository transcription
-- **Status:** Chapters CVI–CVIII verse divisions restored; chapter-body transfer checked; textual collation outstanding
+- **Status:** Chapters CVI–CVIII verse divisions restored; chapter-body transfer checked; targeted 1893 OCR/apparatus collation recorded in `CHAPTERS_106-108_COLLATION_PP302-308.md`; facsimile and independent review outstanding
 
 ## Editorial statement
 
-The repository compilation attributes this text to the 1893 Charles/Dillmann edition, but the supplied wording has not been established as a verbatim transcription of that printing. The text in this file is preserved from the repository source, not silently replaced with wording from another translation. Chapter headings and verse divisions are restored using Charles 1917 as a structural reference; repository wording is retained.
+The 1893 printed translation includes CVI–CVII as a Noah Apocalypse fragment on pp.302–305 and CVIII as an independent final addition on pp.305–308. The supplied repository wording has not been established as a verbatim transcription of the 1893 printing, so it is preserved rather than silently replaced. Chapter headings and verse divisions were cross-checked against the 1893 text and the parallel 1917 Charles/Oesterley witness; differences are recorded in the collation report.
 
-**Order note:** Charles's 1917 edition relocates 106:17 after 106:14. This file preserves the repository source order (verse 17 follows verse 16); the rearrangement is documented but not applied.
+**Order note:** Charles's 1893 apparatus explicitly says the first half of 106:17, ending “on the earth,” has been transposed from its proper position after 106:14. The 1917 edition likewise places 106:17 after 106:14. This file preserves the repository source order (verse 17 follows verse 16); the rearrangement is documented but not applied.
 
 The combined source also interleaves chapters from the separate Slavonic `Book of the Secrets of Enoch` (2 Enoch). Those Slavonic chapters are excluded from this 1 Enoch edition and are not merged into the present text.
 
