@@ -19,7 +19,7 @@ Now, my son, go and tell your son Lamech that the child who has been born is tru
 
 ### Verse 3
 
-When Methuselah heard the words of his father Enoch, who had revealed all these mysteries to him, he returned and told Lamech what he had learned. He named the child Noah, because Noah would bring the earth comfort and joy after all the destruction.
+When Methuselah heard the words of his father Enoch, who had revealed all these mysteries to him, he returned and told Lamech what he had learned. He named the child Noah, because he would cause the earth to rejoice in compensation for all the destruction.
 
 ---
 
