@@ -562,3 +562,11 @@ The principal critical boundaries are:
 - **103–104:** Compared the promises to those dying in righteousness, the contrast between outward fate and final reward, and the warning that righteous words must not be falsified. The 104:10–13 sequence is retained.
  
 **Batch boundary:** Chapters 91–104 have now had a sequential text-layer and critical-apparatus review, with the major interpolation and order findings recorded. This does not claim a complete word-by-word diplomatic transcription audit for every manuscript variant; the 1893 printed pages in this section have not been systematically visually proofread. The authentic 1893 page-image collation remains outstanding.
+
+
+## Repository artifact vs. historical witness clarification — 25 November 2026
+
+The PDFs stored under `enoch-editions/` are not the authentic historical facsimiles. The 66-page 1893-labelled file is a modern composite which intermixes 1 Enoch and Slavonic 2 Enoch; the 101-page 1917-labelled file is a 2005 typeset transcription ending at 107:3. They remain preserved as supplied repository artifacts and have not been treated as primary historical scans.
+
+The historical comparison has instead used a separate authentic 418-page 1893 Clarendon scan with searchable OCR for Chapters 1–104 and a separate full 1917 Charles/Oesterley scan for Chapters 105–108. For the authentic 1917 scan, page images printed pp. 149–151 and 153–154 were visually inspected. Printed p. 152 remains an image-retrieval gap; do not declare the 1917 visual collation complete. Chapter 108 is present in the authentic full 1917 scan and is visually checked on pp. 153–154; it is absent only from the shorter repository-bundled 2005 transcription.
+
