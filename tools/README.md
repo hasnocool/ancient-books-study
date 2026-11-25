@@ -27,6 +27,23 @@ The equivalent subcommands are available through audit_corpus.py: inventory, dup
 
 Use --root PATH to audit a different local checkout. Use --json-out PATH for machine-readable results. The catalog generator writes only when --catalog-out is explicitly supplied; it does not overwrite the maintained formatted_editions/CATALOG.md.
 
+## Cornell 1893 page-image retrieval
+
+The asynchronous standard-library downloader can reacquire the Cornell scan's BookReader JPEGs. It uses a bounded semaphore and runs blocking urllib requests and file writes through asyncio.to_thread, so network and disk I/O do not block the event loop. Each page is written atomically to a unique filename, JPEG bytes and dimensions are validated, and a JSON manifest records the final URL, HTTP status, SHA-256, dimensions, and failures.
+
+```bash
+# Default: printed pp.75–308, mapping printed page N to BookReader leaf n(N+21)
+python3 tools/download_archive_pages.py
+
+# Retry the full 254-page target range if needed
+python3 tools/download_archive_pages.py --start-page 55 --end-page 308 --force
+
+# Lower concurrency for rate-limited connections
+python3 tools/download_archive_pages.py --concurrency 2 --retries 4 --timeout 60
+```
+
+The default output is under `artifacts/cornell-enoch-1893-pages/`, which is intentionally outside the formatted edition. Do not mark a page visually checked merely because it downloaded; open the image, verify the printed folio and content, then add an individual row to `IMAGE_PROOFING_LOG.md`. The script has not been run in this environment because direct access to the Archive.org image hosts failed.
+
 ## Safety and limits
 
 - The tools are read-only unless an explicit report-output path is provided.
