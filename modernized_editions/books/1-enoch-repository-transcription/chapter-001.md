@@ -51,3 +51,14 @@ Enoch answered and said: “I am Enoch, a righteous man whose eyes God has opene
 - Chapter 4 is an unnumbered passage in the selected source; Chapter 1 retains its nine numbered verses.
 - No source passage has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter divisions and does not silently substitute another translation's wording or arrangement.
+
+
+## 1893 Charles facsimile comparison — initial findings
+
+The authentic 1893 Clarendon Press scan was consulted separately from the modern composite PDF attached under the 1893 filename. In the 1893 printed translation:
+
+- Verse 1 begins “The words of the blessing of Enoch, wherewith he blessed...” The repository's derivative begins “These are the words of blessing of Enoch...”.
+- Verse 2 begins “And Enoch answered and spake—(Enoch) a righteous man...” The repository derivative renders this “Enoch answered and spoke: I, Enoch, a righteous...”. This is a syntactic/person change, not merely spelling modernization.
+- Verse 4 begins “And going from thence...” and verse 9 begins “And lo!”; the derivative omits these conjunctions.
+
+These differences are recorded, not silently changed. The chapter remains a complete modern-language rendering of the repository's chosen base text, not a verbatim reproduction of Charles's 1893 wording. The 1893 text-layer comparison has begun; visual page-image collation and full verse-by-verse review remain open.
