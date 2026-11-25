@@ -40,6 +40,7 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 | 43–48 | Reviewed; no material verse-body omission found | Preserved the full-chapter interpolation in 43, the unnumbered interpolation in 44, “souls” in 45:3, the title “Head of Days” in 46:1, and the source's “avenger” wording in 48:7. |
 | 49–54 | Reviewed; no material verse-body omission found | Checked the Chosen One descriptions, the full-chapter interpolation in 50, resurrection language, the metal list and measures, Satan references, and the Noachic interpolation in 54. |
 | 55–60 | Reviewed; no material verse-body omission found | Verified the interpolation boundaries across 55–57 and the whole-chapter interpolations in 59–60. Removed an unsupported “destined for punishment” interpretation in 56:3–4; preserved the ambiguous date wording and Behemoth's chest description in 60:1 and 60:9. |
+| 61–66 | Reviewed; no material verse-body omission found | Checked the measuring cords and measures, the angelic hosts, judgment language, the four/powers catalogue, and the Noachic interpolation across Chapters 65–66. Corrected 61:5 to remove an added claim about divine power, retained “forms” rather than changing it to “beings” in 64:1, and retained “Satans” with an explanatory gloss in 65:6. |
 
 Reviewers should continue checking names, numbers, measures, directions, sequence, agency, and interpretive additions—not only whether each numbered unit exists.
 
