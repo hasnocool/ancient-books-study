@@ -19,7 +19,7 @@ I asked the angel of peace who accompanied me: “Where are these angels carryin
 
 ### Verse 3
 
-He answered: “Each is going to the people assigned to him, those who are chosen for punishment, so that they may be thrown into the chasm of the abyss in the valley.
+He answered: “Each is going to those appointed to him, the chosen and beloved, so that they may be cast into the chasm of the abyss in the valley.
 
 ### Verse 4
 
