@@ -72,13 +72,10 @@ The Cornell / Internet Archive scan of the same 1893 Clarendon Press edition was
 The 1893 section introduction itself warns that Section I is composite and contains extensive interpolations. That editorial context reinforces the need to preserve brackets and witness-specific readings instead of silently harmonizing them.
 
 
-A further bounded comparison was made against the searchable text layer of the digitized 1893 Clarendon Press scan. This is **text-layer collation only**: it is not a visual reading of the page images, and it is not a chapter-by-chapter collation.
+Additional selected readings were checked against the searchable text layer of the digitized 1893 Clarendon Press scan. This is **text-layer collation only**: it is not visual page-image proofing and it is not a complete chapter-by-chapter collation.
 
 | Chapter / verse | 1893 printed reference | Text-layer reading checked | Editorial observation |
 |---|---:|---|---|
-| 7:2 | pp. 64–65 | “whose height was three thousand ells” | Confirms the correction from “cubits” to **ells** in the modernized chapter. The 1893 critical note further says the 3,000 figure is present in the Gizeh Greek but absent from the Syncellus Greek. |
-| 13:1 | p. 79 | “(Rufael) shall put thee in bonds” | Supports the name-form **Rufael** in the modernization. |
-| 14:11 | p. 81 | “in a transparent heaven (lit. ‘and their heaven was water’)” | Confirms that the water wording is an explicit literal gloss in the 1893 apparatus. The modernization retains the literal water image rather than inventing a sea above the scene. |
 | 20:3–4 | pp. 91–92 | Rufael is over human spirits; Raguel “takes vengeance on the world and on the luminaries” | Confirms the angel names and the vengeance role retained in the modernization. |
 | 22:11 | p. 95 | “punishment and torture of the revilers for ever, and vengeance for their souls” | Confirms the source's difficult term **revilers** and the separate vengeance clause. The modernized verse now retains both. |
 | 46:1 | p. 127 | “And there I saw One who had a head of days, and His head was white like wool” | The adaptation now retains the lower-case phrase “one who had a head of days,” avoiding an unsupported title decision. Whether the phrase functions as a formal title remains open for independent review. |
