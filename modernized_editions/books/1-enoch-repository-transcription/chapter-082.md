@@ -20,7 +20,7 @@ I have given wisdom to you, to your son, and to the children who are yet to come
 
 ### Verse 3
 
-Those who understand it will not sleep through it. They will listen carefully so they can learn this wisdom, and it will please them more than good food.
+Those who understand it will not sleep. They will listen attentively so they can learn this wisdom, and it will please them more than good food.
 
 ### Verse 4
 
