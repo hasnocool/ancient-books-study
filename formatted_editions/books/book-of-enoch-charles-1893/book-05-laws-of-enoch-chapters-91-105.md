@@ -236,7 +236,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 1]** In those days the fathers together with their sons will be smitten in one place, brothers will fall in death one with another until it streams with their blood like a river.
 
-**[Verse 2]** For a man will not withhold his hand from slaying his sons, and his sons, and the sinner will not withhold his hand from his honoured brother: from dawn until sunset they will slay one another.
+**[Verse 2]** For a man will not withhold his hand from slaying his sons and his sons’ sons, and the sinner will not withhold his hand from his honoured brother: from dawn until sunset they will slay one another.
 
 **[Verse 3]** The horses will walk up to the breast in the blood of sinners, and the chariot will be submerged to its height.
 
