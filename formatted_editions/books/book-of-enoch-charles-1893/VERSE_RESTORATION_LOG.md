@@ -108,9 +108,9 @@ The brackets reflect the 1893 editor's treatment of interpolated passages. In Ch
 | LXXIX | Verses 1–6 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
 | LXXX | Entire chapter bracketed; verses 1–8 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
 | LXXXI | Entire chapter bracketed; verses 1–10 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
-| LXXXII | Verses 1–12, 14, 14, 15–20 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
+| LXXXII | Verses 1–20 with the printed sequence 12, 13, 14, 15–20 | [Book 3](./book-03-luminaries-chapters-72-82.md) |
 
-> Chapter LXXXII's numbering is irregular in the printed 1893 text: the sequence jumps from 12 to two successive 14 labels, then continues 15–20. The reading edition preserves that numbering rather than silently supplying verse 13 or changing the repeated 14.
+> The combined repository source transcription duplicated the label 14 for the year-division leaders. The 1893 printed text labels that passage 13 and the subordinate-leaders passage 14. The formatted and modernized derivatives use the historically printed 12–13–14–15–20 sequence; the archival source file remains unchanged.
 
 ### Book 4 — The Visions (Chapters LXXXIII–XC)
 
