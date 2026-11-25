@@ -298,3 +298,12 @@ The 1893 text and Section IV introduction/apparatus were checked for Chapters 83
 - The 1893 apparatus explains that 84:4's “day of the great judgment” refers to the Deluge, not final judgment.
 
 This is a critical-apparatus / structural pass, not full lexical or page-image verification. Independent human review remains outstanding.
+
+
+## Authentic 1893 collation progress: Chapters 91–104 — 25 November 2026
+
+The final main-translation section (91–104) has been examined against the searchable 1893 text and Charles's critical introduction/apparatus. The principal finding is the reconstructed original order of the Apocalypse of Weeks. Charles identifies Chapter 92 as the opening of the independent book and reconstructs: 92:1–5; 91:1–10; 93:1–10; 91:12–19; then 94–104. The modernization retains the selected repository chapter structure while disclosing the reconstructed sequence in Chapters 91–93.
+
+The other key boundaries are retained: 91:11 and 93:11–14 are interpolated blocks; 96:2 is bracketed; 100:7 has a proposed clause transposition which is now recorded without silently changing the base order. Charles's interpretation of 100:5 identifies the guarded righteous as departed souls; this informs reading but does not alter verse text.
+
+This establishes that Chapters 1–104 have now received a sequential text-layer/source-apparatus pass in the present assistant-led review, including the major structural issues in each section. It does **not** establish a line-by-line visual facsimile collation of every printed page, independent semantic approval, or a fresh independent re-transcription. Printed pages 55–308 still require systematic page-image proofing. Chapter 104 is the end of the 1893 main translation; Appendix E separately supplies the Latin fragment 106:1–18 and is not a substitute witness for Chapters 105–108.
