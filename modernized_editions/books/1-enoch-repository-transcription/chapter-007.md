@@ -37,6 +37,6 @@ Then the earth raised its complaint against the lawless ones.
 
 ## Completeness and editorial notes
 
-- All **6 numbered verses** in the repository's Chapter 7 have been represented, including source-marked interpolations.
+- All **6 numbered verses** in the repository's Chapter 7 have been represented. This chapter contains no interpolation marker in the selected source.
 - No verse has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter and verse divisions and does not silently substitute another translation's wording or arrangement.
