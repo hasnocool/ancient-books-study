@@ -1,11 +1,11 @@
 # 1 Enoch — Chapter 91
 ## Complete modern-language rendering
 
-> **Textual basis:** The complete Chapter 91 text in `formatted_editions/books/book-of-enoch-charles-1893/book-05-laws-of-enoch-chapters-91-105.md`.
->
-> **Attribution caution:** The repository transcription is attributed to R. H. Charles / August Dillmann (1893), but the repository's own edition notes state that its wording has not been verified as verbatim Charles 1893 and that its exact textual lineage is unresolved.
->
-> **Method:** This is a verse-by-verse modern-language rendering of all 19 numbered units in the repository text. Verse headings use the same Markdown structure as the other modernized chapters. It is not a new translation from Ethiopic, and it does not silently remove the bracketed interpolation or rearrange the chapter's sequence.
+**Source basis:** The complete Chapter 91 text in `formatted_editions/books/book-of-enoch-charles-1893/book-05-laws-of-enoch-chapters-91-105.md`.
+
+**Attribution caution:** The repository transcription is attributed to R. H. Charles / August Dillmann (1893), but the repository's own edition notes state that its wording has not been verified as verbatim Charles 1893 and that its exact textual lineage is unresolved.
+
+**Editorial method:** This is a verse-by-verse modern-language rendering of all 19 numbered units in the repository text. Verse headings use the same Markdown structure as the other modernized chapters. It is not a new translation from Ethiopic, and it does not silently remove the bracketed interpolation or rearrange the chapter's sequence.
 
 ---
 
@@ -89,7 +89,7 @@ Now listen, my children. Walk along the paths of righteousness, and do not walk 
 
 ---
 
-## Editorial and completeness notes
+## Completeness and editorial notes
 
 - All **19** numbered units in the repository's Chapter 91 are represented.
 - Verse 11 remains explicitly marked as an interpolation, following the repository's editorial markup.
