@@ -50,7 +50,7 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 | 91–96 | Reviewed; no material verse-body omission found | Standardized Chapter 91's separate verse headings and retained its repository sequence and verse-11 interpolation. Corrected 93:3, restored 94:10's “Creator will rejoice at your destruction,” restored the “cloud of water” image and “according to your desires” in 95:1 and 95:3, and retained the squirrels/satyrs imagery in interpolated 96:2. |
 | 97–102 | Reviewed; no material verse-body omission found | Corrected 97:2 to retain the 1893 reading “mindful of your destruction”; restored explicit execution wording and “no grave” in 98:12–13; restored the source's severe wording in 99:5; corrected the kinship sequence in 100:2; kept 100:12's rain/dew gift image; restored “strip men naked” in 102:9; checked 102:6–11 speaker boundaries against the 1893 text layer; revised 101:7 to remove the unsupported phrase “draws back” and retain the sea's fear and drying at the divine rebuke. |
 | 103–105 | Reviewed; no material verse-body omission found | Compared all numbered units, including the descriptions of the righteous dead, the testimony against their oppressors, and the closing promise that the Lord and his Son unite with the children of righteousness. No text correction was indicated in this pass. |
-| 106–108 | Reviewed; no material verse-body omission found | Compared Noah's birth account, the three surviving children, the year-long deluge reference, and the concluding book on the generation of light. Corrected 106:3 to “conversed with the Lord of righteousness,” 106:16 to “three children,” and 108:4 to “could not look upon it”; retained the repository source sequence for 106:17. The 1917 Charles/Oesterley text layer has now been compared across Chapters 105–108, but page-image collation remains pending. |
+| 106–108 | Reviewed; no material verse-body omission found | Compared Noah's birth account, the three surviving children, the year-long deluge reference, and the concluding book on the generation of light. Corrected 106:3 to “conversed with the Lord of righteousness,” 106:16 to “three children,” and 108:4 to “could not look upon it”; retained repository sequence for 106:17 while documenting the 1917 placement of 106:17a after 106:14 and its different subject/agency wording. Printed pp. 153–154 of the 1917 witness have been visually inspected; pp. 150–152 remain unavailable as images, so full visual collation is still open. |
 
 Reviewers should continue checking names, numbers, measures, directions, sequence, agency, and interpretive additions—not only whether each numbered unit exists.
 
@@ -141,6 +141,17 @@ Two pages of the identified 1917 Charles/Oesterley scan were visually inspected:
 - **Printed p. 154:** Chapter 108:8–15 through “Amen.” Verse 108:4's “†look over† it” appears as a daggered/corrupt reading in the 1917 print, unlike the repository's “look thereon.”
 
 Other needed 1917 page-image captures returned cache-miss errors. Thus the visual review is **partial**: the page range for Chapters 105–106, the beginning of 107, and any lines not visible on pp. 153–154 remain uninspected. Do not mark Chapters 105–108 visually collated. The full text-layer comparison remains useful, but it is not a substitute for page-image proofing.
+
+## Updated witness and page-image status — 25 November 2026
+
+The full searchable text layer of the 1917 Charles/Oesterley scan is now accessible. A targeted review of Chapters 105–108 has recorded two additional witness differences:
+
+- **105:1:** 1917 says the Lord bade them to summon and testify to the children of earth concerning wisdom; the repository-based adaptation changes the subject/agency to “people will call upon the children.”
+- **106:17a:** 1917 places the giants clause immediately after 106:14 and Charles explicitly recommends that order. The repository keeps verse 17 after 106:16 and expresses the clause with a different subject (“The giants are not spiritual beings…”). The modernization keeps the selected repository wording/order; the alternative is documented in Chapter 106 and the source-collation log.
+
+Visual checks are confirmed for the two returned 1917 scan images, printed pp. 153–154. The 1917 page images for pp. 150–152, containing Chapter 105 and the main text of 106, were not retrievable; OCR/text-layer access is not visual proof. Consequently, Chapters 105–108 are **not** fully visually collated.
+
+The 1893 Clarendon Press main translation covers Chapters 1–104. Its Appendix E contains a separate Latin fragment of 106:1–18, not a complete 1893 main-text Chapter 106. The complete searchable 1893 text layer is available at https://archive.org/stream/thebookofenoch00unknuoft/thebookofenoch00unknuoft_djvu.txt, but the 104-chapter line-by-line collation against its printed pages and apparatus has not been completed. No 1893 page images have been visually proofread in this pass.
 
 ## Required review record for each corrected unit
 
