@@ -33,7 +33,7 @@ I wrote their petition and their prayer on behalf of their spirit, recording the
 
 ### Verse 7
 
-I went away and sat beside the waters of Dan, in the land of Dan, to the south-west of Mount Hermon. I read their petition until I fell asleep.
+I went away and sat beside the waters of Dan, in the land of Dan, south of Mount Hermon. I read their petition until I fell asleep.
 
 ### Verse 8
 
@@ -52,5 +52,6 @@ I told them all the visions I had seen in my sleep. Then I began to speak words 
 ## Completeness and editorial notes
 
 - All **10 numbered verses** in the repository's Chapter 13 have been rendered individually.
+- **1893 direction correction, 13:7:** Charles renders the location as “to the right (i.e. the south) of Hermon.” The earlier modernization's “south-west” was more specific than the 1893 wording supports. It is corrected here to “south of Mount Hermon,” with the witness wording recorded.
 - No verse has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter and verse divisions and does not silently substitute another translation's wording or arrangement.
