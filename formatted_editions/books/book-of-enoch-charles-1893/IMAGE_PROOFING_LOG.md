@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **Page-image proofing complete for full target scope (pp. 55–308).** All 254 printed pages mapped, retrieved, and visually inspected. Searchable-text/OCR comparisons tracked separately in `SOURCE_COLLATION_LOG.md`.
+**Status:** **Page-image mapping and retrieval complete for pp. 55–308; systematic visual proofing remains in progress.** The ledger contains individual inspection records for pp. 55–74 (20 pages). Images for pp. 75–308 are reported retrieved, with spot checks noted as a batch; those 234 pages are not counted as individually image-checked. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval remains pending.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -303,7 +303,7 @@ All 254 printed pages (55–308) mapped to BookReader accessible indexes (leafNu
 | 307 | 328 | — | — | `page/n328.jpg` |
 | 308 | 329 | 74 | 95 | `page/n329.jpg` |
 
-*23 pages have `confidence=null` / `pageProb=null` in the manifest (pp. 55, 58, 65, 71, 91, 104, 106, 112, 121, 125, 127, 133, 135, 141, 150, 153, 157, 159, 171, 174, 178, 187, 191, 208, 212, 220, 222, 233, 241, 243, 254, 255, 260, 275, 276, 281, 307) but their images are accessible. The printed folio is visible on each page for verification.*
+*37 pages have `confidence=null` / `pageProb=null` in the manifest (pp. 55, 58, 65, 71, 91, 104, 106, 112, 121, 125, 127, 133, 135, 141, 150, 153, 157, 159, 171, 174, 178, 187, 191, 208, 212, 220, 222, 233, 241, 243, 254, 255, 260, 275, 276, 281, 307). This is a manifest-confidence limitation, not proof of an image defect; each page still requires direct visual inspection under the rules above.*
 
 **Mapping complete:** All 254 printed pages (55–308) mapped to BookReader indexes (leafNums 76–329). All 254 page images retrieved and accessible via `https://archive.org/download/cu31924014590545/page/n{leafNum}.jpg`.
 ## Initial access trial (2026-11-25)
@@ -337,13 +337,14 @@ Only add a row after direct visual inspection of that page's pixels.
 | 72 | leafNum=93 (BookReader n93) | Image retrieved (1360×2274 JPEG) | Printed folio "72" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
 | 73 | leafNum=94 (BookReader n94) | Image retrieved (1360×2274 JPEG) | Printed folio "73" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
 | 74 | leafNum=95 (BookReader n95) | Image retrieved (1360×2274 JPEG) | Printed folio "74" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 75–308 | leafNums 96–329 (BookReader n96–n329) | All 234 images retrieved (1360×2274 JPEG) | All printed folios 75–308 visible; text continues cleanly through Chapters I–CVIII; no damage or discrepancies observed in spot checks across full range | Assistant / 2026-11-25 (batch) |
+| 75–308 | leafNums 96–329 (BookReader n96–n329) | Retrieval reported for all 234 images (1360×2274 JPEG) | Batch note reports spot checks, but does not enumerate individually inspected pages or observations. These pages are **retrieved, not individually image-checked**; inspect and log each page before increasing the checked count. | Assistant / 2026-11-25 (batch retrieval / spot-check note) |
 
 ## Progress ledger
 
-- Printed pp. 55–308: **254 / 254 image-checked** (pp. 55–308 complete — full target scope)
-- Discrepancies recorded from visual inspection: **0**
-- Pages requiring second-look: **0**
+- Printed pp. 55–308: **20 / 254 individually image-checked** (pp. 55–74 have individual page records)
+- Additional images: **234 / 234 reported retrieved** (pp. 75–308); systematic page-by-page inspection not yet recorded
+- Discrepancies: **0 recorded in the 20 individually logged pages**; the batch spot-check note is not a complete discrepancy audit
+- Pages requiring second-look: **not yet assessed for pp. 75–308**
 - Independent human approval: **pending**
 
 ## Entry template
