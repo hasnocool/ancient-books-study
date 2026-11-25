@@ -1,0 +1,321 @@
+{
+  "pages_processed": [
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308
+  ],
+  "repo_chapters": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105
+  ],
+  "total_ocr_segments": 328,
+  "total_matches": 28,
+  "matches": [
+    {
+      "page": 268,
+      "ocr_excerpt": "roots of unrighteousness will be cut off and the sinners will\nbe destroyed by the sword (and the roots) will be cut off from\nblasphemers in every place, and those who devise oppression\nand those who c",
+      "repo_chapter": 91,
+      "repo_verse": 11,
+      "repo_excerpt": "After that the roots of unrighteousness will be cut off, and the sinners will be destroyed by the sword, will be cut off from blasphemers in every place, and those who devise oppression, and those who",
+      "similarity": 0.84,
+      "status": "matched"
+    },
+    {
+      "page": 270,
+      "ocr_excerpt": "XCIIL 1. Written by Enoch the scribe, this complete\ndoctrine of wisdom which deserves the praise of all men and\nis a judge of the whole earth, for all my children who will\ndwell on the earth and the f",
+      "repo_chapter": 92,
+      "repo_verse": 1,
+      "repo_excerpt": "Written by Enoch, the scribe, this complete doctrine of wisdom which deserves the praise of all men, and is a judge of the whole earth, for all my children who will dwell on the earth, and the future ",
+      "similarity": 0.905,
+      "status": "matched"
+    },
+    {
+      "page": 271,
+      "ocr_excerpt": "gracious to the righteous and will give him eternal upright-\nness, and will give him power, and he will live in goodness\nand righteousness, and will walk in eternal light, 5. And\nsin will perish in da",
+      "repo_chapter": 92,
+      "repo_verse": 4,
+      "repo_excerpt": "He will be gracious to the righteous, and will give him eternal uprightness, and will give him power, and he will live in goodness, and righteousness, and will walk in eternal light.",
+      "similarity": 0.885,
+      "status": "matched"
+    },
+    {
+      "page": 273,
+      "ocr_excerpt": "of glory and dominion be built for ever. 8. And after that\nin the sixth week, all those who live in it will be blinded,\nand the hearts of all of them will be given over to a wicked\nforgetfulness of wi",
+      "repo_chapter": 93,
+      "repo_verse": 8,
+      "repo_excerpt": "After that in the sixth week, all those who live in it will be blinded, and the hearts of all of them will be given over to a wicked forgetfulness of wisdom, and in it a man will ascend; , and at its ",
+      "similarity": 0.76,
+      "status": "partial"
+    },
+    {
+      "page": 274,
+      "ocr_excerpt": "is there of all the children of men that is able to hear the\nvoice of the Holy One and quakes not (thereat)? And who is\nthere that can think His thoughts? and who is there that\ncan see all the works o",
+      "repo_chapter": 93,
+      "repo_verse": 11,
+      "repo_excerpt": "[For who is there of all the children of men that is able to hear the voice of the Holy One, and quakes not? And who is there that can think His thoughts?]",
+      "similarity": 0.811,
+      "status": "matched"
+    },
+    {
+      "page": 275,
+      "ocr_excerpt": "eousness and walk therein ; for the paths of righteousness are\nworthy of acceptation, but the paths of unrighteousness are\nsuddenly destroyed and vanish. 2. And to certain men of\na (future) generation",
+      "repo_chapter": 94,
+      "repo_verse": 1,
+      "repo_excerpt": "Now I say unto you, my sons, love righteousness, and walk therein; for the paths of righteousness are worthy of acceptation, but the paths of unrighteousness are suddenly destroyed, and vanish.",
+      "similarity": 0.774,
+      "status": "partial"
+    },
+    {
+      "page": 276,
+      "ocr_excerpt": "silver will perish in judgment suddenly. 8. Woe to you ye\nrich, for ye have trusted in your riches and from your riches\nye shall depart, because ye have not remembered the Most\nHigh in the days of you",
+      "repo_chapter": 94,
+      "repo_verse": 8,
+      "repo_excerpt": "Woe to you rich, for you have trusted in your riches, and from your riches you shall depart, because you have not remembered the Most High in the days of your riches.",
+      "similarity": 0.82,
+      "status": "matched"
+    },
+    {
+      "page": 276,
+      "ocr_excerpt": "XCV. 1. Oh that mine eyes were a cloud of water that I\nmight weep over you, and shed my tears as a cloud of water;\nthat so I might rest from my trouble of heart! 2. Who\nhas permitted you to practise h",
+      "repo_chapter": 95,
+      "repo_verse": 1,
+      "repo_excerpt": "Oh that mine eyes were a cloud of water that I might weep over you, and shed my tears as a cloud of water; that so I might rest from my trouble of heart!",
+      "similarity": 0.867,
+      "status": "matched"
+    },
+    {
+      "page": 277,
+      "ocr_excerpt": "your desires. 4. Woe to you who fulminate irreversible\nanathemas: healing shall therefore be far from you because\nof your sins. 5 Woe to you who requite your neighbour\nwith evil; for ye will be requit",
+      "repo_chapter": 95,
+      "repo_verse": 4,
+      "repo_excerpt": "Woe to you who fulminate irreversible anathemas: healing shall therefore be far from you because of your sins.",
+      "similarity": 0.71,
+      "status": "partial"
+    },
+    {
+      "page": 277,
+      "ocr_excerpt": "XCVL 1. Be hopeful, ye righteous ; for suddenly will the\nsinners perish before you, and ye will have lordship over them\naccording to your desires",
+      "repo_chapter": 96,
+      "repo_verse": 1,
+      "repo_excerpt": "Be hopeful you righteous; for suddenly will the sinners perish before you, and you will have lordship over them according to your desires. ,",
+      "similarity": 0.933,
+      "status": "matched"
+    },
+    {
+      "page": 277,
+      "ocr_excerpt": "[2. And in the day of the tribu-\nlation of sinners, your children will mount and rise as eagles\nand higher than the vultures will be your nest, and ye will\nascend as squirrels and enter the crevices o",
+      "repo_chapter": 96,
+      "repo_verse": 2,
+      "repo_excerpt": "[And in the day of the tribulation of sinners, your children will mount, and rise as eagles, and higher than the vultures will be your nest, and you will ascend as squirrels, and enter the crevices of",
+      "similarity": 0.97,
+      "status": "matched"
+    },
+    {
+      "page": 278,
+      "ocr_excerpt": "voice of rest from heaven.\nyour riches make you appear like the righteous, but your\nhearts convict you of being sinners, and this word will be a\ntestimony against you, for a memorial of (your) wickedn",
+      "repo_chapter": 96,
+      "repo_verse": 4,
+      "repo_excerpt": "Woe unto you, you sinners, for your riches make you appear like the righteous, but your hearts convict you of being sinners, and this word will be a testimony against you, for a memorial of wickedness",
+      "similarity": 0.835,
+      "status": "matched"
+    },
+    {
+      "page": 279,
+      "ocr_excerpt": "XCVIL. 1. Believe, ye righteous; for the sinners will\ncome to shame and perish in the day of unrighteousness.\n2. It will become known to you that the Most High is mind-\nful of your destruction and the",
+      "repo_chapter": 97,
+      "repo_verse": 1,
+      "repo_excerpt": "Believe, you righteous; for the sinners will come to shame, and perish in the day of unrighteousness.",
+      "similarity": 0.651,
+      "status": "partial"
+    },
+    {
+      "page": 280,
+      "ocr_excerpt": "is grounded in unrighteousness will be rejected. 7. Woe to\nyou, ye sinners, on the mid ocean and the dry land, for their\nremembrance of you is evil. 8. Woe to you who acquire\nsilver and gold in unrigh",
+      "repo_chapter": 97,
+      "repo_verse": 7,
+      "repo_excerpt": "Woe to you, you sinners, on the mid ocean, and the dry land, for their remembrance of you is evil.",
+      "similarity": 0.638,
+      "status": "partial"
+    },
+    {
+      "page": 282,
+      "ocr_excerpt": "7. And do not think in your spirit nor say in your heart that\nyou do not know and that you do not see that every sin is\nevery day recorded in the presence of the Most High. 8.\nFrom henceforth ye know ",
+      "repo_chapter": 98,
+      "repo_verse": 7,
+      "repo_excerpt": "Do not think in your spirit nor say in your heart that you do not know, and that you do not see that every sin is every day recorded in the presence of the Most High.",
+      "similarity": 0.896,
+      "status": "matched"
+    },
+    {
+      "page": 282,
+      "ocr_excerpt": "10. And now, know ye\nthat ye are prepared for the day of destruction: wherefore do\nnot hope to live, ye sinners, but ye shall depart and die; for\nyou know no ransom ; for ye are prepared for the day o",
+      "repo_chapter": 98,
+      "repo_verse": 10,
+      "repo_excerpt": "Now, know you that you are prepared for the day of destruction: wherefore do not hope to live, you sinners, but you shall depart, and die; for you know no ransom; for you are prepared for the day of t",
+      "similarity": 0.755,
+      "status": "partial"
+    },
+    {
+      "page": 283,
+      "ocr_excerpt": "off your necks and slay you, and will have no pity upon you.\n13. Woe to you who rejoice in the tribulation of the righteous;\nfor no grave of yours will be seen",
+      "repo_chapter": 98,
+      "repo_verse": 13,
+      "repo_excerpt": "Woe to you who rejoice in the tribulation of the righteous; for no grave of yours will be seen.",
+      "similarity": 0.74,
+      "status": "partial"
+    },
+    {
+      "page": 283,
+      "ocr_excerpt": "14. Woe to you who set\nat nought the words of the righteous; for no hope of life will\nbe yours. 15. Woe to you who write down lying and god-\nless words ; for they write down their lies that men may he",
+      "repo_chapter": 98,
+      "repo_verse": 14,
+      "repo_excerpt": "Woe to you who set at nought the words of the righteous; for no hope of life will be yours.",
+      "similarity": 0.625,
+      "status": "partial"
+    },
+    {
+      "page": 283,
+      "ocr_excerpt": "16. There-\nfore they will have no peace but will die a sudden death.\nXCIX. 1. Woe to them who act godlessly and glory in\nlying words and extol them: ye will perish and no happy\nlife will be yours. 2. ",
+      "repo_chapter": 99,
+      "repo_verse": 1,
+      "repo_excerpt": "Woe to them who act godlessly, and glory in lying words, and extol them: you will perish, and no happy life will be yours.",
+      "similarity": 0.727,
+      "status": "partial"
+    },
+    {
+      "page": 284,
+      "ocr_excerpt": "those days make ready, ye righteous, to raise your prayers as\na memorial, and ye will place them as a testimony before the\nangels in order that they may place the sin of the sinners for\na memorial bef",
+      "repo_chapter": 99,
+      "repo_verse": 3,
+      "repo_excerpt": "In those days make ready, you righteous, to raise your prayers as a memorial, and you will place them as a testimony before the angels in order that they may place the sin of the sinners for a memoria",
+      "similarity": 0.965,
+      "status": "matched"
+    },
+    {
+      "page": 285,
+      "ocr_excerpt": "11. Woe\nto you who hope for misfortune to your neighbour; for you\nwill be slain in Sheol",
+      "repo_chapter": 99,
+      "repo_verse": 11,
+      "repo_excerpt": "Woe to you who hope for misfortune to your neighbour; for you will be slain in Sheol.",
+      "similarity": 0.971,
+      "status": "matched"
+    },
+    {
+      "page": 286,
+      "ocr_excerpt": "14. Woe to them\nwho reject the measure and eternal heritage of their fathers\nand whose souls follow after idols ; for they will have no rest.\n15. Woe to them who work unrighteousness and aid oppressio",
+      "repo_chapter": 99,
+      "repo_verse": 14,
+      "repo_excerpt": "Woe to them who reject the measure, and eternal heritage of their fathers, and whose souls follow after idols; for they will have no rest.",
+      "similarity": 0.805,
+      "status": "matched"
+    },
+    {
+      "page": 286,
+      "ocr_excerpt": "C. 1. And in those days the fathers together with their\nsons will be smitten in one place, brothers will fall in death\none with another until it streams with their blood like a river.\n2. For a man wil",
+      "repo_chapter": 100,
+      "repo_verse": 1,
+      "repo_excerpt": "In those days the fathers together with their sons will be smitten in one place, brothers will fall in death one with another until it streams with their blood like a river.",
+      "similarity": 0.922,
+      "status": "matched"
+    },
+    {
+      "page": 287,
+      "ocr_excerpt": "sons and his sons\u2019 sons, and the sinner will not withhold his\nhand from his honoured brother : from dawn till sunset\u2014they\nwill slay one another. 3. And the horses will walk up to\nthe breast in the blo",
+      "repo_chapter": 100,
+      "repo_verse": 2,
+      "repo_excerpt": "For a man will not withhold his hand from slaying his sons and his sons\u2019 sons, and the sinner will not withhold his hand from his honoured brother: from dawn until sunset they will slay one another.",
+      "similarity": 0.709,
+      "status": "partial"
+    },
+    {
+      "page": 289,
+      "ocr_excerpt": "that the angels will seek out your deeds in heaven from the\nsun and from the moon and from the stars in reference to\nyour sins because ye execute judgment on the righteous upon\nearth. 11. And He will ",
+      "repo_chapter": 100,
+      "repo_verse": 10,
+      "repo_excerpt": "Now know you that the angels will seek out your deeds in heaven from the sun, and from the moon, and from the stars in reference to your sins because you execute judgment on the righteous upon earth.",
+      "similarity": 0.912,
+      "status": "matched"
+    },
+    {
+      "page": 291,
+      "ocr_excerpt": "7. And at His reproofs it is afraid and dries up and all its\nfish die and all that is in it; but ye sinners who are on the\nearth fear Him not. 8. Has He not made the heaven and\nthe earth and all that ",
+      "repo_chapter": 101,
+      "repo_verse": 7,
+      "repo_excerpt": "At His reproofs it is afraid, and dries up, and all its fish die, and all that is in it; but you sinners who are on the earth fear Him not. **[Verse 8]** Has He not made the heaven, and the earth, and",
+      "similarity": 0.71,
+      "status": "partial"
+    },
+    {
+      "page": 297,
+      "ocr_excerpt": "CIV. 1. I swear unto you, that in heaven the angels are\nmindful of you for good before the glory of the Great One :",
+      "repo_chapter": 104,
+      "repo_verse": 1,
+      "repo_excerpt": "I swear unto you that in heaven the angels are mindful of you for good before the glory of the Great One: your names are written before the glory of the Great One. **[Verse 2]** Be hopeful; for aforet",
+      "similarity": 0.667,
+      "status": "partial"
+    },
+    {
+      "page": 301,
+      "ocr_excerpt": "and testify to the children of earth concerning their wisdom :\nshow it unto them ; for ye are their guides and a recompense",
+      "repo_chapter": 105,
+      "repo_verse": 1,
+      "repo_excerpt": "In those days, says the Lord, they shall call and testify to the children of earth concerning their wisdom: \u2014Show it unto them for you are their guide and a recompense over the whole earth. **[Verse 2",
+      "similarity": 0.724,
+      "status": "partial"
+    }
+  ]
+}
