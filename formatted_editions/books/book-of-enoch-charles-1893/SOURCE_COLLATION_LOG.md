@@ -210,11 +210,16 @@ The bracket convention is explicit in the 1917 preliminaries: square brackets en
 
 ### 1917 scan page-image verification
 
-A page-image screenshot was obtained and visually inspected for printed page 154 of the 1917 scan. It shows the closing Chapter 108 text, verses 8–15, and confirms that this portion is present on that printed page. This is a **single-page visual check only**. Attempts to retrieve the other relevant 1917 page images through the available PDF screenshot service returned cache-miss or retrieval errors. Accordingly:
+Two page-image screenshots were successfully obtained and visually inspected:
+
+- **Printed p. 153:** The page shows the closing text of Chapter 107, including 107:2–3, followed by the heading and beginning of Chapter 108:1–7. It visibly reads in 107:3 that Noah “will comfort the earth after all the destruction.” This confirms the 1917 witness wording against the repository-specific “cause the earth to rejoice in compensation for all the destruction.”
+- **Printed p. 154:** The page shows Chapter 108:8–15 through “Amen.” In 108:4, the witness prints the daggered phrase “†look over† it,” marking an uncertain/corrupt reading under the 1917 notation convention. The repository reading “I could not look thereon” is therefore retained as a separate witness wording, not silently changed to the 1917 phrase.
+
+Attempts to retrieve the other relevant 1917 page images (including the earlier pages containing Chapters 105–107) returned cache-miss or retrieval errors. Accordingly:
 
 - Chapter 105–108 text-layer comparison remains recorded as complete in the existing row above.
-- Visual collation of Chapters 105–108 is **not complete**.
-- Only the displayed page 154 was visually checked in this pass; no claim is made that pages containing Chapters 105–107 or the earlier part of Chapter 108 were visually proofread.
+- Printed pp. 153–154 have been visually inspected; these checks cover only the visible closing portion of Chapter 107 and the beginning/ending portions of Chapter 108.
+- Visual collation of Chapters 105–108 is **not complete**. The page images containing the full text of Chapters 105 and 106, the start of 107, and the remaining uninspected lines/paragraphs still need review.
 
 The 1917 PDF is the Wikimedia Commons scan titled *The book of Enoch. Robert Charles. 1917*; its front matter identifies the translation as reprinted from Charles's second edition (1912), and states that the work was first published in 1917. It is therefore a 1917 publication witness, not the 1893 source.
 
