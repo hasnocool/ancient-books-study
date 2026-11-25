@@ -625,3 +625,12 @@ The updated [\`pdfs/README.md\`](../../../pdfs/README.md) now inventories all se
 ## PDF directory relocation — 25 November 2026
 
 The seven PDFs and their inventory README were moved from the former `enoch-editions/` directory to the top-level `pdfs/` directory. The move reused the existing Git blob objects, so the PDF contents and blob identifiers were preserved without downloading or re-uploading the binary files. Repository navigation, usage guidance, source notes, and review documentation now point to `pdfs/`. The former directory is no longer present.
+
+
+## 1917 SPCK printed p.152 — successful image retrieval — 25 November 2026
+
+**Supersedes the earlier failed-retrieval notes above for this one page only.** The Commons-hosted 160-page Internet Archive scan was opened successfully and zero-based PDF page index **153** was rendered. The printed leaf itself visibly carries page number **152**. Direct image: [1917 SPCK scan, PDF page index 153](https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf).
+
+Visual inspection confirms that the leaf continues the Noah birth narrative from 106:12, prints 106:13–19, places the giants-production clause immediately after 106:14, and begins Chapter 107 at the foot of the page. This is image evidence from the tenth impression (1962) of the SPCK edition first published in 1917. It closes the page-152 image gap; it does not constitute a full line-by-line collation of every reading on the page, and it does not alter the repository's selected wording or order.
+
+The 1893 Clarendon page-image task remains separate and outstanding: printed pp.55–308 have not received systematic visual proofing.
