@@ -76,6 +76,7 @@ The Cornell / Internet Archive scan of the same 1893 Clarendon Press edition was
 | 9:6 | p. 69, critical note p. 70 | Verse text is printed without square brackets; the critical note says “All interpolation from the same source as vii. 3–8; viii. 1–3” | Preserve the printed verse-label markup in the formatted derivative, but record that the apparatus characterizes the verse as interpolated. This is distinct from the separately square-bracketed 9:7. |
 | 10:1–3 | pp. 70–71 | The Noah instruction to Lamech appears with square-bracketed verse numbers | The formatted source and modernization preserve the three-verse interpolated block. |
 | 10:7 | p. 72 | “Heal the earth which the angels have defiled…” appears as an ordinary numbered verse in the printed text | The formatted source and modernization do not add an interpolation marker to this verse. This distinction is kept separate from 10:1–3. |
+| 10:11 | p. 74, critical note p. 75 | The printed verse number is square-bracketed; the critical note explicitly says “This verse is an interpolation” | The formatted source and modernization now mark verse 11 as an interpolation. This is separate from the interpolated Noah block in 10:1–3 and from ordinary verse 10:7. |
 | 13:1 | 79 | “(Rufael) shall put thee in bonds” | The modernization preserves the source form **Rufael**. |
 | 14:11 | 81 | The printed text's apparatus gives the literal gloss “and their heaven was water” | The modernization retains the water image rather than recasting it as a sea above the scene. |
 
