@@ -1,6 +1,6 @@
 # Local Audit Toolkit
 
-The toolkit uses only the Python 3.12 standard library. Run commands from the repository root. No GitHub Actions, hosted runners, third-party packages, or paid CI are required.
+The toolkit uses only the Python 3.12 standard library. Run commands from the repository root. The repository also runs the full audit and unit tests automatically on pushes and pull requests to `main` through `.github/workflows/corpus-quality.yml`; the workflow can also be started manually from the GitHub Actions tab.
 
 ## Full audit
 
