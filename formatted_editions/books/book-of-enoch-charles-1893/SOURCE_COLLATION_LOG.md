@@ -456,3 +456,21 @@ Charles's own introduction also lists XVII–XIX among interpolations. The moder
 A critical-apparatus classification and square brackets in the printed text are not interchangeable. Chapters 43, 50, 59, and 60 have printed bracket marking; Chapters 42 and 44 are not square-bracketed in the translation text even though Charles treats these as out-of-context fragments/intrusions in his notes. The modernization now reflects that distinction in Chapter 44. Chapter 60's Noachic status is also made explicit in the modernized file.
 
 **Batch boundary:** The source text layer and critical notes for Chapters 37–60 have been examined at the major chapter boundaries and interpolation zones. This pass is not a claim that every word in every verse has been proofread against the scan. The authentic 1893 pages in this span have not been visually checked.
+
+
+## Authentic 1893 text-layer collation: Chapters 61–64 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Section II, printed pp. 159–167. Text-layer and critical notes were consulted; no page-image verification is claimed.
+
+| Chapter | 1893 evidence | Repository treatment |
+|---|---|---|
+| 61 | The angels take the cords and fly “towards the North”; Charles's note glosses this as “the North-West.” The main text has 13 units. The apparatus discusses a longer reading for the cords, variants in “strengthen righteousness,” and the exact wording of the host/angel catalogue. | The modernization preserves the printed direction “northward” and records Charles's NW gloss in Chapter 61 rather than rewriting the verse. Sequence and broad sense align. |
+| 62:1 | Charles prints “Open your eyes and lift up your horns if ye are able to recognise the Elect One.” | The modernization's “raise your heads” flattened the horn image. It is corrected to “lift up your horns.” |
+| 62:2 | Charles prints “the Lord of Spirits seated him”; the apparatus notes this requires an emendation of the underlying text because the spirit of righteousness poured upon “him” refers to the Messiah. | Modernization retains the printed “seated him” and records this is a Charles editorial emendation. |
+| 62:3 | Charles prints “righteousness is judged before him.” The apparatus notes Greek and a family of manuscripts with the alternative “the righteous are judged,” and others with “the righteous are judged in righteousness.” | The modernization's generalized phrase “righteous judgment will be carried out” was too interpretive; it is corrected to “righteousness will be judged before him.” |
+| 62:5 | Charles prints “that Son of Man” following the Greek; he notes later Ethiopic manuscripts read “Son of the Woman,” likely a scribal corruption. | Modernization retains “Son of Man” and discloses the alternative in Chapter 62. |
+| 62:10–12 | The Lord presses the kings out of his presence, angels of punishment take charge of them, and the sword is “drunk with their blood.” | Broad sequence retained. No separate correction identified. |
+| 63 | The kings' confession is presented as a last, despairing appeal; Charles's commentary explains the rhetorical function and discusses the meaning of Sheol. | Numbered sequence and broad sense align in the passages checked. |
+| 64 | A short digression records Enoch's vision of forms and angels who descended and revealed hidden things to humanity. | The two-unit sequence aligns. |
+
+**Batch boundary:** This text-layer comparison is not visual proof against printed page images. Chapters 61–64 have been examined for major readings and apparatus variants; that is not independent human sign-off.
