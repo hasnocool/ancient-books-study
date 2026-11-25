@@ -26,7 +26,7 @@ No BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` are present under th
 | 88 | 110 | n109 | Present, unreadable in viewer | Present |
 | 89 | 111 | n110 | Present, unreadable in viewer | Present |
 | 90 | 112 | n111 | Present, unreadable in viewer | Present |
-| 91 | 113 | n112 | Missing | Missing |
+| 91 | 113 | n112 | Present in `cornell_all_pages/page_0113_full.png`, unreadable | Cornell OCR missing; parallel scan text recovered |
 | 92 | 114 | n113 | Present, unreadable in viewer | Present |
 | 93 | 115 | n114 | Present, unreadable in viewer | Present |
 | 94 | 116 | n115 | Present, unreadable in viewer | Present |
