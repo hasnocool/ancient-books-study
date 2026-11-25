@@ -388,3 +388,20 @@ Continue the 1893 collation sequentially by chapter and record every substantive
 Chapters 7, 11, and 12 were checked for their numbered sequence and basic wording; no substantive text correction was indicated in this pass. This does not establish that every line, apparatus entry, or page image has been independently proofread.
 
 **Batch boundary:** Chapters 6–15 have now had a sequential 1893 searchable-text-layer comparison, with the findings above recorded. Do not mark these chapters as visually collated: page images for printed pp. 62–84 have not yet been systematically inspected. The text layer itself can contain OCR errors, and the 1893 critical apparatus sometimes records variant manuscript readings separately from Charles's printed translation.
+
+
+## Authentic 1893 text-layer collation: Chapters 16–20 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Section I, printed pp. 85–91. The searchable layer of the authentic 1893 scan was inspected at the chapter passages and Charles's adjacent critical notes. The page images were not available for visual proofing; the statements below are text-layer / printed-apparatus findings.
+
+| Chapter | 1893 evidence | Repository treatment |
+|---|---|---|
+| 16 | 16:1 is a difficult reconstructed text: Charles explains that the Ethiopic is corrupt and restores it with the Book of Jubilees and the Syncellus Greek. The 1893 translation reads “when the spirits have gone forth from the souls of their flesh” and “in order to destroy without incurring judgment.” At 16:2 Charles prints “you knew worthless mysteries.” Charles then identifies the following Greek fragment as absent from the Ethiopic and probably belonging to the lost Apocalypse of Noah interwoven with Enoch. The printed numbering has 16:1, 16:2, 16:4; no 16:3 appears. | The repository preserves the same numbered sequence 1, 2, 4. Modernized 16:2 was corrected from “learned forbidden mysteries” to “knew worthless mysteries.” The Greek-only fragment boundary is noted as a witness/apparatus fact; it must not be mistaken for Ethiopic wording. |
+| 17 | The 1893 edition places Chapter XVII within a square-bracketed interpolated block. | The repository and modernization do not mark the chapter as interpolated. The chapter is retained, but its 1893 bracket status is disclosed in Chapter 17. |
+| 18 | The 1893 square-bracketed interpolated block continues through Chapter XVIII. | The repository and modernization do not mark the chapter as interpolated. The 1893 structural difference is disclosed in Chapter 18. |
+| 19 | The 1893 square-bracketed block continues through Chapter XIX; Chapter XX begins outside that bracketed block. | The repository and modernization do not mark Chapter 19 as interpolated. The 1893 structural boundary is disclosed in Chapter 19. |
+| 20 | The 1893 printing begins Chapter XX outside the Chapter XVII–XIX bracketed block and lists seven angels. Their roles and names align in sequence with the repository base. | No substantive correction identified in this pass. |
+
+Charles's own introduction also lists XVII–XIX among interpolations. The modernization retains the selected repository base and does not silently delete or bracket these chapters. This is a witness-layout and source-critical difference; it is not independent evidence that these chapters should be omitted.
+
+**Batch boundary:** This is a sequential text-layer check of Chapters 16–20, including the adjacent critical apparatus. Printed pp. 85–91 have not been visually checked against page images. The difficult reconstructed text at 16:1 and the Greek-only fragment context at 16:2 require continued apparatus-aware treatment.
