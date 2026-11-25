@@ -229,9 +229,9 @@ def verse_units(section: str) -> list[tuple[int, str]]:
             maxsplit=1,
         )[0]
         body = re.split(
-            r"(?im)^\\s*(?:>\\s*)?\\*\\*(?:(?:18|19|20)\\d{2}\\s+)?"
-            r"(?:Witness|Critical(?:[- ]Apparatus)?|Source)(?:\\s+and\\s+(?:Apparatus|Notes))?"
-            r"(?:[- ]notes?)?:\\*\\*",
+            r"(?im)^\s*(?:>\s*)?\*\*(?:(?:18|19|20)\d{2}\s+)?"
+            r"(?:Witness|Critical(?:[- ]Apparatus)?|Source)(?:\s+and\s+(?:Apparatus|Notes))?"
+            r"(?:[- ]notes?)?:\*\*",
             body,
             maxsplit=1,
         )[0]
