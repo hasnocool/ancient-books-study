@@ -5,17 +5,17 @@
 
 **Editorial method:** Complete modernization of one unnumbered passage, updating archaic wording while retaining the source sequence and substance. This is not a new translation from the Ethiopic, and the repository transcription has not been verified as a verbatim copy of the 1893 Charles/Dillmann printing.
 
-**Textual caution:** The source edition marks this chapter as an interpolation; the bracketed status is retained.
+**Textual caution:** Charles's 1893 critical apparatus classifies Chapter XLIV among the interpolated/intrusive passages, but the verse text itself is not enclosed in square brackets in the 1893 printing. The modernization records that critical classification without presenting editorial square brackets as though they appeared in the printed text.
 
 ---
 
-### Unnumbered passage — interpolation
+### Unnumbered passage
 
 I also saw other phenomena involving lightning: some stars rise and become lightning, but they cannot leave behind the new form they have taken.
 
 **The Second Parable begins.**
 
-**Editorial note:** The source presents Chapter XLIV as one unnumbered sentence and brackets the entire chapter as an interpolation. It remains unnumbered here.
+**Editorial note:** Chapter XLIV is one unnumbered sentence in the 1893 text. Charles's apparatus identifies it as an intrusive/interpolated passage, but the printed sentence itself is not square-bracketed. The modernization therefore keeps its text unbracketed while disclosing the critical classification.
 
 ---
 
