@@ -8,7 +8,7 @@
     "pdf_pages": "107–116",
     "formula": "leaf = printed_page + 21; PDF page = printed_page + 22"
   },
-  "scope_note": "Ten native PNGs are stored across the printed-page and ordinal-page directories for pp.85–94. All ten were opened and render dark/unreadable in the current image viewer. Nine Cornell page-specific OCR text files are present; p.91 Cornell OCR is missing. The p.91 ordinal image is artifacts/page-images/cornell-native/cornell_all_pages/page_0113_full.png. A provisional p.91 text extraction was recovered from a separate searchable 1893 Knox College/Toronto scan and is recorded as a parallel witness, not Cornell OCR. No target BookReader JPEGs were present. Source PDFs exist in the repository, but direct binary download from this execution environment failed, so PDF re-rendering was not possible.",
+  "scope_note": "Ten native PNGs are stored across the printed-page and ordinal-page directories for pp.85–94. All ten were opened and render dark/unreadable in the current image viewer. Nine Cornell page-specific OCR text files are present; p.91 Cornell OCR is missing. The p.91 ordinal image is artifacts/page-images/cornell-native/cornell_all_pages/page_0113_full.png. A provisional p.91 text extraction was recovered from a separate searchable Knox College/Toronto copy of the 1893 edition (printed 1897) and is recorded as a parallel witness, not Cornell OCR. No target BookReader JPEGs were present. Source PDFs exist in the repository, but direct binary download from this execution environment failed, so PDF re-rendering was not possible.",
   "pages": [
     {
       "printed_page": 85,
