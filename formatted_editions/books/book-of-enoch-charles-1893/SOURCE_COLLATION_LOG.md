@@ -80,7 +80,7 @@ The 1893 contents do not list Chapters 105–108 as a main translation section. 
 
 The 1917 introduction classifies Chapter CV (105) as a two-verse section of uncertain date, Chapters CVI–CVII (106–107) as the “Fragment of the Book of Noah,” and Chapter CVIII (108) as an appendix. It also states that the reprinted translation is that of Charles's 1912 second edition. This is a much better-defined witness for comparison than an unattributed assumption that these chapters belong to the 1893 main translation.
 
-A limited comparison of the available 1917 electronic text confirms:
+A verse-by-verse comparison of the available 1917 text layer for Chapters 105–108 confirms:
 - 106:3 retains the newborn's opening of his mouth and his conversation with the Lord of Righteousness;
 - 106:16 says that Noah's three children are saved with him;
 - 107:1–3 form the three-verse concluding Noah-fragment unit;
@@ -98,6 +98,8 @@ The modernization corrections to 106:3 and 106:16 preserve these source details.
 - **Chapter 108:4:** The repository's “I could not look thereon” is now rendered “I could not look upon it,” avoiding the stronger interpretation “could not see through it.”
 
 The 1917 front matter explicitly identifies the text as a reprint of Charles's 1912 second edition. It is therefore a separately identified witness for this comparison, not proof of the 1893 main translation wording. Do not label Chapters 105–108 “1893 Charles main text.”
+
+The 1917 edition also preserves a different placement for the Apocalypse of Weeks material associated with Chapter 91. Its editorial arrangement places 91:12–17 after the material now numbered 93:1–10, rather than keeping those six verses in the Chapter 91 sequence. The modernized edition deliberately follows the selected repository transcription: Chapter 91 remains in its repository sequence, with 91:11 marked as interpolation and 91:12–17 left in place. This is a documented witness/arrangement variant, not a silent correction. The chapter files must therefore be described as a repository-sequence modernization, not as a reproduction of the 1917 order.
 
 ## 1917 witness cross-check of the Chapter 72 cycle counts
 
@@ -131,7 +133,8 @@ A PDF text layer is a search aid, not a substitute for checking the scanned page
 - [ ] Collate Chapters 72–82 against 1893 pages 191–219.
 - [ ] Collate Chapters 83–90 against 1893 pages 223–259.
 - [ ] Collate Chapters 91–104 against 1893 pages 265–308.
-- [ ] Compare Chapters 105–108 against an explicitly identified later witness; do not infer them from the 1893 appendices.
+- [x] Compare Chapters 105–108 verse by verse against the explicitly identified 1917 Charles/Oesterley text layer; differences and the Chapter 106 rearrangement are recorded above.
+- [ ] Visually collate Chapters 105–108 against the 1917 scan page images; do not infer them from the 1893 appendices.
 - [ ] Record textual variants and interpolation boundaries without silently normalizing them.
 - [ ] Have a second reviewer check unresolved or consequential readings.
 
