@@ -1,6 +1,6 @@
 # 1 Enoch — Complete Modern-Language Edition
 
-**Status: 108 of 108 chapters drafted and committed.**
+**Status: 108 of 108 chapters drafted and committed; assistant-led first-pass review logged for all 108. Independent approval and facsimile collation remain open.**
 
 This directory contains a separate modern-language rendering of all 108 numbered chapters of 1 Enoch found in the repository's selected transcription.
 
@@ -143,4 +143,4 @@ Accordingly, these files are complete modern-language renderings **of the select
 
 ## Review status
 
-The full chapter set has been drafted and committed. File coverage and selected structural edge cases have been checked, but the edition is not yet a critical edition and no independent reviewer has signed off all 108 chapters for semantic fidelity. See the [chapter-by-chapter review log](./REVIEW_LOG.md) for the pending semantic review, risk priorities, and review record requirements. See the [historical-source collation log](../../../formatted_editions/books/book-of-enoch-charles-1893/SOURCE_COLLATION_LOG.md) for the documented 1893 source limitation and the remaining facsimile work. The repository includes a local, read-only validator at [tools/README.md](../../../tools/README.md); it does not require paid GitHub Actions.
+The full chapter set has been drafted and committed, and an assistant-led source-to-adaptation first pass has been logged for all 108 chapters. This is not independent human approval. No second reviewer has yet signed off every chapter for semantic fidelity, and the edition is not a critical or facsimile-verified edition. The 1893 searchable text layer has been checked at selected readings; the 1917 Charles/Oesterley text layer has been compared verse by verse for Chapters 105–108. Visual page-image collation remains open for both witnesses. See the [chapter-by-chapter review log](./REVIEW_LOG.md) for findings, independent-review priorities, and review record requirements. See the [historical-source collation log](../../../formatted_editions/books/book-of-enoch-charles-1893/SOURCE_COLLATION_LOG.md) for witness-specific differences and remaining facsimile work. The repository includes a local, read-only validator at [tools/README.md](../../../tools/README.md); it does not require paid GitHub Actions.
