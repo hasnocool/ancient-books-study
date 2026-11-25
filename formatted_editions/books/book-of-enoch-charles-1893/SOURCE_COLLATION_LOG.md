@@ -1,6 +1,6 @@
 # 1 Enoch — Historical Source Collation Log
 
-**Status:** Initial bibliographic and sample-text collation completed; full chapter-by-chapter collation remains open.  
+**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Systematic page-image proofing of the 1893 scan remains open; a Cornell/Internet Archive facsimile has now been added inside `enoch-editions/`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
 **Primary reference:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
 ## Primary facsimile and catalog records
@@ -564,13 +564,34 @@ The principal critical boundaries are:
 **Batch boundary:** Chapters 91–104 have now had a sequential text-layer and critical-apparatus review, with the major interpolation and order findings recorded. This does not claim a complete word-by-word diplomatic transcription audit for every manuscript variant; the 1893 printed pages in this section have not been systematically visually proofread. The authentic 1893 page-image collation remains outstanding.
 
 
-## Repository artifact vs. historical witness clarification — 25 November 2026
+## Repository PDF provenance audit — 25 November 2026
 
-The PDFs stored under `enoch-editions/` are not the authentic historical facsimiles. The 66-page 1893-labelled file is a modern composite which intermixes 1 Enoch and Slavonic 2 Enoch; the 101-page 1917-labelled file is a 2005 typeset transcription ending at 107:3. They remain preserved as supplied repository artifacts and have not been treated as primary historical scans.
+The directory `enoch-editions/` now contains four PDFs, and they must not be treated as interchangeable:
 
-The historical comparison has instead used a separate authentic 418-page 1893 Clarendon scan with searchable OCR for Chapters 1–104 and a separate full 1917 Charles/Oesterley scan for Chapters 105–108. For the authentic 1917 scan, page images printed pp. 149–151 and 153–154 were visually inspected. Printed p. 152 remains an image-retrieval gap; do not declare the 1917 visual collation complete. Chapter 108 is present in the authentic full 1917 scan and is visually checked on pp. 153–154; it is absent only from the shorter repository-bundled 2005 transcription.
+| Repository file | Repository size / Git blob | Classification |
+|---|---:|---|
+| `enoch-1893-charles-dillmann.pdf` | 540,432 bytes; `398352f3010cd7f059c91a24e8c32b9f8b1539a6` | 66-page modern composite/re-typeset artifact. It combines 1 Enoch with Slavonic 2 Enoch/later material and is not a photographic 1893 Clarendon scan. |
+| `enoch-1893-clarendon-original.pdf` | 16,777,301 bytes; `38be2b5e0e95779f92dcb19a745fc654b010b711` | Newly added large scan. The 25 November 2026 Git commit identifies it as the Cornell/Internet Archive 1893 Clarendon original (428 scanned pages). Independent catalog and title-page evidence identify the historical edition as Oxford, Clarendon Press, 1893. It is the repository's intended 1893 page-image witness. |
+| `enoch-1917-charles-oesterley.pdf` | 438,198 bytes; `9bd830eafb560890c6c78d2f89d828b603d6a979` | 101-page Word/PDFMaker 2005 typeset transcription, not a scan of a 1917 impression; ends at 107:3 and contains no Chapter 108. |
+| `enoch-1917-spck-original.pdf` | 7,051,515 bytes; `80523ea72dfed5c4159dce85420e9ab1496dd3d4` | Newly added full SPCK scan, described in the 25 November 2026 Git commit as a 160-page Claremont scan. The scanned copy is the tenth impression of 1962 and states “First published in 1917”; its preface identifies the text as a reprint of Charles's 1912 second edition. It is a facsimile witness to the 1917 textual edition, but this particular physical impression is from 1962, not 1917. |
 
+The external Cornell/Internet Archive record identifies the 1893 scan as the Clarendon Press edition and the Cornell University Library copy (Internet Archive identifier `cu31924014590545`). The corresponding title page gives Charles, Oxford, Clarendon Press, and 1893. The external SPCK facsimile record shows 154 printed pages in a 160-page scan; the scanned title and preface identify the tenth impression as 1962, first published in 1917, reprinting the 1912 second edition. The repository copies are not asserted to be byte-identical to their public-hosted counterparts; their Git blobs and file sizes above identify the repository artifacts actually added.
 
+The earlier two small PDFs remain valuable project artifacts and must be preserved. Their filenames do not establish that they are historical facsimiles. The two larger PDFs are the new scan sources and should be used for page-image work.
+
+### Historical witness scope
+
+- **1893 main translation:** Chapters 1–104, printed pp. 55–308. The 1893 contents end the main translated sections at Chapter 104. Appendix E separately prints the New Latin fragment 106:1–18; it is not a complete 105–108 witness.
+- **1917 Charles/Oesterley textual edition:** Chapters 105–108 are present. The scan stored in the repository is a 1962 tenth impression of the edition first published in 1917, and its preface describes the text as reprinted from Charles's 1912 second edition.
+- Keep the repository's selected transcription and modernized derivative intact where they differ from these historical witnesses. Record the wording/order variants separately rather than silently substituting one edition for another.
+
+### 1917 visual evidence boundary
+
+The 1917 scan's actual page images have been visually inspected for printed pp. 150–151 and 153–154. Printed p. 152 remains an image-retrieval gap. The searchable text layer for Chapters 105–108 was examined, including the placement of 106:17a immediately after 106:14. Chapter 108 is present in the full SPCK scan and its ending is visible on pp. 153–154; its absence from the small 101-page repository transcription applies only to that older artifact.
+
+### 1893 visual evidence boundary
+
+The newly committed Cornell scan is the correct in-repository page-image witness for Chapters 1–104. The searchable OCR and critical apparatus have already been reviewed sequentially for those chapters, but printed pp. 55–308 have not yet received systematic page-by-page visual proofing. Do not report the 1893 image audit as complete.
 
 ## 1917 page-image audit clarification — 25 November 2026
 
