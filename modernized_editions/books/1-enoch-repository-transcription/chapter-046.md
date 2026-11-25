@@ -11,7 +11,7 @@
 
 ### Verse 1
 
-There I saw one who was the Head of Days, and his head was white like wool.
+There I saw one who had a head of days, and his head was white like wool.
 
 ### Verse 2
 
