@@ -45,6 +45,8 @@ These were their leaders over groups of ten, and all the others were with them.
 
 ## Completeness and editorial notes
 
-- All **8 numbered verses** in the selected Chapter 6 source have been represented. No interpolation marker is present in this chapter's source text.
+- All **8 numbered verses** in the selected Chapter 6 source have been represented.
+- **1893 witness difference:** Charles prints verse 3 in square brackets as an interpolation; the repository's formatted base does not mark it. The modernization preserves the selected base's unbracketed verse but now records the 1893 structural variant explicitly.
+- **1893 name-list variants:** Charles prints the 18 names with forms including *Semjaiza*, *Uraikibariméél*, *Rimuél*, *Danél*, *Zaqild*, *Sariqujal*, *Asdél*, *Armiaréis*, *Anadni*, *Zaqébé*, *Samsivéél*, and *Turél*. The repository base has corresponding forms such as *Semjaza*, *Urakibarameel*, *Ramuel*, *Danel*, *Zaqilo*, *Saraqujal*, *Asael*, *Armaros*, *Anani*, *Zaqebe*, *Samsaveel*, and *Turel*. These are recorded as witness/transliteration variants, not silently normalized.
 - No verse has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter and verse divisions and does not silently substitute another translation's wording or arrangement.
