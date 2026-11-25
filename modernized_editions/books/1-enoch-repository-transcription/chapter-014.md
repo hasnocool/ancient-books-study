@@ -49,7 +49,7 @@ Just as God created human beings and gave them the ability to understand words o
 
 ### Verse 11
 
-“Its ceiling resembled the paths of the stars and lightning, with fiery cherubim between them. The heaven above them was water.
+“Its ceiling resembled the paths of the stars and lightning, with fiery cherubim between them. Their heaven was water.
 
 ### Verse 12
 
@@ -101,7 +101,7 @@ Just as God created human beings and gave them the ability to understand words o
 
 ### Verse 24
 
-“Until then I had kept a covering over my face, and I was trembling. Then the Lord called me with his own voice: ‘Come here, Enoch, and listen to my holy words.’
+“Until then I had kept a covering over my face, and I was trembling. Then the Lord called me with his own voice: ‘Come here, Enoch, and hear my holy word.’
 
 ### Verse 25
 
@@ -112,5 +112,6 @@ Just as God created human beings and gave them the ability to understand words o
 ## Completeness and editorial notes
 
 - All **25 numbered verses** in the repository's Chapter 14 have been rendered individually.
+- **1893 witness wording:** At 14:11 the literal expression is “their heaven was water”; the earlier phrase “the heaven above them” supplied a spatial interpretation not present in the source wording and has been revised. At 14:24 the 1893 edition reads “hear my holy word” (singular); Charles notes that “hear” is supported by the Gizeh Greek but absent from the Ethiopic manuscripts. The modernization now preserves that singular reading.
 - No verse has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter and verse divisions and does not silently substitute another translation's wording or arrangement.
