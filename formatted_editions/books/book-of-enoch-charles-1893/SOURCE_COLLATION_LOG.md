@@ -141,6 +141,14 @@ The complete formatted source file for Chapters 91–105 was compared with the c
 
 This checks the selected repository source against the modernization's structural labels. It does **not** prove the semantic accuracy of every sentence or establish that the selected repository text is identical to the 1893 witness.
 
+
+**Further verse-level wording corrections from the 1893 text layer:**
+
+- **97:2:** The 1893 text explicitly says the Most High is “mindful of your destruction.” The modernization was corrected from the less precise “has taken account of what is being done to you” to “is mindful of your destruction.”
+- **101:7:** The 1893 text says that at the Most High's reproof the sea is afraid and dries up. The modernization was corrected to remove the unsupported phrase “draws back” and to keep the reproof as the cause.
+- **102:6–11:** The text-layer reading preserves the progression from the sinners' reported speech (6–8), to the author's reply (9–10), and the concluding statement about the righteous dead descending to Sheol (11). The repository's source labels keep this sequence; the modernization retains the speaker transitions and unit boundaries.
+- **103:9–15:** Charles's apparatus notes extensive first-/third-person variation in manuscript G across this passage. The 1893 main-text wording and its narrative attribution should be kept distinct from the manuscript G alternative; the adaptation follows the selected main-text narrative perspective and does not merge the reported speech with the narrator's reply.
+
 ### What is still not complete for 1893
 
 The expanded text-layer review materially improves the evidence for Chapters 91–104, but the checklist item “full historical collation” remains open. A complete collation still requires a line-by-line comparison of every verse and relevant critical note, explicit recording of every lexical/omission/addition/sequence difference, and visual proofing of the printed pages. The searchable OCR can contain recognition errors and displaced page text; page-image inspection is required where readings or punctuation are uncertain.
