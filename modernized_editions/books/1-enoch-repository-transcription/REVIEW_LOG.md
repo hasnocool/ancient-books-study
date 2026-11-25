@@ -28,6 +28,7 @@ These are review priorities, not confirmed textual defects.
 ## What has been checked
 
 - A direct source-to-modernization structure comparison was completed against all six formatted source files: **108 of 108 chapter verse-label sequences match**. The comparison preserves source anomalies such as missing or duplicated labels and interpolation markers; it does not compare the wording for meaning.
+- The original combined archive file and the six formatted source files were compared by normalized chapter body: **108 of 108 chapters match** after removal of layout, verse-label, Markdown/editorial markup, and standalone page-number lines. Seven embedded page numbers (53–59) were identified and removed from the formatted derivative; the archive itself was preserved. This is transfer verification, not historical facsimile collation.
 - The chapter index lists Chapters 1–108.
 - The chapter files were previously fetched in spot-check batches across early, middle, and final ranges; all checked files existed and contained their chapter title.
 - Current spot checks confirm the unusual structures called out in the edition notes, including unnumbered chapters and numbering gaps/duplicates.
