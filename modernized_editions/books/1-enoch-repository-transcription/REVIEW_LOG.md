@@ -141,15 +141,9 @@ A shallow checkout was attempted, but the review environment could not resolve `
 
 The chapter review log records an assistant-led first-pass comparison. This pass also records targeted witness observations for 91–94. Neither activity is an independent human review. **Independent human verse-by-verse approval remains pending for all 108 chapters**, and no entry should be labelled “human approved” until a named second reviewer has checked the passage and signed the review record.
 
-## 1917 visual page-image checks: printed pages 153–154
+## Initial 1917 visual page-image review — superseded by the expanded audit below
 
-Two pages of the identified 1917 Charles/Oesterley scan were visually inspected:
-
-- **Printed p. 153:** End of Chapter 107, including 107:2–3, and beginning of Chapter 108:1–7. The page confirms the 1917 reading in 107:3 that Noah will “comfort the earth after all the destruction,” differing from the selected repository's wording that he will “cause the earth to rejoice in compensation for all the destruction.”
-- **Printed p. 153:** Chapter 107:1–3 and Chapter 108:1–7. Verse 108:4's “†look overt†” appears as a daggered/corrupt reading in the 1917 print, unlike the repository's “look thereon.” **Printed p. 154** contains Chapter 108:8–15 through “Amen.”
-
-Other needed 1917 page-image captures returned cache-miss errors. Thus the visual review is **partial**: the page range for Chapters 105–106, the beginning of 107, and any lines not visible on pp. 153–154 remain uninspected. Do not mark Chapters 105–108 visually collated. The full text-layer comparison remains useful, but it is not a substitute for page-image proofing.
-
+The initial check visually inspected printed pp.153–154 of the 1917 Charles/Oesterley scan. Printed p.153 contains the end of Chapter107 and the opening of Chapter108:1–7, including the daggered/corrupt expression in108:4; printed p.154 contains Chapter108:8–15 through “Amen.” The subsequent expanded check successfully inspected printed pp.150–151 as well. Printed p.152 remains uninspected, so the full 105–108 span is still not completely visually collated.
 ## Updated witness and page-image status — 25 November 2026
 
 The full searchable text layer of the 1917 Charles/Oesterley scan is now accessible. A targeted review of Chapters 105–108 has recorded two additional witness differences:
