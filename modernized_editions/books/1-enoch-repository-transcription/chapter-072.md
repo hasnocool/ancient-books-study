@@ -123,7 +123,7 @@ On that day the night becomes shorter by one part, reaching eleven parts, while 
 
 ### Verse 29
 
-The sun returns and enters the second eastern gate. It follows its course for thirty mornings, rising and setting.
+The sun returns and enters the second eastern gate. It follows its course for thirty-one mornings, rising and setting.
 
 ### Verse 30
 
