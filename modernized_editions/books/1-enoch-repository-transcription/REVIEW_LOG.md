@@ -1,0 +1,57 @@
+# 1 Enoch Modernization — Review Log
+
+**Scope:** Chapters 1–108 in this directory, compared with the selected formatted repository transcription.  
+**Status:** File coverage is complete. Semantic review and full historical-source collation are not complete.
+
+## Review-status matrix
+
+| Chapter range | Source divisions | Files present | Structural review | Semantic review | Historical collation |
+|---|---|---:|---|---|---|
+| 1–36 | Watchers | 36/36 | Initial structural spot checks; run local audit for full repeatable result | Pending verse-by-verse human review | Pending; sample textual differences already documented |
+| 37–71 | Parables | 35/35 | Initial structural spot checks; preserve interpolation markers | Pending verse-by-verse human review | Pending |
+| 72–82 | Luminaries | 11/11 | Initial structural spot checks; preserve Chapter 82 numbering anomaly | Pending verse-by-verse human review | Pending |
+| 83–90 | Visions | 8/8 | Initial structural spot checks; Chapters 89 and 90 counts checked | Pending verse-by-verse human review | Pending |
+| 91–105 | Laws of Enoch | 15/15 | Initial structural spot checks; Chapter 91 formatting standardized | Pending verse-by-verse human review | Pending; later Charles structural references are identified in restoration log |
+| 106–108 | Deluge | 3/3 | Initial structural spot checks; Chapter 106 sequence preserved | Pending verse-by-verse human review | Pending; do not assume all three chapters are part of the 1893 main translation text |
+
+## Priority review queue
+
+These are review priorities, not confirmed textual defects.
+
+1. **Chapter 89:** 77 units in a very long allegorical narrative. Check each unit against its source, especially genealogical transitions, historical identifications, and the end of the narrative.
+2. **Chapters 67–71:** Dense Noachic and Similitudes material. Check interpolation boundaries, dialogue continuity, and the missing-passage note associated with Chapter 71.
+3. **Chapters 72–82:** Astronomical and calendar descriptions contain many quantities, names, and directional sequences. Check every number and name against the formatted source. The ancient cosmology is source content, not modern astronomy.
+4. **Chapters 91–93:** Preserve the repository sequence and the marked interpolation. Do not silently move 91:12–17 to another chapter; record the alternative Charles arrangement as a variant.
+5. **Chapter 106:** Preserve source order and the documented verse-17 rearrangement. Do not infer the 1893 wording from a later edition.
+6. **All other chapters:** Review for omissions, additions, compression, pronoun/reference shifts, changes in agency, and interpretive names inserted into the prose.
+
+## What has been checked
+
+- The chapter index lists Chapters 1–108.
+- The chapter files were previously fetched in spot-check batches across early, middle, and final ranges; all checked files existed and contained their chapter title.
+- Current spot checks confirm the unusual structures called out in the edition notes, including unnumbered chapters and numbering gaps/duplicates.
+- Chapter 91 has been converted to the same Markdown verse-heading convention used by the other modernized files.
+- The local audit toolkit now has checks for the expected 108 files, source/modernized verse-label alignment, and extreme word-count differences.
+
+## What has not been established
+
+- The local Python audit script and unit tests have been committed, but their full run against a fresh local clone is still required.
+- A word-count outlier is only a review cue; no numeric threshold proves that an adaptation is faithful or unfaithful.
+- No independent human has yet signed off all 108 chapters verse by verse.
+- No complete line-by-line collation against the 1893 Charles printing or the Ethiopic witnesses has been completed.
+- The selected source transcription is not verified as verbatim Charles 1893. The modernization inherits that source limitation.
+
+## Required review record for each corrected unit
+
+When a reviewer completes a chapter, add a dated entry containing:
+
+- chapter and verse identifier;
+- exact formatted-source location;
+- modernization location;
+- issue type (omission, addition, meaning shift, damaged source, name/number, interpolation, punctuation, or other);
+- evidence and any reference edition consulted;
+- correction made, or reason no change was made;
+- reviewer and review date.
+
+Do not mark a full chapter reviewed because only its headings, word counts, or first and last verses were checked.
+
