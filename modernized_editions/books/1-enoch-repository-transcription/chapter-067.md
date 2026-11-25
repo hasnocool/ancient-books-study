@@ -15,7 +15,7 @@
 
 ### Verse 2 — interpolation
 
-[“The angels are building a wooden vessel. When they have finished it, I will place my hand upon it and preserve it. From it will come a living seed, and the earth will be changed so that it will not remain empty of inhabitants.]
+[“The angels are building a wooden structure. When they have finished it, I will place my hand upon it and preserve it. From it will come a living seed, and the earth will be changed so that it will not remain empty of inhabitants.]
 
 ### Verse 3 — interpolation
 
