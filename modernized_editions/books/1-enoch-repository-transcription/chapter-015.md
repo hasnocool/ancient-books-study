@@ -21,7 +21,7 @@ He answered and spoke to me in the voice I had heard: “Do not be afraid, Enoch
 
 ### Verse 4
 
-“You were spiritual and holy, enjoying eternal life. Yet you defiled yourselves with women, joined yourselves to mortal flesh, desired human blood, and produced children of flesh and blood, just like mortal beings whose lives are short.
+“You were spiritual and holy, enjoying eternal life. Yet you defiled yourselves with women, fathered children in mortal flesh, lusted after human blood, and produced flesh and blood just as mortal beings do, though their lives are short.
 
 ### Verse 5
 
@@ -60,5 +60,6 @@ He answered and spoke to me in the voice I had heard: “Do not be afraid, Enoch
 ## Completeness and editorial notes
 
 - All **12 numbered verses** in the repository's Chapter 15 have been rendered individually.
+- **1893 witness correction, 15:4:** Charles explicitly says the Watchers “have begotten (children) with the blood of flesh.” The previous modernization's phrase “joined yourselves to mortal flesh” obscured the stated begetting action. It has been revised to retain that agency while using modern syntax.
 - No verse has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter and verse divisions and does not silently substitute another translation's wording or arrangement.
