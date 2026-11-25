@@ -28,8 +28,11 @@ External scan reference: [Internet Archive / Claremont scan](https://archive.org
 ## Review boundaries
 
 - The searchable 1893 text layer and critical apparatus have received a sequential assistant-led review for Chapters 1–104. Systematic visual page-image proofing of printed pp. 55–308 remains outstanding.
-- For the full 1917 scan, printed pp. 150, 151, 153, and 154 have been visually inspected; printed p. 152 remains an image-retrieval gap. The searchable text layer for Chapters 105–108 has been reviewed.
+- For the full 1917 scan, printed pp. 150, 151, 153, and 154 have been visually inspected; printed p. 152 remains an image-retrieval gap. In the 160-page scan PDF, these printed pages map to zero-indexed PDF pages 151, 152, 154, and 155; the missing printed p. 152 is PDF page index 153, where screenshot retrieval repeatedly returned a cache miss. The searchable text layer for Chapters 105–108 has been reviewed.
 - The older 66-page and 101-page PDFs remain preserved as project artifacts. They are useful for documenting prior project inputs, but they are not substitutes for the larger historical scans.
 - The exact textual lineage of the selected combined repository transcription remains unresolved. Do not silently replace its wording with a reading from either historical edition; log each witness difference in the source-collation record.
 
 See [the historical-source collation log](../formatted_editions/books/book-of-enoch-charles-1893/SOURCE_COLLATION_LOG.md) and [the source notes](../formatted_editions/books/book-of-enoch-charles-1893/SOURCE_NOTES.md) for the detailed audit trail.
+
+
+An additional, separate 418-page Google Books-derived 1893 scan is available at [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf). It is not the 428-page Cornell/Internet Archive scan vendored above. These are two distinct digitizations of the same historical Clarendon Press edition; do not confuse their page counts or file identities.
