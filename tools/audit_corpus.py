@@ -11,7 +11,8 @@ ENOCH_CHAPTERS = range(1, 109)
 VERSE_MARKER = re.compile(
     r"(?:###\s+Verse\s+(\d+)(?:\s*[—-][^\n]*)?|"
     r"\*\*\[Verse\s+(\d+)(?:\s*\([^]]*\))?\]\*\*|"
-    r"\*\*\[?\s*(\d+)\.\s*\]?\s*\*\*)"
+    r"\*\*\[?\s*(\d+)\.\s*\]?\s*\*\*|"
+    r"\*\*\[(\d+)\]\.\s*\*\*)"
 )
 CHAPTER_MARKER = re.compile(r"(?m)^##\s+Chapter\s+(\d+)\b")
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
