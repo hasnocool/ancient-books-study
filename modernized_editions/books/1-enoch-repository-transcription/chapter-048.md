@@ -35,7 +35,7 @@ For this reason he was chosen and kept hidden in God's presence before the creat
 
 ### Verse 7
 
-The wisdom of the Lord of Spirits has revealed him to the holy and righteous. He protects the inheritance of the righteous, because they have rejected this world of injustice and all its works and ways in the name of the Lord of Spirits. They are saved through his name, and he is the one who vindicates their lives.
+The wisdom of the Lord of Spirits has revealed him to the holy and righteous. He protects the inheritance of the righteous, because they have rejected this world of injustice and all its works and ways in the name of the Lord of Spirits. They are saved through his name, and he is the one who avenges their lives.
 
 ### Verse 8
 
