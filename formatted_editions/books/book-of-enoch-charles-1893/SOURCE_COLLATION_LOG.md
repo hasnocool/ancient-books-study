@@ -208,59 +208,11 @@ The 1917 SPCK printing (a reprint of Charles's 1912 second edition, first publis
 
 The bracket convention is explicit in the 1917 preliminaries: square brackets enclose interpolations, whereas other bracket forms indicate Greek/Ethiopic differences, editorial restorations, or supplied words. Daggers indicate corruption. These marks must not be conflated.
 
-### 1917 scan page-image verification
+### Initial 1917 page-image review — superseded by the expanded page audit below
 
-Two page-image screenshots were successfully obtained and visually inspected:
+The first visual pass inspected printed pp. 153–154 only. Printed p.153 contains the end of Chapter107 and the opening of Chapter108:1–7, including the daggered/corrupt token in108:4; printed p.154 contains Chapter108:8–15 through “Amen.” The later audit below additionally inspected printed pp.150–151 and mapped all checked pages to their zero-indexed PDF indices. Printed p.152 remains the one uninspected image.
 
-- **Printed p. 153:** The page shows the closing text of Chapter 107, including 107:2–3, followed by the heading and beginning of Chapter 108:1–7. It visibly reads in 107:3 that Noah “will comfort the earth after all the destruction.” This confirms the 1917 witness wording against the repository-specific “cause the earth to rejoice in compensation for all the destruction.”
-- **Printed p. 153:** The page shows Chapter 107:1–3 and Chapter 108:1–7. In 108:4, the witness prints the daggered phrase “†look overt†,” marking an uncertain/corrupt reading under the 1917 notation convention. The repository reading “I could not look thereon” is therefore retained as a separate witness wording, not silently changed to the 1917 phrase. Printed p.154 contains Chapter 108:8–15 through “Amen.”
-
-Attempts to retrieve the other relevant 1917 page images (including the earlier pages containing Chapters 105–107) returned cache-miss or retrieval errors. Accordingly:
-
-- Chapter 105–108 text-layer comparison remains recorded as complete in the existing row above.
-- Printed pp. 153–154 have been visually inspected; these checks cover only the visible closing portion of Chapter 107 and the beginning/ending portions of Chapter 108.
-- Visual collation of Chapters 105–108 is **not complete**. The page images containing the full text of Chapters 105 and 106, the start of 107, and the remaining uninspected lines/paragraphs still need review.
-
-The 1917 PDF is the Wikimedia Commons scan titled *The book of Enoch. Robert Charles. 1917*; its front matter identifies the translation as reprinted from Charles's second edition (1912), and states that the work was first published in 1917. It is therefore a 1917 publication witness, not the 1893 source.
-
-## 1917 text-layer and visual review expansion: Chapters 105–108
-
-**Separate witness:** R. H. Charles, *The Book of Enoch*, S.P.C.K. textual edition first published in 1917, with W. O. E. Oesterley's introduction, reprinting the 1912 second edition. The repository's full scan is a Claremont copy of the tenth impression (1962), not a 1917 first impression. This is not the 1893 Clarendon Press text.
-
-**Searchable scan:** https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf  
-**Text-layer reference:** https://archive.org/stream/bookofenoch0000unse/bookofenoch0000unse_djvu.txt
-
-### Witness-specific findings
-
-| Location | 1917 witness | Repository-based modernization | Decision |
-|---|---|---|---|
-| 105:1 | The 1917 text makes the Lord the one who directs the children to summon and testify, and addresses the children as plural guides. | The modernization makes “people” the subject of calling and uses a singular guide. | This changes agency and number, not just archaic grammar. The repository reading is retained and the variant recorded. |
-| 105:2 | The 1917 text speaks of the Lord and Son being united with the righteous in the paths of uprightness “in their lives.” | The modernization recasts this as walking through life along paths of righteousness. | Broad sense is retained, but the syntax and key term differ. |
-| 106:8 | The 1917 text ends Enoch's greeting with a question asking why Methuselah has come. | The repository transcription turns this into a declarative clause meaning that Methuselah has come to Enoch. | This is a meaningful interrogative/declarative difference. Preserve the repository wording and flag it for review. |
-| 106:13 | The 1917 text explicitly identifies the beings who transgressed as angels of heaven. | The repository says “some from the heights of heaven,” leaving the subject less explicit. | Record a subject-identification difference; do not silently insert “angels” into this derivative. |
-| 106:14 → 106:17a → 106:15–16 | The 1917 body places its giants-production clause immediately after 106:14; Charles's introduction explicitly directs that placement. | The repository order is 106:14, 106:15, 106:16, 106:17. Its v.17 recasts the clause as a statement that giants are not spiritual beings but belong to the physical world. | Record both relocation and material subject/agency wording difference. Retain repository order unless issuing a distinct witness-specific reordered text. |
-| 106:16 | The 1917 text includes a bracketed explanatory supplement after the statement about mankind dying, clarifying that Noah and his sons are saved. | The repository modernization conveys the rescue of Noah and his three children but does not include that bracketed supplement. | Record the omission as a witness-specific editorial addition, not a lost repository verse. |
-| 107:3 | The 1917 text says Noah will comfort the earth after the destruction. | The repository says he will cause the earth to rejoice in compensation for the destruction. | Confirmed in the text layer and visibly on printed p.153. Retain repository wording and disclose the variant. |
-| 108:3 | The 1917 text refers to the book of life and the holy books. | The repository refers to the books of the holy ones. | Record a textual-noun difference. |
-| 108:4 | The 1917 page carries a daggered/corrupt expression at the point where the observer cannot see through the depth. | The repository reads “I could not look thereon,” modernized as “I could not look upon it.” | The daggered reading is visibly confirmed on printed p.154. Keep repository wording and disclose the unresolved corrupt witness reading. |
-| 108:9 | The 1917 text says the righteous regarded everything as a passing breath. | The repository specifies that they regarded their bodies as a passing breath. | This narrows the referent; record rather than harmonize. |
-| 108:10 | The 1917 passage describes blessings destined for the righteous and says they were recounted in the books. | The repository says the blessings they received were recounted. | Record the shift from destined blessings to received blessings. |
-| 108:11 | The 1917 text describes people who were not recompensed in the flesh with honour proportionate to their faithfulness. | The repository recasts this as people who did not seek honour in the flesh, although their faithfulness deserved it. | This changes agency from lack of reward to lack of seeking; flag as a consequential wording difference. |
-| 108:14 | The 1917 says those born in darkness are led into darkness. | The repository says they are cast into darkness. | Record the passive-action nuance; retain the repository wording. |
-| 108:1–15 | The 1917 appendix spans printed pp.153–154 and ends “Amen.” | The repository modernization has 15 individually headed verses. | Both relevant images (pp.153–154) were visually checked; the text-layer comparison covers all 15 verses. The missing p.152 concerns the earlier 105–107 sequence. |
-
-### Actual visual page checks
-
-The full SPCK scan's page images visibly returned for printed pp. 150–151 and 153–154. Printed p. 152 remains the one unresolved image retrieval. In the 160-page scan PDF, the relevant zero-indexed PDF page indices are printed p. 150 → index 151; p. 151 → index 152; p. 152 → index 153 (cache miss); p. 153 → index 154; and p. 154 → index 155.
-
-- **Printed p. 150:** Chapter 105:1–2 appears in full, followed by the heading for the Fragment of the Book of Noah and the opening of Chapter 106:1. The image confirms 105:1's “The Lord bade (them) to summon and testify...” and “ye are their guides.”
-- **Printed p. 151 (PDF index 152):** Continues 106:1 and the birth narrative through the beginning of 106:12 (“And his father Lamech…”). This is not the whole of 106:1–14; the screenshot was successfully inspected in this pass.
-- **Printed p. 152 (PDF index 153):** Screenshot retrieval returned a cache miss, including on a second direct-PDF route. The searchable text layer shows that this page continues 106:12, contains 106:13–19 including the relocated 106:17a clause after 106:14, and begins Chapter 107:1. It remains text-layer checked but not visually checked.
-- **Printed p. 153 (PDF index 154):** Completes Chapter 107:1–3 and begins the Chapter 108 appendix (108:1–7, including the daggered/corrupt expression in 108:4). This image confirms 107:3's “he will comfort the earth after all the destruction” and the 108:4 mark “†look overt†.”
-- **Printed p. 154 (PDF index 155):** Continues the latter part of Chapter 108 and contains its closing verses through “Amen.”
-
-Therefore the 1917 witness is **partially visually collated**, not completely page-image collated. Chapter 105 is visible on p. 150; Chapter 106 is only partially visible across pp. 150–151 and remains incomplete at p. 152; Chapter 107 is completed on p. 153 but begins on the missing p. 152; Chapter 108 is visible across pp. 153–154.
-
+At the time of this initial review, the earlier pages had returned cache-miss or retrieval errors. This was subsequently reduced to the single missing printed p.152 image; the later page map and results below supersede that older status.
 ### 1893 witness scope correction
 
 The 1893 Clarendon Press volume's main translation sections are Chapters 1–104. The volume also contains Appendix E, a separately identified New Latin fragment of 106:1–18; that fragment is not a complete 1893 main-text edition of Chapter 106, and it must not be conflated with the 1917 Ethiopic-based translation. Chapters 105–108 must therefore be collated against their separately named witness, not represented as 1893 main-text chapters.
