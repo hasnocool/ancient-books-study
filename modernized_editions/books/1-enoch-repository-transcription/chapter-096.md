@@ -19,7 +19,7 @@ Take courage, you righteous people. The sinners will suddenly perish before you,
 
 ### Verse 3
 
-So do not be afraid, you who suffer. Healing will be your portion. A brilliant light will shine upon you, and you will hear a voice of peace from heaven.
+So do not be afraid, you who suffer. Healing will be your portion. A brilliant light will shine upon you, and you will hear a voice of rest from heaven.
 
 ### Verse 4
 
