@@ -23,9 +23,17 @@ class VerseParsingTests(unittest.TestCase):
         text = "**1.** First verse.\n\n**2.** Second verse.\n"
         self.assertEqual([n for n, _ in audit_corpus.verse_units(text)], [1, 2])
 
-    def test_parses_bracketed_verse_labels_used_in_later_source_books(self):
-        text = "**[Verse 1]** First verse.\n\n**[Verse 2]** Second verse.\n"
+    def test_parses_inline_bracketed_verse_labels_used_in_later_source_books(self):
+        text = "**[Verse 1]** First verse.  **[Verse 2]** Second verse."
         self.assertEqual([n for n, _ in audit_corpus.verse_units(text)], [1, 2])
+
+    def test_parses_bracketed_numeric_labels_with_periods(self):
+        text = "**[1.]** First interpolation.  **[2.]** Second interpolation."
+        self.assertEqual([n for n, _ in audit_corpus.verse_units(text)], [1, 2])
+
+    def test_parses_interpolation_marker_inside_verse_label(self):
+        text = "**[Verse 11 (interpolation)]** Interpolated unit."
+        self.assertEqual([n for n, _ in audit_corpus.verse_units(text)], [11])
 
     def test_parses_modern_heading_verse_format_and_interpolation_suffix(self):
         text = "### Verse 1\nFirst verse.\n\n### Verse 2 — interpolation\nSecond verse.\n"
