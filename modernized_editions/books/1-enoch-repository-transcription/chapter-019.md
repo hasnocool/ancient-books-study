@@ -9,7 +9,7 @@
 
 ### Verse 1
 
-Uriel said to me: “Here the angels who joined themselves to women will remain. Their spirits have taken many different forms, corrupted humanity, and led people astray into sacrificing to demons as though they were gods. They will remain here until the day of the great judgment, when they will be judged and their punishment brought to completion.
+Uriel said to me: “Here the angels who joined themselves to women will remain. Their spirits have taken many different forms and have defiled humanity. They will lead people astray into sacrificing to demons as though they were gods. They will remain here until the day of the great judgment, when they will be judged and their punishment brought to completion.
 
 ### Verse 2
 
