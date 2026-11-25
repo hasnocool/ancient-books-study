@@ -273,3 +273,15 @@ The text layer and critical apparatus were checked for the Noachic sequence and 
 - Charles notes that Chapter 71:14 applies “son of man” language to Enoch himself. A separate later 1912 missing-passage note between 71:13–14 remains unreconstructed.
 
 This batch is text-layer and critical-apparatus review, not visual collation of pp. 170–185 or independent human approval.
+
+
+## Authentic 1893 collation progress: Chapters 72–82 — 25 November 2026
+
+The 1893 Section III introduction and text/apparatus were checked for the celestial-physics sequence, Chapters 72–82. Two important corrections were committed:
+
+- **Chapter 81:** Charles regards it as an interpolation / outside the Book of Celestial Physics, but the verse text is not square-bracketed in the 1893 printed translation. The modernization has been corrected to remove false source brackets and record the critical classification separately.
+- **Chapter 82:** Charles says both 82:1–8 and 82:9–20 belong to the original Celestial Physics treatise. The repository had a duplicate verse 14 label: the 1893 print has verse 13 for the four leaders and verse 14 for their subordinates. The modernization's numbering is corrected.
+- **Chapter 80:** the full chapter is square-bracketed in the 1893 print and is identified by Charles as an addition; existing brackets remain.
+- **Chapters 72–79 and 82:** retained as the main celestial treatise; the 364-day calendar and lunar calculations are preserved as historical text, not normalized to current astronomy.
+
+This is a section-boundary and apparatus-level pass. A complete line-by-line lexical comparison and printed page-image review of Section III remain outstanding; no independent human approval is implied.
