@@ -510,3 +510,20 @@ Charles's note on 69:1 is important: a critical apparatus correction must not be
 | 82:13–14 | The 1893 printing numbers the four names of year-division leaders as 13, then the subordinate leaders as 14. | Corrected an accidental duplicate “14” in the modernization to match the printed 13,14 sequence. |
 
 **Batch boundary:** Chapters 72–82 have been checked for major section boundaries, interpolation status, apparatus positions, and the chapter 82 numbering error. This is not a full lexical collation of every verse and not visual page-image verification; the 1893 pages in this section still need a line-by-line visual comparison.
+
+
+## Authentic 1893 text-layer collation: Chapters 83–90 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Section IV, printed pp. 222–255. Cornell/Internet Archive OCR and the critical introduction/notes were checked. This is not page-image proofing.
+
+| Chapter / passage | 1893 evidence | Repository treatment / decision |
+|---|---|---|
+| 83–84 | These chapters begin the first dream-vision. Charles's notes distinguish the “great judgment” of 84:4 as the Deluge, not the final judgment. | Chapter order and verse sequence retained. A clarification was added to Chapter 84 so the same phrase is not read as a universal eschatological term. |
+| 85–88 | These chapters continue the second dream-vision from the primordial animals and fallen stars through the flood narrative. | The sequence and numbering in the modernization match the reviewed 1893 text passages. No textual alteration was warranted in this pass. |
+| 89:48b | Charles's introduction recommends that the latter part of 89:48 (the second ram's falling asleep and the small sheep taking his place as prince and leader) be read after 89:49. The 1893 printed verse itself includes this clause within 89:48; Charles explains the Greek fragment ends at 89:49, so the clause's original placement may have been at the close of 49. | The modernization preserves the printed arrangement and records the alternative reading order in Chapter 89. No clause is omitted or duplicated. |
+| 90:1 | The 1893 printed translation reads “thirty-six shepherds”; Charles's note says this is probably a manuscript error for thirty-five, which better sums the first two periods (12+23). | Printed “thirty-six” retained, with the likely emendation documented in Chapter 90. |
+| 90:15 | Charles identifies this as the single interpolation in Section IV; the verse is bracketed in the printed translation. | Modernization correctly labels and brackets verse 15 only. |
+| 90:19 | Charles's Section IV introduction recommends that 90:19 be read before 90:16. The printed order places 19 after 18. | Modernization keeps the printed order and records the critical transposition in Chapter 90 rather than silently altering the base sequence. |
+| Section IV overall | Charles describes 83–90 as the most complete and self-consistent section, with one interpolation (90:15) and two dislocations (89:48b after 89:49; 90:19 before 90:16). | These findings are recorded without conflating print order, recommended reconstruction, or interpolated material. |
+
+**Batch boundary:** Chapters 83–90 have been checked against the searchable text and Charles's critical introduction for section order, the single interpolation, and two dislocations. This is not a full word-by-word collation of every verse or page-image proofing.
