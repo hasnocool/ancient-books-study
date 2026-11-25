@@ -382,3 +382,14 @@ The outcome is a confirmed access limitation, not a completed visual review. The
 ## Chapter 71 interpolation and dialogue markup correction — 25 November 2026
 
 The Chapter 71 modernization was corrected so the 1893 interpolation marking is represented at each verse boundary rather than as a single bracket opened in verse 1 and closed in verse 17. All 17 verse bodies are now individually enclosed in square brackets. The speech in 71:14–17 also has balanced quotation marks at the verse level; no verse text was added, removed, or reconstructed. This is a presentation/markup correction, not a new textual collation. The lost passage reported by the later 1912 witness between 71:13–14 remains unreconstructed.
+
+
+## Chapters 91–93 dialogue and repetition consistency pass — 25 November 2026
+
+A focused editorial pass corrected presentation issues in the modern-language renderings while preserving the selected repository's chapter and verse order:
+
+- **Chapter 91:** Balanced the quotation opened in 91:3 and carried through Enoch's closing admonition in 91:19. The interpolation marker at 91:11 and the separate 1893/1917 arrangement notes remain intact.
+- **Chapter 92:** Restored the repeated rising verb in 92:3 (“rise from sleep, rise again”), reflecting the repetition in the formatted repository source rather than smoothing it away.
+- **Chapter 93:** Balanced the quoted speech independently in verses 2–10. Verses 11–14 remain separately marked as interpolations; source transcription debris remains excluded from the readable rendering and is disclosed in the chapter note.
+
+These are editorial consistency changes, not a fresh Ethiopic translation or a new visual facsimile collation. The reconstructed order discussed by Charles and the separate 1917 witness arrangement remain disclosed rather than silently substituted.
