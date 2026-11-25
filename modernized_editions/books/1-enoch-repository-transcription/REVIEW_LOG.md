@@ -54,14 +54,22 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 
 Reviewers should continue checking names, numbers, measures, directions, sequence, agency, and interpretive additions—not only whether each numbered unit exists.
 
-## Chapter 92 — cross-witness interpolation finding
+## 1917 witness review: Chapters 91–94
 
-A targeted comparison of the repository's Chapter 92 with Charles's 1917 Charles/Oesterley text layer identified two explicit markup differences:
+The 1917 Charles/Oesterley edition was checked as a **separate witness** for the arrangement and interpolation markings in Chapters 91–94. Its notation guide defines square brackets as interpolations and daggers as corruption. Findings below are not evidence of the exact 1893 reading.
 
-- **92:1:** The 1917 witness prints “The book written by Enoch” as the opening and brackets the extended clause corresponding to the repository's “complete doctrine of wisdom ... praised of all men and a judge of the whole earth” as an interpolation.
-- **92:3:** The 1917 witness brackets the repeated phrase “Shall arise”; the repository transcription does not mark that repetition as an interpolation.
+| Passage | 1917 witness finding | Treatment in the repository modernization |
+|---|---|---|
+| 91:1–11, 18–19 | The 1917 edition's concluding section places these as the admonition sequence. | Retain the selected repository's Chapter 91 numbering. |
+| 91:11 | The 1917 witness brackets this passage. | The repository already marks it as an interpolation; keep that marker. |
+| 91:12–17 | The 1917 printing separates this block from 91:1–11 and places it after the whole 93:1–14 block under “XCI. 12–17. The Last Three Weeks.” | Retain it in Chapter 91, where the repository source places it. The divergence is a chapter-sequence/witness-layout variant, not a reason to silently move text. |
+| 92:1 | The 1917 witness begins “The book written by Enoch—” and brackets the longer “Enoch indeed wrote this complete doctrine of wisdom…” clause. | Retain the repository's full wording, with the bracket difference disclosed in Chapter 92. |
+| 92:3 | The 1917 witness brackets a repeated “Shall arise”. | Retain the repository text without importing a bracket absent from its selected source. |
+| 93:1 | The 1917 text prints a daggered word in “both †gave† and began to recount”; the notation guide defines daggers as corruption. | The repository's stray trailing “l” is treated as transcription debris; no replacement word is invented. |
+| 93:11–14 | The 1917 witness encloses the four questions in square brackets. | The modernization already preserves these four units as interpolations. |
+| 94:7 | The 1917 witness brackets the final sentence concerning those who acquire gold and silver perishing in judgment. | Keep the clause in the verse as found in the repository source and disclose the 1917 interpolation marker. |
 
-The modernized Chapter 92 continues to follow the selected repository transcription and now records these 1917 differences in its editorial notes. No 1917 brackets were silently inserted into the repository-based rendering. This is a **witness-variant observation**, not a determination of the earliest reading. It remains in the independent-review queue for Chapters 91–93. The 1917 comparison is not evidence for the wording or bracket decisions of the 1893 printing.
+Chapter-level files 91–94 now carry corresponding editorial notes. These observations document differences; they do not settle the earliest text or constitute independent human approval. The complete 1893 collation for 91–104 remains open.
 
 ## What has been checked
 
