@@ -22,6 +22,8 @@
 
 All six formatted 1 Enoch source files were compared with the 108 modernized chapter files by chapter and numbered-unit label. **108 of 108 chapter label sequences matched.**
 
+The original combined Enoch archive file was also compared against the six formatted chapter files by normalized body text. **108 of 108 chapter bodies now match.** Seven sequential embedded page-number artifacts (53–59) were found in Chapters 91, 93, 96, 98, 100, 102, and 104; they were removed from the formatted derivative. The archival source file was not changed.
+
 The comparison preserved source irregularities rather than repairing them, including unnumbered chapters, numbering gaps, repeated verse numbers, and interpolation labels. This is a structural result only; it does not prove that the modernized wording preserves every nuance of the source.
 
 ### Historical source findings
@@ -43,7 +45,8 @@ The toolkit is dependency-free and targets Python 3.12 or later. It contains a r
 - relative Markdown links and heading anchors;
 - edition provenance metadata screening;
 - 1 Enoch expected-file and verse-label sequence checks;
-- extreme source/adaptation word-count ratios for human review;
+- normalized archive-to-formatted text transfer comparisons;
+- formatted-to-modernized verse-label and unit-length comparisons for human review;
 - a generated formatted-edition catalog preview.
 
 Unit tests cover normalization, verse-label variants, duplicate/missing numbering, chapter extraction, and read-only behavior.
