@@ -92,6 +92,8 @@ def fetch_jpeg_sync(url: str, timeout: float) -> dict[str, Any]:
         )
     if len(body) < 1024:
         raise ValueError(f"JPEG response is suspiciously small ({len(body)} bytes)")
+    if not body.endswith(b"\\xff\\xd9"):
+        raise ValueError("JPEG response is missing the end-of-image marker")
 
     dimensions = jpeg_dimensions(body)
     if dimensions is None:
@@ -140,14 +142,13 @@ def atomic_write_sync(path: Path, body: bytes) -> None:
             pass
 
 
-def candidate_urls(identifier: str, leaf: int) -> list[str]:
+def candidate_urls(identifier: str, leaf: int, prefer_large: bool = False) -> list[str]:
+    """Build BookReader size fallbacks, optionally prioritizing proofing resolution."""
     base = f"https://archive.org/download/{identifier}/page/n{leaf}"
-    return [
-        f"{base}_medium.jpg",
-        f"{base}_large.jpg",
-        f"{base}.jpg",
-        f"{base}_small.jpg",
-    ]
+    sizes = ("large", "medium", "original", "small") if prefer_large else (
+        "medium", "large", "original", "small"
+    )
+    return [f"{base}_{size}.jpg" if size != "original" else f"{base}.jpg" for size in sizes]
 
 
 async def download_one(
@@ -160,6 +161,7 @@ async def download_one(
     timeout: float,
     retries: int,
     force: bool,
+    prefer_large: bool,
 ) -> dict[str, Any]:
     filename = f"p{printed_page:03d}_n{leaf:03d}.jpg"
     destination = output_dir / filename
@@ -176,7 +178,7 @@ async def download_one(
             }
 
     attempts: list[dict[str, Any]] = []
-    for url in candidate_urls(identifier, leaf):
+    for url in candidate_urls(identifier, leaf, prefer_large=prefer_large):
         for attempt_number in range(1, retries + 2):
             started = time.monotonic()
             try:
@@ -265,6 +267,7 @@ async def run(args: argparse.Namespace) -> int:
             timeout=args.timeout,
             retries=args.retries,
             force=args.force,
+            prefer_large=args.prefer_large,
         )
         for page in range(args.start_page, args.end_page + 1)
     ]
@@ -310,6 +313,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--concurrency", type=int, default=4)
     parser.add_argument("--retries", type=int, default=2)
     parser.add_argument("--timeout", type=float, default=45.0)
+    parser.add_argument(
+        "--prefer-large",
+        action="store_true",
+        help="Try the large BookReader JPEG before medium (recommended for textual proofing).",
+    )
     parser.add_argument("--force", action="store_true")
     return parser.parse_args()
 
