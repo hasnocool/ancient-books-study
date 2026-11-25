@@ -1,6 +1,6 @@
 # 1 Enoch — Historical Source Collation Log
 
-**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Systematic page-image proofing of the 1893 scan remains open; a Cornell/Internet Archive facsimile has now been added inside `enoch-editions/`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
+**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Systematic page-image proofing of the 1893 scan remains open; a Cornell/Internet Archive facsimile has now been added inside `pdfs/`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
 **Primary reference:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
 ## Primary facsimile and catalog records
@@ -272,11 +272,11 @@ The 1917 searchable text layer was compared verse-by-verse for Chapters 105–10
 
 ## Initial project-PDF acquisition — 25 November 2026
 
-The two smaller files were the first PDFs in `enoch-editions/`: the 66-page modern 1893-labelled composite and the 101-page 2005 Word/PDFMaker 1917 transcription. They remain preserved as project artifacts and are not historical page-image witnesses.
+The two smaller files were the first PDFs in `pdfs/`: the 66-page modern 1893-labelled composite and the 101-page 2005 Word/PDFMaker 1917 transcription. They remain preserved as project artifacts and are not historical page-image witnesses.
 
 ## Historical scan addition — 25 November 2026
 
-A later repository commit added the large historical scans: `enoch-1893-clarendon-original.pdf` (described in the commit as the Cornell 428-page 1893 scan) and `enoch-1917-spck-original.pdf` (described as the Claremont 160-page SPCK scan). The latter is a 1962 tenth impression of the edition first published in 1917. The four-file inventory, sizes, blob identifiers, and provenance distinctions are documented in [`enoch-editions/README.md`](../../../enoch-editions/README.md).
+A later repository commit added the large historical scans: `enoch-1893-clarendon-original.pdf` (described in the commit as the Cornell 428-page 1893 scan) and `enoch-1917-spck-original.pdf` (described as the Claremont 160-page SPCK scan). The latter is a 1962 tenth impression of the edition first published in 1917. The four-file inventory, sizes, blob identifiers, and provenance distinctions are documented in [`pdfs/README.md`](../../../pdfs/README.md).
 
 The historical scan files are now versioned with the project. The available GitHub connector does not expose their binary PDF bytes for local rasterization in this review session; page images were therefore checked through the public full-scan witness. This pass verified 1917 printed pp. 150–151 and 153–154, but not p. 152. No systematic 1893 page-image proofing was completed. Do not equate source acquisition with completion of visual collation.
 
@@ -534,7 +534,7 @@ The principal critical boundaries are:
 
 ## Repository PDF provenance audit — 25 November 2026
 
-The directory `enoch-editions/` now contains four PDFs, and they must not be treated as interchangeable:
+The directory `pdfs/` now contains four PDFs, and they must not be treated as interchangeable:
 
 | Repository file | Repository size / Git blob | Classification |
 |---|---:|---|
@@ -611,12 +611,12 @@ The 1917 printed p.152 image was re-requested through the Commons-hosted 6.73 MB
 
 ## Newly added edition PDFs inspected and classified — 25 November 2026
 
-The \`enoch-editions/\` directory now contains seven PDFs. The newly added full scans are not merely extra copies of one source; they represent the following witness roles:
+The \`pdfs/\` directory now contains seven PDFs. The newly added full scans are not merely extra copies of one source; they represent the following witness roles:
 
 - **\`enoch-1893-opusmagnum.pdf\`** — 420-page, 11.6 MB OpusMagnum-hosted scan, per the addition commit. The hosted PDF text layer was opened and checked: its title page identifies R. H. Charles, Clarendon Press, 1893, and its contents identify the translated 1 Enoch range as printed pp. 55–308. Searchable text around printed p.57 includes Chapter I and its verse sequence. The new PDF is a better-sized first candidate for page imaging than the 34.95 MB Toronto file. However, page-image screenshot requests for the opened PDF returned cache misses (including the title/front pages and internal pages); **no translated page has been counted as visually inspected from this file**. The exact image lineage compared with the other scans is not yet established.
 - **\`enoch-1893-utoronto.pdf\`** — 424-page, approximately 35 MB University of Toronto / Knox College digitization, per the addition commit. The Open Library record for the Toronto-held 1893 edition identifies the Clarendon Press 1893 title and Internet Archive identifier \`thebookofenoch00unknuoft\`. This establishes provenance but does not amount to visual inspection of its PDF pages in this environment.
 - **\`enoch-1912-clarendon-2nd-edition.pdf\`** — 454-page University of Toronto / Robarts scan of Charles's revised second edition. The scanned title leaf records Oxford: Clarendon Press, 1912; the Source Library catalogue identifies the Robarts-held Internet Archive scan and its 454 page images. The contents place Chapters 91–104 in Section V, the separate Book of Noah fragment (106–107) at printed p.381, and Chapter 108 at p.385. This edition is a useful additional textual witness for portions of 106–108, but it is not the 1893 edition and cannot replace missing 1917 page images. Chapter 105 is not listed in its contents as a separate text section.
 
-The updated [\`enoch-editions/README.md\`](../../../enoch-editions/README.md) now inventories all seven PDFs and distinguishes their evidentiary uses. The addition commits describe the OpusMagnum scan as “page-renderable”; I attempted to render its PDF pages directly, but the available screenshot service returned cache misses. The claim is therefore recorded as repository-provided acquisition metadata, not as an image inspection result from this audit.
+The updated [\`pdfs/README.md\`](../../../pdfs/README.md) now inventories all seven PDFs and distinguishes their evidentiary uses. The addition commits describe the OpusMagnum scan as “page-renderable”; I attempted to render its PDF pages directly, but the available screenshot service returned cache misses. The claim is therefore recorded as repository-provided acquisition metadata, not as an image inspection result from this audit.
 
 **Visual status is unchanged:** the 1893 printed translation pages 55–308 still require actual page-image review. The 1917 scan's printed p.152 is still missing from the inspected image set (zero-based PDF page index 153). The new 1912 edition is a supplemental source only. Do not promote OCR or catalogue identification to visual verification.

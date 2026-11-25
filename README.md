@@ -14,6 +14,7 @@ The repository is primarily a **document collection**, not an application. Most 
 | [`books_04/`](./books_04/) | Enochic and Hermetic literature, ancient science and medicine, papyri, Kabbalah, archaeology, and astronautic or alternative-history works. |
 | [`books_05/`](./books_05/) | A broader combined collection covering architecture, archaeology, ancient engineering, translations, religious texts, and esoteric studies. |
 | [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading editions, editorial standards, templates, and progress catalog. |
+| [`pdfs/`](./pdfs/) | Source PDFs and digitized 1 Enoch editions, with provenance notes and scan-verification status. |
 | [`modernized_editions/`](./modernized_editions/) | Clearly labelled modern-language adaptations kept separate from archival and faithful formatted source texts. |
 | [`docs/`](./docs/) | Usage guidance, audit standards, and repository maintenance documentation. |
 
@@ -68,6 +69,8 @@ For substantial research, copy only the desired texts into a dedicated corpus di
 ## Reading and research guidance
 
 See [`docs/USAGE.md`](./docs/USAGE.md) for practical search, citation, verification, and extraction guidance.
+
+The 1 Enoch PDF scans and project reference PDFs are collected in [`pdfs/`](./pdfs/), with a file-by-file provenance and verification guide in [`pdfs/README.md`](./pdfs/README.md).
 
 See [`docs/AUDIT_STANDARDS.md`](./docs/AUDIT_STANDARDS.md) for the repository's repeatable quality-control standards. The latest [repository remediation report](./docs/REPOSITORY_AUDIT_REPORT.md) and [five-folder corpus inventory / rights-risk report](./docs/CORPUS_INVENTORY_AUDIT.md) summarize known issues and verification status. Run the local, read-only audit toolkit with `python3 tools/audit_corpus.py --help`; no GitHub Actions workflow or paid CI service is required.
 

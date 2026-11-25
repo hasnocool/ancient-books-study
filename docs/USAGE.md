@@ -18,7 +18,13 @@ rg -n -i "phrase" books_01 books_02 books_03 books_04 books_05
 
 `grep` can be used instead on systems without `ripgrep`.
 
-## 2. Check file quality
+## 2. Find and cite PDF editions
+
+The repository's Enoch scans and related PDF source artifacts are stored in [`pdfs/`](../pdfs/). Start with [`pdfs/README.md`](../pdfs/README.md) before citing a file: it distinguishes historical facsimiles from later impressions and modern re-typeset project transcriptions, records bibliographic provenance, and states which page images have or have not been visually checked. Do not infer that a PDF is a historical facsimile from its filename alone.
+
+For reproducible citations, record the textual edition date separately from the physical scan/impression date, and distinguish printed page numbers from PDF page indices.
+
+## 3. Check file quality
 
 Before relying on a text, check its size and encoding:
 
@@ -37,7 +43,7 @@ When possible, confirm the text against:
 - a reputable scholarly archive;
 - the original language source.
 
-## 3. Create study notes
+## 4. Create study notes
 
 Keep research notes separate from source texts:
 
@@ -66,7 +72,7 @@ A source note should capture:
 - Verification status:
 ```
 
-## 4. Cite carefully
+## 5. Cite carefully
 
 Do not cite the repository by itself when the underlying edition can be identified. Record the author or editor, title, edition, publisher or archive, publication year, and the exact repository file used.
 
@@ -79,7 +85,7 @@ Repository transcription: books_01/example.txt.
 
 For web publications, also record the archive URL and access date.
 
-## 5. Compare editions
+## 6. Compare editions
 
 When comparing translations or OCR copies:
 
@@ -90,7 +96,7 @@ When comparing translations or OCR copies:
 - test claims against more than one edition;
 - note differences between textual criticism and modern commentary.
 
-## 6. Work with disputed material
+## 7. Work with disputed material
 
 The collection includes religious, pseudepigraphic, archaeological, and alternative-history material. A useful study workflow is to label claims without conflating categories:
 
@@ -104,7 +110,7 @@ The collection includes religious, pseudepigraphic, archaeological, and alternat
 
 Presence in this repository does not establish historical, scientific, theological, or archaeological accuracy.
 
-## 7. Export or process data
+## 8. Export or process data
 
 Keep original files unchanged. Create derived files in a separate directory or branch. Prefer lossless UTF-8 text, and record the command or script used to produce it.
 
@@ -120,7 +126,7 @@ derived/
 
 Avoid committing generated indexes or caches unless they are intentionally maintained and documented.
 
-## 8. Rights and redistribution
+## 9. Rights and redistribution
 
 Check rights before publishing, translating, repackaging, or commercially redistributing a document. A repository-wide license has not been declared; the status of individual texts may differ.
 
