@@ -1,10 +1,10 @@
 # Copyrighted Works — Restricted Redistribution
 
-This directory contains works that are **not in the public domain** and carry active copyright restrictions. They are preserved here for **archival and research purposes only** within this repository.
+This directory contains **rights and provenance records** for selected works in the repository. It contains metadata files, not copies of the underlying books. The archival source files remain in their original collection directories, at the paths listed in the inventory.
 
-## ⚠️ Redistribution Warning
+## Rights-review caution
 
-**Do not redistribute, publish, create derivatives, or use commercially without explicit permission from the rights holders.** Presence in this repository does not grant any license.
+The entries below are preliminary provenance and rights-risk records, not legal opinions or a jurisdiction-specific determination. A copyright notice, publisher attribution, or provider term should be recorded as evidence, but final status must be checked for the exact edition, underlying contribution, source file, and intended jurisdiction/use. Do not assume repository inclusion grants a license. Obtain permission where required before redistribution, publication, derivative use, or commercial exploitation.
 
 ## Inventory
 
@@ -21,7 +21,7 @@ This directory contains works that are **not in the public domain** and carry ac
 ## Policy
 
 - **Archival copies** in `books_01`–`books_05` remain in place (collection integrity)
-- **Canonical restricted copies** live here with metadata
+- **Rights/provenance records** live here; source files remain in their original collection locations
 - **Formatted/modernized editions** of these works are **blocked** — do not create derivatives
 - **Public-domain alternatives** should be sourced for any formatted edition pipeline (e.g., public-domain Bhagavad Gita translations, public-domain Upanishads)
 
