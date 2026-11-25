@@ -11,7 +11,7 @@
 
 ### Verse 1 — interpolation
 
-[After this judgment, they will inspire fear and anger because they revealed these things to the people who live on the earth.]
+[After this judgment, they will inspire fear and trembling because they revealed these things to the people who live on the earth.]
 
 ### Verse 2 — interpolation
 
@@ -127,7 +127,7 @@ From then on, nothing corruptible will remain. The Son of Man has appeared and s
 
 **This is the third parable of Enoch.**
 
-**Editorial note:** Verses 1–25 are part of the Noachic interpolation identified by the source. Verses 26–29 conclude the third parable and are not bracketed in the source edition.
+**Editorial note:** Verses 1–25 are part of the Noachic interpolation identified by the source. Verses 26–29 conclude the third parable and are not bracketed in the source edition. Charles's 1893 printed translation at 69:1 reads “fear and anger,” but his critical note says the Greek translator's “anger” is unsuitable to the context and recommends “fear and trembling”; this modernization follows the apparatus-supported correction. At 69:2 the 1893 printed list reads “Ansinel” for the repository's “Ananel”; the transliteration variant is retained here rather than silently normalizing the name.
 
 ---
 
