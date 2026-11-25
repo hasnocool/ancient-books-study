@@ -224,3 +224,10 @@ The authentic 1893 text layer and adjacent apparatus were checked for Chapters 1
 - **20:** the seven-angel list begins outside the interpolated block and matches the repository base in sequence and basic sense.
 
 This is text-layer and apparatus review only. Printed pp. 85–91 still require visual inspection. Independent human approval remains outstanding.
+
+
+## Authentic 1893 collation progress: Chapters 21–36 — 25 November 2026
+
+The authentic 1893 Charles text layer and adjacent notes were checked against the formatted repository base and modernized chapters for 21–36. The principal correction was **31:3**: the 1893 translation says the *taste* of the fruit was better than all fragrant odours; the previous modernization described its *fragrance* as superior. This meaning shift has been corrected.
+
+The pass also confirmed that Chapter 35 is an unnumbered passage in the 1893 text and remains unnumbered in the repository modernization. Chapters 21–30 and 32–34, 36 aligned in sequence and broad sense in the passages checked; no additional consequential correction was indicated. This is text-layer review, not page-image verification. Printed pp. 91–106 still require visual inspection, and no independent human approval is implied.
