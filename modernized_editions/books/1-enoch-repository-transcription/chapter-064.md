@@ -11,7 +11,7 @@
 
 ### Verse 1
 
-I saw other beings in that place, in a hidden region.
+I saw other forms in that place, hidden from view.
 
 ### Verse 2
 
