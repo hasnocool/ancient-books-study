@@ -1,0 +1,182 @@
+{
+  "pages_processed": [
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94
+  ],
+  "repo_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "total_ocr_segments": 78,
+  "total_matches": 14,
+  "matches": [
+    {
+      "page": 85,
+      "ocr_excerpt": "12. And these\nspirits will rise up against the\nchildren of men and against\nthe women, because they have\nproceeded from them.",
+      "repo_chapter": 15,
+      "repo_verse": 12,
+      "repo_excerpt": "These spirits will rise up against the children of men, and against the women, because they have proceeded from them. ---",
+      "similarity": 0.939,
+      "status": "matched"
+    },
+    {
+      "page": 87,
+      "ocr_excerpt": "[XVIL 1. And they took me away to a place where there\nwere forms like flaming fire, and when they wished they\n2. And they conducted me to the place\nof the whirlwind and to a mountain, the point of who",
+      "repo_chapter": 17,
+      "repo_verse": 1,
+      "repo_excerpt": "They took me away to a place where there were forms like flaming fire, and when they wished they appeared as men.",
+      "similarity": 0.658,
+      "status": "partial"
+    },
+    {
+      "page": 88,
+      "ocr_excerpt": "which receives every setting of the sun. 5. And I came to\na river of fire, the fire of which flows like water and discharges\nitself into the great sea towards the west. 6. And I saw\nall the great rive",
+      "repo_chapter": 17,
+      "repo_verse": 5,
+      "repo_excerpt": "I came to a river of fire, the fire of which flows like water, and discharges itself into the great sea towards the west.",
+      "similarity": 0.748,
+      "status": "partial"
+    },
+    {
+      "page": 89,
+      "ocr_excerpt": "4. And I saw the winds which turn the heaven, which bring\nthe circumference of the sun and all the stars to their setting.\n5- And I saw the winds on the earth, which carry the clouds;\nand I saw the pa",
+      "repo_chapter": 18,
+      "repo_verse": 4,
+      "repo_excerpt": "I saw the winds which turn the heaven, which bring the circumference of the sun, and all the stars to their setting.",
+      "similarity": 0.728,
+      "status": "partial"
+    },
+    {
+      "page": 90,
+      "ocr_excerpt": "that abyss I saw a place which had no firmament of the\nheaven above and no foundation of earth beneath it : there\nwas no water upon it and no birds, but it was a waste place.\n13. And what I saw there ",
+      "repo_chapter": 18,
+      "repo_verse": 12,
+      "repo_excerpt": "Over that abyss, I saw a place which had no firmament of the heaven above, and no foundation of earth beneath it: there was no water upon it, and no birds, but it was a waste place.",
+      "similarity": 0.908,
+      "status": "matched"
+    },
+    {
+      "page": 91,
+      "ocr_excerpt": "which they shall be judged till they are consummated. 2.\nAnd with their women also who led astray the angels of\nheaven it will fare in like manner as with their friends.\u2019 3.\nAnd T, Enoch, alone saw th",
+      "repo_chapter": 19,
+      "repo_verse": 2,
+      "repo_excerpt": "With their women also who led astray the angels of heaven, it will fare in like manner as with their friends.",
+      "similarity": 0.693,
+      "status": "partial"
+    },
+    {
+      "page": 91,
+      "ocr_excerpt": "XX. 1. And these are the names of the holy angels who",
+      "repo_chapter": 20,
+      "repo_verse": 1,
+      "repo_excerpt": "These are the names of the holy angels who watch.",
+      "similarity": 0.804,
+      "status": "matched"
+    },
+    {
+      "page": 91,
+      "ocr_excerpt": "angels, the angel of the spirits of men.",
+      "repo_chapter": 20,
+      "repo_verse": 3,
+      "repo_excerpt": "Rufael, one of the holy angels, the angel of the spirits of men.",
+      "similarity": 0.769,
+      "status": "partial"
+    },
+    {
+      "page": 91,
+      "ocr_excerpt": "2. Uriel, one of the holy angels, the angel over",
+      "repo_chapter": 20,
+      "repo_verse": 2,
+      "repo_excerpt": "Uriel, one of the holy angels, the angel over the world and over Tartarus.",
+      "similarity": 0.738,
+      "status": "partial"
+    },
+    {
+      "page": 91,
+      "ocr_excerpt": "3. Rufael, one of the holy\n4. Raguel, one of",
+      "repo_chapter": 20,
+      "repo_verse": 3,
+      "repo_excerpt": "Rufael, one of the holy angels, the angel of the spirits of men.",
+      "similarity": 0.648,
+      "status": "partial"
+    },
+    {
+      "page": 92,
+      "ocr_excerpt": "the holy angels, who takes vengeance on the world and on the\nluminaries. 5. Michael, one of the holy angels, to wit, he\nthat is set over the best part of mankind, over the people.\n6. Saraqi\u00e9l, one of ",
+      "repo_chapter": 20,
+      "repo_verse": 5,
+      "repo_excerpt": "Michael, one of the holy angels, to wit, he that is set over the best part of mankind, over the people.",
+      "similarity": 0.68,
+      "status": "partial"
+    },
+    {
+      "page": 92,
+      "ocr_excerpt": "XXTI. 1. And I went round to the place of chaos (lit. \u00a2 where\nnothing was made\u201d\u2019). 2. And I saw there something\nhorrible, I saw neither a heaven above nor a firmly founded\nearth, but a place chaotic a",
+      "repo_chapter": 21,
+      "repo_verse": 2,
+      "repo_excerpt": "I saw there something horrible. I saw neither a heaven above nor a firmly founded earth, but a place chaotic and horrible.",
+      "similarity": 0.677,
+      "status": "partial"
+    },
+    {
+      "page": 93,
+      "ocr_excerpt": "said : * Wherefore dost thou ask, and why dost thou enquire\nand art curious ? 6. These are the stars which have trans-\ngressed the commandment of God, and are bound here till ten\nthousand ages, the nu",
+      "repo_chapter": 21,
+      "repo_verse": 6,
+      "repo_excerpt": "These are the stars which have transgressed the commandment of God, and are bound here until ten thousand ages, the number of the days of their guilt, are consummated.",
+      "similarity": 0.632,
+      "status": "partial"
+    },
+    {
+      "page": 94,
+      "ocr_excerpt": "me in the west a great high mountain and hard rocks and\nfour beautiful places. 2. And there were there deep\nand wide (places) perfectly smooth, as smooth as something\nwhich rolls, and deep and black t",
+      "repo_chapter": 22,
+      "repo_verse": 2,
+      "repo_excerpt": "There were there deep and wide places perfectly smooth, as smooth as something which rolls, and deep, and black to look at.",
+      "similarity": 0.687,
+      "status": "partial"
+    }
+  ]
+}
