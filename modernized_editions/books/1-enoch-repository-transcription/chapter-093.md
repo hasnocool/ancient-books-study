@@ -71,6 +71,8 @@ After this, Enoch began reading from the books. He said:
 
 - All **fourteen numbered units** in the repository's Chapter 93 have been rendered, including the four units marked as interpolations.
 - Verses 1–10 retain the sequence of Enoch's account of the successive weeks: his own birth in the first week; wickedness and a survivor in the second; the chosen figure and enduring shoot of righteousness in the third; visions, law, and protection in the fourth; the glorious house in the fifth; blindness, destruction, and dispersion in the sixth; and an apostate generation followed by the selection and instruction of the righteous in the seventh.
-- Verses 11–14 remain visibly identified as interpolated material. They have not been blended into the preceding account or presented as unquestionably part of its earliest form.
+- Verses 11–14 remain visibly identified as interpolated material. Charles's 1917 printing also encloses this four-verse block in square brackets; its stated convention defines square brackets as interpolations.
+- **1917 witness arrangement:** The 1917 printing places 91:12–17 after 93:1–14, whereas the selected repository source keeps those six units in Chapter 91. This chapter retains the repository sequence; see Chapter 91 and the historical collation log for the recorded arrangement difference.
+- **Damaged wording:** The 1917 text prints a daggered/corrupt token in 93:1 (“both †gave† and began…”). The repository transcription has a trailing stray “l” after the verse's opening clause. This modernization removes that stray transcription character and does not invent a replacement word for the corrupt token.
 - The source's damaged punctuation and stray scanning/transcription marks have not been reproduced as meaningful text.
 - This rendering follows the repository's chapter and verse divisions. It does not silently substitute another translation's wording or arrangement.
