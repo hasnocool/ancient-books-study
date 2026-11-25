@@ -225,7 +225,7 @@ The 1917 PDF is the Wikimedia Commons scan titled *The book of Enoch. Robert Cha
 
 ## 1917 text-layer and visual review expansion: Chapters 105–108
 
-**Separate witness:** R. H. Charles, *The Book of Enoch*, reprinted by S.P.C.K. in 1917 from the 1912 second edition, with W. O. E. Oesterley's introduction. This is not the 1893 Clarendon Press text.
+**Separate witness:** R. H. Charles, *The Book of Enoch*, S.P.C.K. textual edition first published in 1917, with W. O. E. Oesterley's introduction, reprinting the 1912 second edition. The repository's full scan is a Claremont copy of the tenth impression (1962), not a 1917 first impression. This is not the 1893 Clarendon Press text.
 
 **Searchable scan:** https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf  
 **Text-layer reference:** https://archive.org/stream/bookofenoch0000unse/bookofenoch0000unse_djvu.txt
@@ -245,31 +245,30 @@ The 1917 PDF is the Wikimedia Commons scan titled *The book of Enoch. Robert Cha
 
 ### Actual visual page checks
 
-The 1917 PDF page-image service successfully returned two scanned pages in this pass:
+The full SPCK scan's page images visibly returned for printed pp. 150–151 and 153–154. Printed p. 152 remains the one unresolved image retrieval.
 
-- **Printed p. 153:** Chapter 107's closing verses, followed by Chapter 108:1–7 and the start of 108:4. The scan visibly confirms 107:3's “comfort the earth after all the destruction” and the daggered 108:4 reading.
-- **Printed p. 154:** The continuation of 108:7 and 108:8–15 through “Amen.” This confirms the closing portion and final verse sequence.
+- **Printed p. 150:** Chapter 105:1–2 appears in full, followed by the heading for the Fragment of the Book of Noah and the opening of Chapter 106:1. The image confirms 105:1's “The Lord bade (them) to summon and testify...” and “ye are their guides.”
+- **Printed p. 151:** Continues 106:1 and the birth narrative through the beginning of 106:12 (“And his father Lamech…”). This is not the whole of 106:1–14.
+- **Printed p. 152:** The image could not be retrieved. The searchable text layer shows that this page continues 106:12, contains 106:13–19 including the relocated 106:17a clause after 106:14, and begins Chapter 107:1. It remains text-layer checked but not visually checked.
+- **Printed p. 153:** Completes Chapter 107:1–3 and begins the Chapter 108 appendix (108:1–7, including the daggered/corrupt expression in 108:4). The image confirms 107:3's “he will comfort the earth after all the destruction” and the 108:4 mark “†look overt†.”
+- **Printed p. 154:** Continues the latter part of Chapter 108 and contains its closing verses through “Amen.”
 
-The scanned page images for **printed pp. 150–152** could not be retrieved through the available page-image service (cache-miss errors). These pages contain Chapter 105 and the main body of Chapter 106. The 1917 text layer was available for reading, but it is not a visual substitute.
-
-Therefore **visual collation of Chapters 105–108 is not complete**. Specifically:
-- Chapter 105 (printed p. 150) remains uninspected as an image.
-- Chapter 106 (printed pp. 151–152) remains uninspected as images.
-- Chapter 107 (printed p. 153) has its visible closing verses checked.
-- Chapter 108 (printed pp. 153–154) has its visible beginning and ending portions checked.
+Therefore the 1917 witness is **partially visually collated**, not completely page-image collated. Chapter 105 is visible on p. 150; Chapter 106 is only partially visible across pp. 150–151 and remains incomplete at p. 152; Chapter 107 is completed on p. 153 but begins on the missing p. 152; Chapter 108 is visible across pp. 153–154.
 
 ### 1893 witness scope correction
 
 The 1893 Clarendon Press volume's main translation sections are Chapters 1–104. The volume also contains Appendix E, a separately identified New Latin fragment of 106:1–18; that fragment is not a complete 1893 main-text edition of Chapter 106, and it must not be conflated with the 1917 Ethiopic-based translation. Chapters 105–108 must therefore be collated against their separately named witness, not represented as 1893 main-text chapters.
 
-The complete searchable 1893 text-layer rendition is available at:
-https://archive.org/stream/thebookofenoch00unknuoft/thebookofenoch00unknuoft_djvu.txt
+The Cornell/Internet Archive searchable 1893 text-layer rendition is available at:
+https://archive.org/stream/cu31924014590545/cu31924014590545_djvu.txt
 
-Its accessibility makes a chapter-by-chapter comparison possible, but does not mean that the 104-chapter collation has been completed. Each chapter still needs line-by-line comparison against the printed 1893 pages and relevant critical apparatus, with all differences recorded.
+A sequential assistant-led text-layer and critical-apparatus pass for Chapters 1–104 is now documented in the later dated entries in this log. That pass records the principal structural, interpolation, and consequential wording findings. It is not a complete word-by-word audit of every manuscript variant, a fresh diplomatic re-transcription, or visual proofing of the printed pages. Those more exhaustive collation tasks remain open.
 
 ## Scan inspection limitation
 
-The accessible 1893 PDF text layer could be searched and opened, but the available page-image screenshot service rejected both accessible 1893 scan PDFs because their file sizes exceeded its capture limit. The text-layer samples above are therefore not described as visually proofread. A local download or smaller page-image segments will be needed for image-level collation.
+The 1893 Cornell PDF and OCR text layer can be searched, but the PDF screenshot service rejected the full-size scan because of its file-size limit. No systematic 1893 page-image proofing has been completed. The newly vendored `enoch-1893-clarendon-original.pdf` is the intended local source for that work.
+
+For the 1917 SPCK scan, printed pp. 150–151 and 153–154 have since been visually checked. The earlier limitation below in this log is retained as history only; it has been superseded by the later visual page audit. Printed p. 152 remains uninspected, although its text layer is searchable.
 
 ## Collation procedure
 
@@ -287,30 +286,29 @@ A PDF text layer is a search aid, not a substitute for checking the scanned page
 
 ## Open work
 
-- [ ] Identify the exact source and lineage of the repository's combined transcription.
-- [ ] Collate Chapters 1–36 against 1893 pages 57–105.
-- [ ] Collate Chapters 37–71 against 1893 pages 110–186.
-- [ ] Collate Chapters 72–82 against 1893 pages 191–219.
-- [ ] Collate Chapters 83–90 against 1893 pages 223–259.
-- [ ] Collate Chapters 91–104 against 1893 pages 265–308.
-- [x] Compare Chapters 105–108 verse by verse against the explicitly identified 1917 Charles/Oesterley text layer; differences and the Chapter 106 rearrangement are recorded above.
-- [ ] Visually collate Chapters 105–108 against the 1917 scan page images; do not infer them from the 1893 appendices.
-- [ ] Record textual variants and interpolation boundaries without silently normalizing them.
-- [ ] Have a second reviewer check unresolved or consequential readings.
+- [ ] Identify the exact intermediate source and textual lineage of the selected combined repository transcription.
+- [ ] Complete page-image proofing and a full word-by-word collation of Chapters 1–36 against 1893 pages 57–105.
+- [ ] Complete page-image proofing and a full word-by-word collation of Chapters 37–71 against 1893 pages 110–186.
+- [ ] Complete page-image proofing and a full word-by-word collation of Chapters 72–82 against 1893 pages 191–219.
+- [ ] Complete page-image proofing and a full word-by-word collation of Chapters 83–90 against 1893 pages 223–259.
+- [ ] Complete page-image proofing and a full word-by-word collation of Chapters 91–104 against 1893 pages 265–308.
+- [x] Complete the sequential assistant-led searchable-text / critical-apparatus pass for the 1893 main translation, Chapters 1–104; findings are recorded above. This is not a complete manuscript-variant audit or visual proof.
+- [x] Compare Chapters 105–108 verse by verse against the 1917 Charles/Oesterley text layer; differences and the Chapter 106 rearrangement are recorded above.
+- [ ] Retrieve and inspect the missing 1917 printed p. 152 image; the checked images currently cover pp. 150–151 and 153–154.
+- [ ] Have an independent second reviewer check all 108 modernized chapters and unresolved or consequential historical readings.
 
 **Current conclusion:** The source-attributed reading edition is a complete chapter-body transfer of the selected repository transcription according to the repository's recorded checks. It is not a verbatim Charles 1893 transcription, not a facsimile-verified critical edition, and not a reproduction of the complete 1893 scholarly volume.
 
 
-## Vendored scan acquisition — 25 November 2026
+## Initial project-PDF acquisition — 25 November 2026
 
-The repository now contains both source PDFs in `enoch-editions/`, added in commit `3b40e629641377b3cb966497082171544c05fc23`:
+The two smaller files were the first PDFs in `enoch-editions/`: the 66-page modern 1893-labelled composite and the 101-page 2005 Word/PDFMaker 1917 transcription. They remain preserved as project artifacts and are not historical page-image witnesses.
 
-| Witness | Repository file | Git blob SHA | Size |
-|---|---|---|---:|
-| 1893 Charles/Dillmann | `enoch-editions/enoch-1893-charles-dillmann.pdf` | `398352f3010cd7f059c91a24e8c32b9f8b1539a6` | 540,432 bytes |
-| 1917 Charles/Oesterley | `enoch-editions/enoch-1917-charles-oesterley.pdf` | `9bd830eafb560890c6c78d2f89d828b603d6a979` | 438,198 bytes |
+## Historical scan addition — 25 November 2026
 
-This closes the source-acquisition gap: the exact PDF artifacts are now versioned with the project. It does **not** itself close either collation task. The current review environment can verify the repository entries and blob identifiers, but the GitHub connector does not expose binary PDF contents for local rasterization. The earlier page-image findings therefore remain unchanged: only 1917 printed pp. 153–154 have been visually inspected; 1917 pp. 150–152 and the 1893 chapter pages remain to be rendered and checked. Do not mark visual collation complete until the vendored PDFs have been rasterized and every relevant printed page has been reviewed.
+A later repository commit added the large historical scans: `enoch-1893-clarendon-original.pdf` (described in the commit as the Cornell 428-page 1893 scan) and `enoch-1917-spck-original.pdf` (described as the Claremont 160-page SPCK scan). The latter is a 1962 tenth impression of the edition first published in 1917. The four-file inventory, sizes, blob identifiers, and provenance distinctions are documented in [`enoch-editions/README.md`](../../../enoch-editions/README.md).
+
+The historical scan files are now versioned with the project. The available GitHub connector does not expose their binary PDF bytes for local rasterization in this review session; page images were therefore checked through the public full-scan witness. This pass verified 1917 printed pp. 150–151 and 153–154, but not p. 152. No systematic 1893 page-image proofing was completed. Do not equate source acquisition with completion of visual collation.
 
 
 
