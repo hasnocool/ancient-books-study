@@ -1,0 +1,508 @@
+{
+  "pages": "219-238",
+  "discrepancies": [],
+  "apparatus": [
+    {
+      "page": 219,
+      "lemma": "vear",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "vear. \u2018Year\u2019 wanting in G. 16. All the flowers bloom.",
+      "charles_note": "vear. \u2018Year\u2019 wanting in G. 16. All the flowers bloom.",
+      "repo_has": false
+    },
+    {
+      "page": 219,
+      "lemma": "G reads HE@OA \u2018all the flowers which come forth) M omits",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "G reads HE@OA \u2018all the flowers which come forth) M omits",
+      "charles_note": "G reads HE@OA \u2018all the flowers which come forth) M omits",
+      "repo_has": false
+    },
+    {
+      "page": 219,
+      "lemma": "\u2018bloom",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "\u2018bloom.\u2019 17. Head of a thousand. G reads Cafl: X0.",
+      "charles_note": "\u2018bloom.\u2019 17. Head of a thousand. G reads Cafl: X0.",
+      "repo_has": false
+    },
+    {
+      "page": 219,
+      "lemma": "19",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "19. Signs of the days. G M read \u2018days of his sign\u201d Ripen",
+      "charles_note": "19. Signs of the days. G M read \u2018days of his sign\u201d Ripen",
+      "repo_has": false
+    },
+    {
+      "page": 219,
+      "lemma": "and mature all their fruits",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "and mature all their fruits. So G M. Other MSS. give, \u2018to",
+      "charles_note": "and mature all their fruits. So G M. Other MSS. give, \u2018to",
+      "repo_has": false
+    },
+    {
+      "page": 219,
+      "lemma": "So G",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "So G. Other MSS. \u00a2 the subordinate leaders.\u2019",
+      "charles_note": "So G. Other MSS. \u00a2 the subordinate leaders.\u2019",
+      "repo_has": false
+    },
+    {
+      "page": 224,
+      "lemma": "Crit",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "Crit. Note, xxxviil. 2. G reads 'F\u00a5ah- \u2018I arose to cry aloud.",
+      "charles_note": "Crit. Note, xxxviil. 2. G reads 'F\u00a5ah- \u2018I arose to cry aloud.",
+      "repo_has": false
+    },
+    {
+      "page": 224,
+      "lemma": "Din\u2019s translation",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "Din\u2019s translation: see Lexicon, col. 607. G reads 2A. Sin",
+      "charles_note": "Din\u2019s translation: see Lexicon, col. 607. G reads 2A. Sin",
+      "repo_has": false
+    },
+    {
+      "page": 224,
+      "lemma": "of",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "of. 8o G JDmM&AT, and virtually M. Other MSS. \u2018secrets",
+      "charles_note": "of. 8o G JDmM&AT, and virtually M. Other MSS. \u2018secrets",
+      "repo_has": false
+    },
+    {
+      "page": 224,
+      "lemma": "of 8",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "of 8. Remain on the earth. So G M. Other MSS.",
+      "charles_note": "of 8. Remain on the earth. So G M. Other MSS.",
+      "repo_has": false
+    },
+    {
+      "page": 225,
+      "lemma": "10",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "10. My prayer. G reads instead: @OAND: \u00aeZNLH: @. M:",
+      "charles_note": "10. My prayer. G reads instead: @OAND: \u00aeZNLH: @. M:",
+      "repo_has": false
+    },
+    {
+      "page": 226,
+      "lemma": "3",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "3. Hast made all things fast. So G: &270n: Hdr, which should",
+      "charles_note": "3. Hast made all things fast. So G: &270n: Hdr, which should",
+      "repo_has": false
+    },
+    {
+      "page": 226,
+      "lemma": "for Thee",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "for Thee. Departs not. G reads ATap2mh \u00a2 does not turn",
+      "charles_note": "for Thee. Departs not. G reads ATap2mh \u00a2 does not turn",
+      "repo_has": false
+    },
+    {
+      "page": 227,
+      "lemma": "LXXXYV",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "LXXXYV. 1. After v G adds chd\\ap. 2. Lifted up his",
+      "charles_note": "LXXXYV. 1. After v G adds chd\\ap. 2. Lifted up his",
+      "repo_has": false
+    },
+    {
+      "page": 227,
+      "lemma": "bed",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "bed. So G M. Other MSS. \u2018in a vision on my bed. Came",
+      "charles_note": "bed. So G M. Other MSS. \u2018in a vision on my bed. Came",
+      "repo_has": false
+    },
+    {
+      "page": 228,
+      "lemma": "@%A",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "@%A: M\\A * came forth other young bulls\u2019 5. But that black.",
+      "charles_note": "@%A: M\\A * came forth other young bulls\u2019 5. But that black.",
+      "repo_has": false
+    },
+    {
+      "page": 228,
+      "lemma": "G omits \u2018but that",
+      "sigla": [
+        "G",
+        "G",
+        "M"
+      ],
+      "witnesses": "G omits \u2018but that.\u2019 Followed him. G M read \u2018 followed them.\u2019",
+      "charles_note": "G omits \u2018but that.\u2019 Followed him. G M read \u2018 followed them.\u2019",
+      "repo_has": false
+    },
+    {
+      "page": 228,
+      "lemma": "6",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "6. For (b7 \u2018thereupon\u2019 G reads b~ 8. Another white",
+      "charles_note": "6. For (b7 \u2018thereupon\u2019 G reads b~ 8. Another white",
+      "repo_has": false
+    },
+    {
+      "page": 228,
+      "lemma": "bull",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "bull. For \u2018another\u2019 G reads h\\\u00e9 \u2018a pair of white oxen\u2019: i.e.",
+      "charles_note": "bull. For \u2018another\u2019 G reads h\\\u00e9 \u2018a pair of white oxen\u2019: i.e.",
+      "repo_has": false
+    },
+    {
+      "page": 229,
+      "lemma": "that I saw the large and black oxen",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "that I saw the large and black oxen. For this G reads shortly,",
+      "charles_note": "that I saw the large and black oxen. For this G reads shortly,",
+      "repo_has": false
+    },
+    {
+      "page": 229,
+      "lemma": "Cane M gives @harTF",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "Cane M gives @harTF: Cain: &ANE. Began to live with each",
+      "charles_note": "Cane M gives @harTF: Cain: &ANE. Began to live with each",
+      "repo_has": false
+    },
+    {
+      "page": 229,
+      "lemma": "other",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "other. So G: &\u00a5H: Cchlm.: I\u00b00N;: n&. This alludes to the",
+      "charles_note": "other. So G: &\u00a5H: Cchlm.: I\u00b00N;: n&. This alludes to the",
+      "repo_has": false
+    },
+    {
+      "page": 229,
+      "lemma": "those cattle and (remained) with them",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "those cattle and (remained) with them. So G M: @7ahA: AAh=",
+      "charles_note": "those cattle and (remained) with them. So G M: @7ahA: AAh=",
+      "repo_has": false
+    },
+    {
+      "page": 230,
+      "lemma": "LXXXVII 3",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "LXXXVII 3. All the hills were lower. G reads: chk%: Ht:",
+      "charles_note": "LXXXVII 3. All the hills were lower. G reads: chk%: Ht:",
+      "repo_has": false
+    },
+    {
+      "page": 230,
+      "lemma": "UrC",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "UrC. M: k2 H: &o2C.  Other MSS. support Dln.",
+      "charles_note": "UrC. M: k2 H: &o2C.  Other MSS. support Dln.",
+      "repo_has": false
+    },
+    {
+      "page": 230,
+      "lemma": "4",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "4. And the oxen and all of them. So G M. Other MSS. \u2018and",
+      "charles_note": "4. And the oxen and all of them. So G M. Other MSS. \u2018and",
+      "repo_has": false
+    },
+    {
+      "page": 231,
+      "lemma": "cast (them) down from heaven, and they gathered",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "cast (them) down from heaven, and they gathered. So G M.",
+      "charles_note": "cast (them) down from heaven, and they gathered. So G M.",
+      "repo_has": false
+    },
+    {
+      "page": 231,
+      "lemma": "LXXXIX",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "LXXXIX. 1. To that white bull. So M. All other MSS.",
+      "charles_note": "LXXXIX. 1. To that white bull. So M. All other MSS.",
+      "repo_has": false
+    },
+    {
+      "page": 231,
+      "lemma": "here",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "here: \u2018fearless as he was.\u2019 2. Poured much water. G reads",
+      "charles_note": "here: \u2018fearless as he was.\u2019 2. Poured much water. G reads",
+      "repo_has": false
+    },
+    {
+      "page": 231,
+      "lemma": "from view",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "from view. G: ACAL: No-&TF: 02.8. M: ACAL: Ao-uF: 43.6.",
+      "charles_note": "from view. G: ACAL: No-&TF: 02.8. M: ACAL: Ao-uF: 43.6.",
+      "repo_has": false
+    },
+    {
+      "page": 233,
+      "lemma": "black",
+      "sigla": [
+        "G",
+        "M",
+        "G"
+      ],
+      "witnesses": "black. Wanting in G M. 10. Tigers. G reads APICT =",
+      "charles_note": "black. Wanting in G M. 10. Tigers. G reads APICT =",
+      "repo_has": false
+    },
+    {
+      "page": 233,
+      "lemma": "with A\u00a3I\u00b0CT = tigers\u201d For AX0NT G reads &00T; but no",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "with A\u00a3I\u00b0CT = tigers\u201d For AX0NT G reads &00T; but no",
+      "charles_note": "with A\u00a3I\u00b0CT = tigers\u201d For AX0NT G reads &00T; but no",
+      "repo_has": false
+    },
+    {
+      "page": 233,
+      "lemma": "such word exists",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "such word exists. For &m-Qtt \u2018vultures\u2019 G reads AINCT,",
+      "charles_note": "such word exists. For &m-Qtt \u2018vultures\u2019 G reads AINCT,",
+      "repo_has": false
+    },
+    {
+      "page": 233,
+      "lemma": "each other, G reads \u00a31TGAF",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "each other, G reads \u00a31TGAF. This form is not found elsewhere.",
+      "charles_note": "each other, G reads \u00a31TGAF. This form is not found elsewhere.",
+      "repo_has": false
+    },
+    {
+      "page": 233,
+      "lemma": "12",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "12. And that wild boar begat many boars. Wanting in G L",
+      "charles_note": "12. And that wild boar begat many boars. Wanting in G L",
+      "repo_has": false
+    },
+    {
+      "page": 234,
+      "lemma": "it and went with it, and the two went and entered",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "it and went with it, and the two went and entered. So G, and",
+      "charles_note": "it and went with it, and the two went and entered. So G, and",
+      "repo_has": false
+    },
+    {
+      "page": 234,
+      "lemma": "virtually M",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "virtually M.. Other MSS. *met that sheep and went with it and",
+      "charles_note": "virtually M.. Other MSS. *met that sheep and went with it and",
+      "repo_has": false
+    },
+    {
+      "page": 234,
+      "lemma": "G reads \u2018and their Lord came",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "G reads \u2018and their Lord came...and they began,\u2019 &:yH: \u00a3HATPav-",
+      "charles_note": "G reads \u2018and their Lord came...and they began,\u2019 &:yH: \u00a3HATPav-",
+      "repo_has": false
+    },
+    {
+      "page": 235,
+      "lemma": "24",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "24. And on that. Wanting in G.  28. Began to open their eyes",
+      "charles_note": "24. And on that. Wanting in G.  28. Began to open their eyes",
+      "repo_has": false
+    },
+    {
+      "page": 235,
+      "lemma": "and to see",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "and to see. G reads L&&%: \u2018began to open their eyes and",
+      "charles_note": "and to see. G reads L&&%: \u2018began to open their eyes and",
+      "repo_has": false
+    },
+    {
+      "page": 236,
+      "lemma": "G reads",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "G reads: AHA: 070; I\u00b000WPav; HUN: 97&NhAcaDs, and this we",
+      "charles_note": "G reads: AHA: 070; I\u00b000WPav; HUN: 97&NhAcaDs, and this we",
+      "repo_has": false
+    },
+    {
+      "page": 236,
+      "lemma": "35",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "35. Thereupon. G reads &FH. 36. In this vision. So",
+      "charles_note": "35. Thereupon. G reads &FH. 36. In this vision. So",
+      "repo_has": false
+    },
+    {
+      "page": 237,
+      "lemma": "37",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "37. Instead of AHN: N20 G gives the confused text Hh\u00ab",
+      "charles_note": "37. Instead of AHN: N20 G gives the confused text Hh\u00ab",
+      "repo_has": false
+    },
+    {
+      "page": 237,
+      "lemma": "nn7o0",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "nn7o0. Which led the sheep. G M read \u2018which led them.",
+      "charles_note": "nn7o0. Which led the sheep. G M read \u2018which led them.",
+      "repo_has": false
+    },
+    {
+      "page": 237,
+      "lemma": "41",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "41. And sometimes their eyes were opened. Wanting in G.",
+      "charles_note": "41. And sometimes their eyes were opened. Wanting in G.",
+      "repo_has": false
+    },
+    {
+      "page": 237,
+      "lemma": "D",
+      "sigla": [
+        "M",
+        "G"
+      ],
+      "witnesses": "D. M. G., 1855, pp. 621 sqq. 41.",
+      "charles_note": "D. M. G., 1855, pp. 621 sqq. 41.",
+      "repo_has": false
+    },
+    {
+      "page": 238,
+      "lemma": "42",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "42. Till the Lord of the sheep raised up another sheep. So G,",
+      "charles_note": "42. Till the Lord of the sheep raised up another sheep. So G,",
+      "repo_has": false
+    },
+    {
+      "page": 238,
+      "lemma": "G is confirmed by the Gk",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "G is confirmed by the Gk. p\u00e9xpt of #yepev 6 kvpios",
+      "charles_note": "G is confirmed by the Gk. p\u00e9xpt of #yepev 6 kvpios",
+      "repo_has": false
+    }
+  ],
+  "stats": {
+    "total_discrepancies": 0,
+    "by_type": {},
+    "by_confidence": {}
+  }
+}

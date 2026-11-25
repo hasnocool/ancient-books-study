@@ -1,0 +1,172 @@
+{
+  "pages": "63-74",
+  "discrepancies": [
+    {
+      "page": 64,
+      "leaf": 85,
+      "repo_chapter": 7,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "VII. 1. And they took unto\nthemselves wives, and each\nchose for himself one, and\nthey began to go in unto them\nand they mixed with them,",
+      "repo_text": "They took unto themselves wives, and each chose for himself one, and they began to go in unto them, and they mixed with them, and taught them charms, and enchantments, and made them acquainted with th",
+      "similarity": 0.667,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.67)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 67,
+      "leaf": 88,
+      "repo_chapter": 9,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "IX. 1. Then Michael, Ga-\nbriel, Surjan and Urjan, looked\ndown from heaven and saw\nthe great quantity of blood\nthat had been shed upon the\nearth, and all the wrong that\nhad been wrought upon the\nearth.",
+      "repo_text": "Then Michael, Gabriel, Surjan, and Urjan, looked down from heaven, and saw the great quantity of blood that had been shed upon the earth, and all the wrong that had been wrought upon the earth.",
+      "similarity": 0.775,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.77)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 70,
+      "leaf": 91,
+      "repo_chapter": 9,
+      "repo_verse": 8,
+      "discrepancy_type": "structural",
+      "charles_text": "[7. And Semjiza to whom\nThou hast given authority to\nbear rule over his associates has\nmade known enchantments.]\n8. And they have gone to the\ndaughters of men upon the\nearth,and haveslept with them,\nw",
+      "repo_text": "They have gone to the daughters of men upon the earth, and have slept with them, with those women, and defiled themselves, and revealed these sins unto them.",
+      "similarity": 0.678,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.68)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 71,
+      "leaf": 92,
+      "repo_chapter": 9,
+      "repo_verse": 11,
+      "discrepancy_type": "modernization",
+      "charles_text": "and they cannot escape from\nthe unrighteousness which is\nwrought on the earth. 11\nAnd thou knowest all things\nbefore they come to pass, and\nThou knowest this thing and\nevery thing affecting them,\nand ",
+      "repo_text": "You know all things before they come to pass, and you knows this thing, and every thing affecting them, and yet you did not speak to us. What are we therefore to do in regard to this? ---",
+      "similarity": 0.767,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.77)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 72,
+      "leaf": 93,
+      "repo_chapter": 10,
+      "repo_verse": 5,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "and foot, and place him in the\ndarkness: make an opening\nin the desert, which is in Du-\nda\u00e9l, and place him therein.\n5. And place upon him rough\nand jagg\u00e9d rocks, and cover\nhim with darkness, and let\n",
+      "repo_text": "Place upon him rough and jagged rocks, and cover him with darkness, and let him abide there for ever, and cover his face that he may not see the light.",
+      "similarity": 0.661,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.66)",
+      "verified": false,
+      "reviewer": ""
+    }
+  ],
+  "apparatus": [
+    {
+      "page": 63,
+      "lemma": "WYy 3 %) v -@f,- Wn jion 0 v by M L= B p )|",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "WYy 3 %) v -@f,- Wn jion 0 v by M L= B p )|",
+      "charles_note": "WYy 3 %) v -@f,- Wn jion 0 v by M L= B p )|",
+      "repo_has": false
+    },
+    {
+      "page": 64,
+      "lemma": "So G UNLT",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "So G UNLT: 9w C'E: HAWPar: and M, but that for the first",
+      "charles_note": "So G UNLT: 9w C'E: HAWPar: and M, but that for the first",
+      "repo_has": false
+    },
+    {
+      "page": 64,
+      "lemma": "abr\u00e9v oi d\u00e9ka, which, as M",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "abr\u00e9v oi d\u00e9ka, which, as M. Bouriant proposes, should be emended",
+      "charles_note": "abr\u00e9v oi d\u00e9ka, which, as M. Bouriant proposes, should be emended",
+      "repo_has": false
+    },
+    {
+      "page": 66,
+      "lemma": "So G TwAt",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "So G TwAt. Dln. gives T@mAt and translates \u2018the metals of",
+      "charles_note": "So G TwAt. Dln. gives T@mAt and translates \u2018the metals of",
+      "repo_has": false
+    },
+    {
+      "page": 70,
+      "lemma": "8",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "8. Upon the earth. G M give 04N: ANA. This, as the reading",
+      "charles_note": "8. Upon the earth. G M give 04N: ANA. This, as the reading",
+      "repo_has": false
+    },
+    {
+      "page": 72,
+      "lemma": "X",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "X. 3. For all generations. So G M reading AHdravy T@-d.2.",
+      "charles_note": "X. 3. For all generations. So G M reading AHdravy T@-d.2.",
+      "repo_has": false
+    },
+    {
+      "page": 74,
+      "lemma": "otk &oru Tois marpdow abrav, but M by a slip Afllap; A",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "otk &oru Tois marpdow abrav, but M by a slip Afllap; A.Lh@-% instead",
+      "charles_note": "otk &oru Tois marpdow abrav, but M by a slip Afllap; A.Lh@-% instead",
+      "repo_has": false
+    },
+    {
+      "page": 74,
+      "lemma": "of \u00aeALND-T, or @ALNT with G",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "of \u00aeALND-T, or @ALNT with G.  Although they hope to live",
+      "charles_note": "of \u00aeALND-T, or @ALNT with G.  Although they hope to live",
+      "repo_has": false
+    }
+  ],
+  "stats": {
+    "total_discrepancies": 5,
+    "by_type": {
+      "lexical_variant": 3,
+      "structural": 1,
+      "modernization": 1
+    },
+    "by_confidence": {
+      "low": 3,
+      "medium": 2
+    }
+  }
+}

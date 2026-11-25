@@ -1,0 +1,173 @@
+{
+  "pages": "75-84",
+  "discrepancies": [
+    {
+      "page": 76,
+      "leaf": 97,
+      "repo_chapter": 10,
+      "repo_verse": 15,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "15. And destroy all the lustful souls, and the children of the\nwatchers, because they have oppressed mankind. 16. De-\nstroy all oppression from the face of the earth and let every",
+      "repo_text": "Destroy all the lustful souls, and the children of the watchers, because they have oppressed mankind.",
+      "similarity": 0.714,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.71)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 76,
+      "leaf": 97,
+      "repo_chapter": 10,
+      "repo_verse": 20,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "unrighteousness, and from all sin, and from all godlessness,\nand from all uncleanness which is wrought upon the earth:",
+      "repo_text": "Cleanse the earth from all oppression, and from all unrighteousness, and from all sin, and from all godlessness, and from all uncleanness which is wrought upon the earth: destroy them from off the ear",
+      "similarity": 0.735,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.74)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 77,
+      "leaf": 98,
+      "repo_chapter": 11,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XTI 1. And in those days I will open the store chambers of\nblessing which are in the heaven, so as to send them down\nupon the earth over the work and labour of the children of\nmen. 2. Peace and justic",
+      "repo_text": "In those days I will open the store chambers of blessing which are in the heaven, so as to send them down upon the earth over the work, and labour of the children of men.",
+      "similarity": 0.719,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.72)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 77,
+      "leaf": 98,
+      "repo_chapter": 12,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XTI 1. And before all these things fell out Enoch was hidden,\nand no one of the children of men knew where he was hidden,\nand where he abode, and what had become of him. 2. And\nall his activities had ",
+      "repo_text": "Before all these things fell out, Enoch was hidden and no one of the children of men knew where he was hidden, and where he abode, and what had become of him.",
+      "similarity": 0.681,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.68)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 79,
+      "leaf": 100,
+      "repo_chapter": 13,
+      "repo_verse": 8,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "of the west of Hermon, and I read their petition till T fell\nasleep. 8. And behold a dream visited me and visions fell\ndown upon me, and I saw the vision of a chastisement to the\nintent that I should ",
+      "repo_text": "Behold a dream visited me, and visions fell down upon me. I saw the vision of a chastisement to the intent that I should recount it to the sons of the heaven to reprimand them.",
+      "similarity": 0.718,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.72)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 82,
+      "leaf": 103,
+      "repo_chapter": 15,
+      "repo_verse": 1,
+      "discrepancy_type": "modernization",
+      "charles_text": "XV. 1. And He answered and spake to me with His\nvoice: \u2018I have heard, fear not, Enoch, thou righteous man\nand scribe of righteousness: approach and hear my voice.\n2. And go, say to the watchers of hea",
+      "repo_text": "He answered, and spoke to me with His voice I have heard: \u2014Fear not Enoch, you righteous man, and scribe of righteousness: Approach, and hear my voice.",
+      "similarity": 0.63,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.63)",
+      "verified": false,
+      "reviewer": ""
+    }
+  ],
+  "apparatus": [
+    {
+      "page": 78,
+      "lemma": "XII",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "XII. 5. Inasmuch as they, &c. So G: @alav; L1427 h",
+      "charles_note": "XII. 5. Inasmuch as they, &c. So G: @alav; L1427 h",
+      "repo_has": false
+    },
+    {
+      "page": 79,
+      "lemma": "XIIL g",
+      "sigla": [
+        "G",
+        "G"
+      ],
+      "witnesses": "XIIL g. They were all sitting. So all MSS. but G. G reads",
+      "charles_note": "XIIL g. They were all sitting. So all MSS. but G. G reads",
+      "repo_has": false
+    },
+    {
+      "page": 79,
+      "lemma": "XIV",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "XIV. 4. G inserts after v. 4 @&aI\u00b0Lal: &T%&h: oOrt: Ha",
+      "charles_note": "XIV. 4. G inserts after v. 4 @&aI\u00b0Lal: &T%&h: oOrt: Ha",
+      "repo_has": false
+    },
+    {
+      "page": 81,
+      "lemma": "So G and the Giz",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "So G and the Giz. Gk. Dln. gives \u2018He that is great in glory.",
+      "charles_note": "So G and the Giz. Gk. Dln. gives \u2018He that is great in glory.",
+      "repo_has": false
+    },
+    {
+      "page": 83,
+      "lemma": "\u2018hear",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "\u2018hear.\u201d 5. That thus, &c. So G: hav; ho7U: ALFI7: 20C:",
+      "charles_note": "\u2018hear.\u201d 5. That thus, &c. So G: hav; ho7U: ALFI7: 20C:",
+      "repo_has": false
+    },
+    {
+      "page": 83,
+      "lemma": "So G AmiI&NT",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "So G AmiI&NT. So the Gk.: dmd mvevpdrev. Other MSS.",
+      "charles_note": "So G AmiI&NT. So the Gk.: dmd mvevpdrev. Other MSS.",
+      "repo_has": false
+    },
+    {
+      "page": 84,
+      "lemma": "Lo7N% into LI7NE in accordance with G and the Gk",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "Lo7N% into LI7NE in accordance with G and the Gk. dpavifovra.",
+      "charles_note": "Lo7N% into LI7NE in accordance with G and the Gk. dpavifovra.",
+      "repo_has": false
+    }
+  ],
+  "stats": {
+    "total_discrepancies": 6,
+    "by_type": {
+      "lexical_variant": 5,
+      "modernization": 1
+    },
+    "by_confidence": {
+      "medium": 4,
+      "low": 2
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "pages": "85-94",
+  "discrepancies": [
+    {
+      "page": 85,
+      "leaf": 106,
+      "repo_chapter": 15,
+      "repo_verse": 12,
+      "discrepancy_type": "match",
+      "charles_text": "12. And these\nspirits will rise up against the\nchildren of men and against\nthe women, because they have\nproceeded from them.",
+      "repo_text": "These spirits will rise up against the children of men, and against the women, because they have proceeded from them. ---",
+      "similarity": 0.939,
+      "confidence": "high",
+      "notes": "Fuzzy match (score: 0.94)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 89,
+      "leaf": 110,
+      "repo_chapter": 18,
+      "repo_verse": 5,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "4. And I saw the winds which turn the heaven, which bring\nthe circumference of the sun and all the stars to their setting.\n5- And I saw the winds on the earth, which carry the clouds;\nand I saw the pa",
+      "repo_text": "I saw the winds on the earth which carry the clouds; and I saw the paths of the angels: I saw at the end of the earth the firmament of the heaven above.",
+      "similarity": 0.673,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.67)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 90,
+      "leaf": 111,
+      "repo_chapter": 18,
+      "repo_verse": 12,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "that abyss I saw a place which had no firmament of the\nheaven above and no foundation of earth beneath it : there\nwas no water upon it and no birds, but it was a waste place.\n13. And what I saw there ",
+      "repo_text": "Over that abyss, I saw a place which had no firmament of the heaven above, and no foundation of earth beneath it: there was no water upon it, and no birds, but it was a waste place.",
+      "similarity": 0.719,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.72)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 91,
+      "leaf": 112,
+      "repo_chapter": 20,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XX. 1. And these are the names of the holy angels who",
+      "repo_text": "These are the names of the holy angels who watch.",
+      "similarity": 0.804,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.80)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 91,
+      "leaf": 112,
+      "repo_chapter": 20,
+      "repo_verse": 2,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "2. Uriel, one of the holy angels, the angel over",
+      "repo_text": "Uriel, one of the holy angels, the angel over the world and over Tartarus.",
+      "similarity": 0.738,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.74)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 91,
+      "leaf": 112,
+      "repo_chapter": 20,
+      "repo_verse": 3,
+      "discrepancy_type": "ocr_error",
+      "charles_text": "3. Rufael, one of the holy\n4. Raguel, one of",
+      "repo_text": "Rufael, one of the holy angels, the angel of the spirits of men.",
+      "similarity": 0.648,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.65)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 93,
+      "leaf": 114,
+      "repo_chapter": 21,
+      "repo_verse": 6,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "said : * Wherefore dost thou ask, and why dost thou enquire\nand art curious ? 6. These are the stars which have trans-\ngressed the commandment of God, and are bound here till ten\nthousand ages, the nu",
+      "repo_text": "These are the stars which have transgressed the commandment of God, and are bound here until ten thousand ages, the number of the days of their guilt, are consummated.",
+      "similarity": 0.707,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.71)",
+      "verified": false,
+      "reviewer": ""
+    }
+  ],
+  "apparatus": [
+    {
+      "page": 85,
+      "lemma": "So M",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "So M. All other MSS. add a nega-",
+      "charles_note": "So M. All other MSS. add a nega-",
+      "repo_has": false
+    },
+    {
+      "page": 85,
+      "lemma": "TG4 EKTOPEVOEVQ ATO TT)S YUXTS",
+      "sigla": [
+        "S"
+      ],
+      "witnesses": "TG4 EKTOPEVOEVQ ATO TT)S YUXTS",
+      "charles_note": "TG4 EKTOPEVOEVQ ATO TT)S YUXTS",
+      "repo_has": false
+    },
+    {
+      "page": 87,
+      "lemma": "XVII",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "XVII. 2. G reads @084 =they conducted me. Cf. }7&4 in",
+      "charles_note": "XVII. 2. G reads @084 =they conducted me. Cf. }7&4 in",
+      "repo_has": false
+    },
+    {
+      "page": 87,
+      "lemma": "Gk",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "Gk. supports G. 3. The places of the luminaries. So M O\u2014",
+      "charles_note": "Gk. supports G. 3. The places of the luminaries. So M O\u2014",
+      "repo_has": false
+    },
+    {
+      "page": 87,
+      "lemma": "a5t AC7ET, also G apGACT",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "a5t AC7ET, also G apGACT: AC76T.  So also the Giz. Gk.",
+      "charles_note": "a5t AC7ET, also G apGACT: AC76T.  So also the Giz. Gk.",
+      "repo_has": false
+    },
+    {
+      "page": 89,
+      "lemma": "XVIIL 4",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "XVIIL 4. Instead of .\u20ac0CH: ANNA, G has the strange reading",
+      "charles_note": "XVIIL 4. Instead of .\u20ac0CH: ANNA, G has the strange reading",
+      "repo_has": false
+    },
+    {
+      "page": 89,
+      "lemma": "abyss is beyond the earth",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "abyss is beyond the earth. The Giz. Gk. supports G M.",
+      "charles_note": "abyss is beyond the earth. The Giz. Gk. supports G M.",
+      "repo_has": false
+    },
+    {
+      "page": 91,
+      "lemma": "So G M, and the Giz",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "So G M, and the Giz. Gk. Dln. and FHO \u2018has seen.\u2019",
+      "charles_note": "So G M, and the Giz. Gk. Dln. and FHO \u2018has seen.\u2019",
+      "repo_has": false
+    },
+    {
+      "page": 91,
+      "lemma": "XX",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "XX. 2. The angel over the world. So G HA%AJ\u00ae, and the",
+      "charles_note": "XX. 2. The angel over the world. So G HA%AJ\u00ae, and the",
+      "repo_has": false
+    },
+    {
+      "page": 92,
+      "lemma": "XXI",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "XXI. 2. I saw neither a heaven above. So G Cih: @h(97:",
+      "charles_note": "XXI. 2. I saw neither a heaven above. So G Cih: @h(97:",
+      "repo_has": false
+    },
+    {
+      "page": 92,
+      "lemma": "high heaven",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "high heaven. A place chaotic. So G apa\u2019h; Hnk: LA@- but",
+      "charles_note": "high heaven. A place chaotic. So G apa\u2019h; Hnk: LA@- but",
+      "repo_has": false
+    },
+    {
+      "page": 92,
+      "lemma": "oketagroy",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "oketagroy. Later MSS. add \u2018empty \u2019 after * place\u2019 against G and",
+      "charles_note": "oketagroy. Later MSS. add \u2018empty \u2019 after * place\u2019 against G and",
+      "repo_has": false
+    },
+    {
+      "page": 93,
+      "lemma": "\u00a2 guide",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "\u00a2 guide.\u2019 \u2018Why dost thou enquire and art curious? So G M.",
+      "charles_note": "\u00a2 guide.\u2019 \u2018Why dost thou enquire and art curious? So G M.",
+      "repo_has": false
+    },
+    {
+      "page": 93,
+      "lemma": "thou enquire ? 6",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "thou enquire ? 6. God. So G and the Giz. Gk. Dln. gives",
+      "charles_note": "thou enquire ? 6. God. So G and the Giz. Gk. Dln. gives",
+      "repo_has": false
+    },
+    {
+      "page": 93,
+      "lemma": "\u2018Most High God",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "\u2018Most High God.\u2019 7. The place was cleft. So G, reading",
+      "charles_note": "\u2018Most High God.\u2019 7. The place was cleft. So G, reading",
+      "repo_has": false
+    },
+    {
+      "page": 93,
+      "lemma": "' 8",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "' 8. Hideous to look upon. So G hv*gP,",
+      "charles_note": "' 8. Hideous to look upon. So G hv*gP,",
+      "repo_has": false
+    },
+    {
+      "page": 94,
+      "lemma": "Appendix",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "Appendix. 3. The spirits of the souls of the dead. So G,",
+      "charles_note": "Appendix. 3. The spirits of the souls of the dead. So G,",
+      "repo_has": false
+    }
+  ],
+  "stats": {
+    "total_discrepancies": 7,
+    "by_type": {
+      "match": 1,
+      "lexical_variant": 5,
+      "ocr_error": 1
+    },
+    "by_confidence": {
+      "high": 1,
+      "low": 2,
+      "medium": 4
+    }
+  }
+}

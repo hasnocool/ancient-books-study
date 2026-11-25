@@ -1,0 +1,189 @@
+{
+  "pages": "55-62",
+  "discrepancies": [
+    {
+      "page": 57,
+      "leaf": 78,
+      "repo_chapter": 1,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "Q 1. The words of the blessing of Enoch, wherewith he\nblessed the elect and righteous, who will be living in the day\nof tribulation, when all the wicked and godless are to be\nremoved. 2. And Enoch ans",
+      "repo_text": "These are the words of blessing of Enoch, wherewith he blessed the elect and righteous; those who will be living in the day of tribulation, when all the wicked and godless are to be removed.",
+      "similarity": 0.71,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.71)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 58,
+      "leaf": 79,
+      "repo_chapter": 1,
+      "repo_verse": 3,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "the glect I spake, and uttered a parable concerning them :\nthe Holy and Great One will come forth from His dwelling,\nthe God of the world. 4. And going from thence He\nwill tread on Mount Sinai and app",
+      "repo_text": "Concerning the elect I spoke, and uttered a parable concerning them: the Holy, and Great One will come forth from His dwelling, the God of the world.",
+      "similarity": 0.601,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.60)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 59,
+      "leaf": 80,
+      "repo_chapter": 2,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "II. 1. T observed everything that took place in the heaven,\nhow the luminaries which are in the heaven do not deviate\nfrom their orbits, how they all rise and set in order each in\nits season, and tran",
+      "repo_text": "I observed everything that took place in the heaven; how the luminaries, which are in the heaven, do not deviate from their orbits, how they all rise, and set in order, each in its season, and transgr",
+      "similarity": 0.803,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.80)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 60,
+      "leaf": 81,
+      "repo_chapter": 3,
+      "repo_verse": 1,
+      "discrepancy_type": "ocr_error",
+      "charles_text": "seem as though they had withered and shed all their leaves,\nexcept fourteen trees, which donot lose their foliage but retain\nthe old foliage from two to three years till the new comes.",
+      "repo_text": "I observed, and saw how all the trees seem as though they had withered, and shed all their leaves, except fourteen trees which do not lose their foliage but retain the old foliage from two to three ye",
+      "similarity": 0.874,
+      "confidence": "high",
+      "notes": "Fuzzy match (score: 0.87)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 60,
+      "leaf": 81,
+      "repo_chapter": 5,
+      "repo_verse": 1,
+      "discrepancy_type": "modernization",
+      "charles_text": "V. 1. I observed how the trees cover themselvese with\ngreen leaves and bear fruit : wherefore give ye heed to every-\nthing, and recognise how He who liveth for ever hath made\nall this for you. 2. How ",
+      "repo_text": "I observed how the trees cover themselves with green leaves, and bear fruit. Wherefore give you heed to everything, and recognize how He who lives for ever has made all this for you.",
+      "similarity": 0.722,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.72)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 61,
+      "leaf": 82,
+      "repo_chapter": 5,
+      "repo_verse": 6,
+      "discrepancy_type": "modernization",
+      "charles_text": "tiplied in eternal execration and ye will find no mercy.\n6. In those days ye shall give your name for an eternal\nexecration unto all the righteous, and they will evermore exe-\ncrate you as sinners\u2014you",
+      "repo_text": "In those days, you shall give your name for an eternal execration unto all the righteous, and they will evermore execrate you as sinners, you together with sinners.",
+      "similarity": 0.685,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.69)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 62,
+      "leaf": 83,
+      "repo_chapter": 6,
+      "repo_verse": 2,
+      "discrepancy_type": "ocr_error",
+      "charles_text": "VI. 1. And it came to pass\nwhen the children of men\nhad multiplied in those days\nthat beautiful and comely\ndaughters were born unto\nthem. 2. And the angels,\nthe sons of the heavens, saw\nand lusted aft",
+      "repo_text": "The angels, the sons of the heavens, saw, and lusted after them, spoke to one another: \u2014Come, now let us choose us wives from among the children of men, and beget children.",
+      "similarity": 0.619,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.62)",
+      "verified": false,
+      "reviewer": ""
+    }
+  ],
+  "apparatus": [
+    {
+      "page": 58,
+      "lemma": "3",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "3. Uttered a parable concerning them : the Holy One. So G",
+      "charles_note": "3. Uttered a parable concerning them : the Holy One. So G",
+      "repo_has": false
+    },
+    {
+      "page": 58,
+      "lemma": "Holy One",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "Holy One.\u2019 7. The earth will be rent. So G \u2018TwmT",
+      "charles_note": "Holy One.\u2019 7. The earth will be rent. So G \u2018TwmT",
+      "repo_has": false
+    },
+    {
+      "page": 60,
+      "lemma": "Ethiopic MSS,, but the text of G implies them, giving ACZm\u00a5",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "Ethiopic MSS,, but the text of G implies them, giving ACZm\u00a5",
+      "charles_note": "Ethiopic MSS,, but the text of G implies them, giving ACZm\u00a5",
+      "repo_has": false
+    },
+    {
+      "page": 61,
+      "lemma": "execration unto all the righteous, reading fla\u00bb with G instead of",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "execration unto all the righteous, reading fla\u00bb with G instead of",
+      "charles_note": "execration unto all the righteous, reading fla\u00bb with G instead of",
+      "repo_has": false
+    },
+    {
+      "page": 61,
+      "lemma": "Aap with all other MSS",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "Aap with all other MSS. but M. If we accept the other reading,",
+      "charles_note": "Aap with all other MSS. but M. If we accept the other reading,",
+      "repo_has": false
+    },
+    {
+      "page": 61,
+      "lemma": "M35 nyYd DY DANIM",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "M35 nyYd DY DANIM.  The Giz. Gk. supports G.",
+      "charles_note": "M35 nyYd DY DANIM.  The Giz. Gk. supports G.",
+      "repo_has": false
+    },
+    {
+      "page": 62,
+      "lemma": "VI",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "VI. 3. Pay the penalty of a great sin. So G M 4.\u00a3%: AHmMET:",
+      "charles_note": "VI. 3. Pay the penalty of a great sin. So G M 4.\u00a3%: AHmMET:",
+      "repo_has": false
+    }
+  ],
+  "stats": {
+    "total_discrepancies": 7,
+    "by_type": {
+      "lexical_variant": 3,
+      "ocr_error": 2,
+      "modernization": 2
+    },
+    "by_confidence": {
+      "medium": 3,
+      "low": 3,
+      "high": 1
+    }
+  }
+}

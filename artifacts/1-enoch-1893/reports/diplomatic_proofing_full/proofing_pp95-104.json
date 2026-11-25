@@ -1,0 +1,342 @@
+{
+  "pages": "95-104",
+  "discrepancies": [
+    {
+      "page": 95,
+      "leaf": 116,
+      "repo_chapter": 22,
+      "repo_verse": 6,
+      "discrepancy_type": "ocr_error",
+      "charles_text": "dead and their voice penetrated to the heaven and complained.\n6. This time I asked the angel Rufael who was with me and\nspake to him: \u00a2 Whose spirit is that one yonder whose voice\nthus penetrates (to ",
+      "repo_text": "This time I asked the angel Rufael who was with me, and spoke to him: Whose spirit is that one yonder whose voice so penetrates and complains?",
+      "similarity": 0.629,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.63)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 96,
+      "leaf": 117,
+      "repo_chapter": 22,
+      "repo_verse": 12,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": ". And such a division has been made for the souls of those\nwho complain and make known their destruction when they\nwere slain in the days of the sinners. 13. Thus it has\nbeen made for the souls of men",
+      "repo_text": "Such a division has been made for the souls of those who complain, and make known their destruction when they were slain in the days of the sinners.",
+      "similarity": 0.652,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.65)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 96,
+      "leaf": 117,
+      "repo_chapter": 23,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "=\" XXIIIL 1. From thence I went to another place towards\nthe west, unto the ends of the earth. 2. And 1 saw a\nburning fire which ran without resting and paused not from",
+      "repo_text": "From thence I went to another place towards the west, unto the ends of the earth.",
+      "similarity": 0.651,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.65)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 98,
+      "leaf": 119,
+      "repo_chapter": 24,
+      "repo_verse": 6,
+      "discrepancy_type": "match",
+      "charles_text": "\u20186. Then answered Michael, one of the holy and honoured\nangels who was with me, and was in charge thereof :",
+      "repo_text": "Then answered Michael, one of the holy, and honoured angels who was with me, and was in charge thereof. ---",
+      "similarity": 0.953,
+      "confidence": "high",
+      "notes": "Fuzzy match (score: 0.95)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 99,
+      "leaf": 120,
+      "repo_chapter": 26,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXVTI. 1. And I went from thence to the middle of the earth,\nand I saw a blessed and fruitful place, and there were branches\nthere which had taken root and grew out of a dismembered\ntree. 2. And then ",
+      "repo_text": "I went from thence to the middle of the earth and I saw a blessed and fruitful place, and there were branches there which had taken root, and grew out of a dismembered tree.",
+      "similarity": 0.839,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.84)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 100,
+      "leaf": 121,
+      "repo_chapter": 26,
+      "repo_verse": 3,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "the mountain to the east of it a stream which flowed towards\nthe south. 3. And I saw towards the east another moun-\ntain of the same height, and between them a deep and narrow\nravine ; in it also ran ",
+      "repo_text": "I saw towards the east another mountain of the same height, and between them a deep and narrow ravine: in it also ran a stream skirting the mountain.",
+      "similarity": 0.659,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.66)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 100,
+      "leaf": 121,
+      "repo_chapter": 27,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXVII. 1. Then said I: \u00a2 For what object is this blessed\nland, which is entirely filled with trees, and this accursed\nvalley between ?\u2019 2. Then Uriel, one of the holy angels who\nwas with me, answered ",
+      "repo_text": "Then I said: For what object is this blessed land which is entirely filled with trees, and this accursed valley between.",
+      "similarity": 0.661,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.66)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 101,
+      "leaf": 122,
+      "repo_chapter": 27,
+      "repo_verse": 2,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "is for those who are accursed for ever : here will all those be\ngathered together who utter unseemly words with their lips\nagainst God, and speak hard things of His Glory; here will\nthey be gathered t",
+      "repo_text": "Then Uriel, one of the holy angels who was with me, answered me and spoke: \u2014This accursed valley is for those who are accursed for ever: here will all those be gathered together who utter unseemly wor",
+      "similarity": 0.613,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.61)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 101,
+      "leaf": 122,
+      "repo_chapter": 29,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXIX. 1. And I went to another place, away from the desert,\ndrawing nigh to the east of the mountain range. 2. And\nthen I saw the trees of judgment, particularly such as give",
+      "repo_text": "I went to another place, away from the desert, drawing near to the east of the mountain range.",
+      "similarity": 0.679,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.68)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 102,
+      "leaf": 123,
+      "repo_chapter": 29,
+      "repo_verse": 2,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "forth the fragrance of frankincense and myrrh, and the trees\nalso were similar.",
+      "repo_text": "Then I saw the trees of judgment, particularly such as give forth the fragrance of frankincense, and myrrh, and the trees also were similar. ---",
+      "similarity": 0.709,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.71)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 102,
+      "leaf": 123,
+      "repo_chapter": 31,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXXT. 1. And T saw other mountains on which there were\ntrees, and there flowed forth from them as it were nectar, and\nit is named Sarira and Galbanum. 2. And over that\nmountain I saw another mountain ",
+      "repo_text": "I saw other mountains on which there were trees, and there flowed forth from them as it were nectar, it is named Sarira and Galbanum.",
+      "similarity": 0.61,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.61)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 102,
+      "leaf": 123,
+      "repo_chapter": 32,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXXIL 1. And after these fragrant odours, as I looked to-\nwards the north, over the mountains, I saw seven mountains\nfull of choice nard and aromatic trees and cinnamon and\npepper. 2. And thence I wen",
+      "repo_text": "After these fragrant odours, as I looked towards the north, over the mountains, I saw seven mountains full of choice nard, and aromatic trees, and cinnamon, and pepper.",
+      "similarity": 0.835,
+      "confidence": "medium",
+      "notes": "Fuzzy match (score: 0.84)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 103,
+      "leaf": 124,
+      "repo_chapter": 34,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXXIII. 1. From thence I went to the ends of the earth\nand saw there great beasts, and each differed from the other,",
+      "repo_text": "From thence I went towards the north to the ends of the earth. There I saw a great, and glorious wonder at the ends of the whole earth.",
+      "similarity": 0.606,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.61)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 104,
+      "leaf": 125,
+      "repo_chapter": 34,
+      "repo_verse": 2,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXXIV. 1. From thence I went towards the north to the\nends of the earth, and there I saw a great and glorious wonder\nat the ends of the whole earth. 2. Here I saw three open\nportals of heaven in the h",
+      "repo_text": "Here I saw three open portals of heaven in the heaven: from each of them proceed north winds: when one of these blows there is: cold, hail, frost, snow, dew, and rain.",
+      "similarity": 0.634,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.63)",
+      "verified": false,
+      "reviewer": ""
+    },
+    {
+      "page": 104,
+      "leaf": 125,
+      "repo_chapter": 36,
+      "repo_verse": 1,
+      "discrepancy_type": "lexical_variant",
+      "charles_text": "XXXV. From thence I went towards the west to the\nends of the earth, and saw there three open portals such as I\nsaw (afterwards) in the east, the like portals and the like\noutlets.",
+      "repo_text": "From thence, I went to the south to the ends of the earth, and saw there, three open portals of the heaven thence come the south wind, dew, rain, and wind.",
+      "similarity": 0.695,
+      "confidence": "low",
+      "notes": "Fuzzy match (score: 0.69)",
+      "verified": false,
+      "reviewer": ""
+    }
+  ],
+  "apparatus": [
+    {
+      "page": 95,
+      "lemma": "the souls of the dead",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "the souls of the dead.\u201d The Giz. Gk. supports G. See Crit. Note",
+      "charles_note": "the souls of the dead.\u201d The Giz. Gk. supports G. See Crit. Note",
+      "repo_has": false
+    },
+    {
+      "page": 95,
+      "lemma": "and light",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "and light. G may be right here: \u2018a",
+      "charles_note": "and light. G may be right here: \u2018a",
+      "repo_has": false
+    },
+    {
+      "page": 97,
+      "lemma": "inserts @%%37% \u2018one founded on the other",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "inserts @%%37% \u2018one founded on the other.\u201d The Giz. Gk. supports G.",
+      "charles_note": "inserts @%%37% \u2018one founded on the other.\u201d The Giz. Gk. supports G.",
+      "repo_has": false
+    },
+    {
+      "page": 98,
+      "lemma": "this tree, I say, will (then) be given, &e",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "this tree, I say, will (then) be given, &e. So G: &llh: 00L;",
+      "charles_note": "this tree, I say, will (then) be given, &e. So G: &llh: 00L;",
+      "repo_has": false
+    },
+    {
+      "page": 99,
+      "lemma": "werden",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "werden.\u2019 6. Will enter the holy habitation. So G: @-I't:",
+      "charles_note": "werden.\u2019 6. Will enter the holy habitation. So G: @-I't:",
+      "repo_has": false
+    },
+    {
+      "page": 99,
+      "lemma": "XXVL 1",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "XXVL 1. G omits 49\u00b000: but FHLM N O support Din.",
+      "charles_note": "XXVL 1. G omits 49\u00b000: but FHLM N O support Din.",
+      "repo_has": false
+    },
+    {
+      "page": 102,
+      "lemma": "XXIX",
+      "sigla": [
+        "G",
+        "M"
+      ],
+      "witnesses": "XXIX. 2. The trees also were similar. So G M: 00m-Z:",
+      "charles_note": "XXIX. 2. The trees also were similar. So G M: 00m-Z:",
+      "repo_has": false
+    },
+    {
+      "page": 102,
+      "lemma": "So G",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "So G: @L\u00aeOA: &I\u00b0LU: hov; L2PCE. Dln. and FHKLNO",
+      "charles_note": "So G: @L\u00aeOA: &I\u00b0LU: hov; L2PCE. Dln. and FHKLNO",
+      "repo_has": false
+    },
+    {
+      "page": 102,
+      "lemma": "flowed forth from them as it were nectar",
+      "sigla": [
+        "M"
+      ],
+      "witnesses": "flowed forth from them as it were nectar.\u201d M points to the text",
+      "charles_note": "flowed forth from them as it were nectar.\u201d M points to the text",
+      "repo_has": false
+    },
+    {
+      "page": 102,
+      "lemma": "of G",
+      "sigla": [
+        "G",
+        "G"
+      ],
+      "witnesses": "of G. The Giz. Gk. supports G.",
+      "charles_note": "of G. The Giz. Gk. supports G.",
+      "repo_has": false
+    },
+    {
+      "page": 104,
+      "lemma": "MSS",
+      "sigla": [
+        "G"
+      ],
+      "witnesses": "MSS. but G, which reads 970 =* device.\u2019",
+      "charles_note": "MSS. but G, which reads 970 =* device.\u2019",
+      "repo_has": false
+    }
+  ],
+  "stats": {
+    "total_discrepancies": 15,
+    "by_type": {
+      "ocr_error": 1,
+      "lexical_variant": 13,
+      "match": 1
+    },
+    "by_confidence": {
+      "low": 11,
+      "high": 1,
+      "medium": 3
+    }
+  }
+}
