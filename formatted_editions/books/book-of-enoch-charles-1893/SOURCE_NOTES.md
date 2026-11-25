@@ -59,6 +59,7 @@ Only 1 Enoch is reproduced in this directory. The Slavonic sections are delibera
   
 ## Bibliographic references
 
+- [Initial source-collation log](./SOURCE_COLLATION_LOG.md), including the 1893 section scope and outstanding verification work.
 - [Digitized 1893 Clarendon Press edition (PDF)](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf)
 - [Open Library record for the 1893 edition](https://openlibrary.org/works/OL16305356W/The_book_of_Enoch)
 - [Wikisource transcription of Charles's translation](https://en.wikisource.org/wiki/The_Book_of_Enoch_%28Charles%29)
