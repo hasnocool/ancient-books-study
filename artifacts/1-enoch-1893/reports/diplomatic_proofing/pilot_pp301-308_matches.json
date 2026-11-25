@@ -1,0 +1,30 @@
+{
+  "pages_processed": [
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308
+  ],
+  "repo_chapters": [
+    106,
+    107,
+    108
+  ],
+  "total_ocr_segments": 62,
+  "total_matches": 1,
+  "matches": [
+    {
+      "page": 304,
+      "ocr_excerpt": "CVIL 1. And I saw written on them that generation upon\ngeneration will transgress, till a generation of righteousness\narises, and transgression will be destroyed and sin will pass\naway from the earth ",
+      "repo_chapter": 107,
+      "repo_verse": 1,
+      "repo_excerpt": "I saw written on them that generation upon generation will transgress, until a generation of righteousness arises, and transgression will be destroyed, and sin will pass away from the earth, and all m",
+      "similarity": 0.92,
+      "status": "matched"
+    }
+  ]
+}
