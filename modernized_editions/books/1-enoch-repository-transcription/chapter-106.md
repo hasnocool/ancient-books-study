@@ -71,7 +71,7 @@ I, Enoch, answered: “The Lord is about to do something new on the earth. I hav
 
 ### Verse 16
 
-“But this child who has been born to you will remain on the earth. He and his three sons will be saved when all the other human beings living on the earth perish.
+“But this child who has been born to you will remain on the earth. He and his three children will be saved when all the other human beings living on the earth perish.
 
 ### Verse 17
 
