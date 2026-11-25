@@ -99,6 +99,8 @@ Then the Lord spoke to Rafael: “Bind Azazel by his hands and feet and put him 
 
 **Editorial note:** The source marks verses 1–3 as an interpolated Noah fragment and verse 11 as an interpolation. Verse 7 is not bracketed in the 1893 printed text. The bracketed material remains separate from the surrounding narrative.
 
+**1893 critical-apparatus note on 10:14:** Charles says the translation “whosoever shall be condemned” follows the Syncellus Greek. He contrasts this with the Ethiopic wording, which has a singular “he will burn” construction that Charles regards as corrupt and grammatically unsuitable for the collective Watchers. The modernization follows the 1893 printed rendering and records the Ethiopic alternative rather than replacing it.
+
 ---
 
 ## Completeness and editorial notes
