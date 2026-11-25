@@ -139,6 +139,33 @@ The 1917 Charles/Oesterley text layer was also checked for the repeated solar-cy
 
 This is corroboration from the explicitly identified 1917 reprint of Charles's 1912 second edition. It is **not** cited as proof of what the 1893 printing says, and it does not replace a page-image collation of the 1893 Chapter 72.
 
+## 1917 Charles/Oesterley witness: Chapters 91–94 and image-verification scope
+
+The 1917 SPCK printing (a reprint of Charles's 1912 second edition, first published in 1917) was checked against the repository sequence for Chapters 91–94. This is a separately identified witness; it must not be described as the 1893 main-text reading.
+
+| Passage | 1917 printed evidence | Repository-based editorial treatment |
+|---|---|---|
+| 91:1–11, 18–19 | The 1917 printing groups 91:1–11 and 18–19 under Chapter XCII/XCI's admonition section. | The modernized edition retains the repository's Chapter 91 numbering. |
+| 91:11 | The 1917 printing places the passage in square brackets. | Retain the repository's explicit interpolation marker. |
+| 91:12–17 | The 1917 printing places these six units after the Chapter 93:1–14 sequence under the heading “XCI. 12–17. The Last Three Weeks.” | Retain 91:12–17 in Chapter 91 because that is the selected repository sequence. Do not move or renumber it without a separately approved witness-specific edition. |
+| 92:1 | The 1917 printing reads “The book written by Enoch—” and brackets the longer clause beginning “Enoch indeed wrote this complete doctrine of wisdom…”. | Keep the complete repository wording but make the 1917 interpolation boundary explicit in the Chapter 92 editorial note. |
+| 92:3 | The 1917 printing brackets a repeated “Shall arise”. | Keep the repository wording and record the additional bracket as a 1917 witness variant. |
+| 93:1 | The 1917 printing uses dagger marks around a corrupt token in “both †gave† and began to recount…”. The 1917 notation guide defines daggers as corruption in the text. | The modernization omits the repository's stray terminal “l” and does not invent a replacement for the 1917 corrupt token. |
+| 93:11–14 | The 1917 printing encloses this four-verse question sequence in square brackets. | Preserve the repository's interpolation markers and record the matching 1917 boundary. |
+| 94:7 | The 1917 printing brackets the final clause about those who acquire gold and silver perishing in judgment. | Keep the unbracketed repository clause in the modernization; disclose that the 1917 witness marks it as interpolated. |
+
+The bracket convention is explicit in the 1917 preliminaries: square brackets enclose interpolations, whereas other bracket forms indicate Greek/Ethiopic differences, editorial restorations, or supplied words. Daggers indicate corruption. These marks must not be conflated.
+
+### 1917 scan page-image verification
+
+A page-image screenshot was obtained and visually inspected for printed page 154 of the 1917 scan. It shows the closing Chapter 108 text, verses 8–15, and confirms that this portion is present on that printed page. This is a **single-page visual check only**. Attempts to retrieve the other relevant 1917 page images through the available PDF screenshot service returned cache-miss or retrieval errors. Accordingly:
+
+- Chapter 105–108 text-layer comparison remains recorded as complete in the existing row above.
+- Visual collation of Chapters 105–108 is **not complete**.
+- Only the displayed page 154 was visually checked in this pass; no claim is made that pages containing Chapters 105–107 or the earlier part of Chapter 108 were visually proofread.
+
+The 1917 PDF is the Wikimedia Commons scan titled *The book of Enoch. Robert Charles. 1917*; its front matter identifies the translation as reprinted from Charles's second edition (1912), and states that the work was first published in 1917. It is therefore a 1917 publication witness, not the 1893 source.
+
 ## Scan inspection limitation
 
 The accessible 1893 PDF text layer could be searched and opened, but the available page-image screenshot service rejected both accessible 1893 scan PDFs because their file sizes exceeded its capture limit. The text-layer samples above are therefore not described as visually proofread. A local download or smaller page-image segments will be needed for image-level collation.
