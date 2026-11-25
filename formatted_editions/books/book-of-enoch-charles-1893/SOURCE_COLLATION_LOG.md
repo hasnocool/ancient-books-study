@@ -527,3 +527,38 @@ Charles's note on 69:1 is important: a critical apparatus correction must not be
 | Section IV overall | Charles describes 83–90 as the most complete and self-consistent section, with one interpolation (90:15) and two dislocations (89:48b after 89:49; 90:19 before 90:16). | These findings are recorded without conflating print order, recommended reconstruction, or interpolated material. |
 
 **Batch boundary:** Chapters 83–90 have been checked against the searchable text and Charles's critical introduction for section order, the single interpolation, and two dislocations. This is not a full word-by-word collation of every verse or page-image proofing.
+
+
+## Authentic 1893 text-layer collation: Chapters 91–104 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Section V, printed pp. 258–308. Searchable OCR and Charles's introduction/critical apparatus were checked. This is not visual page-image collation.
+
+### Original order, interpolations, and dislocations
+
+The 1893 printed order of Chapters 91–104 is not identical to Charles's reconstruction of the original composition. Charles identifies Chapter 92 as the real beginning of the independent book (91–104) and reconstructs its original opening sequence as:
+
+1. 92:1–5
+2. 91:1–10
+3. 93:1–10
+4. 91:12–19
+5. 94–104
+
+The principal critical boundaries are:
+
+| Passage | 1893 printed / apparatus evidence | Repository treatment |
+|---|---|---|
+| 91:11 | Marked as an interpolation and interrupts the opening exhortation. | Modernization already marks 91:11; this status retained. |
+| 91:12–19 | These are the eighth–tenth weeks of the Apocalypse of Weeks and belong after 93:1–10. | Kept in Chapter 91 to preserve the selected base and printed numbering; Charles's reconstructed order is now stated in Chapters 91–93. |
+| 93:11–14 | Entire block is out of place; Charles says it would fit the Book of Celestial Physics (72–79, 82) better, but is foreign in tone and does not accurately describe any Enoch book. | Modernization already marks all four units as interpolations. They remain outside the reconstructed Apocalypse of Weeks sequence. |
+| 96:2 | Charles's critical apparatus notes the textual difficulties and this verse is bracketed in the printed 1893 translation. | Modernization retains its interpolation marker. |
+| 100:7 | Charles says the phrase “on the day of great trouble and burn them with fire” should probably follow “woe to you sinners” directly, making the reference to final judgment. | Existing repository sequence retained; the proposed attachment is recorded separately in Chapter 100. |
+| 104:10–13 | Charles's commentary explains the warning against falsification of the righteous words and the promise that truthful books will be given to the righteous. | The modernization's 104:10–13 preserves the warning and promise sequence. No separate consequential wording correction was made in this pass. |
+
+### Verse-level findings across the remaining section
+
+- **91–93:** Compared the chapter opening, repeated “will arise” wording in 92:3, the interpolation boundary in 93:11–14, and the critical sequence for the Apocalypse of Weeks. Charles's apparatus notes the G manuscript alternative “wisdom will arise” in 92:3; the 1893 printed reading is retained.
+- **94–99:** Compared the admonitions against oppression, wealth, idols and falsified words with the 1893 text layer. Charles's apparatus contains manuscript variants in this stretch; no modernized verse was silently altered based on a single variant. Chapter 98:4's creation/agency wording remains translated as in the repository base; no medical or factual endorsement is implied by the source's ancient explanation of childlessness in 98:5.
+- **100–102:** Compared the violence, judgment, witnesses of the natural world, and consolation of righteous souls. Charles's notes explain that the “righteous” guarded in 100:5 are souls of the dead in the place of departed spirits, not simply the living; this interpretation is relevant to understanding the verse but does not justify rewriting its wording.
+- **103–104:** Compared the promises to those dying in righteousness, the contrast between outward fate and final reward, and the warning that righteous words must not be falsified. The 104:10–13 sequence is retained.
+ 
+**Batch boundary:** Chapters 91–104 have now had a sequential text-layer and critical-apparatus review, with the major interpolation and order findings recorded. This does not claim a complete word-by-word diplomatic transcription audit for every manuscript variant; the 1893 printed pages in this section have not been systematically visually proofread. The authentic 1893 page-image collation remains outstanding.
