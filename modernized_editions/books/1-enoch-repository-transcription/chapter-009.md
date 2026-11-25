@@ -55,6 +55,8 @@ They spoke to their Lord and King: “Lord of lords, God of gods, King of kings,
 
 **Editorial note:** Verse 7 is marked as an interpolation in the source and remains bracketed.
 
+**1893 witness and apparatus notes:** Charles's note says verse 2 is not found in the Greek witness. His note on 9:1 describes “Surjan” and “Urjan” as variants of “Suriel” and “Uriel,” and says “Raphael” is probably to be read instead of “Surjan” in accordance with the Greek. The repository-based names are retained in the verse; these alternatives are not silently substituted.
+
 ---
 
 ## Completeness and editorial notes
