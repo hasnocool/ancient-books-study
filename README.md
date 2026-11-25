@@ -13,7 +13,7 @@ The repository is primarily a **document collection**, not an application. Most 
 | [`books_03/`](./books_03/) | Pseudepigrapha, Egyptology, chemistry, mythology, classical texts, and comparative ancient literature. |
 | [`books_04/`](./books_04/) | Enochic and Hermetic literature, ancient science and medicine, papyri, Kabbalah, archaeology, and astronautic or alternative-history works. |
 | [`books_05/`](./books_05/) | A broader combined collection covering architecture, archaeology, ancient engineering, translations, religious texts, and esoteric studies. |
-| [`copyrighted_works/`](./copyrighted_works/) | **Restricted works** — copyrighted translations/editions preserved for archival/research only; not for redistribution or derivative creation. |
+| [`copyrighted_works/`](./copyrighted_works/) | Rights and provenance records for selected works; archival source files remain in their original collection folders. |
 | [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading editions, editorial standards, templates, and progress catalog. |
 | [`pdfs/`](./pdfs/) | Source PDFs and digitized 1 Enoch editions, with provenance notes and scan-verification status. |
 | [`modernized_editions/`](./modernized_editions/) | Clearly labelled modern-language adaptations kept separate from archival and faithful formatted source texts. |
