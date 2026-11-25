@@ -7,12 +7,12 @@
 
 | Chapter range | Source divisions | Files present | Structural review | Semantic review | Historical collation |
 |---|---|---:|---|---|---|
-| 1–36 | Watchers | 36/36 | Initial structural spot checks; run local audit for full repeatable result | Pending verse-by-verse human review | Pending; sample textual differences already documented |
-| 37–71 | Parables | 35/35 | Initial structural spot checks; preserve interpolation markers | Pending verse-by-verse human review | Pending |
-| 72–82 | Luminaries | 11/11 | Initial structural spot checks; preserve Chapter 82 numbering anomaly | Pending verse-by-verse human review | Pending |
-| 83–90 | Visions | 8/8 | Initial structural spot checks; Chapters 89 and 90 counts checked | Pending verse-by-verse human review | Pending |
-| 91–105 | Laws of Enoch | 15/15 | Initial structural spot checks; Chapter 91 formatting standardized | Pending verse-by-verse human review | Pending; later Charles structural references are identified in restoration log |
-| 106–108 | Deluge | 3/3 | Initial structural spot checks; Chapter 106 sequence preserved | Pending verse-by-verse human review | Pending; do not assume all three chapters are part of the 1893 main translation text |
+| 1–36 | Watchers | 36/36 | Source and modernization verse-label sequences compared for all chapters in this range; no sequence mismatches found | Pending verse-by-verse human review | Pending; sample textual differences already documented |
+| 37–71 | Parables | 35/35 | Source and modernization verse-label sequences compared for all chapters in this range; interpolation markers retained | Pending verse-by-verse human review | Pending |
+| 72–82 | Luminaries | 11/11 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 82 numbering anomaly preserved | Pending verse-by-verse human review | Pending |
+| 83–90 | Visions | 8/8 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 89/90 counts checked | Pending verse-by-verse human review | Pending |
+| 91–105 | Laws of Enoch | 15/15 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 91 formatting standardized | Pending verse-by-verse human review | Pending; later Charles structural references are identified in restoration log |
+| 106–108 | Deluge | 3/3 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 106 sequence preserved | Pending verse-by-verse human review | Pending; do not assume all three chapters are part of the 1893 main translation text |
 
 ## Priority review queue
 
@@ -27,11 +27,12 @@ These are review priorities, not confirmed textual defects.
 
 ## What has been checked
 
+- A direct source-to-modernization structure comparison was completed against all six formatted source files: **108 of 108 chapter verse-label sequences match**. The comparison preserves source anomalies such as missing or duplicated labels and interpolation markers; it does not compare the wording for meaning.
 - The chapter index lists Chapters 1–108.
 - The chapter files were previously fetched in spot-check batches across early, middle, and final ranges; all checked files existed and contained their chapter title.
 - Current spot checks confirm the unusual structures called out in the edition notes, including unnumbered chapters and numbering gaps/duplicates.
 - Chapter 91 has been converted to the same Markdown verse-heading convention used by the other modernized files.
-- The local audit toolkit now has checks for the expected 108 files, source/modernized verse-label alignment, and extreme word-count differences.
+- The local audit toolkit now has checks for the expected 108 files, source/modernized verse-label alignment, and extreme word-count differences. The corresponding automated test cases cover the source label variants discovered during this audit; the full Python test suite still needs to be run from a local checkout.
 
 ## What has not been established
 
