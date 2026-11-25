@@ -27,6 +27,16 @@ The same contents list additional material outside the main translation sections
 
 **Editorial consequence:** Do not claim that the 1893 main translation supplies the complete text or verse structure for Chapters 105–108. The repository's later chapters and their structural numbering must be attributed to the later reference edition actually used, as recorded in the verse-restoration log. Keep the original source sequence, but do not conflate it with the 1893 printed arrangement.
 
+## Repository-source transfer verification
+
+A normalized body-text comparison was completed between the original combined repository transcription at `books_02/The Book of Enoch.txt` and the six formatted 1 Enoch reading files.
+
+- **Result: 108/108 chapter bodies match exactly** after normalizing whitespace and line wrapping, removing standalone page-number lines, stripping verse labels and Markdown/editorial markup, and restoring the opening blessing sentence from the source preamble to its documented Chapter 1 location.
+- The comparison identified seven embedded page-number artifacts, numbered 53–59, within formatted Chapters 91, 93, 96, 98, 100, 102, and 104. These were removed from the formatted derivative only. The archival source transcription was left unchanged.
+- The local validator now repeats this comparison through `python3 tools/compare_source_text.py` and includes token-level differences in its JSON report if a chapter no longer matches.
+
+This is an **archival transfer check**, not a historical collation. It establishes that the formatted text preserves the selected combined repository transcription after documented layout cleanup. It does not establish that the selected transcription is accurate, complete, or verbatim Charles 1893.
+
 ## Sample textual comparison already established
 
 The repository's selected combined transcription is not verbatim Charles 1893. The following examples are recorded in the existing source notes and corroborated by the searchable text layer of the 1893 scan:
