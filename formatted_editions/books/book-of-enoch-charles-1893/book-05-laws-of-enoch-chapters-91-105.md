@@ -27,7 +27,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 8]** In those days violence will be cut off from its roots, and the roots of unrighteousness, together with deceit, and they will be destroyed from under heaven.  **[Verse 9]** All the idols of the heathen will be abandoned: the temples will be burned with fire, and they will be removed from the whole earth, and they will be cast into the judgment of fire, and will perish in wrath, and in grievous eternal judgment.  **[Verse 10]** The righteous one will arise from sleep, and wisdom will arise, and be given unto them.
 
-**[Verse 11 (interpolation)]** After that the roots of unrighteousness will be cut off, and the sinners will be destroyed by the sword, will be cut off from blasphemers in every place, and those who devise oppression, and those who commit blasphemy will perish by the edge of the sword **[Verse 12]** after that there will be another week, the eighth, that of righteousness, and a sword will be given to it that judgment, and righteousness may be executed on those who commit oppression, and sinners will be delivered into the hands of the righteous.  **[Verse 13]** At its close they will acquire houses through their righteousness, and the house of the Great King will be built in glory forever more.  **[Verse 14]** After that in the ninth week the righteous 53 judgment will be revealed to the whole world, and all the works of the godless will vanish from the whole earth, and the world will be written down for destruction, and all mankind will look to the path of uprightness.
+**[Verse 11 (interpolation)]** After that the roots of unrighteousness will be cut off, and the sinners will be destroyed by the sword, will be cut off from blasphemers in every place, and those who devise oppression, and those who commit blasphemy will perish by the edge of the sword **[Verse 12]** after that there will be another week, the eighth, that of righteousness, and a sword will be given to it that judgment, and righteousness may be executed on those who commit oppression, and sinners will be delivered into the hands of the righteous.  **[Verse 13]** At its close they will acquire houses through their righteousness, and the house of the Great King will be built in glory forever more.  **[Verse 14]** After that in the ninth week the righteous judgment will be revealed to the whole world, and all the works of the godless will vanish from the whole earth, and the world will be written down for destruction, and all mankind will look to the path of uprightness.
 
 **[Verse 15]** After this, in the tenth week in the seventh part, there will be the great eternal judgment, in which He will execute vengeance amongst the angels.  **[Verse 16]** The first heaven will depart, and pass away, and a new heaven will appear, and all the powers of the heavens will shine sevenfold forever.  **[Verse 17]** After that there will be many weeks without number forever in goodness, and righteousness, and sin will no more be mentioned forever.
 
@@ -73,7 +73,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 12 — interpolation]** [And who is there that can see all the works of heaven?  How should there be one who could behold the heaven, and who is there who could understand the things of heaven, and see a soul or a spirit, and tell thereof, or ascend, and see all their ends, and conceive them or do like them?]
 
-**[Verse 13 — interpolation]** [54 Who is there of all men that could know what is the length, and the breadth of the earth, and to whom has been shown the measure of all of them?]
+**[Verse 13 — interpolation]** [Who is there of all men that could know what is the length, and the breadth of the earth, and to whom has been shown the measure of all of them?]
 
 **[Verse 14 — interpolation]** [Or is there any one who could discern the length of the heaven, and how high it is, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?]
 ---
@@ -128,7 +128,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 3]** Wherefore fear not, you that suffer; for healing will be your portion, and a bright light will enlighten you, and you will hear the voice of rest from heaven.
 
-**[Verse 4]** Woe unto you, you sinners, for your riches make you appear like the righteous, but your hearts convict you of being sinners, and this word will be a testimony against 55 you, for a memorial of wickedness.
+**[Verse 4]** Woe unto you, you sinners, for your riches make you appear like the righteous, but your hearts convict you of being sinners, and this word will be a testimony against you, for a memorial of wickedness.
 
 **[Verse 5]** Woe to you who devour the finest of the wheat, and drink the power of the source of the fountain, and tread under foot the lowly with your might.
 
@@ -184,7 +184,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 10]** Now, know you that you are prepared for the day of destruction: wherefore do not hope to live, you sinners, but you shall depart, and die; for you know no ransom; for you are prepared for the day of the great judgment, and for the day of tribulation, and great shame for your spirit.
 
-**[Verse 11]** Woe to you, obstinate of heart, who work wickedness, and eat blood: whence have you good 56 things to eat, and drink, and to be filled?  From all the good things which our Lord, the Most High, has placed in abundance on the earth; and you indeed shall have no peace.
+**[Verse 11]** Woe to you, obstinate of heart, who work wickedness, and eat blood: whence have you good things to eat, and drink, and to be filled?  From all the good things which our Lord, the Most High, has placed in abundance on the earth; and you indeed shall have no peace.
 
 **[Verse 12]** Woe to you who love the deeds of unrighteousness: wherefore do you hope for good hap unto yourselves?  Know that you shall be delivered into the hands of the righteous, and they will cut off your necks, and slay you, and will have no pity upon you.
 
@@ -240,7 +240,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 3]** The horses will walk up to the breast in the blood of sinners, and the chariot will be submerged to its height.
 
-**[Verse 4]** In those days the angels will descend into the 57 secret places, and will gather into one place all those who brought down sin, and the Most High will arise on that day of judgment to execute great judgment amongst sinners.
+**[Verse 4]** In those days the angels will descend into the secret places, and will gather into one place all those who brought down sin, and the Most High will arise on that day of judgment to execute great judgment amongst sinners.
 
 **[Verse 5]** Over the righteous, and holy he will appoint as guardians holy angels to guard them as the apple of an eye until He has made an end of all wickedness, and all sin, and though the righteous sleep a long sleep, they have nought to fear.
 
@@ -278,7 +278,7 @@ Yet sinners fear not the Most High.
 
 **[Verse 3]** All the angels will execute their commands, and will seek to hide themselves from the presence of the Great Glory, and the children of earth will tremble, and quake.  And as for you, you sinners, you are cursed for ever, and you will have no peace.  **[Verse 4]** Fear you not, you souls of the righteous, and be hopeful you that die in righteousness.
 
-**[Verse 5]** Grieve not if your soul descends in grief into Sheol, and that in your life your body has not fared as your goodness deserved but truly as on a day on which you became like the sinners, and on a day of cursing, and chastisement.  **[Verse 6]** When you die the sinners speak over you: as we die, so die the righteous, 58 and what benefit do they reap from their deeds?  Behold, even as we, so do they die in grief, and darkness, and what advantage have they over us?
+**[Verse 5]** Grieve not if your soul descends in grief into Sheol, and that in your life your body has not fared as your goodness deserved but truly as on a day on which you became like the sinners, and on a day of cursing, and chastisement.  **[Verse 6]** When you die the sinners speak over you: as we die, so die the righteous, and what benefit do they reap from their deeds?  Behold, even as we, so do they die in grief, and darkness, and what advantage have they over us?
 
 **[Verse 7]** From henceforth we are equal.  **[Verse 8]** What will they receive, and what will they see forever?  For behold they too have died, and from henceforth forever they will see no light.
 
@@ -302,7 +302,7 @@ Nevertheless they perished, and became as though they had not been, and their so
 
 ## Chapter 104
 
-**[Verse 1]** I swear unto you that in heaven the angels are mindful of you for good before the glory of the Great One: your names are written before the glory of the Great One.  **[Verse 2]** Be hopeful; for aforetime you were put to shame through ills, and affliction; but soon you will shine as the stars of heaven, you will shine, and you will be seen, and the portals of heaven 59 will be opened to you.  **[Verse 3]** Persist in your cry for judgment, and it will appear to you; for all your tribulation will be visited on the rulers, and on all their helpers, and on those who plundered you.
+**[Verse 1]** I swear unto you that in heaven the angels are mindful of you for good before the glory of the Great One: your names are written before the glory of the Great One.  **[Verse 2]** Be hopeful; for aforetime you were put to shame through ills, and affliction; but soon you will shine as the stars of heaven, you will shine, and you will be seen, and the portals of heaven will be opened to you.  **[Verse 3]** Persist in your cry for judgment, and it will appear to you; for all your tribulation will be visited on the rulers, and on all their helpers, and on those who plundered you.
 
 **[Verse 4]** Be hopeful, and cast not away your hope; for you will have great joy as the angels of heaven.  **[Verse 5]** What will you be obliged to do then?  You will not have to hide on the day of the great judgment, and you will not be found as sinners, and the eternal judgment will be far from you for all the generations of the world.
 
