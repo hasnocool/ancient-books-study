@@ -9,7 +9,7 @@
 
 ### Verse 1
 
-One of the four beings went to the white bull and taught him a secret while he trembled. He had been born a bull but became a human being. He built a great vessel—Noah's ark—and lived in it with three other bulls, and they were sheltered inside.
+One of the four beings went to the white bull and taught him a secret while he trembled. He had been born a bull but became a human being. He built a great vessel (Noah) and lived in it with three other bulls, and they were sheltered inside.
 
 ### Verse 2
 
@@ -53,7 +53,7 @@ The animals began biting one another. The white bull born among them fathered a 
 
 ### Verse 12
 
-The bull born from him fathered a black wild boar and a white sheep. The wild boar produced many boars, while the sheep—Jacob—fathered twelve sheep.
+The bull born from him fathered a black wild boar and a white sheep. The wild boar produced many boars, while the sheep (Jacob) fathered twelve sheep.
 
 ### Verse 13
 
@@ -97,7 +97,7 @@ The Lord of the sheep went with them as their leader, and all his sheep followed
 
 ### Verse 23
 
-The wolves pursued the sheep until they reached a sea of water, the Red Sea.
+The wolves pursued the sheep until they reached a sea of water (Red Sea).
 
 ### Verse 24
 
@@ -109,7 +109,7 @@ The wolves could not see the sheep as they entered the middle of the sea. The wo
 
 ### Verse 26
 
-When the wolves saw the Lord of the sheep, they turned and tried to flee from him. But the sea came together again and returned to its natural state. The water surged upward and covered the wolves, the Egyptians.
+When the wolves saw the Lord of the sheep, they turned and tried to flee from him. But the sea came together again and returned to its natural state. The water surged upward and covered those wolves (Egyptians).
 
 ### Verse 27
 
@@ -153,11 +153,11 @@ I watched until that sheep became a man and built a house for the Lord of the sh
 
 ### Verse 37
 
-I watched until the sheep that had met the leader fell asleep—this was Moses. I saw all the great sheep perish, and smaller sheep arise in their place. They came to a pasture and approached a stream of water, the Jordan.
+I watched until the sheep that had met the leader fell asleep (Moses). I saw all the great sheep perish, and smaller sheep arise in their place. They came to a pasture and approached a stream of water (Jordan).
 
 ### Verse 38
 
-Then the sheep that had led them and become a man—Joshua—left them and fell asleep. All the sheep searched for him and mourned loudly.
+Then the sheep that had led them and become a man (Joshua) left them and fell asleep. All the sheep searched for him and mourned loudly.
 
 ### Verse 39
 
@@ -193,11 +193,11 @@ The new ram went to the other ram and spoke with him privately. He raised him to
 
 ### Verse 47
 
-The first ram, Saul, pursued the second ram, David. The second ram rose up and fled from him. I watched until the dogs brought down the first ram.
+The first ram (Saul) pursued the second ram (David). The second ram rose up and fled from him. I watched until the dogs brought down the first ram.
 
 ### Verse 48
 
-The second ram arose and led the sheep. He fathered many sheep and then fell asleep. A small sheep took his place and became a ram, prince, and leader of the flock—Solomon.
+The second ram arose and led the sheep. He fathered many sheep and then fell asleep. A small sheep took his place and became a ram, prince (Solomon), and leader of the flock.
 
 ### Verse 49
 
@@ -205,7 +205,7 @@ The sheep grew and multiplied. All the dogs, foxes, and wild boars feared them a
 
 ### Verse 50
 
-The house became large and broad, and a great, lofty tower was built for the sheep. The tower was built above the house of the Lord of the sheep. The house itself was low, but the tower rose high. The Lord of the sheep stood upon the tower, and a full table was placed before him. This represents the Temple.
+The house became large and broad, and a great, lofty tower was built for the sheep. The tower was built above the house of the Lord of the sheep. The house itself was low, but the tower rose high. The Lord of the sheep stood upon the tower, and a full table was placed before him. The source identifies this structure with the Temple.
 
 ### Verse 51
 
@@ -213,7 +213,7 @@ Again I saw the sheep stray and wander along many paths. They abandoned their ho
 
 ### Verse 52
 
-One of them was spared and not killed. It escaped—this was Elijah—and cried out loudly against the sheep. They wanted to kill it, but the Lord of the sheep rescued it, brought it up to me, and caused it to dwell with me.
+One of them was spared and not killed. It escaped (Elyah) and cried out loudly against the sheep. They wanted to kill it, but the Lord of the sheep rescued it, brought it up to me, and caused it to dwell with me.
 
 ### Verse 53
 
@@ -297,7 +297,7 @@ Immediately I saw the shepherds tending the flock for twelve hours. Then three s
 
 ### Verse 73
 
-They began rebuilding as before—the Second Temple—and raised the tower again, calling it the high tower. They placed a table before the tower once more, but all the bread upon it was polluted and impure.
+They began rebuilding as before (2nd Temple) and raised the tower again, calling it the high tower. They placed a table before the tower once more, but all the bread upon it was polluted and impure.
 
 ### Verse 74
 
