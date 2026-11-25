@@ -6,7 +6,7 @@
 **Editorial method:** Complete modernization of all 20 numbered units in the repository transcription. Archaic wording is updated while the source sequence and substance are retained. This is not a new translation from the Ethiopic, and the repository transcription has not been verified as a verbatim copy of the 1893 Charles/Dillmann printing.
 
 
-**Textual caution:** The source numbering skips verse 13 and contains two successive verses numbered 14. Both occurrences are preserved, and no missing verse is invented.
+**Textual caution:** The combined repository archive transcription accidentally assigns verse 14 to both the four year-division leaders and their subordinate leaders. The 1893 printed text numbers those passages 13 and 14, respectively. This modernized derivative uses the corrected historical sequence; the underlying archival source is not altered.
 
 ---
 
@@ -90,7 +90,7 @@ These are the signs seen on earth during his days: intense heat and dryness. The
 
 These are the names and appointed orders of the leaders over those thousands: Gedael, Keel, and Heel, together with the additional head over a thousand, Asfael. The days of their authority then come to an end.
 
-**1893 numbering note:** The authentic 1893 printed text numbers the names of the four year-section leaders as verse 13, followed by verse 14 for the names of those who serve under them. The repository base had accidentally labelled the first of these passages verse 14, creating a duplicate. The modernization now restores the printed sequence 12, 13, 14, 15–20; no verse has been invented or omitted.
+**1893 numbering note:** The authentic 1893 printed text numbers the names of the four year-section leaders as verse 13, followed by verse 14 for the subordinate leaders. The combined archive source accidentally labelled the first passage verse 14, creating a duplicate. This modernization follows the printed sequence 12, 13, 14, 15–20; no verse has been invented or omitted.
 
 ---
 
