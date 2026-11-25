@@ -45,7 +45,7 @@ You have spoken blasphemy and committed injustice. You have made yourselves read
 
 ### Verse 10
 
-This is what I declare to you: The One who created you will bring you down. No one will show compassion when you fall, and your Creator will take satisfaction in the destruction of your wrongdoing.
+This is what I declare to you: The One who created you will bring you down. No one will show compassion when you fall, and your Creator will rejoice at your destruction.
 
 ### Verse 11
 
