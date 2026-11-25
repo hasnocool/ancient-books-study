@@ -22,8 +22,9 @@ This directory contains modern-language adaptations of historical texts. These a
 |---|---|
 | **Drafted** | A derivative file exists; editorial review may remain. |
 | **Structurally checked** | Chapter/section and verse labels have been checked against the selected formatted source. |
-| **Semantic review pending** | No independent verse-by-verse assessment of meaning has been completed. |
-| **Facsimile collation pending** | The underlying source transcription has not been fully collated against the identified historical edition. |
+| **First-pass semantic review complete** | An assistant-led verse-by-verse comparison and correction log exist; this is not independent approval. |
+| **Independent human review pending** | A second reviewer has not yet approved every verse and resolved flagged interpretations. |
+| **Facsimile collation pending** | Searchable text-layer comparisons do not replace page-image collation of the identified historical edition. |
 | **Reviewed** | A documented human review has assessed fidelity, with issues and evidence recorded. |
 
 Do not use **Verified** as a blanket status when only file coverage or numbering has been checked.
