@@ -43,7 +43,7 @@ Michael said to me: “What vision has disturbed you so greatly? Until this day,
 
 ### Verse 9
 
-“The male creature is called Behemoth. He occupies a desolate wilderness named Dendain, east of the garden where the chosen and righteous dwell. It is the place where my grandfather was taken up—Enoch, the seventh from Adam, the first human being created by the Lord of Spirits.”
+“The male creature is called Behemoth. His chest occupies a desolate wilderness named Dendain, east of the garden where the chosen and righteous dwell. It is the place where my grandfather was taken up—Enoch, the seventh from Adam, the first human being created by the Lord of Spirits.”
 
 ### Verse 10
 
