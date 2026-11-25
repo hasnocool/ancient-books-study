@@ -1,6 +1,6 @@
 # 1 Enoch — Historical Source Collation Log
 
-**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Page-image mapping and retrieval for the 1893 scan (printed pp. 55–308) are recorded as complete; individual visual inspection is recorded for pp. 55–74 only, while pp. 75–308 remain to be inspected page by page. A Cornell/Internet Archive facsimile has been added inside `pdfs/`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
+**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Page-image mapping and retrieval for the 1893 scan (printed pp. 55–308) are recorded as complete; individual visual inspection is recorded for pp. 55–74 only, while pp. 75–308 remain to be inspected page by page. A Cornell/Internet Archive facsimile is stored at `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
 **Primary reference:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
 ## Primary facsimile and catalog records
@@ -634,3 +634,8 @@ The seven PDFs and their inventory README were moved from the former `enoch-edit
 Visual inspection confirms that the leaf continues the Noah birth narrative from 106:12, prints 106:13–19, places the giants-production clause immediately after 106:14, and begins Chapter 107 at the foot of the page. This is image evidence from the tenth impression (1962) of the SPCK edition first published in 1917. It closes the page-152 image gap; it does not constitute a full line-by-line collation of every reading on the page, and it does not alter the repository's selected wording or order.
 
 The 1893 Clarendon page-image task remains separate and outstanding: printed pp.55–308 have not received systematic visual proofing.
+
+
+## Repository PDF path and inventory correction — 25 November 2026
+
+A live GitHub tree check confirms that the eight PDF artifacts are stored under `pdfs/enoch-editions/`, not directly under `pdfs/`. The inventory is maintained in `pdfs/README.md`. Earlier statements in this log that refer generically to files in `pdfs/` describe the parent collection, not the exact file paths. The Cornell 1893 scan used for this audit is `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf` (Git blob `38be2b5e0e95779f92dcb19a745fc654b010b711`). The PDF's presence in GitHub does not by itself make its page pixels available to the current inspection tools; no additional page is marked image-checked by this path correction.
