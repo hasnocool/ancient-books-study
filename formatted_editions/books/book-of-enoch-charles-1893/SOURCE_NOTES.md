@@ -87,7 +87,7 @@ The `pdfs/enoch-editions/` directory contains eight PDFs: two older project tran
 ### Page-image review status
 
 - **1893:** The new Cornell scan is now available inside this repository, but a systematic visual collation of printed pp. 55–308 remains outstanding. Earlier assistant-led sequential work used the searchable OCR and critical apparatus; it must not be described as full page-image proofing.
-- **1917:** Printed pp. 150, 151, 153, and 154 have been visually inspected in the full scan. Printed p. 152 remains uninspected because image retrieval failed. The full scan's text layer for Chapters 105–108 has been reviewed, so p. 152 is a missing image check, not missing text.
+- **1917:** Printed pp. 150–154, including p. 152, have been visually inspected in the full SPCK scan. Printed p. 152 maps to zero-based PDF index 153 in the 160-page scan. The full scan's text layer for Chapters 105–108 has also been reviewed.
 - The older 101-page project transcription ending at 107:3 is not evidence for the complete 1917 edition and cannot substitute for the full scan of Chapter 108.
 
 ### Editorial consequence
