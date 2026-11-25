@@ -19,7 +19,7 @@ The eight PDF files are stored in `pdfs/enoch-editions/`; this README is stored 
 
 ### 1893 Clarendon Press
 
-The 1893 main translated text covers Chapters 1–104, printed pp. 57–308. The volume also contains extensive introduction, apparatus, appendices, and fragmentary material. Appendix E separately includes a New Latin fragment of 1 Enoch 106:1–18; that fragment is not a complete 1893 main-text edition of Chapters 105–108.
+The five core translated sections in the 1893 volume cover Chapters 1–104, with Section V labelled XCI–CIV. The printed translation pagination continues with CV on p.301 and CVI–CVIII on pp.302–308 as distinct appended units: CVI–CVII are the Noah fragment and CVIII an independent addition. The volume also contains extensive introduction, apparatus, and appendices. Appendix E separately includes a New Latin fragment of 1 Enoch 106:1–18 on pp.372–375; that Latin witness is distinct from the Ethiopic translation of CVI on pp.302–304.
 
 The Cornell, OpusMagnum, and University of Toronto PDFs are separate repository files of the same bibliographic edition. Their scan-page counts differ (428, 420, and 424 respectively); do not equate PDF page index with the printed page number. The 418-page University of Michigan / Google Books digitization is another external reference, not one of the eight files stored here.
 
@@ -31,7 +31,7 @@ Useful provenance records:
 
 ### 1912 Clarendon Press second edition
 
-This is a revised and substantially recast edition, not a facsimile of the 1893 printing. The University of Toronto / Robarts copy is catalogued as a 454-page Internet Archive scan. Its contents identify Section V (Chapters 91–104), a separate fragment of the Book of Noah (Chapters 106–107), and Chapter 108 in a later section. It therefore provides a useful additional witness for portions of Chapters 106–108, but it does not supply Chapter 105 as a replacement for the 1917 text.
+This is a revised and substantially recast edition, not a facsimile of the 1893 printing. The University of Toronto / Robarts copy is catalogued as a 454-page Internet Archive scan. Its contents identify Section V (Chapters 91–104), a separate fragment of the Book of Noah (Chapters 106–107), and Chapter 108 in a later section. It therefore provides a useful additional witness for portions of Chapters 106–108; the 1893 printed pages themselves include CV–CVIII as separately presented units.
 
 The scanned copy's title-page date is 1912. Its 454-page pagination is different from the 1893 and 1917 scans. See [Source Library's catalogue and page record](https://kloss.sourcelibrary.org/book/the-book-of-enoch-or-1-enoch-charles).
 
