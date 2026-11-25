@@ -5,7 +5,7 @@ A public text corpus for studying ancient literature, religious traditions, hist
 The repository is primarily a **document collection**, not an application. Most files are plain-text extracts or digitized book text. A few small files are placeholders or incomplete scans.
 
 ## Repository layout
-
+ 
 | Directory | Contents |
 |---|---|
 | [`books_01/`](./books_01/) | Religious texts, translations, Enoch literature, Gnostic writings, epic literature, and historical/scientific works. |
@@ -13,13 +13,11 @@ The repository is primarily a **document collection**, not an application. Most 
 | [`books_03/`](./books_03/) | Pseudepigrapha, Egyptology, chemistry, mythology, classical texts, and comparative ancient literature. |
 | [`books_04/`](./books_04/) | Enochic and Hermetic literature, ancient science and medicine, papyri, Kabbalah, archaeology, and astronautic or alternative-history works. |
 | [`books_05/`](./books_05/) | A broader combined collection covering architecture, archaeology, ancient engineering, translations, religious texts, and esoteric studies. |
+| [`copyrighted_works/`](./copyrighted_works/) | **Restricted works** — copyrighted translations/editions preserved for archival/research only; not for redistribution or derivative creation. |
 | [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading editions, editorial standards, templates, and progress catalog. |
 | [`pdfs/`](./pdfs/) | Source PDFs and digitized 1 Enoch editions, with provenance notes and scan-verification status. |
 | [`modernized_editions/`](./modernized_editions/) | Clearly labelled modern-language adaptations kept separate from archival and faithful formatted source texts. |
 | [`docs/`](./docs/) | Usage guidance, audit standards, and repository maintenance documentation. |
-
-The numbered directories record collection batches or additions rather than strict subject taxonomies. Some documents are duplicated between directories under the same or slightly different filenames.
-
 ## Example texts
 
 - [`New King James Version 1982 NKJV.txt`](./books_01/New%20King%20James%20Version%201982%20NKJV.txt)
@@ -65,6 +63,7 @@ For substantial research, copy only the desired texts into a dedicated corpus di
 - Titles with different filenames may represent duplicate content, revised extracts, or different editions.
 - A number of entries are empty (`0` bytes), especially some scanner/OCR placeholders. Other files may contain incomplete or unusually formatted text.
 - The collection includes conventional scholarship, alternative interpretations, religious polemic, pseudoscience, and disputed claims. Presence in this repository does not imply endorsement or factual accuracy.
+- **Copyrighted works** are identified and documented in [`copyrighted_works/`](./copyrighted_works/) with full provenance metadata. These are preserved for archival/research purposes only and must not be redistributed or used for derivative works without permission.
 
 ## Reading and research guidance
 
@@ -77,20 +76,22 @@ See [`docs/AUDIT_STANDARDS.md`](./docs/AUDIT_STANDARDS.md) for the repository's 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for rules on adding or correcting documents.
 
 ## Rights and provenance
-
+ 
 No repository-wide license is currently declared. Individual works may be public domain, licensed, copyrighted, or of uncertain status. Do not assume that any file is freely reusable merely because it is in this repository.
-
+ 
+**Copyrighted works are catalogued in [`copyrighted_works/`](./copyrighted_works/) with detailed provenance, rights holder contacts, and public-domain alternative recommendations.**
+ 
 Before redistributing or publishing text from this collection, verify:
-
+ 
 1. the source and edition;
 2. applicable copyright or public-domain status;
 3. any restrictions on translations or modern scholarly editions;
 4. the provenance and license of OCR or transcription data.
-
+ 
 Report provenance or copyright concerns through a GitHub issue with the exact filename and relevant details.
-
+ 
 ## Contributing
-
+ 
 Contributions are welcome, especially source metadata, duplicate identification, OCR corrections, and verified public-domain or appropriately licensed texts.
-
+ 
 Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before proposing changes.
