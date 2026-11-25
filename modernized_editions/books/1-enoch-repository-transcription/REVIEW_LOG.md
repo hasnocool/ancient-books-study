@@ -37,6 +37,9 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 | 19–30 | Reviewed; no material verse-body omission found | Corrected future tense in 19:1, retained “vengeance” in 20:4, removed an interpretive “hollow” from 22:1, restored the source's ambiguous “revilers” in 22:11, and retained the source wording in 25:2, 25:4, 27:1, 27:4, and 29:2. |
 | 31–36 | Reviewed; no material verse-body omission found | Checked botanical terms, locations, directions, gates, winds, and repeated structural details. Changed 34:2 to retain the source plural “north winds.” |
 | 37–42 | Reviewed; no material verse-body omission found | Reviewed genealogy, wisdom/parable framing, judgment, place names, the damaged 39:2 note, angelic roles, and source-marked interpolations. Changed 40:7 to retain “Satans” alongside its explanatory meaning “adversaries.” |
+| 43–48 | Reviewed; no material verse-body omission found | Preserved the full-chapter interpolation in 43, the unnumbered interpolation in 44, “souls” in 45:3, the title “Head of Days” in 46:1, and the source's “avenger” wording in 48:7. |
+| 49–54 | Reviewed; no material verse-body omission found | Checked the Chosen One descriptions, the full-chapter interpolation in 50, resurrection language, the metal list and measures, Satan references, and the Noachic interpolation in 54. |
+| 55–60 | Reviewed; no material verse-body omission found | Verified the interpolation boundaries across 55–57 and the whole-chapter interpolations in 59–60. Removed an unsupported “destined for punishment” interpretation in 56:3–4; preserved the ambiguous date wording and Behemoth's chest description in 60:1 and 60:9. |
 
 Reviewers should continue checking names, numbers, measures, directions, sequence, agency, and interpretive additions—not only whether each numbered unit exists.
 
