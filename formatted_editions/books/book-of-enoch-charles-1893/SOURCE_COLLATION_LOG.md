@@ -646,3 +646,10 @@ A live GitHub tree check confirms that the eight PDF artifacts are stored under 
 A page-referenced searchable-text collation of Cornell extraction labels PAGE 77–84 (BookReader leaves n76–n83; printed pp.55–62) has been added in [`CORNELL_TEXT_LAYER_COLLATION_PP55-62.md`](CORNELL_TEXT_LAYER_COLLATION_PP55-62.md). It separates Charles's Section I introduction, English translation, critical apparatus, and the Greek Syncellus parallel; records representative differences from the repository's formatted Chapters 1–6; and lists OCR/layout defects separately from textual differences.
 
 This is OCR/text-layer evidence only. It is not visual page-image proofing, does not establish a complete line-by-line collation, and does not change the 1893 image-proofing count or the repository transcription. In particular, V.8 (“Then too will wisdom…” / repository “Then to wisdom…”) and the VI.3 name require image confirmation before any correction is proposed.
+
+
+## Chapter 89 editorial-identification audit and text-layer collation — printed pp.231–247 — 25 November 2026
+
+The formatted Chapter 89 has been audited against the Cornell/Internet Archive searchable text and Charles's critical/exegetical notes. Thirteen repository-added parenthetical historical/geographical glosses were removed from the running translation and moved to a labelled editorial-identifications register after the chapter. Charles's own parenthetical clarification at 89:15 was retained. The audit corrected two misassigned identifications: 89:37 is Aaron (with the Exodus generation and Jordan context), while 89:38 is Moses; Joshua belongs among the later leaders at 89:39. The report records the identification register, evidence levels, and text-layer observations: [CHAPTER_89_IDENTIFICATION_AUDIT_AND_COLLATION_PP231-247.md](CHAPTER_89_IDENTIFICATION_AUDIT_AND_COLLATION_PP231-247.md).
+
+**Evidence boundary:** searchable-text and commentary collation only; not page-image proofing or a complete diplomatic collation. The 1893 image-proofing ledger is unchanged. The verse wording itself was not rewritten beyond removing repository-added parenthetical glosses from the running text.
