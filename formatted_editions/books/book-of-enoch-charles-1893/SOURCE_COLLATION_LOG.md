@@ -163,7 +163,7 @@ The 1893 contents label Section V as XCI–CIV, while the printed translation co
 - **Scan comparator:** [1917 SPCK scan on Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf).
 - **Supplemental 1917 text/manuscript cross-check:** [Theosis Library: 1 Enoch 91–108](https://theosislibrary.com/library/verified-enoch-ethiopic-epistle). Its editorial provenance explicitly identifies the English text as Charles 1917 from Project Gutenberg eBook 77935, and displays the Dillmann 1851 Ethiopic text alongside mapped photographs of Rylands Ethiopic MS 23. The photos provide manuscript-level corroboration for chapter boundaries and the underlying Ethiopic tradition; they are not photographs of the 1917 SPCK printed pages and do not close the missing SPCK p.152 image.
 
-The 1917 introduction classifies Chapter CV (105) as a two-verse section of uncertain date, Chapters CVI–CVII (106–107) as the “Fragment of the Book of Noah,” and Chapter CVIII (108) as an appendix. It also states that the reprinted translation is that of Charles's 1912 second edition. This is a much better-defined witness for comparison than an unattributed assumption that these chapters belong to the 1893 main translation.
+The 1917 introduction classifies Chapter CV (105) as a two-verse section of uncertain date, Chapters CVI–CVII (106–107) as the “Fragment of the Book of Noah,” and Chapter CVIII (108) as an appendix. It also states that the reprinted translation is that of Charles's 1912 second edition. This is a useful parallel witness for comparison with the 1893 printed units, which are also present on pp.301–308.
 
 A verse-by-verse comparison of the available 1917 text layer for Chapters 105–108 confirms:
 - 106:3 retains the newborn's opening of his mouth and his conversation with the Lord of Righteousness;
@@ -193,7 +193,7 @@ The modernization corrections to 106:3 and 106:16 preserve these source details.
 - **Chapter 108:11:** 1917 says the faithful were not recompensed with the honour their faithfulness deserved; the repository recasts this as those who “did not seek honour” in the flesh. This changes agency and is noted as consequential.
 - **Chapter 108:14:** 1917 says those born in darkness are “led into darkness”; the repository says they are “cast into darkness.”
 
-The 1917 front matter explicitly identifies the text as a reprint of Charles's 1912 second edition. It is therefore a separately identified parallel witness for comparison, not a substitute for the 1893 printed text layer on pp.301–308. Chapters CV–CVIII are present in the 1893 volume as separately presented units after Section V's XCI–CIV composition.
+The 1917 front matter explicitly identifies the text as a reprint of Charles's 1912 second edition. It is therefore a separately identified parallel witness for comparison with the 1893 printed text layer on pp.301–308. Chapters CV–CVIII are present in the 1893 volume as separately presented units after Section V's XCI–CIV composition.
 
 The 1917 edition also preserves a different placement for the Apocalypse of Weeks material associated with Chapter 91. Its editorial arrangement places 91:12–17 after the material now numbered 93:1–10, rather than keeping those six verses in the Chapter 91 sequence. The modernized edition deliberately follows the selected repository transcription: Chapter 91 remains in its repository sequence, with 91:11 marked as interpolation and 91:12–17 left in place. This is a documented witness/arrangement variant, not a silent correction. The chapter files must therefore be described as a repository-sequence modernization, not as a reproduction of the 1917 order.
 
@@ -262,7 +262,7 @@ The 1917 searchable text layer was compared verse-by-verse for Chapters 105–10
 - [ ] Complete page-image proofing and a full word-by-word collation of Chapters 72–82 against 1893 pages 191–219.
 - [ ] Complete page-image proofing and a full word-by-word collation of Chapters 83–90 against 1893 pages 223–259.
 - [ ] Complete page-image proofing and a full word-by-word collation of Chapters 91–104 against 1893 pages 265–308.
-- [x] Complete the sequential assistant-led searchable-text / critical-apparatus pass for the 1893 main translation, Chapters 1–104; findings are recorded above. This is not a complete manuscript-variant audit or visual proof.
+- [x] Complete the sequential assistant-led searchable-text / critical-apparatus pass for the 1893 printed translation pages pp.55–308, including appended units CV–CVIII; findings are recorded above. This is a targeted text-layer pass, not a complete manuscript-variant audit or visual proof.
 - [x] Compare Chapters 105–108 verse by verse against the 1917 Charles/Oesterley text layer; differences and the Chapter 106 rearrangement are recorded above.
 - [ ] Retrieve and inspect the missing 1917 printed p. 152 image; the checked images currently cover pp. 150–151 and 153–154.
 - [ ] Have an independent second reviewer check all 108 modernized chapters and unresolved or consequential historical readings.
@@ -696,3 +696,10 @@ The 1893 contents label Section V as XCI–CIV, while the translation pagination
 The earlier attempt to exclude CV–CVIII from the 1893 volume was incorrect and is superseded. The corrected report [CHAPTERS_100-105_COLLATION_PP288-301.md](CHAPTERS_100-105_COLLATION_PP288-301.md) records CV.1–2 and its printed closing “Amen.” The text-layer collation of pp.302–308 is recorded in [CHAPTERS_106-108_COLLATION_PP302-308.md](CHAPTERS_106-108_COLLATION_PP302-308.md). The 1917 Charles/Oesterley witness remains a parallel later witness for comparison, not the sole basis for these chapters.
 
 This clarification does not establish full facsimile proofing. The IMAGE_PROOFING_LOG reports 234 images retrieved for pp.75–308, but they are not individually checked. In this session, attempts to reopen BookReader medium/large images, the IIIF manifest, and ArchiveLab page endpoints did not return pixels. The individually inspected count remains 20 / 254. Independent human approval remains outstanding.
+
+
+## Chapters CVI–CVIII text-layer and apparatus collation — printed pp.302–308 — 25 November 2026
+
+The collation is recorded in [CHAPTERS_106-108_COLLATION_PP302-308.md](CHAPTERS_106-108_COLLATION_PP302-308.md). The report distinguishes the 1893 Ethiopic translation on pp.302–308 from the separate Latin CVI.1–18 fragment in Appendix E (pp.372–375), and from the parallel 1917 Charles/Oesterley witness. It records Charles's explicit identification of CVI–CVII as a Noah Apocalypse fragment and CVIII as an independent addition. Textual decisions include the G/G1/M variants in CVI.9–16 and CVII.1–3, Charles's omission of unsupported Dillmann wording at CVI.16, the proposed relocation of the first half of CVI.17 after v.14, and variants in CVIII.2–3 and 11–15.
+
+**Evidence boundary:** Cornell OCR/text-layer and apparatus only. No page pixels for pp.302–308 (BookReader n323–n329) were inspected. The IMAGE_PROOFING_LOG reports these images as retrieved but not individually checked. The visual proofing count remains 20 / 254. Independent human approval remains outstanding.
