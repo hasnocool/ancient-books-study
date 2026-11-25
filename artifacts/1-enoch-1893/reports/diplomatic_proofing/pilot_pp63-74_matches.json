@@ -1,0 +1,121 @@
+{
+  "pages_processed": [
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
+  ],
+  "repo_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "total_ocr_segments": 105,
+  "total_matches": 7,
+  "matches": [
+    {
+      "page": 63,
+      "ocr_excerpt": "him and spake: \u2018Let us all\nswear an oath, and bind our-\nselves by mutual imprecations\nnot to abandon this plan but\nto carry it into execution.\u2019\n5- Then sware they all to-\ngether and bound themselves\nb",
+      "repo_chapter": 6,
+      "repo_verse": 4,
+      "repo_excerpt": "Then answered all unto him, and spoke: \u2014Let us all swear an oath, and bind ourselves by mutual imprecations, not to abandon this plan, but to carry it into execution.",
+      "similarity": 0.754,
+      "status": "partial"
+    },
+    {
+      "page": 64,
+      "ocr_excerpt": "Mount Hermon, and they\ncalled it Mount Hermon, be-\ncause they had sworn and\nbound themselves by mutual\nimprecations upon it. s\nAnd theseare the namesof their\nleaders : Semjazi, their leader,\nUrikibara",
+      "repo_chapter": 6,
+      "repo_verse": 6,
+      "repo_excerpt": "They descended in the days of Jared on the summit of Mount Hermon, and they called it Mount Hermon, because they had sworn, and bound themselves by mutual imprecations upon it.",
+      "similarity": 0.649,
+      "status": "partial"
+    },
+    {
+      "page": 64,
+      "ocr_excerpt": "VII. 1. And they took unto\nthemselves wives, and each\nchose for himself one, and\nthey began to go in unto them\nand they mixed with them,",
+      "repo_chapter": 7,
+      "repo_verse": 1,
+      "repo_excerpt": "They took unto themselves wives, and each chose for himself one, and they began to go in unto them, and they mixed with them, and taught them charms, and enchantments, and made them acquainted with th",
+      "similarity": 0.732,
+      "status": "partial"
+    },
+    {
+      "page": 67,
+      "ocr_excerpt": "IX. 1. Then Michael, Ga-\nbriel, Surjan and Urjan, looked\ndown from heaven and saw\nthe great quantity of blood\nthat had been shed upon the\nearth, and all the wrong that\nhad been wrought upon the\nearth.",
+      "repo_chapter": 9,
+      "repo_verse": 1,
+      "repo_excerpt": "Then Michael, Gabriel, Surjan, and Urjan, looked down from heaven, and saw the great quantity of blood that had been shed upon the earth, and all the wrong that had been wrought upon the earth.",
+      "similarity": 0.972,
+      "status": "matched"
+    },
+    {
+      "page": 69,
+      "ocr_excerpt": "3. And now to you, ye holy\nones of heaven, complain the\nsouls of men, saying, \u201cprocure\nus justice with the Most\nHigh\u201d\u201d> 4. And they spake\nto their Lord the King:  Lord\nof Lords, God of Gods, King\nof K",
+      "repo_chapter": 9,
+      "repo_verse": 3,
+      "repo_excerpt": "Now to you, holy ones of heaven, complain the souls of men, saying, procure us justice with the Most High",
+      "similarity": 0.682,
+      "status": "partial"
+    },
+    {
+      "page": 72,
+      "ocr_excerpt": "and foot, and place him in the\ndarkness: make an opening\nin the desert, which is in Du-\nda\u00e9l, and place him therein.\n5. And place upon him rough\nand jagg\u00e9d rocks, and cover\nhim with darkness, and let\n",
+      "repo_chapter": 10,
+      "repo_verse": 4,
+      "repo_excerpt": "Again the Lord spoke to Rafael: \u2014Bind Azazel hand, and foot, and place him in the darkness: make an opening in the desert, which is in Dudael, and place him therein.",
+      "similarity": 0.619,
+      "status": "partial"
+    },
+    {
+      "page": 73,
+      "ocr_excerpt": "7. And heal the earth which\nthe angels have defiled, and\nproclaim the healing of the\nearth, that I will heal the\nearth, and that all the children\nof men shall not perish through\nall the secret things ",
+      "repo_chapter": 10,
+      "repo_verse": 7,
+      "repo_excerpt": "Heal the earth which the angels have defiled, and proclaim the healing of the earth, that I will heal the earth, and that all the children of men shall not perish through all the secret things that th",
+      "similarity": 0.96,
+      "status": "matched"
+    }
+  ]
+}
