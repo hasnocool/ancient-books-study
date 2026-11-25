@@ -43,7 +43,7 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 | 61–66 | Reviewed; no material verse-body omission found | Checked the measuring cords and measures, the angelic hosts, judgment language, the four/powers catalogue, and the Noachic interpolation across Chapters 65–66. Corrected 61:5 to remove an added claim about divine power, retained “forms” rather than changing it to “beings” in 64:1, and retained “Satans” with an explanatory gloss in 65:6. |
 | 67–71 | Reviewed; no material verse-body omission found | Checked Noah's wooden structure and the wording of 67:3, all names and the sequence of the 21 angels in 69:2, the boundary between the Noachic interpolation (69:1–25) and the Third Parable (69:26–29), the two-verse Enoch translation in Chapter 70, and the 17-verse vision in Chapter 71. Retained the source ambiguity in 71:14 rather than imposing a capitalized title. |
 | 72–76 | Reviewed; no material verse-body omission found | Checked the 364-day year, the six gates, day/night part counts, lunar fractions, and the directional wind gates. Corrected four “one and thirty” cycles in 72 (verses 13, 19, 25, and 31) to 31 mornings, retained the explicit sixtyfold solar return in 72:35, marked 73:5's source wording as obscure rather than presenting a confident reconstruction, and restored “one window” in 75:7. |
-| 77–82 | Reviewed; no material verse-body omission found | Checked regional divisions, rivers and islands, moon phases, lunar calendar totals, the 177-day/25-week calculation, interpolation brackets in Chapters 80–81, and the duplicate Chapter 82 verse 14 labels. Restored the explicit three 30-day and three 29-day monthly periods in 78:15, and changed 82:3 to retain the source's “will not sleep” wording. |
+| 77–82 | Reviewed; no material verse-body omission found | Checked regional divisions, rivers and islands, moon phases, lunar calendar totals, the 177-day/25-week calculation, interpolation boundaries in Chapters 80–81, and Chapter 82's source numbering. The combined archive source duplicated verse label 14; the formatted and modernized derivatives now correct the first label to 13, matching the authentic 1893 printed sequence. Restored the explicit three 30-day and three 29-day monthly periods in 78:15, and changed 82:3 to retain the source's “will not sleep” wording. |
 | 83–86 | Reviewed; no material verse-body omission found | Checked the collapse vision, prayer, animal identities (Abel and Seth), and the Watchers-as-stars imagery. Revised 86:4 to retain the explicit sexual description rather than reducing it to “mating.” |
 | 87–88 | Reviewed; no material verse-body omission found | Checked the four heavenly beings, the lifting of Enoch, and the binding of the fallen star and other stars. |
 | 89–90 | Reviewed; no material verse-body omission found | Compared the 77-unit animal allegory and the 42-unit shepherd sequence, preserving source identifications and chronology. Removed added interpretations in 89:32, 89:35, and 89:24; retained the source's “twelve hours” in 89:72 and verse-15 interpolation in Chapter 90. |
@@ -112,23 +112,31 @@ These corrections are based on the 1893 searchable text layer. They are not visu
 
 ## Execution and evidence status — 25 November 2026
 
-A live GitHub directory inventory of `modernized_editions/books/1-enoch-repository-transcription/` confirms that the current `main` branch contains **108 chapter files**, numbered `chapter-001.md` through `chapter-108.md`. This verifies file presence only; it does not establish semantic completeness.
+A live GitHub inventory confirms that `modernized_editions/books/1-enoch-repository-transcription/` contains **108 chapter files**, numbered `chapter-001.md` through `chapter-108.md`.
 
-The current review added a targeted **1917 text-layer** comparison for Chapters 91–94 and recorded the arrangement/interpolation findings in the four chapter files, this review log, and the historical collation log. It did not complete the outstanding 1893 collation of Chapters 1–104.
+### Remote structural and text-transfer audit
 
-### Local audit and test execution
+A read-only cross-check was performed against the committed source and modernized files through the GitHub repository connection, in bounded batches to cover every chapter:
 
-The audit README specifies the following standard-library commands:
+- **108/108** formatted source chapter sections were found.
+- **108/108** modernized chapter files were fetched and checked.
+- **108/108** source-versus-modernized verse-label sequences match after the Chapter 82 correction. Known source irregularities (for example Chapter 16's missing verse 3, and the printed duplicate verse labels that are genuinely present elsewhere) remain explicit; Chapter 82's accidental duplicate in the selected archive source is corrected in the reading derivatives to match the 1893 printed 13,14 sequence.
+- **0** verse-length outliers remained after excluding editorial/witness notes from verse bodies. Length ratios were treated only as triage signals, not semantic proof.
+- An independent normalized body-text comparison of the archival `books_02/The Book of Enoch.txt` against the six formatted source files found **108/108 exact normalized chapter-body matches**, with no missing source or formatted chapters. This confirms transfer and layout cleanup only; it does not establish historical accuracy.
+- The parser fixes in `tools/audit_corpus.py` now exclude appended `## 1893 witness notes` and bold inline witness/apparatus notes from verse-length measurements. Regression tests were added. The targeted parser checks were run locally: four cases passed, including parenthetical and dash interpolation labels and both note-exclusion boundaries.
+
+These results are source-derived structural and transfer checks. They are not a fresh independent translation, a complete lexical comparison with the historical witnesses, or independent human approval.
+
+### Local full-suite execution
+
+The repository audit README specifies:
 
 ```bash
 python3 tools/audit_corpus.py all --json-out audit-report.json
 python3 -m unittest discover -s tests -v
 ```
 
-A fresh shallow checkout was attempted to run those commands, but the environment could not resolve `github.com` (`Could not resolve host: github.com`). Consequently, **the repository's Python audit and unit-test suite were not executed** in this pass. This is an environment/network blocker, not a passing or failing test result. The remote inventory is not a substitute for running the local toolkit against the complete working tree.
-
-No GitHub Actions workflow was added or invoked. The audit procedure remains local and does not require paid CI.
-
+A shallow checkout was attempted, but the review environment could not resolve `github.com` (`Could not resolve host: github.com`). The full audit command and full Python unit-test suite therefore **have not been run against a complete local checkout**. The targeted parser regression scenarios were executed independently, but they are not a substitute for the complete suite. No CI workflow was added or invoked; the repository remains configured for local-only auditing without paid GitHub Actions.
 ### Approval boundary
 
 The chapter review log records an assistant-led first-pass comparison. This pass also records targeted witness observations for 91–94. Neither activity is an independent human review. **Independent human verse-by-verse approval remains pending for all 108 chapters**, and no entry should be labelled “human approved” until a named second reviewer has checked the passage and signed the review record.
@@ -280,7 +288,7 @@ This batch is text-layer and critical-apparatus review, not visual collation of 
 The 1893 Section III introduction and text/apparatus were checked for the celestial-physics sequence, Chapters 72–82. Two important corrections were committed:
 
 - **Chapter 81:** Charles regards it as an interpolation / outside the Book of Celestial Physics, but the verse text is not square-bracketed in the 1893 printed translation. The modernization has been corrected to remove false source brackets and record the critical classification separately.
-- **Chapter 82:** Charles says both 82:1–8 and 82:9–20 belong to the original Celestial Physics treatise. The repository had a duplicate verse 14 label: the 1893 print has verse 13 for the four leaders and verse 14 for their subordinates. The modernization's numbering is corrected.
+- **Chapter 82:** Charles says both 82:1–8 and 82:9–20 belong to the original Celestial Physics treatise. The selected combined archive transcription had duplicated verse label 14. The 1893 text layer at printed p.218 numbers the four leaders 13 and their subordinates 14; both the formatted and modernized derivatives now use 13,14. The archival source file remains unmodified.
 - **Chapter 80:** the full chapter is square-bracketed in the 1893 print and is identified by Charles as an addition; existing brackets remain.
 - **Chapters 72–79 and 82:** retained as the main celestial treatise; the 364-day calendar and lunar calculations are preserved as historical text, not normalized to current astronomy.
 
