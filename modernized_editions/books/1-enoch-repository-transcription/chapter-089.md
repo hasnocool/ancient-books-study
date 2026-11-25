@@ -293,7 +293,7 @@ The book was read before the Lord of the sheep. He took it from the scribe, read
 
 ### Verse 72
 
-Immediately I saw the shepherds tending the flock for twelve periods. Then three sheep turned back, came, and entered the ruined place. They began rebuilding the remains of the house. The wild boars tried to stop them but could not.
+Immediately I saw the shepherds tending the flock for twelve hours. Then three sheep turned back, came, and entered the ruined place. They began rebuilding the remains of the house. The wild boars tried to stop them but could not.
 
 ### Verse 73
 
