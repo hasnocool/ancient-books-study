@@ -29,11 +29,11 @@ From that time onward, they were too ashamed of their sins and punishment to spe
 
 ### Verse 6
 
-I wrote their petition and their prayer concerning their spirits. I included the individual deeds for which they asked forgiveness and patience.
+I wrote their petition and their prayer on behalf of their spirit, recording the individual deeds for which they asked forgiveness and forbearance.
 
 ### Verse 7
 
-I went away and sat beside the waters of Dan, in the land of Dan, west of Mount Hermon. I read their petition until I fell asleep.
+I went away and sat beside the waters of Dan, in the land of Dan, to the south-west of Mount Hermon. I read their petition until I fell asleep.
 
 ### Verse 8
 
