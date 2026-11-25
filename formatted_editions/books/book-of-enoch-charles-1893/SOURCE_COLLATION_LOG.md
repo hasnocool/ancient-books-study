@@ -213,7 +213,7 @@ The bracket convention is explicit in the 1917 preliminaries: square brackets en
 Two page-image screenshots were successfully obtained and visually inspected:
 
 - **Printed p. 153:** The page shows the closing text of Chapter 107, including 107:2–3, followed by the heading and beginning of Chapter 108:1–7. It visibly reads in 107:3 that Noah “will comfort the earth after all the destruction.” This confirms the 1917 witness wording against the repository-specific “cause the earth to rejoice in compensation for all the destruction.”
-- **Printed p. 154:** The page shows Chapter 108:8–15 through “Amen.” In 108:4, the witness prints the daggered phrase “†look over† it,” marking an uncertain/corrupt reading under the 1917 notation convention. The repository reading “I could not look thereon” is therefore retained as a separate witness wording, not silently changed to the 1917 phrase.
+- **Printed p. 153:** The page shows Chapter 107:1–3 and Chapter 108:1–7. In 108:4, the witness prints the daggered phrase “†look overt†,” marking an uncertain/corrupt reading under the 1917 notation convention. The repository reading “I could not look thereon” is therefore retained as a separate witness wording, not silently changed to the 1917 phrase. Printed p.154 contains Chapter 108:8–15 through “Amen.”
 
 Attempts to retrieve the other relevant 1917 page images (including the earlier pages containing Chapters 105–107) returned cache-miss or retrieval errors. Accordingly:
 
