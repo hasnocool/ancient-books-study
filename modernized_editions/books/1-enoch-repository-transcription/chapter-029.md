@@ -13,7 +13,7 @@ I went to another place, away from the wilderness, approaching the eastern side 
 
 ### Verse 2
 
-There I saw trees that produce fragrant substances, especially frankincense and myrrh, along with other similar trees.
+There I saw trees of judgment, especially those that produce frankincense and myrrh, along with other similar trees.
 
 ---
 
