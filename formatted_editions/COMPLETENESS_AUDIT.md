@@ -41,6 +41,8 @@ Passing the first check does not automatically pass the second or third. A faith
 - The six files contain the 1 Enoch reading text, not the entire 391-page 1893 Charles volume. The general and special introductions, critical and exegetical notes, appendices, and indices are not included.
 - Textual collation against the 1893 scan is still outstanding. The source compilation's attribution is not proof that its wording is identical to the printed edition.
 
+**1893 scope clarification:** The contents label the five core sections through Chapter CIV (104), but the translation pagination continues through pp.301–308 with CV–CVIII as distinct appended units: CV is outside the XCI–CIV literary composition, CVI–CVII are a Noachian fragment, and CVIII is an independent addition. Appendix E separately prints the Latin CVI.1–18 fragment on pp.372–375. See the 1893 text-layer reports in `formatted_editions/books/book-of-enoch-charles-1893/CHAPTERS_100-105_COLLATION_PP288-301.md` and `CHAPTERS_106-108_COLLATION_PP302-308.md`.
+
 **Assessment:** Complete against the selected repository transcription at the chapter-body and verse-structure formatting level; not a reproduction of the entire 1893 scholarly volume, and not textually verified against the facsimile. The separate 2 Enoch material is maintained in its own formatted edition; its facsimile verification remains outstanding.
 
 ## 3. 2 Enoch — Morfill/Charles (1896)
