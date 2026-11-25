@@ -183,7 +183,7 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 **10.** Lead them out, and send them one against the other, that they may destroy each other in battle: for they shall not have length of days. No request that they make of you will be granted unto their fathers on their behalf although they hope to live an eternal life, and that each one of them will live five hundred years.
 
-**11.** The Lord said unto Michael: —Go, announce to Semjaza, and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness.
+**[11.]** The Lord said unto Michael: —Go, announce to Semjaza, and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness.
 
 **12.** When all their sons have slain one another, and they have seen the destruction of their beloved ones; bind them fast under the hills of the earth for seventy generations until the day of their judgment, and of their consummation, until the judgment which is for ever and ever is consummated.
 
@@ -207,7 +207,7 @@ Again, I observed the days of summer how the sun is above the earth over against
 
 **22.** The earth will be cleansed from all corruption, and from all sin, and from all punishment, and torment, and I will never again send upon it, from generation to generation, for ever.
 
-> **Editorial note:** The 1893 Charles edition brackets verses 1–3 as an interpolated Noah fragment and brackets verse 7 as an interpolation. Square brackets around these verse numbers record that printed structure; the source wording is retained.
+> **Editorial note:** The 1893 Charles edition brackets verses 1–3 as an interpolated Noah fragment and verse 11 as an interpolation. Verse 7 is not bracketed in the printed text. Square brackets around these verse numbers record the printed structure; the source wording is retained.
 
 ---
 
