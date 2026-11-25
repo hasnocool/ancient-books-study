@@ -13,7 +13,7 @@ From there I travelled north to the ends of the earth. There I saw a great and g
 
 ### Verse 2
 
-I saw three open gates in the heavens. From each gate came a north wind. When one of these winds blew, it brought cold, hail, frost, snow, dew, and rain.
+I saw three open gates in the heavens. From each gate came north winds. When one of these winds blew, it brought cold, hail, frost, snow, dew, and rain.
 
 ### Verse 3
 
