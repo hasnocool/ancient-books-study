@@ -48,6 +48,6 @@ They will not be punished throughout their lives, nor will they die through plag
 ## Completeness and editorial notes
 
 - The chapter's 9 numbered verses in the repository transcription are represented.
-- Chapter IV is an unnumbered unit in the cited source edition; it is intentionally not divided into invented verses.
+- Chapter 5 retains its nine numbered verses.
 - No source passage has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter divisions and does not silently substitute another translation's wording or arrangement.
