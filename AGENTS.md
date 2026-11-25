@@ -1,0 +1,78 @@
+# Ancient Books Study — Project Paths & Artifacts Layout
+
+## Root
+`/home/hyperion/Projects/ancient-books-study/`
+
+## Canonical Source PDFs (never modify)
+`pdfs/enoch-editions/`
+- `enoch-1893-clarendon-original.pdf` — Cornell / IA scan (identifier: `cu31924014590545`), 428 pages
+- Other 1893/1912/1917 editions also present
+
+## Research Artifacts
+`artifacts/`
+
+### 1 Enoch — R. H. Charles, 1893
+`artifacts/1-enoch-1893/`
+
+| Subdirectory | Contents |
+|--------------|----------|
+| `page-images/bookreader-medium/` | 12 medium-res BookReader JPEGs (340×569), printed pp.63–74, leaves n84–n95 |
+| `page-images/bookreader-large/` | 10 high-res BookReader JPEGs (1360×2274), printed pp.75–84, leaves n96–n105 |
+| `manifests/bookreader-pages-63-74.json` | Retrieval manifest for pp.63–74 |
+| `manifests/bookreader-pages-75-84-large.json` | Retrieval manifest for pp.75–84 |
+| `ocr/cornell-pdf-ordinals-75-84.txt` | OCR text layer — PDF ordinals 75–84 (printed p.53, pp.55–62; PAGE 76 blank). **Not** printed pp.75–84 |
+| `ocr/cornell-printed-pages-75-84.txt` | Consolidated OCR text for printed pp.75–84 |
+| `reports/collations/` | Collation reports, inventories, verification targets report |
+| `reports/historical/` | Superseded reconciliation reports |
+
+### Cornell Native Scans (1360×2274 JPXDecode from PDF)
+`artifacts/page-images/cornell-native/`
+
+| Subdirectory | Printed Pages | PDF Pages | Files per Page |
+|--------------|---------------|-----------|----------------|
+| `cornell_printed_pp63_84/` | 63–84 | 85–106 | `_full.png` + `.png` + `.txt` |
+| `cornell_printed_pp75_308/` | 75–308 | 97–330 | `_full.png` + `.png` + `.txt` |
+| `cornell_pages_75_84/` | PDF ordinals 75–84 | 75–84 | `_full.png` + `.png` + `.txt` |
+| `cornell_pages_85_106/` | PDF ordinals 85–106 | 85–106 | `_full.png` + `.png` + `.txt` |
+| `cornell_all_pages/` | All | 1–428 | `_full.png` only |
+
+## Key Files
+
+| File | Purpose |
+|------|---------|
+| `AGENTS.md` | This file — project paths and artifacts layout |
+| `artifacts/1-enoch-1893/reports/collations/VERIFICATION_TARGETS_REPORT.md` | 3 verification targets: CII.4 (p.291), CV.2 (p.301), CVI.17 (p.305) |
+| `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md` | pp.75–84 retrieval + OCR inventory |
+| `artifacts/1-enoch-1893/reports/collations/pp63-74-ocr-inventory.md` | pp.63–74 OCR inventory |
+| `artifacts/1-enoch-1893/reports/collations/pp55-62-text-layer-collation.md` | pp.55–62 text-layer collation |
+
+## Proofing Ledger Status
+
+| Metric | Count | Basis |
+|--------|-------|-------|
+| Auditable visual inspections | 0 / 254 | No page individually opened and inspected |
+| Retrieval records (pp.55–74) | 20 | BookReader JPEGs downloaded, not visually inspected |
+| Retrieval records (pp.75–308) | 234 | PDF native scans extracted, not visually inspected |
+
+**Rule:** Successful download ≠ visual verification. Each page must be individually opened and inspected before incrementing the proofing count.
+
+## Downloader
+
+`tools/download_archive_pages.py` — Internet Archive BookReader page image downloader
+
+Example usage (requires network access):
+```
+python tools/download_archive_pages.py \
+  --start-page 63 \
+  --end-page 74 \
+  --prefer-large \
+  --force \
+  --output-dir artifacts/1-enoch-1893/page-images/bookreader-large \
+  --manifest artifacts/1-enoch-1893/manifests/bookreader-pages-63-74-large.json
+```
+
+## Git
+
+- Remote: `https://github.com/hasnocool/ancient-books-study.git`
+- Branch: `main`
+- Large image directories under `artifacts/` are tracked in git (JPEG + PNG files committed with SHA256 manifests)
