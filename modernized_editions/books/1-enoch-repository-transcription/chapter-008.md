@@ -11,7 +11,7 @@
 
 ### Verse 1 — interpolation
 
-[Azazel taught people to make swords, knives, shields, and coats of armour. He showed them how to work with metals and make objects from them. He taught them to make bracelets and ornaments, use antimony, decorate their eyebrows, and work with precious and beautiful stones and coloured dyes. Through these teachings, the world was changed.]
+[Azazel taught people to make swords, knives, shields, and coats of armour. He showed them how to work with metals and make objects from them. He taught them to make bracelets and ornaments, use antimony, decorate their eyelids, and work with precious and beautiful stones and coloured dyes. Through these teachings, the world was changed.]
 
 ### Verse 2 — interpolation
 
@@ -25,7 +25,7 @@
 
 As people perished, they cried out, and their voices rose up to heaven.
 
-**Editorial note:** The source marks verses 1–3 as interpolations. They remain bracketed and separately identified here.
+**Editorial note:** The source marks verses 1–3 as interpolations. They remain bracketed and separately identified here. Charles's 1893 errata, p. xiii, corrects the printed Chapter 8:1 reading “eyebrows” (printed p. 66, line 8) to “eyelids”; this modernization follows the published correction. The repository's formatted base retains “eyebrows,” so this is a disclosed source-based correction.
 
 ---
 
