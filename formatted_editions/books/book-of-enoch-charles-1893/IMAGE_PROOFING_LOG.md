@@ -20,12 +20,32 @@
 
 | Scan | Provenance / identifier | Pages | Access test | Current use |
 |---|---|---:|---|---|
-| Cornell / Internet Archive | `cu31924014590545`; [item record](https://archive.org/details/cu31924014590545) | 428 | Local repository PDF exists; image capture has not yet been completed in this session | Candidate primary scan |
+| Cornell / Internet Archive | `cu31924014590545`; [item record](https://archive.org/details/cu31924014590545) | 428 | IA item record exposes page-number and OCR page-index assets; direct binary retrieval is blocked in this session | Candidate primary scan |
 | OpusMagnum-hosted PDF | [PDF](https://opusmagnum.org/wp-content/uploads/2018/05/The-Book-of-Enoch-by-August-Dillman-1.pdf) | 420 (repository inventory) | PDF text is accessible; page screenshot request failed because the 11.63 MB PDF exceeded the image service's retrieval limit | Candidate fallback; lineage not established |
 | University of Toronto / Knox College | `thebookofenoch00unknuoft`; [item record](https://archive.org/details/thebookofenoch00unknuoft) | 428 | Item metadata confirms the scan; direct PDF retrieval and page-image endpoint were inaccessible in this session | Candidate fallback |
 | University of Michigan / Google Books | `bookenochtransl00dillgoog`; [Commons scan](https://commons.wikimedia.org/wiki/File:The_book_of_Enoch._August_Dillmann,_Robert_Charles._1893_(IA_bookenochtransl00dillgoog).pdf) | 418 | PDF text is accessible; screenshot request failed because the 14.97 MB PDF exceeded the image service's retrieval limit | External fallback |
 
-**Initial access trial (2026-11-25):** The title page, contents, and OCR/text layers were accessible for the Google Books and OpusMagnum scans. The contents identify the 1893 main translation as printed pp. 57–308, with Section I introduction on pp. 55–57. The Cornell scan's Wikimedia Commons multipage-PDF viewer does render an individual page preview (scan page 2 was opened and visually inspected), which is a viable page-image mechanism in principle. However, direct jumps to the required scan-page range were not accessible through the available viewer interface in this session. Full-PDF image capture and direct Internet Archive page-image retrieval also failed. The scan-page-2 preview is only an access test, not part of the target pp. 55–308 proofing scope. These are access failures, not target-page checks. **No printed page is marked image-checked as a result of this trial.**
+## Cornell scan: page-map and image endpoints
+
+The Internet Archive item record identifies the Cornell scan as item `cu31924014590545`, with 428 pages, 300 PPI, and page-number confidence 97. Its download list exposes these exact assets:
+
+| Purpose | Direct asset |
+|---|---|
+| Printed-page labels / page map | [cu31924014590545_page_numbers.json](https://archive.org/download/cu31924014590545/cu31924014590545_page_numbers.json) |
+| OCR page-index map | [cu31924014590545_hocr_pageindex.json.gz](https://archive.org/download/cu31924014590545/cu31924014590545_hocr_pageindex.json.gz) |
+| Processed page-image archive | [cu31924014590545_jp2.zip](https://archive.org/download/cu31924014590545/cu31924014590545_jp2.zip) |
+| Raw Cornell scan archive | [cu31924014590545_cubook.zip](https://archive.org/download/cu31924014590545/cu31924014590545_cubook.zip) |
+| PDF witness | [cu31924014590545.pdf](https://archive.org/download/cu31924014590545/cu31924014590545.pdf) |
+
+Internet Archive's BookReader uses accessible page indexes such as `page/n0`; these are not necessarily the raw scan-leaf numbers. Its documented page APIs also expose page lists and individual page images. Therefore the safe mapping sequence is: parse `page_numbers.json` for printed labels, use the page-index/leaf mapping (and `scandata.xml` where needed) to identify the BookReader index, then fetch the corresponding page image. Do not calculate an index from the printed page number or assume the PDF page index is the BookReader index.
+
+**Endpoint status (2026-11-25):** The Internet Archive item page was opened and its asset links were confirmed. The page-number JSON link resolves to the exact download path above, but the web retrieval layer rejected the archive-host redirect; the OCR page-index and ZIP assets were likewise identified from the item download list but their binary contents could not be fetched in this session. Direct page-image URLs therefore remain a retrieval path to validate, not a completed image inspection. The Commons PDF viewer previously rendered scan page 2 as an access test only. That page is outside the target scope.
+
+**Operational next step:** fetch the page-number JSON and OCR page-index JSON from the links above in an environment with Internet Archive access; parse them into a table containing `printed_page`, BookReader accessible index, raw leaf number, and zero-based PDF page index. Verify the mapping against the printed folio visible in at least two page images before beginning the pp. 55–64 batch.
+
+## Initial access trial (2026-11-25)
+
+The title page, contents, and OCR/text layers were accessible for the Google Books and OpusMagnum scans. The contents identify the 1893 main translation as printed pp. 57–308, with Section I introduction on pp. 55–57. The Cornell scan's Wikimedia Commons multipage-PDF viewer does render an individual page preview (scan page 2 was opened and visually inspected), which is a viable page-image mechanism in principle. However, direct jumps to the required scan-page range were not accessible through the available viewer interface in this session. Full-PDF image capture and direct Internet Archive page-image retrieval also failed. The scan-page-2 preview is only an access test, not part of the target pp. 55–308 proofing scope. These are access failures, not target-page checks. **No printed page is marked image-checked as a result of this trial.**
 
 ## Page-level inspection record
 
