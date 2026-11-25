@@ -85,7 +85,7 @@ Now, my children, I have told you these things. I have shown you the paths of ri
 
 ### Verse 19
 
-Now listen, my children. Walk along the paths of righteousness, and do not walk along the paths of violence. Everyone who follows the paths of unrighteousness will perish forever.
+Now listen, my children. Walk along the paths of righteousness, and do not walk along the paths of violence. Everyone who follows the paths of unrighteousness will perish forever.”
 
 ---
 
