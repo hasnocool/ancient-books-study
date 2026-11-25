@@ -443,3 +443,16 @@ This count is an image-opening count, not a claim that 22 pages have received co
 ### Next batch — pp.85–94
 
 Expected mapping is BookReader leaves n106–n115 and one-based PDF pages 107–116. Repository search found no pp.85–94 large-image manifest, page-image batch, or consolidated OCR extraction. Attempts to access the Internet Archive image endpoint from the current execution environment did not yield image bytes. Therefore pp.85–94 remain **not retrieved and not inspected**; no retrieval or proofing count is advanced for them. The next operation is to obtain the ten high-resolution images and matching page text layer, verify the printed folios, then create the manifest and OCR inventory before individual collation.
+
+
+## Corrected pp.85–94 repository source audit — 25 November 2026
+
+This entry supersedes the preceding statement that no corresponding pp.85–94 source assets existed. A recursive repository check found nine page-specific native PNG blobs and nine OCR text files under `artifacts/page-images/cornell-native/cornell_printed_pp75_308/` for printed pp.85–90 and 92–94. Printed p.91 has neither file in that directory.
+
+The nine PNGs were fetched from GitHub and opened in the image viewer. They render as very dark/unreadable images and cannot serve as proofing evidence. The similarly named `cornell_pages_85_106/` directory contains PDF ordinals 85–106 (printed pp.63–84), not the target pages. No BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` exist in the expected repository directory, and direct Internet Archive retrieval did not return usable image bytes.
+
+Detailed paths, blob SHAs, sizes, and per-page statuses are recorded in:
+- `artifacts/1-enoch-1893/manifests/cornell-printed-pages-85-94-source-audit.json`
+- `artifacts/1-enoch-1893/reports/collations/pp85-94-source-retrieval-audit.md`
+
+**Corrected status:** OCR/text files present 9/10; native PNG blobs present but unusable 9/10; valid high-resolution page images acquired 0/10; individual image inspection 0/10; diplomatic collation 0/10. The pp.85–94 retrieval blocker remains open. No transcription change or proofing-count increase is authorized. Independent human approval remains outstanding.
