@@ -59,7 +59,7 @@ Then daylight increases by two parts, reaching eleven parts, while the night dec
 
 ### Verse 13
 
-The sun returns eastward and enters the sixth gate. It rises and sets through the sixth gate for thirty mornings in succession, according to its appointed course.
+The sun returns eastward and enters the sixth gate. It rises and sets through the sixth gate for thirty-one mornings in succession, according to its appointed course.
 
 ### Verse 14
 
