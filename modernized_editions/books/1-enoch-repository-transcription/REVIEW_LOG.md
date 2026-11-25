@@ -146,7 +146,7 @@ The chapter review log records an assistant-led first-pass comparison. This pass
 Two pages of the identified 1917 Charles/Oesterley scan were visually inspected:
 
 - **Printed p. 153:** End of Chapter 107, including 107:2–3, and beginning of Chapter 108:1–7. The page confirms the 1917 reading in 107:3 that Noah will “comfort the earth after all the destruction,” differing from the selected repository's wording that he will “cause the earth to rejoice in compensation for all the destruction.”
-- **Printed p. 154:** Chapter 108:8–15 through “Amen.” Verse 108:4's “†look over† it” appears as a daggered/corrupt reading in the 1917 print, unlike the repository's “look thereon.”
+- **Printed p. 153:** Chapter 107:1–3 and Chapter 108:1–7. Verse 108:4's “†look overt†” appears as a daggered/corrupt reading in the 1917 print, unlike the repository's “look thereon.” **Printed p. 154** contains Chapter 108:8–15 through “Amen.”
 
 Other needed 1917 page-image captures returned cache-miss errors. Thus the visual review is **partial**: the page range for Chapters 105–106, the beginning of 107, and any lines not visible on pp. 153–154 remain uninspected. Do not mark Chapters 105–108 visually collated. The full text-layer comparison remains useful, but it is not a substitute for page-image proofing.
 
