@@ -317,6 +317,10 @@ The Lord took the book, placed it beside himself, and departed.
 
 ---
 
+## 1893 critical-apparatus note
+
+Charles's Section IV introduction says the latter portion of 89:48 (the clause that the second ram fell asleep and the small sheep took its place as prince and leader) should be read after 89:49. The printed verse text places that clause within verse 48. This modernization retains the printed chapter/verse sequence and records the proposed transposition here; the clause is not omitted or duplicated.
+
 ## Completeness and editorial notes
 
 - All **77 numbered verses** in the repository's Chapter 89 have been rendered individually.
