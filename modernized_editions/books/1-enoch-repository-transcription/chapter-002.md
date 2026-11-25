@@ -24,6 +24,6 @@ Look at summer and winter: the whole earth is filled with water, and clouds, dew
 ## Completeness and editorial notes
 
 - The chapter's 3 numbered verses in the repository transcription are represented.
-- Chapter IV is an unnumbered unit in the cited source edition; it is intentionally not divided into invented verses.
+- Chapter 2 retains its three numbered verses; no unnumbered passage is added.
 - No source passage has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter divisions and does not silently substitute another translation's wording or arrangement.
