@@ -59,11 +59,11 @@ The consolidated extraction contains a page marker for every printed page 75–8
 | High-resolution JPEGs | 10 files committed | Page-image files are present in Git at 1360×2274 per manifest |
 | Consolidated OCR | 10/10 page markers and non-empty sections | Searchable text-layer material for printed pp.75–84 |
 | PDF-native PNGs | Not present in tracked batch | No claim of extracted native PNGs |
-| Individual visual inspection | Pending | No page is counted as image-checked from retrieval alone |
-| Line-by-line diplomatic collation | Pending | OCR is not a substitute for facsimile comparison |
+| Individual visual inspection | Complete for all ten pages (opened individually at original 1360×2274 resolution on 2026-11-25) | Folios and page content visually inspected; see the high-resolution diplomatic collation report |
+| Diplomatic collation | Partial | Targeted English/OCR/edition comparison and selected Greek/apparatus observations are recorded in `pp75-84-high-resolution-diplomatic-collation.md`; exhaustive Greek/Ethiopic/sigla transcription remains outstanding |
 | Independent human review | Pending | No independent approval recorded |
 
-## Next proofing actions
+## Reconciled status — 25 November 2026\n\nAll ten high-resolution JPEGs have now been opened individually in the current session. The earlier pending visual-inspection status above is superseded. The separate report `pp75-84-high-resolution-diplomatic-collation.md` records page-specific image observations, OCR defects, and differences between the 1893 English and the current formatted edition. No edition text was changed. The circles around selected verse numbers are handwritten reader marks, not printed textual brackets. Independent human review remains pending.\n\n## Next proofing actions
 
 1. Open each of the ten high-resolution JPEGs and confirm its printed folio against the leaf mapping.
 2. Compare English translation, Greek parallel, and critical apparatus against the consolidated text layer page by page.
