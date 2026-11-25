@@ -318,6 +318,8 @@ def collect_issues(results: dict) -> list[dict]:
         issues.append(issue("info", "duplicates", group[0], "Exact duplicate content group.", files=group))
     for group in results.get("duplicates", {}).get("normalized_text_duplicate_groups", []):
         issues.append(issue("info", "duplicates", group[0], "Normalized duplicate candidate group.", files=group))
+    for pair in results.get("duplicates", {}).get("near_duplicate_candidate_pairs", []):
+        issues.append(issue("info", "duplicates", pair["files"][0], "Near-duplicate candidate; inspect manually.", **pair))
     issues.extend(results.get("markdown", {}).get("issues", []))
     for record in results.get("provenance", {}).get("records", []):
         if record["missing_metadata"]:
@@ -389,6 +391,11 @@ def main(argv: list[str] | None = None) -> int:
         args.json_out.parent.mkdir(parents=True, exist_ok=True)
         args.json_out.write_text(json.dumps(results, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
         print(f"JSON report written to {args.json_out}")
+    if args.catalog_out:
+        catalog_result = results.get("catalog") or audit_catalog(root)
+        args.catalog_out.parent.mkdir(parents=True, exist_ok=True)
+        args.catalog_out.write_text(catalog_result["markdown_preview"], encoding="utf-8")
+        print(f"Catalog preview written to {args.catalog_out}")
     return 1 if any(row["severity"] == "error" for row in results["issues"]) else 0
 
 if __name__ == "__main__":
