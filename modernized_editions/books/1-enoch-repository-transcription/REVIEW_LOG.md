@@ -71,6 +71,16 @@ The 1917 Charles/Oesterley edition was checked as a **separate witness** for the
 
 Chapter-level files 91–94 now carry corresponding editorial notes. These observations document differences; they do not settle the earliest text or constitute independent human approval. The complete 1893 collation for 91–104 remains open.
 
+## 1893 text-layer review: Chapters 91–104
+
+A searchable text layer of the 1893 Clarendon Press edition was opened for Section V (printed pp. 265–308). The witness comparison has been expanded for Chapters 91–104, with selected critical notes and interpolation/arrangement evidence entered in the historical source collation log. This is **text-layer review**, not visual collation or independent human approval.
+
+A fresh structural comparison of the formatted repository source and the modernized files for Chapters 91–104 confirms that the verse-unit sequences match in all fourteen chapters: **167 source verse markers and 167 modernized verse headings**. Chapter-level counts: 91 (19), 92 (5), 93 (14), 94 (11), 95 (7), 96 (8), 97 (10), 98 (16), 99 (16), 100 (13), 101 (9), 102 (11), 103 (15), and 104 (13). This is structural alignment only, not semantic equivalence.
+
+The expanded review confirmed the 1893 interpolation and arrangement decisions for 91:11, 91:12–19, 93:11–14, and 96:2; the 1893/G textual variant in 92:3; the 1893 versus 1917 bracketing difference for 92:1 and 92:3; and the 1893 unbracketed versus 1917 bracketed reading of the final clause in 94:7. The 1893 witness prints 97:2 as “mindful of your destruction.” Chapter 97:2 was corrected to restore that meaning.
+
+**Remaining:** Chapters 91–104 have not been marked fully collated. Complete line-by-line comparison of every verse against the 1893 print, critical apparatus review, and page-image proofing remain required. The OCR text layer is a search aid and can contain recognition/layout errors. This pass is not a substitute for a second human reviewer.
+
 ## What has been checked
 
 - A direct source-to-modernization structure comparison was completed against all six formatted source files: **108 of 108 chapter verse-label sequences match**. The comparison preserves source anomalies such as missing or duplicated labels and interpolation markers; it does not compare the wording for meaning.
