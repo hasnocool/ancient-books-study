@@ -14,6 +14,8 @@ The repository is primarily a **document collection**, not an application. Most 
 | [`books_04/`](./books_04/) | Enochic and Hermetic literature, ancient science and medicine, papyri, Kabbalah, archaeology, and astronautic or alternative-history works. |
 | [`books_05/`](./books_05/) | A broader combined collection covering architecture, archaeology, ancient engineering, translations, religious texts, and esoteric studies. |
 | [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading editions, editorial standards, templates, and progress catalog. |
+| [`modernized_editions/`](./modernized_editions/) | Clearly labelled modern-language adaptations kept separate from archival and faithful formatted source texts. |
+| [`docs/`](./docs/) | Usage guidance, audit standards, and repository maintenance documentation. |
 
 The numbered directories record collection batches or additions rather than strict subject taxonomies. Some documents are duplicated between directories under the same or slightly different filenames.
 
@@ -30,7 +32,7 @@ The numbered directories record collection batches or additions rather than stri
 
 ## Formatted reading editions
 
-The original numbered source collections are preserved unchanged. Structured reading editions are maintained separately in [`formatted_editions/`](./formatted_editions/), with a style guide, reusable template, source catalog, and verification status for each work.
+The original numbered source collections are preserved unchanged. Faithful formatted reading editions are maintained in [`formatted_editions/`](./formatted_editions/). Modern-language adaptations are maintained separately in [`modernized_editions/`](./modernized_editions/) and must not be confused with source transcriptions. Each derivative should identify its source, editorial method, and verification status.
 
 ## Using the collection
 
@@ -66,6 +68,8 @@ For substantial research, copy only the desired texts into a dedicated corpus di
 ## Reading and research guidance
 
 See [`docs/USAGE.md`](./docs/USAGE.md) for practical search, citation, verification, and extraction guidance.
+
+See [`docs/AUDIT_STANDARDS.md`](./docs/AUDIT_STANDARDS.md) for the repository's repeatable quality-control standards. Run the local, read-only audit toolkit with `python3 tools/audit_corpus.py --help`; no GitHub Actions workflow or paid CI service is required.
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for rules on adding or correcting documents.
 
