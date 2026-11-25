@@ -63,19 +63,19 @@
 
 ### Verse 14 — interpolation
 
-[He came to me, greeted me with his voice, and said: “You are a son of man, born for righteousness, and righteousness rests upon you. The righteousness of the Ancient of Days will never abandon you.]
+[He came to me, greeted me with his voice, and said: “You are a son of man, born for righteousness, and righteousness rests upon you. The righteousness of the Ancient of Days will never abandon you.”]
 
 ### Verse 15 — interpolation
 
-[He announces peace to you in the name of the world to come. Peace has existed from the creation of the world, and it will remain with you forever and ever.]
+[“He announces peace to you in the name of the world to come. Peace has existed from the creation of the world, and it will remain with you forever and ever.”]
 
 ### Verse 16 — interpolation
 
-[All who in future generations walk in your ways, you whom righteousness never abandons, will have their dwelling places and inheritance with you. They will never be separated from you, forever and ever.]
+[“All who in future generations walk in your ways, you whom righteousness never abandons, will have their dwelling places and inheritance with you. They will never be separated from you, forever and ever.”]
 
 ### Verse 17 — interpolation
 
-[The Son of Man will have a long and enduring existence. The righteous will have peace, and the righteous will follow his path of integrity in the name of the Lord of Spirits forever and ever.”]
+[“The Son of Man will have a long and enduring existence. The righteous will have peace, and the righteous will follow his path of integrity in the name of the Lord of Spirits forever and ever.”]
 **1893 witness note:** The 1893 Charles printing places the whole of Chapter LXXI inside square brackets. Charles's critical introduction describes it as a later addition, alien in thought and phraseology to the Similitudes, probably added by the same hand that interpolated the Noachic fragments. The modernization now marks the entire chapter as an interpolation while preserving all 17 numbered units. Charles's discussion also notes that 71:14 applies “son of man” language to Enoch himself, unlike its Messianic use elsewhere.
 
 **1912 witness note:** The source transcription contains a note that Charles's later 1912 text records a lost passage between verses 13 and 14. That missing passage is not present in the selected repository text and has not been reconstructed. This separate later-witness note does not alter the 1893 17-verse sequence.
