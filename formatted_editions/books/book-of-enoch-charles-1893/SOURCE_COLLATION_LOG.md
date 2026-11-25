@@ -474,3 +474,23 @@ A critical-apparatus classification and square brackets in the printed text are 
 | 64 | A short digression records Enoch's vision of forms and angels who descended and revealed hidden things to humanity. | The two-unit sequence aligns. |
 
 **Batch boundary:** This text-layer comparison is not visual proof against printed page images. Chapters 61–64 have been examined for major readings and apparatus variants; that is not independent human sign-off.
+
+
+## Authentic 1893 text-layer collation: Chapters 65–71 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Noachic fragments and conclusion of Section II, printed pp. 170–185. Text and critical apparatus were checked through the authentic scan's searchable text layer. No page-image proofing is claimed.
+
+| Passage | 1893 evidence | Repository treatment / action |
+|---|---|---|
+| 65–67:3 | Charles identifies 65:1–67:3 as Noachic material. Chapter 65 describes Noah's vision of the sinking earth and his call to his grandfather Enoch; 67:1–3 contains the divine word to Noah and the wooden structure. | Modernization already marks the corresponding opening verses as interpolation material. |
+| 66 | Three units concerning the angels of punishment and the powers of the waters. | The complete chapter is bracketed and marked interpolation in the modernization. |
+| 67:4–68 | Charles's commentary identifies 67:4 onward as a digression concerning the punishment of fallen angels; Chapter 68 continues the discussion between Michael and Rufael. | The modernized chapter is preserved under the 65–69:25 Noachic interpolation block; no text is removed. |
+| 69:1 | Charles's printed translation reads “inspire fear and anger,” but his note says “anger” is unsuitable to the context and suggests “fear and trembling.” | Chapter 69:1 is corrected to “fear and trembling,” with the printed reading and apparatus correction both recorded. |
+| 69:2 | The 1893 printed name list gives “Ansinel” at the fourteenth position. | The repository form “Ananel” is retained, with the 1893 transliteration variant disclosed in Chapter 69. |
+| 69:2–25 | The Noahic interpolation continues through the names and oath material. Charles's bracket closes after verse 25; verses 26–29 return to the third Similitude. | The modernization correctly brackets 1–25 only and keeps 26–29 unbracketed. |
+| 70 | Two-unit account of Enoch's name being taken up and his placement between the North and West. | Two-unit sequence retained. |
+| 71:1–17 | Charles prints the entire Chapter LXXI in square brackets. His critical discussion calls it “certainly a later addition,” alien in thought and phraseology to the Similitudes, and probably by the same hand that interpolated the Noachic fragments. It also remarks that 71:14 applies “son of man” to Enoch himself. | The modernization previously left the chapter unmarked. All 17 verses are now bracketed as an interpolation, without deletion or rewriting of the chapter. |
+
+Charles's note on 69:1 is important: a critical apparatus correction must not be mistaken for the actual wording of the printed translation. The modernization adopts the apparatus-supported sense but records the printed reading and why it has been changed.
+
+**Batch boundary:** This is text-layer and apparatus collation, not page-image verification. The Noachic interpolations and the Chapter 71 square-bracket boundary have been checked in OCR; printed pp. 170–185 remain to be visually proofread. Independent human review remains necessary.
