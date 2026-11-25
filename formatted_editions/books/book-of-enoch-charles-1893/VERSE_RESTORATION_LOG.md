@@ -1,6 +1,6 @@
 # Enoch Verse Restoration Log
 
-This log records verse boundaries cross-referenced to Charles's printed editions, with the 1893 Clarendon Press text as the primary structural reference. Where chapters 101–105 were restored in this pass, the 1917 Charles edition was used to verify numbering and boundaries; the repository wording remains unchanged. The words inside the formatted reading edition remain the words of the repository's combined transcription, which is not a verbatim reproduction of the 1893 text.
+This log records verse boundaries cross-referenced to Charles's printed editions, with the 1893 Clarendon Press text as the primary structural reference. Where chapters 101–105 were restored in this pass, the 1917 Charles edition was used to verify numbering and boundaries; the repository wording remains unchanged. The words inside the formatted reading edition remain the words of the repository's combined transcription, which is not a verbatim reproduction of the 1893 text. Structural restoration is now recorded through Chapter CVIII; full wording collation remains separate and outstanding.
 
 ## Reference editions
 
@@ -130,7 +130,7 @@ The brackets reflect the 1893 editor's treatment of interpolated passages. In Ch
 
 - Chapter text remains complete as transferred from the selected repository source.
 - Paragraph breaks were inserted for readability by grouping sentences; **these are not verse divisions**.
-- Chapter 91 has a known structural complication: the 1893 Charles arrangement moves verses 12–17 into the Apocalypse of Weeks material after Chapter 93. The repository source's chapter sequence does not reliably represent that arrangement. This must be resolved during verse restoration without duplicating or omitting text.
+- Chapter 91 has a known structural complication: the 1893 Charles arrangement moves verses 12–17 into the Apocalypse of Weeks material after Chapter 93. The selected repository source keeps those units in Chapter 91. The completed formatted and modernized derivatives preserve the repository sequence and retain the Charles rearrangement as an editorial note; no verses are silently moved, duplicated, or omitted.
 - External structural reference used for numbering: R. H. Charles, *The Book of Enoch*, section 5, Chapters 91–105 (GodRules transcription). The wording differs from this repository text, so it is a structural reference only.
 
 ## Text-preservation check
