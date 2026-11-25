@@ -78,3 +78,8 @@ The angel answered: “This is the place where the spirits of sinners are cast: 
 - **1917 page-image comparison:** The 1917 Charles/Oesterley scan, printed p. 154, has the daggered reading “†look over† it” in 108:4, marking a corrupt or uncertain expression under the witness's notation. The selected repository transcription reads “I could not look thereon”; this modernization renders that as “I could not look upon it.” The 1917 printed page 154 was visually inspected, and this edition's different wording is retained rather than silently replaced.
 - Printed p. 153 was also visually inspected: it contains the end of Chapter 107 and the opening of the Chapter 108 appendix, verses 1–7. The end of Chapter 108, verses 8–15, appears on p. 154. These two checked pages verify the closing transition and final portion, not every page of Chapters 105–108.
 - This rendering follows the repository's chapter and verse divisions and preserves its chapter sequence; it does not silently substitute another translation's wording or arrangement.
+
+
+## 1917 attachment scope note
+
+The user-supplied `enoch-1917-charles-oesterley.pdf` was rendered through its final page (PDF page 101). It ends after Chapter 107:3 and contains no Chapter 108. Accordingly, the 1917 attachment provides no visual evidence for this chapter. The previously recorded p.153–154 observations belong to a separately identified, fuller 1917 scan and must not be conflated with this 101-page attachment. Chapter 108 remains open for witness-specific visual collation.
