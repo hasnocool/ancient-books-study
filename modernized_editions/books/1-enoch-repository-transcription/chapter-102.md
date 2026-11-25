@@ -41,7 +41,7 @@ They will say: “From now on, we are all the same.”
 
 ### Verse 9
 
-I say to you sinners: you are satisfied with eating and drinking, stripping people of their possessions, robbing them, and committing sin.
+I say to you sinners: you are satisfied with eating and drinking, stripping people naked, robbing them, and committing sin.
 
 ### Verse 10
 
