@@ -50,7 +50,7 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 | 91–96 | Reviewed; no material verse-body omission found | Standardized Chapter 91's separate verse headings and retained its repository sequence and verse-11 interpolation. Corrected 93:3, restored 94:10's “Creator will rejoice at your destruction,” restored the “cloud of water” image and “according to your desires” in 95:1 and 95:3, and retained the squirrels/satyrs imagery in interpolated 96:2. |
 | 97–102 | Reviewed; no material verse-body omission found | Corrected 97:2 to retain the 1893 reading “mindful of your destruction”; restored explicit execution wording and “no grave” in 98:12–13; restored the source's severe wording in 99:5; corrected the kinship sequence in 100:2; kept 100:12's rain/dew gift image; restored “strip men naked” in 102:9; checked 102:6–11 speaker boundaries against the 1893 text layer; revised 101:7 to remove the unsupported phrase “draws back” and retain the sea's fear and drying at the divine rebuke. |
 | 103–105 | Reviewed; no material verse-body omission found | Compared all numbered units, including the descriptions of the righteous dead, the testimony against their oppressors, and the closing promise that the Lord and his Son unite with the children of righteousness. No text correction was indicated in this pass. |
-| 106–108 | Reviewed; no material verse-body omission found | Compared Noah's birth account, the three surviving children, the year-long deluge reference, and the concluding book on the generation of light. Corrected 106:3 to “conversed with the Lord of righteousness,” 106:16 to “three children,” and 108:4 to “could not look upon it”; retained repository sequence for 106:17 while documenting the 1917 placement of 106:17a after 106:14 and its different subject/agency wording. Printed pp. 153–154 of the 1917 witness have been visually inspected; pp. 150–152 remain unavailable as images, so full visual collation is still open. |
+| 106–108 | Reviewed; no material verse-body omission found | Compared Noah's birth account, the three surviving children, the year-long deluge reference, and the concluding book on the generation of light. Corrected 106:3 to “conversed with the Lord of righteousness,” 106:16 to “three children,” and 108:4 to “could not look upon it”; retained repository sequence for 106:17 while documenting the 1917 placement of 106:17a after 106:14 and its different subject/agency wording. The later full-scan check confirms p.150 includes Chapter 105 and the start of 106:1; p.151 continues through the start of 106:12; p.153–154 cover the end of 107 and Chapter 108. Printed p.152 remains uninspected. |
 
 Reviewers should continue checking names, numbers, measures, directions, sequence, agency, and interpretive additions—not only whether each numbered unit exists.
 
@@ -149,7 +149,7 @@ The full searchable text layer of the 1917 Charles/Oesterley scan is now accessi
 - **105:1:** 1917 says the Lord bade them to summon and testify to the children of earth concerning wisdom; the repository-based adaptation changes the subject/agency to “people will call upon the children.”
 - **106:17a:** 1917 places the giants clause immediately after 106:14 and Charles explicitly recommends that order. The repository keeps verse 17 after 106:16 and expresses the clause with a different subject (“The giants are not spiritual beings…”). The modernization keeps the selected repository wording/order; the alternative is documented in Chapter 106 and the source-collation log.
 
-Visual checks are confirmed for the two returned 1917 scan images, printed pp. 153–154. The 1917 page images for pp. 150–152, containing Chapter 105 and the main text of 106, were not retrievable; OCR/text-layer access is not visual proof. Consequently, Chapters 105–108 are **not** fully visually collated.
+**Historical status note (superseded by the 25 November 2026 scan audit below):** At the time of this earlier entry, only printed pp. 153–154 of the 1917 scan had been visually checked; pp. 150–152 were unavailable in the screenshot service. The later check successfully inspected pp. 150–151 as well. Printed p. 152 remains unavailable, so Chapters 105–108 are still not fully visually collated.
 
 The 1893 Clarendon Press main translation covers Chapters 1–104. Its Appendix E contains a separate Latin fragment of 106:1–18, not a complete 1893 main-text Chapter 106. The complete searchable 1893 text layer is available at https://archive.org/stream/thebookofenoch00unknuoft/thebookofenoch00unknuoft_djvu.txt, but the 104-chapter line-by-line collation against its printed pages and apparatus has not been completed. No 1893 page images have been visually proofread in this pass.
 
@@ -173,7 +173,7 @@ Do not mark a full chapter reviewed because only its headings, word counts, or f
 
 Both source PDFs are now committed in the repository at `enoch-editions/enoch-1893-charles-dillmann.pdf` (Git blob `398352f3010cd7f059c91a24e8c32b9f8b1539a6`, 540,432 bytes) and `enoch-editions/enoch-1917-charles-oesterley.pdf` (Git blob `9bd830eafb560890c6c78d2f89d828b603d6a979`, 438,198 bytes), commit `3b40e629641377b3cb966497082171544c05fc23`.
 
-The source scans are now available as version-controlled project artifacts. This update records acquisition only; it adds no verse-level approval and no new visual page checks. The binary-file retrieval path available in this review session does not expose PDF bytes for local rendering. Keep the existing visual status unchanged: 1917 printed pp. 153–154 checked; pp. 150–152 and the 1893 chapter pages remain unchecked. Continue to label the historical collation incomplete until the page images are actually inspected.
+**Historical status note (superseded by the 25 November 2026 visual page audit):** The new source PDFs were versioned in the repository, but this acquisition note initially added no page checks. The later audit visually checked 1917 printed pp. 150–151 and 153–154; p.152 remains uninspected, and systematic 1893 page-image proofing remains outstanding. Keep the historical collation marked incomplete.
 
 
 ## Direct attachment inspection update — 25 November 2026
@@ -314,8 +314,8 @@ This establishes that Chapters 1–104 have now received a sequential text-layer
 The visual review must distinguish three things: (1) the repository-bundled 101-page 2005 typeset transcription, (2) the separate authentic 1917 Charles/Oesterley facsimile, and (3) text-layer evidence. The 101-page repository PDF was rendered at PDF pages 99–101, but it is not an image witness to the 1917 printed page.
 
 For the authentic 1917 facsimile:
-- Printed p. 150 (Chapter 105) visually checked.
-- Printed p. 151 (Chapter 106:1–14) visually checked.
+- Printed p. 150 (Chapter 105:1–2 and opening of 106:1) visually checked.
+- Printed p. 151 (continuation of 106:1 through the beginning of 106:12) visually checked.
 - Printed p. 152 could not be retrieved as an image; it remains open.
 - Printed p. 153 (end of 107 and opening of 108) visually checked.
 - Printed p. 154 (end of Chapter 108) visually checked.
@@ -327,4 +327,4 @@ Therefore Chapter 108's final witness pages (153–154) are visually checked, bu
 
 The repository now includes the two large historical scan files under `enoch-editions/`, alongside the two older project PDFs. The 1893 source is a Cornell/Internet Archive scan of the Clarendon Press edition, whose main translated text ends at Chapter 104; systematic page-image proofing remains open. The full SPCK scan provides the Chapter 105–108 witness; the physical copy is a 1962 tenth impression of the edition first published in 1917 and reprints Charles's 1912 second edition.
 
-The 1917 printed page images inspected are pp. 150, 151, 153, and 154. Printed p. 152 remains the sole missing page-image check. The 1917 searchable text layer has been compared for Chapters 105–108. This scan inventory is now documented in [`enoch-editions/README.md`](../../../enoch-editions/README.md) and the historical-source notes; no claim of byte-identical identity with the public-hosted scan files is made.
+The 1917 printed page images inspected are pp. 150, 151, 153, and 154. Printed p. 150 contains Chapter 105 and the opening of 106:1; printed p.151 continues 106:1 through the beginning of 106:12; p.152 remains the sole missing page-image check and covers the later Chapter 106 sequence through the start of 107 in the searchable text layer. The 1917 searchable text layer has been compared for Chapters 105–108. This scan inventory is now documented in [`enoch-editions/README.md`](../../../enoch-editions/README.md) and the historical-source notes; no claim of byte-identical identity with the public-hosted scan files is made.
