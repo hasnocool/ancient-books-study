@@ -61,6 +61,10 @@ When frost and snow come with their bitter cold, and the snow-bearing winds brin
 
 ---
 
+## 1893 critical-apparatus note
+
+At 100:7 Charles says the clause “on the day of great trouble and burn them with fire” should probably be read directly after “woe to you sinners,” which makes the clause refer to the final judgment. The modernization preserves the selected repository's printed sequence and records this proposed attachment rather than silently moving it.
+
 ## Completeness and editorial notes
 
 - All **13 numbered verses** in the repository's Chapter 100 have been rendered individually.
