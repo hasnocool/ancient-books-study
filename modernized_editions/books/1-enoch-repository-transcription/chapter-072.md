@@ -131,7 +131,7 @@ On that day the night becomes shorter, with ten parts, while the day has eight.
 
 ### Verse 31
 
-On that day the sun rises through the second gate, sets in the west, returns east, and rises through the third gate for thirty mornings before setting in the west.
+On that day the sun rises through the second gate, sets in the west, returns east, and rises through the third gate for thirty-one mornings before setting in the west.
 
 ### Verse 32
 
