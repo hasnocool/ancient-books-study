@@ -393,3 +393,16 @@ A focused editorial pass corrected presentation issues in the modern-language re
 - **Chapter 93:** Balanced the quoted speech independently in verses 2–10. Verses 11–14 remain separately marked as interpolations; source transcription debris remains excluded from the readable rendering and is disclosed in the chapter note.
 
 These are editorial consistency changes, not a fresh Ethiopic translation or a new visual facsimile collation. The reconstructed order discussed by Charles and the separate 1917 witness arrangement remain disclosed rather than silently substituted.
+
+
+## Chapters 105–108 witness-note and manuscript-reference consistency pass — 25 November 2026
+
+The chapter-level editorial notes were tightened to make the 1917 witness distinctions more consistent and to add a carefully qualified manuscript cross-reference:
+
+- **Chapter 105:** Added the 105:2 “uprightness” / “righteousness” lexical difference alongside the previously recorded agency and singular/plural differences in 105:1.
+- **Chapter 106:** Standardized the witness note and retained the explicit warning that the 1917 apparatus marks the long-locks/eyes expression in 106:2 and “conversed with” in 106:3 as corrupt (daggered). The repository reading and verse order remain unchanged.
+- **Chapter 107:** Standardized the 1917 witness/page-image note while preserving the distinction between printed p.153 (inspected) and p.152 (not inspected).
+- **Chapter 108:** Expanded the witness note to include the 1917's more explicit relations in 108:6–8 as well as the already recorded lexical and agency differences in 108:3–4, 108:9–11, and 108:14.
+- **Manuscript cross-reference:** Added the same qualified pointer in each chapter to Theosis Library's presentation pairing Charles 1917 with Dillmann's 1851 Ge'ez text and photographs of Rylands Ethiopic MS 23. The note explicitly says this is a secondary digital cross-reference, not an independent transcription or a substitute for direct manuscript examination.
+
+No chapter wording, verse numbering, or repository sequence was changed in this pass. The authentic 1917 printed p.152 image remains uninspected; the text-layer comparison does not close that gap. The 1893 main translation still ends at Chapter 104, so Chapters 105–108 are not relabelled as 1893 main-text material.
