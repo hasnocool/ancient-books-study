@@ -147,7 +147,7 @@ For this reason, its course during the day becomes longer from day to day, while
 
 ### Verse 35
 
-This is the law and course of the sun and its return. It makes its circuit and rises through the appointed gates in its recurring cycles. This is the great light called the sun, forever and ever.
+This is the law and course of the sun and its return. It returns through its circuit sixty times and rises again. This is the great light called the sun, forever and ever.
 
 ### Verse 36
 
