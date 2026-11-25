@@ -13,7 +13,7 @@ He said to me: “Enoch, why are you asking about the fragrance of this tree? Wh
 
 ### Verse 2
 
-I, Enoch, answered him: “I want to understand everything, but especially the mystery of this tree.”
+I, Enoch, answered him: “I want to understand everything, but especially this tree.”
 
 ### Verse 3
 
