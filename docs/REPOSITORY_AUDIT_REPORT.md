@@ -36,6 +36,22 @@ Sample comparisons already documented in the Enoch source notes show wording dif
 
 See the [source collation log](../formatted_editions/books/book-of-enoch-charles-1893/SOURCE_COLLATION_LOG.md) for references and the chapter-by-chapter collation procedure.
 
+## 1 Enoch semantic review and witness comparison — current update
+
+An assistant-led verse-by-verse comparison has now been completed across **all 108 modernized chapter files** against the selected formatted repository transcription. Corrections made during that pass are recorded in `modernized_editions/books/1-enoch-repository-transcription/REVIEW_LOG.md`. This is a first-pass editorial review, not independent human approval. A second reviewer must still approve every chapter and resolve flagged interpretations.
+
+The 1893 searchable scan text layer has also been sampled at selected readings (including 7:2, 13:1, 14:11, 20:3–4, 22:11, 46:1, and 65:6). Those comparisons support several lexical and numerical corrections, but they are not a complete collation and are not visual page-image proofreading. The 1893 main translation sections run through Chapter 104. A separate Charles/Oesterley 1917 witness, reprinting Charles's 1912 second edition, has been identified for the later material. Its paratext classifies 105 as two verses of uncertain date, 106–107 as the Noah fragment, and 108 as an appendix. Chapters 105–108 have only been sampled against this witness; full page-by-page collation remains open.
+
+See `formatted_editions/books/book-of-enoch-charles-1893/SOURCE_COLLATION_LOG.md` for the 1893 text-layer observations, the 1917 witness identification, and the page-image limitations. The PDF screenshot service rejected the large scans, so no scan page is claimed as visually proofread.
+
+## Corpus-wide remote inventory — current update
+
+A complete, untruncated Git-tree inventory of `books_01`–`books_05` was completed at tree SHA `867210a4e1898fba0155ae0885a7d35b7810e3e0`. It found **165 text files / 203,704,878 bytes**, with **24 zero-byte placeholders**. Git blob hashes confirmed **43 non-empty exact-byte duplicate groups** involving 100 files (57 copies beyond one representative per group), plus one zero-byte group. No duplicates or placeholders were changed.
+
+Targeted content checks identified several rights and provenance leads, including modern copyrighted translations and commentary, a text whose own notice says it is not public domain, and OCR replacement-character damage in a four-path exact duplicate group. These findings are leads rather than legal determinations; the whole-corpus rights and OCR review remains outstanding. The detailed per-folder counts, full duplicate path groups, empty-file list, and rights/OCR leads are in `docs/CORPUS_INVENTORY_AUDIT.md`.
+
+The local audit toolkit and test suite still have **not** been run from a complete local checkout. A clone attempt failed at DNS resolution of `github.com`; the remote inventory is not represented as a successful local script run.
+
 ## Local audit toolkit added
 
 The toolkit is dependency-free and targets Python 3.12 or later. It contains a read-only orchestrator plus individual entry points for:
@@ -57,15 +73,15 @@ The toolkit and tests have been committed, but the full Python test suite and wh
 
 | Work item | Status |
 |---|---|
-| Run the local audit toolkit across all five archival directories | Pending local execution |
+| Run the local audit toolkit across all five archival directories | Pending local execution; remote Git-tree inventory completed (165 files, 24 empty, 43 non-empty exact duplicate groups) |
 | Run the Python unittest suite | Pending local execution |
-| Complete independent human semantic review of every modernized 1 Enoch verse | Pending; automated length triage and selected spot checks are complete |
-| Fully collate Chapters 1–104 against the 1893 facsimile | Pending |
-| Collate Chapters 105–108 against their explicitly identified later witness | Pending |
+| Complete independent human semantic review of every modernized 1 Enoch verse | Pending; assistant-led first-pass comparison of all 108 chapters completed and corrections logged |
+| Fully collate Chapters 1–104 against the 1893 facsimile | Pending; selected searchable text-layer comparisons completed, no page-image proofing |
+| Collate Chapters 105–108 against their explicitly identified later witness | Pending; 1917 Charles/Oesterley witness identified and sampled, full collation pending |
 | Identify exact textual lineage of the combined repository transcription | Unresolved |
 | Inspect uncertain readings directly from scan page images | Pending; the initial PDF page-image capture attempt was blocked by the provider's file-size limit |
-| Review copyright and licensing metadata for every archival item | Pending corpus-wide review |
-| Resolve all zero-byte files, OCR defects, and duplicate candidates | Pending inventory and manual review |
+| Review copyright and licensing metadata for every archival item | Pending; targeted rights/provenance signals recorded in corpus inventory report |
+| Resolve all zero-byte files, OCR defects, and duplicate candidates | Pending manual review; remote inventory and exact-byte groups recorded, no changes made |
 
 ## Safety and preservation
 
