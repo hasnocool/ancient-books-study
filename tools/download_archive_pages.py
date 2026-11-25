@@ -70,6 +70,11 @@ def jpeg_dimensions(data: bytes) -> tuple[int, int] | None:
     return None
 
 
+def has_jpeg_eoi(data: bytes) -> bool:
+    """Return whether a JPEG byte stream ends with its required EOI marker."""
+    return data.endswith(b"\\xff\\xd9")
+
+
 def fetch_jpeg_sync(url: str, timeout: float) -> dict[str, Any]:
     """Blocking urllib request; always call this function via asyncio.to_thread."""
     request = Request(
@@ -92,7 +97,7 @@ def fetch_jpeg_sync(url: str, timeout: float) -> dict[str, Any]:
         )
     if len(body) < 1024:
         raise ValueError(f"JPEG response is suspiciously small ({len(body)} bytes)")
-    if not body.endswith(b"\\xff\\xd9"):
+    if not has_jpeg_eoi(body):
         raise ValueError("JPEG response is missing the end-of-image marker")
 
     dimensions = jpeg_dimensions(body)
