@@ -11,7 +11,7 @@
 
 ### Verse 1
 
-In the five-hundredth year of Enoch's life, in the seventh month, on the fourteenth day of the month—
+In the year five hundred, during Enoch's lifetime, in the seventh month, on the fourteenth day of the month—
 
 ### Verse 2
 
