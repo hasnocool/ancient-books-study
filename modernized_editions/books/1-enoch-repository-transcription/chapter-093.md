@@ -47,7 +47,7 @@ After this, Enoch began reading from the books. He said:
 
 ### Verse 10
 
-“At the end of that week, the chosen people of righteousness—the enduring shoot of righteousness—will be selected to receive sevenfold instruction concerning all of God's creation.
+“At the end of that week, the chosen people of righteousness—the enduring shoot of righteousness—will be selected to receive sevenfold instruction concerning all of God's creation.”
 
 ### Verse 11 — interpolation
 
