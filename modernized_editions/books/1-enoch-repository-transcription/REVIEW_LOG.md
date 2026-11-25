@@ -231,3 +231,19 @@ This is text-layer and apparatus review only. Printed pp. 85–91 still require 
 The authentic 1893 Charles text layer and adjacent notes were checked against the formatted repository base and modernized chapters for 21–36. The principal correction was **31:3**: the 1893 translation says the *taste* of the fruit was better than all fragrant odours; the previous modernization described its *fragrance* as superior. This meaning shift has been corrected.
 
 The pass also confirmed that Chapter 35 is an unnumbered passage in the 1893 text and remains unnumbered in the repository modernization. Chapters 21–30 and 32–34, 36 aligned in sequence and broad sense in the passages checked; no additional consequential correction was indicated. This is text-layer review, not page-image verification. Printed pp. 91–106 still require visual inspection, and no independent human approval is implied.
+
+
+## Authentic 1893 collation progress: Chapters 37–60 — 25 November 2026
+
+A text-layer and critical-apparatus review was recorded for the Similitudes, Chapters 37–60. Key results:
+
+- 39:1–2 and 41:3–8 match the 1893 square-bracketed interpolation boundaries.
+- 42 is an out-of-context Wisdom fragment according to the apparatus but is not square-bracketed in the translation text.
+- Chapter 43 is fully square-bracketed.
+- Chapter 44 is an unnumbered sentence; Charles's apparatus classifies it as intrusive/interpolated, but the sentence is not square-bracketed in the 1893 text. The modernization was corrected to avoid presenting editorial brackets as printed ones.
+- Chapter 50 is a bracketed chapter and Charles's note explicitly judges it interpolated.
+- 54:7–10; 55:1–2; and 56:5–57:3 are Noahic interpolations, with verse/chapter boundaries preserved.
+- Chapter 59 is square-bracketed as an intrusion; Charles links it with the other inserted material.
+- Chapter 60 is a bracketed Noachic fragment. The modernization now marks all 25 units as interpolation. Charles's note explicitly recommends reading “Noah” instead of “Enoch” in the opening date formula, but the printed wording is retained and the suggested emendation disclosed.
+
+No broad word-level or visual page-image certification is claimed for Chapters 37–60. Printed pp. 110–154 remain to be visually proofread. Independent human review is still outstanding.
