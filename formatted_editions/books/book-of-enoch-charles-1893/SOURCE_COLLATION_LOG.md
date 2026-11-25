@@ -1,6 +1,6 @@
 # 1 Enoch — Historical Source Collation Log
 
-**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Page-image mapping and retrieval for the 1893 scan (printed pp. 55–308) are recorded as complete; individual visual inspection is recorded for pp. 55–74 only, while pp. 75–308 remain to be inspected page by page. A Cornell/Internet Archive facsimile is stored at `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
+**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded through the 1893 printed translation pages pp.55–308, including the distinct appended units CV–CVIII on pp.301–308. Page-image retrieval is recorded for pp.75–308, but individual visual inspection is recorded only for pp.55–74; the remaining retrieved images require page-by-page inspection. A Cornell/Internet Archive facsimile is stored at `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf`. Chapters CV–CVIII are also compared against the 1917 Charles/Oesterley textual edition as a parallel later witness. Independent human approval and complete lexical/manuscript-variant collation remain open.  
 **Primary reference:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
 ## Primary facsimile and catalog records
@@ -23,9 +23,9 @@ The scanned contents identify these main translation sections:
 | IV — Dream-Visions | 83–90 | 223–259 |
 | V | 91–104 | 265–308 |
 
-The same contents list additional material outside the main translation sections, including Appendix D (additional notes on Chapters 37–108) and Appendix E (the New Latin fragment, Chapter 106:1–18). The existence of notes or a fragment referring to a chapter does not by itself establish that the complete chapter appears in the main 1893 translation.
+The contents list Appendix D (additional notes on Chapters 37–108) and Appendix E (the New Latin fragment, Chapter 106:1–18). Separately, the searchable text layer shows CV.1–2 on p.301 and CVI–CVIII on pp.302–308, after the Section V core sequence XCI–CIV. Appendix E's Latin CVI fragment (pp.372–375) is a distinct witness and must not be conflated with the Ethiopic translation on pp.302–304.
 
-**Editorial consequence:** Do not claim that the 1893 main translation supplies the complete text or verse structure for Chapters 105–108. The repository's later chapters and their structural numbering must be attributed to the later reference edition actually used, as recorded in the verse-restoration log. Keep the original source sequence, but do not conflate it with the 1893 printed arrangement.
+**Editorial consequence:** Do not omit CV–CVIII from the 1893 printed-text collation: they appear on pp.301–308 as units appended after the Section V composition XCI–CIV. Preserve their distinct literary status—CV separate from XCI–CIV, CVI–CVII as the Noah fragment, and CVIII as an independent addition. The 1917 text remains a parallel later witness for comparison, not the only source for these chapters.
 
 ## Repository-source transfer verification
 
@@ -155,7 +155,7 @@ The expanded text-layer review materially improves the evidence for Chapters 91�
 
 ## Later witness for Chapters 105–108
 
-The 1893 contents do not list Chapters 105–108 as a main translation section. A separately identified witness is now available:
+The 1893 contents label Section V as XCI–CIV, while the printed translation continues on pp.301–308 with CV–CVIII as separately presented units. A separately identified parallel later witness is also available:
 
 - **Printed witness:** R. H. Charles, *The Book of Enoch*, with an introduction by W. O. E. Oesterley (London: SPCK, 1917).
 - **Edition statement:** The 1917 front matter says the translation is reprinted from Charles's second edition of *The Book of Enoch* (1912). A 1962 impression is represented by Project Gutenberg eBook 77935.
@@ -320,7 +320,7 @@ This PDF can be studied as a modern composite transcription, but it is not a pag
 
 ## Authentic 1893 Clarendon witness located — 25 November 2026
 
-A separate, authentic digitized copy of the 1893 Clarendon Press volume has now been located: [The Book of Enoch, R. H. Charles, 1893, Wikimedia Commons / Google Books scan](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf). The scan is 418 pages and its title page identifies the work as translated from Professor Dillmann's Ethiopic text, edited by R. H. Charles, Clarendon Press, 1893. Its contents explicitly place the translation of Sections I–V (Chapters I–CIV) on printed pp. 55–308; Appendix E is separately identified as the new Latin fragment, Chapter CVI.1–18, pp. 372–375. This confirms the correct historical scope: main translation Chapters 1–104, with a separately labelled Latin fragment, not full 105–108.
+A separate, authentic digitized copy of the 1893 Clarendon Press volume has been located: [The Book of Enoch, R. H. Charles, 1893, Wikimedia Commons / Google Books scan](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf). The scan is 418 pages and its title page identifies the work as translated from Professor Dillmann's Ethiopic text, edited by R. H. Charles, Clarendon Press, 1893. The contents label Sections I–V as Chapters I–CIV and give pp.265–308 for Section V; the text layer then prints CV on p.301 and CVI–CVIII on pp.302–308 as separately presented units. Appendix E separately contains the New Latin fragment CVI.1–18, pp.372–375. The 1893 volume therefore includes these appended units, while Charles distinguishes their literary status from XCI–CIV.
 
 The file attached in this conversation as `enoch-1893-charles-dillmann.pdf` is not this facsimile. It remains classified as a modern composite transcription, not a primary image witness. The authentic 1893 scan is therefore now available as an external primary witness, but its page images still require systematic inspection. The searchable text layer has been opened and the first chapter text compared; do not treat this discovery as completion of the 104-chapter collation.
 
@@ -549,7 +549,7 @@ The earlier two small PDFs remain valuable project artifacts and must be preserv
 
 ### Historical witness scope
 
-- **1893 main translation:** Chapters 1–104, printed pp. 55–308. The 1893 contents end the main translated sections at Chapter 104. Appendix E separately prints the New Latin fragment 106:1–18; it is not a complete 105–108 witness.
+- **1893 printed translation:** Sections I–V comprise Chapters 1–104, with Section V XCI–CIV. The printed translation pages continue with CV on p.301, CVI–CVII on pp.302–305, and CVIII on pp.305–308 as distinct appended literary units. Appendix E separately prints the New Latin fragment 106:1–18 on pp.372–375.
 - **1917 Charles/Oesterley textual edition:** Chapters 105–108 are present. The scan stored in the repository is a 1962 tenth impression of the edition first published in 1917, and its preface describes the text as reprinted from Charles's 1912 second edition.
 - Keep the repository's selected transcription and modernized derivative intact where they differ from these historical witnesses. Record the wording/order variants separately rather than silently substituting one edition for another.
 
@@ -689,10 +689,10 @@ One clear transcription error was corrected in the formatted text at C.2: “his
 **Evidence boundary:** Cornell searchable OCR/text-layer and commentary only. No page pixels for pp.288–301 (BookReader n309–n322) were inspected. The image-proofing ledger remains unchanged at 20 / 254 individually image-checked pages. Independent human approval remains outstanding. This is a targeted collation, not a complete diplomatic transcription audit.
 
 
-## Scope correction — 1893 main translation ends at Chapter CIV (104)
+## Scope clarification — 1893 Section V and appended chapters CV–CVIII
 
-A recheck of the repository's own [SOURCE_NOTES.md](./SOURCE_NOTES.md), [README.md](./README.md), and [formatted_editions/COMPLETENESS_AUDIT.md](../../../COMPLETENESS_AUDIT.md) establishes that the 1893 Clarendon Press contents list the main translation only through Chapter CIV (104), printed pp.55–308. Chapters CV–CVIII in the combined repository transcription are not to be represented as part of the 1893 main translation. The 1917 Charles/Oesterley witness reprints Charles's 1912 second edition and is the identified structural reference for Chapters CV–CVIII; it must be cited separately. The 1893 volume's Appendix E contains a Latin fragment of Chapter CVI.1–18, printed pp.372–375, which is a distinct textual item and not the complete later Ethiopic/Greek chapter text.
+The 1893 contents label Section V as XCI–CIV, while the translation pagination runs through pp.265–308. The printed text continues after CIV with CV.1–2 on p.301, CVI–CVII on pp.302–305, and CVIII on pp.305–308. Charles explicitly treats CV as outside the literary composition XCI–CIV, CVI–CVII as a fragment of a Noah Apocalypse, and CVIII as an independent final addition. These chapters are nevertheless printed in the 1893 volume. Appendix E separately contains a Latin fragment of CVI.1–18 on pp.372–375; it is a distinct witness from the Ethiopic translation in the main pagination.
 
-The earlier file named [CHAPTERS_100-105_COLLATION_PP288-301.md](CHAPTERS_100-105_COLLATION_PP288-301.md) was incorrectly titled and included an unsupported claim that CV.1–2 was part of the 1893 main text. It has been superseded by [CHAPTERS_100-104_COLLATION_PP288-301.md](CHAPTERS_100-104_COLLATION_PP288-301.md). The unsupported insertion of “Amen” into the repository's Chapter CV (105) was reverted; the selected source wording is retained pending separate collation against its actual witness. The main-text collation remains incomplete: printed pp.302–308 (the rest of Chapter CIV) still require review.
+The earlier attempt to exclude CV–CVIII from the 1893 volume was incorrect and is superseded. The corrected report [CHAPTERS_100-105_COLLATION_PP288-301.md](CHAPTERS_100-105_COLLATION_PP288-301.md) records CV.1–2 and its printed closing “Amen.” The text-layer collation of pp.302–308 is recorded in [CHAPTERS_106-108_COLLATION_PP302-308.md](CHAPTERS_106-108_COLLATION_PP302-308.md). The 1917 Charles/Oesterley witness remains a parallel later witness for comparison, not the sole basis for these chapters.
 
-This correction does not establish full facsimile proofing. Cornell page-image, IIIF manifest, BookReader medium/large, and ArchiveLab API routes were attempted for the target pages, but none yielded page pixels in the available environment. No page count is added to the image-proofing ledger; the individually inspected count remains 20 / 254. Independent human approval remains outstanding.
+This clarification does not establish full facsimile proofing. The IMAGE_PROOFING_LOG reports 234 images retrieved for pp.75–308, but they are not individually checked. In this session, attempts to reopen BookReader medium/large images, the IIIF manifest, and ArchiveLab page endpoints did not return pixels. The individually inspected count remains 20 / 254. Independent human approval remains outstanding.
