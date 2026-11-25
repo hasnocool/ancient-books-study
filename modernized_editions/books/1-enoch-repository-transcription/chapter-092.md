@@ -17,7 +17,7 @@ Do not let the passage of time trouble your spirit. The Holy and Great One has a
 
 ### Verse 3
 
-The righteous person will rise from sleep and walk along the path of righteousness. Every part of that person's journey and conduct will be marked by goodness and grace that endure forever.
+The righteous person will rise from sleep, rise again, and walk along the path of righteousness. Every part of that person's journey and conduct will be marked by goodness and grace that endure forever.
 
 ### Verse 4
 
