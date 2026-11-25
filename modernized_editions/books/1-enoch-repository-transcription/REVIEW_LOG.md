@@ -12,7 +12,7 @@
 | 72–82 | Luminaries | 11/11 | 11/11 verse-label sequences match; assistant first-pass semantic review complete for 72–82 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 191–219 pending |
 | 83–90 | Visions | 8/8 | 8/8 verse-label sequences match; assistant first-pass semantic review complete for 83–90 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 223–259 pending |
 | 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded for 91–104; visual proofing of pp. 265–308 pending. Chapter 105 compared with 1917 text layer and p. 150 image-checked |
-| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer review recorded; printed pp. 151, 153–154 image-checked for 106–108; p. 152 image check missing. Chapter 106 order/wording difference remains documented. Not 1893 main-text chapters |
+| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer review recorded; printed pp. 150–154 image-checked, including p. 152 (gap closed 25 November 2026). Chapter 106 order/wording difference remains documented. Not 1893 main-text chapters |
 
 ## Independent human review priority queue
 
@@ -419,3 +419,16 @@ A remote repository-tree and chapter-file audit was completed after the Chapter 
 - The remote tree contains the local audit toolkit and one unit-test module. No GitHub Actions workflow is configured.
 
 **Execution limitation:** The complete local Python audit and unit-test suite were not run in this session. A local checkout attempt failed because the environment could not resolve `github.com`. The checks above are remote tree/content-structure checks only; they do not establish that the local Python suite passes, validate all Markdown links, or provide semantic or historical verification. Run the commands in `tools/README.md` from a full local checkout before the next release.
+
+
+## 1917 printed page 152 — visual gap closed — 25 November 2026
+
+The previously unavailable page image was successfully retrieved from the Commons-hosted Internet Archive scan of the SPCK *Book of Enoch* (the 160-page scan of the tenth impression, 1962; first published 1917). The zero-based PDF page index is **153**, and the printed page number visible on the leaf is **152**. The page image was rendered and visually inspected directly: [source PDF, page index 153](https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf).
+
+The page shows the continuation of 106:12, the sequence 106:13–19 (including the 106:17a giants clause after 106:14), and the opening of Chapter 107. This closes the specific 1917 page-image gap previously recorded in this log and in Chapters 106–107. It does **not** establish complete 1917 collation beyond the pages actually inspected, nor does it complete the 1893 Clarendon visual review.
+
+Updated page-image status for the relevant 1917 passage: printed pp. 150, 151, **152**, 153, and 154 have image evidence. Historical impression distinction remains: the scanned physical copy is the tenth impression of 1962, with the title page stating first published in 1917.
+
+## Local validation result reported by repository maintainer — 25 November 2026
+
+The maintainer's pushed commit `8309e68` reports **22/22 unit tests passing and zero audit errors** after running the local commands. This is recorded as a maintainer-reported execution result; the audit JSON report was not committed, and this assistant session has not independently rerun the local commands. The repository tree was subsequently checked for generated Python artifacts; tracked bytecode was removed and `.gitignore` added.
