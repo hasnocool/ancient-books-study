@@ -415,3 +415,31 @@ All ten 1360×2274 BookReader JPEGs (leaves n96–n105) were individually opened
 ### Scope and limits
 
 This is an individual high-resolution page/layout inspection plus a targeted comparison of conspicuous OCR defects, not a complete line-by-line diplomatic collation of every word, Greek reading, or apparatus siglum. No wording has been silently amended in the edition. The ten pages can now be counted as individually image-opened at high resolution; the complete textual/apparatus proofing requirement and independent human review remain outstanding. The native PNG rendering issue should be investigated separately before those PNGs are used for any further visual work.
+
+
+## Reconciled high-resolution inspection and diplomatic collation — 25 November 2026
+
+This entry supersedes the earlier pp.75–84 evidence-boundary statement that said no page pixels had been opened. In this session, all ten committed JPEGs p075_n096 through p084_n105 were fetched from the repository and opened individually at original resolution. The page-specific image/OCR/edition collation is recorded in `artifacts/1-enoch-1893/reports/collations/pp75-84-high-resolution-diplomatic-collation.md`.
+
+The earlier pp.75–84 table remains useful as a page-layout and OCR-observation record, but it is not the complete collation. The new report adds:
+- Directly observed page headings, printed verse numbers, Greek parallel columns, and apparatus blocks.
+- OCR reading-order and recognition defects, including the X.16 “evermore” displacement, the XII.4–6 and XV.3–4 circled verse numerals, XIV.22 misread as 42, and XV.4 “Whilst”.
+- A list of substantive differences between the 1893 printed English and the current formatted chapters XIV–XV, including XV.4 “defiled” versus “denied”, omitted “(children)”, XV.3 omitted “(as your)”, and XV.9 omitted “(and)”.
+- A clear distinction between OCR defects and changes in the formatted edition. No edition text has been changed.
+
+The circles around XII.4, XII.5–6, XV.3, and XV.4 are handwritten reader marks around printed verse numerals. They are not printed brackets or part of the textual sequence.
+
+### Corrected cumulative ledger
+
+- Printed pp.63–74: 12 pages individually opened at medium 340×569 resolution; page/layout checks only.
+- Printed pp.75–84: 10 pages individually opened at original 1360×2274 resolution; targeted image/OCR/edition collation recorded.
+- **Cumulative individually opened: 22/254 pages (pp.63–84).**
+- Complete line-by-line Greek/Ethiopic apparatus collation: not complete.
+- Complete diplomatic proofing across pp.55–308: not complete.
+- Independent human approval: pending.
+
+This count is an image-opening count, not a claim that 22 pages have received complete diplomatic proofing. The earlier 12/254 progress statement is superseded by this reconciled 22/254 count.
+
+### Next batch — pp.85–94
+
+Expected mapping is BookReader leaves n106–n115 and one-based PDF pages 107–116. Repository search found no pp.85–94 large-image manifest, page-image batch, or consolidated OCR extraction. Attempts to access the Internet Archive image endpoint from the current execution environment did not yield image bytes. Therefore pp.85–94 remain **not retrieved and not inspected**; no retrieval or proofing count is advanced for them. The next operation is to obtain the ten high-resolution images and matching page text layer, verify the printed folios, then create the manifest and OCR inventory before individual collation.
