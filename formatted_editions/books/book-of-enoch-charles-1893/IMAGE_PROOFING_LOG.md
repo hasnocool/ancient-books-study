@@ -339,11 +339,32 @@ The following pp.55–74 entries were previously presented as inspection records
 | 74 | leafNum=95 (BookReader n95) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
 | 75–308 | leafNums 96–329 (BookReader n96–n329) | Retrieval reported for all 234 images (1360×2274 JPEG) | Batch note reports spot checks, but does not enumerate individually inspected pages or observations. These pages are **retrieved, not individually image-checked**; inspect and log each page before increasing the checked count. | Assistant / 2026-11-25 (batch retrieval / spot-check note) |
 
+
+
+## Individual image checks — pp.63–74 (medium JPEG)
+
+On 2026-11-25, each committed BookReader JPEG for pp.63–74 was opened individually. The printed folio and broad page layout/content boundary were visible in all 12. These checks establish page identity, gross layout, and obvious scan-level condition only. At 340×569, small critical-apparatus text and Greek glyphs are not reliably legible; this is **not** a diplomatic transcription check and does not close the high-resolution proofing requirement.
+
+| Printed page | Scan / zero-based PDF index | Visual result | Discrepancy / observation | Reviewer / date |
+|---:|---|---|---|---|
+| 63 | leafNum=84 (BookReader n84) | Individually opened and visually checked at 340×569 | Printed folio 63 visible; Chapter VI.1–6; English text, Greek parallel, and lower critical apparatus visible. Fine apparatus too small for definitive transcription. | Assistant / 2026-11-25 |
+| 64 | leafNum=85 (BookReader n85) | Individually opened and visually checked at 340×569 | Printed folio 64 visible; Mount Hermon and Watcher-leader list continue; English and Greek columns plus lower notes visible. Fine apparatus too small for definitive transcription. | Assistant / 2026-11-25 |
+| 65 | leafNum=86 (BookReader n86) | Individually opened and visually checked at 340×569 | Printed folio 65 visible despite OCR folio-detection failure; Chapters VI.7–VIII.1; English and Greek columns and lower notes visible. | Assistant / 2026-11-25 |
+| 66 | leafNum=87 (BookReader n87) | Individually opened and visually checked at 340×569 | Printed folio 66 visible; Chapter VIII.1 continues; English and Greek columns and critical notes visible. | Assistant / 2026-11-25 |
+| 67 | leafNum=88 (BookReader n88) | Individually opened and visually checked at 340×569 | Printed folio 67 visible; Chapter VIII.2–IX.2; English and Greek columns and lower apparatus visible. | Assistant / 2026-11-25 |
+| 68 | leafNum=89 (BookReader n89) | Individually opened and visually checked at 340×569 | Printed folio 68 visible; Greek text occupies the right-hand column with substantial blank space on the left. This layout explains the low OCR character count; Greek glyphs are not reliably readable at this JPEG resolution. | Assistant / 2026-11-25 |
+| 69 | leafNum=90 (BookReader n90) | Individually opened and visually checked at 340×569 | Printed folio 69 visible; Chapter IX.3–6; English and Greek columns and lower notes visible. | Assistant / 2026-11-25 |
+| 70 | leafNum=91 (BookReader n91) | Individually opened and visually checked at 340×569 | Printed folio 70 visible; Chapter IX continues; English and Greek columns and lower apparatus visible. | Assistant / 2026-11-25 |
+| 71 | leafNum=92 (BookReader n92) | Individually opened and visually checked at 340×569 | Printed folio 71 visible despite OCR folio-detection failure; Chapter IX.7–X.2; English and Greek columns and lower notes visible. | Assistant / 2026-11-25 |
+| 72 | leafNum=93 (BookReader n93) | Individually opened and visually checked at 340×569 | Printed folio 72 visible; Chapter X.3–6 and transition to the following passage; English and Greek columns and lower notes visible. | Assistant / 2026-11-25 |
+| 73 | leafNum=94 (BookReader n94) | Individually opened and visually checked at 340×569 | Printed folio 73 visible; Chapter X.7–9; English and Greek columns and lower apparatus visible. | Assistant / 2026-11-25 |
+| 74 | leafNum=95 (BookReader n95) | Individually opened and visually checked at 340×569 | Printed folio 74 visible; Chapter X.10–12; English and Greek columns and lower apparatus visible. | Assistant / 2026-11-25 |
+
 ## Progress ledger
 
-- Printed pp. 55–308: **0 / 254 auditable individual visual inspections**
-- Retrieval records: pp. 55–74 have 20 page-level retrieval entries; pp. 75–308 have 234 batch-retrieval entries. None currently qualifies as visual proofing on the evidence recorded here.
-- Discrepancies: **not assessed**; do not interpret the former zero count as a clean visual audit
+- Printed pp. 55–308: **12 / 254 individually opened and visually checked at page/layout level** (pp.63–74, medium 340×569 JPEGs). High-resolution textual/apparatus proofing remains outstanding for all 254 pages.
+- Retrieval records: pp.55–74 have 20 page-level retrieval entries; pp.75–308 have 234 batch-retrieval entries. Only pp.63–74 have new individual pixel-inspection records in this pass.
+- Discrepancies: no gross scan/layout defect observed in pp.63–74 at medium resolution; textual, Greek, punctuation, bracket, and apparatus discrepancies remain unassessed.
 - Pages requiring second-look: **not yet assessed for pp. 75–308**
 - Independent human approval: **pending**
 
@@ -360,4 +381,4 @@ Copy one row per inspected printed page:
 
 The existing batch record for pp.75–308 remains unchanged: 234 page JPEGs were previously reported retrieved, but none of those pages has an individual inspection row. In this session, attempts to reacquire page pixels for the later target range through the BookReader medium/large URL forms, the IIIF manifest and image route, and the ArchiveLab page API did not return image bytes. The Internet Archive searchable DjVu text layer was accessible, but it is not visual evidence.
 
-**No new page was inspected and no progress count changes.** The progress ledger is conservatively reconciled to 0 / 254 auditable individual visual inspections. The pp.55–74 entries are retained as retrieval records only; pp.75–308 remain batch-retrieval-reported. Do not infer visual checking from image retrieval, folio metadata, OCR, or generic prior notes.
+**No new page was inspected and no progress count changes.** The progress ledger was subsequently advanced only for pp.63–74 after each of those 12 JPEGs was opened individually on 2026-11-25. The pp.55–62 entries remain retrieval-only; pp.75–308 remain batch-retrieval-reported. The 12 checks are page/layout-level only and do not establish high-resolution diplomatic accuracy.
