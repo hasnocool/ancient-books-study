@@ -33,7 +33,7 @@ Is not the whole sea, with all its waters and movements, the work of the Most Hi
 
 ### Verse 7
 
-At his command the sea is afraid and draws back; its waters dry up, and its fish and all that live in it die. Yet you sinners who live on the earth do not fear him.
+At his rebuke the sea becomes afraid and dries up; all its fish and everything in it die. Yet you sinners who live on the earth do not fear him.
 
 ### Verse 8
 
