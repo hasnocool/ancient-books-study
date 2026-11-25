@@ -45,6 +45,6 @@ These were their leaders over groups of ten, and all the others were with them.
 
 ## Completeness and editorial notes
 
-- All **8 numbered verses** in the repository's Chapter 6 have been represented, including source-marked interpolations.
+- All **8 numbered verses** in the selected Chapter 6 source have been represented. No interpolation marker is present in this chapter's source text.
 - No verse has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter and verse divisions and does not silently substitute another translation's wording or arrangement.
