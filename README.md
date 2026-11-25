@@ -69,7 +69,7 @@ For substantial research, copy only the desired texts into a dedicated corpus di
 
 See [`docs/USAGE.md`](./docs/USAGE.md) for practical search, citation, verification, and extraction guidance.
 
-See [`docs/AUDIT_STANDARDS.md`](./docs/AUDIT_STANDARDS.md) for the repository's repeatable quality-control standards. Run the local, read-only audit toolkit with `python3 tools/audit_corpus.py --help`; no GitHub Actions workflow or paid CI service is required.
+See [`docs/AUDIT_STANDARDS.md`](./docs/AUDIT_STANDARDS.md) for the repository's repeatable quality-control standards. The latest [repository remediation report](./docs/REPOSITORY_AUDIT_REPORT.md) and [five-folder corpus inventory / rights-risk report](./docs/CORPUS_INVENTORY_AUDIT.md) summarize known issues and verification status. Run the local, read-only audit toolkit with `python3 tools/audit_corpus.py --help`; no GitHub Actions workflow or paid CI service is required.
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for rules on adding or correcting documents.
 
