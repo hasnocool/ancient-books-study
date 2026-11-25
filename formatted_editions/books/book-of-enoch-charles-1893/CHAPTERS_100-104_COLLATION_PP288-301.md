@@ -1,8 +1,8 @@
-# Chapters C–CIV text-layer and apparatus collation — printed pp.288–301 (partial range)
+# Chapters C–CV text-layer and apparatus collation — printed pp.288–301
 
 **Witness:** R. H. Charles, *The Book of Enoch* (Oxford: Clarendon Press, 1893), Cornell University Library copy, Internet Archive identifier `cu31924014590545`.
 
-**Method and boundary:** Sequential collation of the Cornell searchable OCR/text layer and Charles's critical/exegetical notes for printed pp.288–301, compared with the repository's formatted Chapters 91–104. The 1893 contents identify Chapters I–CIV as the main translation (pp.55–308); Chapter CV and later material are outside that main-text scope and must be sourced separately. OCR is a finding aid; Ethiopic characters and manuscript sigla are frequently corrupted. This is not page-image inspection and is not a complete diplomatic transcription.
+**Method and boundary:** Sequential collation of the Cornell searchable OCR/text layer and Charles's critical/exegetical notes for printed pp.288–301, compared with the repository's formatted Chapters 91–105. The 1893 Section V is labelled XCI–CIV, but Charles appends Chapter CV as a distinct literary unit on p.301; it is printed in the 1893 volume and is not part of the core XCI–CIV composition. OCR is a finding aid; Ethiopic characters and manuscript sigla are frequently corrupted. This is not page-image inspection and is not a complete diplomatic transcription.
 
 ## 1. Page sequence
 
@@ -14,7 +14,8 @@
 | 292–293 | CII.4–11; CIII.1–4 | Righteous dead, Sheol, response to the wicked |
 | 294–296 | CIII.4–15 | Reward of righteous dead; speech of the wicked; extensive person/number apparatus |
 | 297–299 | CIII.14–15; CIV.1–6 | Rulers, persecution, hope of heavenly destiny |
-| 300–301 | CIV.6–13 (partial coverage) | Separation from sinners and preservation of Enoch's books |
+| 300 | CIV.1–10 | Righteous destiny, daily record of sins, admonition |
+| 301 | CIV.10–13; CV.1–2 | Transmission of Enoch's books; separate closing chapter CV and its Amen |
 
 ## 2. Translation witness: repository comparison
 
@@ -26,7 +27,7 @@
 - **CIII.9–15:** The repository uses third-person forms (“they are…”, “they hoped…”), matching Charles's adopted translation. Charles explains at length that the manuscripts diverge between first and third person; he deliberately adopts third person throughout these verses. This editorial choice must be stated rather than presented as unanimous manuscript evidence.
 - **CIV.1–13:** The repository substantially follows the printed translation. Preserve the distinction between the righteous being “companions of the hosts of heaven” (CIV.6) and Charles's commentary that the author's final hope is heavenly rather than a temporary earthly kingdom.
 
-## 3. Textual variants and critical decisions
+- **CV.1–2:** Charles prints CV as a distinct unit after CIV, outside the literary unity of XCI–CIV. The translation includes the address to the “children of earth” and the promise that “I and My Son will unite with them”; the text closes “Amen.” The OCR places the bracketed opening “[CV. 1.” and shows CV.2 ending “Amen.” Keep this chapter in the 1893 p.301 transcription, but label its separate literary status.\n\n## 3. Textual variants and critical decisions
 
 | Locus | Charles's reported evidence / decision | Treatment |
 |---|---|---|
@@ -70,9 +71,9 @@
 | CIV.7 | G's text is difficult and differs in the clause about sins being continually written. | Retain printed text; do not reconstruct from OCR. |
 | CIV.9 | G reads a different phrase concerning idols; G1 is also distinct, while other MSS support the printed text. | Preserve printed wording. |
 | CIV.10 | G/G1/M support the printed phrase about altering and perverting the words; the apparatus discusses the verb rendered “practise great deceits.” | Keep the printed English. |
-| CIV.11 | G/G1/M vary in “my words.” Charles discusses the possibility of transmission through different languages and changes to the text. | Preserve printed reading. |
+| CIV.11 | G/G1/M vary in “my words.” Charles discusses the possibility of transmission through different languages and changes to the text. | Preserve printed reading. |\n| CV.2 | G/G1 support the closing “Amen”; other MSS have “in truth.” | Preserve the 1893 printed “Amen.” |
 
-## 4. Charles's commentary, separately attributed
+- **CV:** Charles says this chapter does not seem to belong to XCI–CIV: “children of earth” has a positive ethical sense here, the Messiah (“My Son”) appears without parallel in XCI–CIV, and the chapter emphasizes finite earthly life rather than the heavenly immortality central to XCI–CIV. He treats CV as a literary revival of Old Testament thought.\n\n## 4. Charles's commentary, separately attributed
 
 - **C.1–3:** Charles sees C.1 as an expansion of the bloodshed in XCIX.6. He tentatively connects C.2 with the murder of Antigonus by Aristobulus I, citing Josephus, *Antiquities* 13.11.1–2. This is a historical conjecture, not an identification stated in the verse.
 - **C.4:** Charles interprets “those who brought down sin” as the fallen angels, temporarily confined in earthly abysses or “secret places.”
@@ -97,11 +98,11 @@ The printed OCR also includes a final “Amen” after CV.2, absent from the rep
 
 ## 6. Image retrieval and proofing status
 
-The Cornell page map gives printed p.288 = BookReader n309 and p.301 = n322. The 1893 main translation continues through printed p.308 (Chapter CIV); this report covers only the current partial range through p.301. This report is based on searchable OCR/text-layer and commentary only. No image pixels for pp.288–301 were reviewed, and the IMAGE_PROOFING_LOG.md was not modified. The ledger remains at 20 / 254 individually image-checked pages. Independent human approval remains pending.
+The Cornell page map gives printed p.288 = BookReader n309 and p.301 = n322. The 1893 translation's numbered text continues through pp.302–308 with CVI–CVIII; this report covers pp.288–301 only. This report is based on searchable OCR/text-layer and commentary only. No image pixels for pp.288–301 were reviewed, and the IMAGE_PROOFING_LOG.md was not modified. The ledger remains at 20 / 254 individually image-checked pages. Independent human approval remains pending.
 
 ## 7. Scope and next work
 
-The repository's Book 5 formatted file is explicitly limited to Chapters XCI–CV (91–105). This batch does not reach the end of the 1893 main translation: Chapter CIV continues through printed p.308. Chapter CV and CVI–CVIII are outside the stated 1893 main-text scope and must be handled through separately identified witnesses.
+The repository's Book 5 formatted file is explicitly limited to Chapters XCI–CV (91–105). This batch covers the end of CIV and separate CV on p.301. The printed 1893 text continues with CVI–CVIII on pp.302–308; their literary status must be described separately, not mistaken for omission from the 1893 volume.
 
 To complete the requested 91–105 section, remaining tasks are:
 1. Finish facsimile inspection of pp.260–301 and all earlier pages in the target range, logging each page individually.
