@@ -260,3 +260,16 @@ Text-layer and apparatus comparison against the 1893 Clarendon edition has been 
 - 61:1 retains the printed “north” and separately records Charles's note that it means north-west.
 
 Chapters 63–64 align in broad sequence and sense in the passages checked. This remains searchable-text and apparatus review, not facsimile page-image collation or independent human approval.
+
+
+## Authentic 1893 collation progress: Chapters 65–71 — 25 November 2026
+
+The text layer and critical apparatus were checked for the Noachic sequence and the end of the Similitudes.
+
+- Chapters 65–69:25 are Noachic material in Charles's analysis; the modernized edition already preserves the interpolation boundaries, including 69:26–29 as the unbracketed close of the third Similitude.
+- At 69:1, Charles's printed “fear and anger” is judged unsuitable in his critical note; he recommends “fear and trembling.” The modernization adopts that correction and records the printed reading.
+- At 69:2, Charles's transliteration is “Ansinel”; the repository's “Ananel” is retained as a separate transliteration variant.
+- Chapter 71 is square-bracketed in the 1893 printing and described by Charles as a later addition, probably by the same hand responsible for the Noachic fragments. The modernization now marks all 17 units as interpolation material. The text remains complete; it has not been deleted.
+- Charles notes that Chapter 71:14 applies “son of man” language to Enoch himself. A separate later 1912 missing-passage note between 71:13–14 remains unreconstructed.
+
+This batch is text-layer and critical-apparatus review, not visual collation of pp. 170–185 or independent human approval.
