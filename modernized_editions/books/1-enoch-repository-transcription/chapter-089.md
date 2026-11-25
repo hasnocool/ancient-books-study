@@ -145,7 +145,7 @@ When the sheep saw it, they were afraid and trembled before it. They wanted to r
 
 ### Verse 35
 
-The leading sheep took other sheep with it and went to those who had strayed. It began to strike down the rebels. The sheep feared its presence, and it brought the straying sheep back so that they returned to their folds.
+The leading sheep took other sheep with it and went to those who had strayed. It began to kill those sheep. The sheep feared its presence, and it brought the straying sheep back so that they returned to their folds.
 
 ### Verse 36
 
