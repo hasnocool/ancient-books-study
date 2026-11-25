@@ -122,7 +122,7 @@ def inspect_existing_sync(path: Path) -> dict[str, Any] | None:
         return None
 
     dimensions = jpeg_dimensions(body)
-    if not body.startswith(b"\xff\xd8") or dimensions is None:
+    if not body.startswith(b"\xff\xd8") or not has_jpeg_eoi(body) or dimensions is None:
         return None
 
     return {
