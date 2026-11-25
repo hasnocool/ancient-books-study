@@ -101,6 +101,50 @@ Additional selected readings were checked against the searchable text layer of t
 
 The searchable scan text also exposes the edition's own critical apparatus and variant readings. A search hit is not a substitute for reading the complete printed context, and the quoted page references still require page-image proofing.
 
+## Expanded 1893 text-layer comparison: Chapters 91–104
+
+A complete searchable text layer of the 1893 Clarendon Press volume is now accessible through the Internet Archive DjVu text rendition:
+
+- **Witness:** R. H. Charles, *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
+- **Digital text layer:** https://archive.org/stream/thebookofenoch00unknuoft/thebookofenoch00unknuoft_djvu.txt
+- **Printed range for this section:** pp. 265–308 (Section V, Chapters 91–104).
+- **Nature of check:** searchable text-layer comparison, including selected chapter text, printed verse units, and Charles's printed critical notes. This is not visual page-image proofreading and does not replace comparison with Ethiopic manuscripts or the Greek/Latin fragments.
+
+### Textual findings confirmed from the 1893 witness
+
+| Passage | 1893 printed reading / apparatus | Editorial consequence |
+|---|---|---|
+| 91:11 | The verse is printed as an interpolation. Charles's note calls it an interpolation added by the final editor and says it was used to introduce verses 12–19, which had been removed from their original context. | Retain 91:11 as marked interpolation; do not blend it with the preceding judgment narrative. |
+| 91:12–19 | Charles's note says these verses should be read after 93:1–10, the account of the first seven weeks. The 1893 printed body retains the verse sequence under Chapter 91, but its apparatus explicitly recommends the earlier placement. | Record this as a Charles 1893 critical-order instruction. It is distinct from the 1917 printed layout, which physically places the 91:12–17 section after the 93 material. The repository modernization continues to follow the selected repository's numeric chapter order. |
+| 92:1 | The 1893 text prints the full opening, “Written by Enoch the scribe, this complete doctrine of wisdom…,” without the long interpolation brackets found in the 1917 witness. | The repository's unbracketed 92:1 is consistent with the 1893 printed body on this point; preserve the 1917 difference as a separate witness variant. |
+| 92:3 | The 1893 main text prints “the righteous one will arise from sleep, will arise and walk”; the note records MS G's alternative “wisdom will arise.” | Keep the repeated “will arise” in the 1893-based comparison; record the G alternative in the apparatus, not as a silent correction. The 1917 printing brackets the repetition, a later witness difference. |
+| 93:1–10 | The 1893 text begins “And after that Enoch began to recount from the books,” followed by Enoch's speech about the children of righteousness and the weeks. | Preserve the two-part narrative transition and keep the repository's verse sequence. The modernized file's “He said” transition is a stylistic bridge; it should not be confused with a separate source verse. |
+| 93:11–14 | The 1893 printed text encloses the four questions in square brackets; Charles's commentary says these verses are out of place in this section. | Retain all four units but visibly mark them as interpolation. Do not delete them from a complete transcription. |
+| 94:1–11 | Charles says Chapter 94 followed 91:12–19 in the original text. The 1893 main text prints 94:7's gold-and-silver clause as ordinary, unbracketed text. | Retain repository sequence and its unbracketed 94:7 clause for the selected source; record the 1917 witness's later square brackets as a variant. |
+| 95:1, 95:3 | The 1893 apparatus records a Greek G alternative for the water/cloud image in 95:1 and a wording variant around “your hands” / judgment according to desire in 95:3. | Keep the repository-based wording where it follows the 1893 main text; keep Greek readings in apparatus rather than harmonizing them into the verse. |
+| 96:2 | The 1893 printed text encloses the “children ... rise as eagles” passage in square brackets; Charles's note calls the verse an interpolation and comments that it disrupts the context. | Preserve the passage as a clearly marked interpolation, not as a seamless continuation of verse 1. |
+| 97:2 | The 1893 main text reads that the Most High is “mindful of your destruction,” followed by the angels rejoicing over the destruction. | Chapter 97:2 was corrected to retain this exact sense rather than the softened “taken account of what is being done to you.” |
+| 98:12–13 | The printed text includes the explicit execution language against the wicked and says that no grave of theirs will be seen; the apparatus notes a variant “no grave will be dug for you.” | Keep the main-text wording and do not replace it with the alternative reading from other manuscripts. |
+| 99:15 | The 1893 apparatus records differences in the phrase about transgressing against one's neighbour; the witness readings differ in the final wording. | Retain the selected main text and record the apparatus rather than forcing one variant into the modernization without a witness label. |
+| 100:1–2 | The main text explicitly describes fathers and sons being struck down together, brothers killing brothers, and a man not withholding his hand from killing his sons. | Preserve the actual kinship sequence; do not reverse the actors or simplify the relationships. |
+| 101:1–9 | The section moves from the heavenly witnesses and withheld rain/dew to the sea, its boundary, and the sailors' fear. | Preserve the argumentative sequence and distinguish the sea's created limits from the moral warning addressed to sinners. |
+| 102:1–11 | The text contrasts the terror of sinners with the reassurance to righteous souls, then records the sinners' claim that righteous and wicked share the same fate. | Keep the distinct speaker shifts and the closing counterclaim about the righteous dead; do not collapse 102:6–11 into one narrator's speech. |
+| 103:1–15 | The chapter begins with the solemn oath and heavenly records, then stages the righteous assurance and the reported speech of the wicked about the suffering righteous. | Preserve the speech boundaries and the distinction between the narrator's assurance and the wicked speakers' claims. |
+| 104:1–13 | The closing exhortation assures the righteous that the angels remember them, then warns about corrupting written words and promises books to the righteous. | Preserve the transition from consolation to the warning about textual corruption and the promise of books. |
+
+### Structural check on the repository modernization, Chapters 91–104
+
+The complete formatted source file for Chapters 91–105 was compared with the corresponding modernized files for Chapters 91–104. Their numbered-unit sequences match exactly, with **167 source verse markers and 167 modernized verse headings** across the fourteen chapters:
+
+- 91: 19; 92: 5; 93: 14; 94: 11; 95: 7; 96: 8; 97: 10.
+- 98: 16; 99: 16; 100: 13; 101: 9; 102: 11; 103: 15; 104: 13.
+
+This checks the selected repository source against the modernization's structural labels. It does **not** prove the semantic accuracy of every sentence or establish that the selected repository text is identical to the 1893 witness.
+
+### What is still not complete for 1893
+
+The expanded text-layer review materially improves the evidence for Chapters 91–104, but the checklist item “full historical collation” remains open. A complete collation still requires a line-by-line comparison of every verse and relevant critical note, explicit recording of every lexical/omission/addition/sequence difference, and visual proofing of the printed pages. The searchable OCR can contain recognition errors and displaced page text; page-image inspection is required where readings or punctuation are uncertain.
+
 ## Later witness for Chapters 105–108
 
 The 1893 contents do not list Chapters 105–108 as a main translation section. A separately identified witness is now available:
