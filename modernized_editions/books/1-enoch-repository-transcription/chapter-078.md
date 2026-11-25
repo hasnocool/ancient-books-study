@@ -69,7 +69,7 @@ On the side where the moon's light first appeared, it then begins to wane until 
 
 ### Verse 15
 
-At its appointed times, the moon has three months of thirty days and three months of twenty-nine days. During the first period it completes its waning through the first gate in 177 days.
+At its appointed times, the moon has three months of thirty days each and three months of twenty-nine days each. In this first period it completes its waning through the first gate in 177 days.
 
 ### Verse 16
 
