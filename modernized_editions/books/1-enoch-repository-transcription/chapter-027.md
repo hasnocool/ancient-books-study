@@ -9,7 +9,7 @@
 
 ### Verse 1
 
-Then I asked: “Why is this blessed land, filled with trees, located beside this cursed valley?”
+Then I asked: “Why is this blessed land, filled with trees, set apart with this cursed valley between them?”
 
 ### Verse 2
 
