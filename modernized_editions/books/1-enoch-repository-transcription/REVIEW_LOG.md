@@ -12,7 +12,7 @@
 | 72–82 | Luminaries | 11/11 | 11/11 verse-label sequences match; assistant first-pass semantic review complete for 72–82 | Independent human approval pending for all | Pending |
 | 83–90 | Visions | 8/8 | 8/8 verse-label sequences match; assistant first-pass semantic review complete for 83–90 | Independent human approval pending for all | Pending |
 | 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | 1893 collation of 91–104 pending; Chapter 105 compared with 1917 text layer, page images pending |
-| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer comparison complete; visual page-image collation pending. Not 1893 main-text chapters |
+| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer review recorded; printed pp. 153–154 visually checked, pp. 150–152 still uninspected. Not 1893 main-text chapters |
 
 ## Independent human review priority queue
 
