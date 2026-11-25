@@ -21,4 +21,5 @@ In those days, says the Lord, people will call upon the children of the earth an
 
 - All **2 numbered verses** in the repository's Chapter 105 have been rendered individually.
 - No verse has been intentionally omitted or replaced by a chapter summary.
+- **1917 witness comparison:** The 1917 Charles/Oesterley text (printed p. 150) reads that the Lord “bade (them) to summon and testify to the children of earth concerning their wisdom,” and continues “ye are their guides.” The repository-based modernization instead says “people will call upon the children of the earth” and addresses the children as “you are their guide.” This is an agency/subject and number difference, not merely modernization of archaic grammar. The repository wording is retained here; the 1917 alternative is recorded rather than silently substituted. The 1917 page image for printed p. 150 was not available for visual inspection in this pass.
 - This rendering follows the repository's chapter and verse divisions and does not silently substitute another translation's wording or arrangement.
