@@ -88,7 +88,16 @@ A limited comparison of the available 1917 electronic text confirms:
 
 The modernization corrections to 106:3 and 106:16 preserve these source details. Chapter 107:3 has also been adjusted to retain the repository source's “cause the earth to rejoice in compensation for all the destruction” wording, rather than borrowing the later witness's shorter “comfort the earth” phrasing.
 
-**Status:** The 1917 witness is identified and sampled, but Chapters 105–108 have not yet been fully collated verse by verse against the 1917 page images. Do not label them “1893 Charles main text.”
+**Status:** A verse-by-verse comparison of all 105–108 source units against the searchable 1917 text layer is now complete. This remains text-layer collation, not visual page-image proofing. The following differences are explicitly retained rather than silently blended:
+
+- **Chapter 105:** Both witnesses have two verses. The adaptation follows the repository transcription, retaining its “in those days” introduction and its singular “guide” wording rather than silently switching to the 1917 “the Lord bade (them)” and plural “guides.”
+- **Chapter 106:** The 1917 text places verse 17 immediately after verse 14, then resumes verses 15–16, 18–19. The repository-formatted source places verses 15, 16, 17, 18, 19 in numerical order. The modernized file follows the repository source order and preserves the verse numbers; it does not import the 1917 rearrangement.
+- **Chapter 106:3 and 106:16:** The 1917 text confirms “conversed with the Lord of righteousness” and “his three children.” The modernization retains both details.
+- **Chapter 107:3:** The repository transcription says Noah will “cause the earth to rejoice in compensation for all destruction”; the 1917 witness says “he will comfort the earth after all the destruction.” The adaptation retains the repository-specific wording.
+- **Chapter 108:3:** The repository has “the books of the holy ones”; the 1917 text has “the holy books.” The adaptation follows the repository wording.
+- **Chapter 108:4:** The repository's “I could not look thereon” is now rendered “I could not look upon it,” avoiding the stronger interpretation “could not see through it.”
+
+The 1917 front matter explicitly identifies the text as a reprint of Charles's 1912 second edition. It is therefore a separately identified witness for this comparison, not proof of the 1893 main translation wording. Do not label Chapters 105–108 “1893 Charles main text.”
 
 ## 1917 witness cross-check of the Chapter 72 cycle counts
 
