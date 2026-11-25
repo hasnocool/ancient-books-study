@@ -1,7 +1,7 @@
 # .github/workflows/corpus-quality.yml
 name: Corpus quality checks
 
-on:
+"on":
   push:
     branches: [main]
   pull_request:
