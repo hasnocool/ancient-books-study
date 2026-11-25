@@ -307,3 +307,17 @@ The final main-translation section (91–104) has been examined against the sear
 The other key boundaries are retained: 91:11 and 93:11–14 are interpolated blocks; 96:2 is bracketed; 100:7 has a proposed clause transposition which is now recorded without silently changing the base order. Charles's interpretation of 100:5 identifies the guarded righteous as departed souls; this informs reading but does not alter verse text.
 
 This establishes that Chapters 1–104 have now received a sequential text-layer/source-apparatus pass in the present assistant-led review, including the major structural issues in each section. It does **not** establish a line-by-line visual facsimile collation of every printed page, independent semantic approval, or a fresh independent re-transcription. Printed pages 55–308 still require systematic page-image proofing. Chapter 104 is the end of the 1893 main translation; Appendix E separately supplies the Latin fragment 106:1–18 and is not a substitute witness for Chapters 105–108.
+
+
+## Corrected 1917 visual evidence boundary — 25 November 2026
+
+The visual review must distinguish three things: (1) the repository-bundled 101-page 2005 typeset transcription, (2) the separate authentic 1917 Charles/Oesterley facsimile, and (3) text-layer evidence. The 101-page repository PDF was rendered at PDF pages 99–101, but it is not an image witness to the 1917 printed page.
+
+For the authentic 1917 facsimile:
+- Printed p. 150 (Chapter 105) visually checked.
+- Printed p. 151 (Chapter 106:1–14) visually checked.
+- Printed p. 152 could not be retrieved as an image; it remains open.
+- Printed p. 153 (end of 107 and opening of 108) visually checked.
+- Printed p. 154 (end of Chapter 108) visually checked.
+
+Therefore Chapter 108's final witness pages (153–154) are visually checked, but the visual collation of the complete 105–108 span remains incomplete because printed p. 152 was not inspected. The 1917 full-scan text layer has been checked for Chapters 105–108, including 106:17a's placement after 106:14. Do not describe the repository-bundled 2005 transcription as the 1917 facsimile.
