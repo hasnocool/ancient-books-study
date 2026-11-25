@@ -406,3 +406,16 @@ The chapter-level editorial notes were tightened to make the 1917 witness distin
 - **Manuscript cross-reference:** Added the same qualified pointer in each chapter to Theosis Library's presentation pairing Charles 1917 with Dillmann's 1851 Ge'ez text and photographs of Rylands Ethiopic MS 23. The note explicitly says this is a secondary digital cross-reference, not an independent transcription or a substitute for direct manuscript examination.
 
 No chapter wording, verse numbering, or repository sequence was changed in this pass. The authentic 1917 printed p.152 image remains uninspected; the text-layer comparison does not close that gap. The 1893 main translation still ends at Chapter 104, so Chapters 105–108 are not relabelled as 1893 main-text material.
+
+
+## Modernization metadata and repository structure audit — 25 November 2026
+
+A remote repository-tree and chapter-file audit was completed after the Chapter 105–108 witness-note pass:
+
+- Exactly 108 modernized chapter files are present, numbered continuously from 001 through 108; no chapter-file gap was found.
+- Every chapter file contains source-basis information, an editorial-method statement, and a completeness/editorial-notes section. Chapter 91's equivalent metadata was brought into the same heading convention without removing its detailed 1893/1917 order cautions.
+- Chapters 4 and 35 retain their intentionally unnumbered source units; Chapter 44 also retains its unnumbered presentation. These are not missing chapter files or automatic verse-numbering defects.
+- The repository tree contains seven PDFs under `pdfs/`, the PDF inventory README, and no remaining `enoch-editions/` directory. The modernized-edition README's stale directory and inventory links were corrected to `pdfs/`.
+- The remote tree contains the local audit toolkit and one unit-test module. No GitHub Actions workflow is configured.
+
+**Execution limitation:** The complete local Python audit and unit-test suite were not run in this session. A local checkout attempt failed because the environment could not resolve `github.com`. The checks above are remote tree/content-structure checks only; they do not establish that the local Python suite passes, validate all Markdown links, or provide semantic or historical verification. Run the commands in `tools/README.md` from a full local checkout before the next release.
