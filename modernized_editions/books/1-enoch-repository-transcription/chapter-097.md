@@ -15,7 +15,7 @@ Have confidence, you righteous people. The sinners will be disgraced and perish 
 
 ### Verse 2
 
-You will learn that the Most High has taken account of what is being done to you, while the angels of heaven rejoice at the prospect of your vindication.
+You will learn that the Most High has taken account of what is being done to you, while the angels of heaven rejoice at your destruction.
 
 ### Verse 3
 
