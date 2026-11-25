@@ -61,7 +61,7 @@ Next come the west winds. Through the first gate beside the north come dew, rain
 
 ### Verse 13
 
-Through the middle gate come dew, rain, prosperity, and blessing. Through the final gate beside the south come drought, destruction, burning heat, and death.
+Through the middle gate come dew, rain, prosperity, and blessing. Through the final gate beside the south come drought, destruction, fire, and death.
 
 ### Verse 14
 
