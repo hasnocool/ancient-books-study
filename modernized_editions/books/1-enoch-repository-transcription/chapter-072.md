@@ -83,7 +83,7 @@ On that day the day decreases by two parts, becoming ten parts, while the night 
 
 ### Verse 19
 
-The sun rises through the fifth gate and sets through the fifth western gate. It then rises for thirty mornings through the fourth eastern gate, according to its appointed course, and sets in the west.
+The sun rises through the fifth gate and sets through the fifth western gate. It then rises for thirty-one mornings through the fourth eastern gate, according to its appointed course, and sets in the west.
 
 ### Verse 20
 
