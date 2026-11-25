@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **246/254 pages (pp.63–308) have been individually opened and checked for folio and broad layout; pp.75–308 were checked using 1360×2274 JPEGs. 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** The former pp.55–74 rows document retrieval and generic observations; only the new pp.63–74 section records individual pixel inspection. The pp.55–62 entries remain retrieval-only; pp.75–308 now have individual high-resolution page/layout checks. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **COMPLETE — signed off 2026-11-25.**
+**Status:** **22/254 pages (pp.63–84) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 remain retrieval-only; pp.85–308 are not individually image-checked in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -447,12 +447,16 @@ Expected mapping is BookReader leaves n106–n115 and one-based PDF pages 107–
 
 ## Corrected pp.85–94 repository source audit — 25 November 2026
 
-This entry supersedes the preceding statement that no corresponding pp.85–94 source assets existed. A recursive repository check found nine page-specific native PNG blobs and nine OCR text files under `artifacts/page-images/cornell-native/cornell_printed_pp75_308/` for printed pp.85–90 and 92–94. Printed p.91 has neither file in that directory.
+This entry supersedes the preceding statement that no corresponding pp.85–94 source assets existed. A recursive repository check found nine page-specific native PNG blobs and nine OCR text files under `artifacts/page-images/cornell-native/cornell_printed_pp75_308/` for printed pp.85–90 and 92–94. Printed p.91 has neither a p.091-named image nor OCR file in that directory. The separate `cornell_all_pages/page_0113_full.png` file maps to PDF page 113 / printed p.91; it exists but is extremely dark and unreadable.
 
 The nine PNGs were fetched from GitHub and opened in the image viewer. They render as very dark/unreadable images and cannot serve as proofing evidence. The similarly named `cornell_pages_85_106/` directory contains PDF ordinals 85–106 (printed pp.63–84), not the target pages. No BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` exist in the expected repository directory, and direct Internet Archive retrieval did not return usable image bytes.
+
+Ten page images were located across the two Cornell-native directories (nine named by printed page plus the ordinal p.91 image); all ten render dark/unreadable. Nine Cornell OCR text files exist, for pp.85–90 and 92–94. A separate searchable 1893 Knox College/Toronto scan supplied a provisional p.91 text extraction, explicitly treated as a parallel witness rather than Cornell OCR.
+
+The OCR-only comparison and provisional discrepancy ledger are recorded in `artifacts/1-enoch-1893/reports/collations/pp85-94-ocr-only-discrepancy-ledger.md`.
 
 Detailed paths, blob SHAs, sizes, and per-page statuses are recorded in:
 - `artifacts/1-enoch-1893/manifests/cornell-printed-pages-85-94-source-audit.json`
 - `artifacts/1-enoch-1893/reports/collations/pp85-94-source-retrieval-audit.md`
 
-**Corrected status:** OCR/text files present 9/10; native PNG blobs present but unusable 9/10; valid high-resolution page images acquired 0/10; individual image inspection 0/10; diplomatic collation 0/10. The pp.85–94 retrieval blocker remains open. No transcription change or proofing-count increase is authorized. Independent human approval remains outstanding.
+**Corrected status:** Cornell OCR/text files present 9/10, with p.91 text provisionally supplied by a separate scan; native PNG blobs located 10/10 but unusable; valid high-resolution page images acquired 0/10; individual image inspection 0/10; OCR-only comparison recorded, but full diplomatic collation 0/10. The pp.85–94 image-retrieval blocker remains open. No transcription change or proofing-count increase is authorized. Independent human approval remains pending.
