@@ -494,3 +494,19 @@ A critical-apparatus classification and square brackets in the printed text are 
 Charles's note on 69:1 is important: a critical apparatus correction must not be mistaken for the actual wording of the printed translation. The modernization adopts the apparatus-supported sense but records the printed reading and why it has been changed.
 
 **Batch boundary:** This is text-layer and apparatus collation, not page-image verification. The Noachic interpolations and the Chapter 71 square-bracket boundary have been checked in OCR; printed pp. 170–185 remain to be visually proofread. Independent human review remains necessary.
+
+
+## Authentic 1893 text-layer collation: Chapters 72–82 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Section III, printed pp. 189–219. The Cornell/Internet Archive full-text OCR was checked alongside the user-repository PDF. This is searchable text and apparatus comparison, not systematic page-image proofing.
+
+| Chapter | 1893 evidence and critical apparatus | Repository treatment / decision |
+|---|---|---|
+| 72–79 | Charles's introduction defines 72–79 as a continuous “Book of Celestial Physics,” with 79:1 announcing the completion of the laws of the stars. The text records solar/lunar gates, measured periods and calendar arithmetic; his notes discuss textual variants in the solar/lunar calculations (notably 74:14) and the 364-day year. | The modernization retains the 37/8 etc. numeric sequences and verse order. No comprehensive word-by-word corrections are claimed for these chapters; anomalous astronomical figures should be retained as the witness's reading, not silently “fixed” to modern astronomy. |
+| 80 | The complete chapter is square-bracketed in the 1893 printed translation. Charles's introduction calls it an addition giving an ethical turn to a scientific treatise, and his note questions 80:5 as inconsistent with 76:13. | The modernization correctly marks all eight units as interpolation. |
+| 81 | The verse text itself is **not** square-bracketed in the 1893 printing. Charles's introduction says Chapter 81 cannot belong to the Book of Celestial Physics; the apparatus calls the chapter an interpolation. | The modernization had incorrectly put square brackets around every verse, making it look as though the brackets appeared in the original translation. It is corrected: verses remain unbracketed, with the critical classification disclosed separately. |
+| 82:1–8 | Charles identifies 82:1–8 as the close of the Book of Celestial Physics and says they belong with 72–79. | Retained as main text. |
+| 82:9–20 | Charles argues that 82:9–20 are also integral to the Book of Celestial Physics, contrary to Dillmann's view that they are a later addition. His note says these verses are necessary to complete the account of the stars. | Retained as main text; do not mark 82:9–20 as a Noachic insertion. |
+| 82:13–14 | The 1893 printing numbers the four names of year-division leaders as 13, then the subordinate leaders as 14. | Corrected an accidental duplicate “14” in the modernization to match the printed 13,14 sequence. |
+
+**Batch boundary:** Chapters 72–82 have been checked for major section boundaries, interpolation status, apparatus positions, and the chapter 82 numbering error. This is not a full lexical collation of every verse and not visual page-image verification; the 1893 pages in this section still need a line-by-line visual comparison.
