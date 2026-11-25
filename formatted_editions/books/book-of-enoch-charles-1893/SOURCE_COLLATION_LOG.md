@@ -703,3 +703,8 @@ This clarification does not establish full facsimile proofing. The IMAGE_PROOFIN
 The collation is recorded in [CHAPTERS_106-108_COLLATION_PP302-308.md](CHAPTERS_106-108_COLLATION_PP302-308.md). The report distinguishes the 1893 Ethiopic translation on pp.302–308 from the separate Latin CVI.1–18 fragment in Appendix E (pp.372–375), and from the parallel 1917 Charles/Oesterley witness. It records Charles's explicit identification of CVI–CVII as a Noah Apocalypse fragment and CVIII as an independent addition. Textual decisions include the G/G1/M variants in CVI.9–16 and CVII.1–3, Charles's omission of unsupported Dillmann wording at CVI.16, the proposed relocation of the first half of CVI.17 after v.14, and variants in CVIII.2–3 and 11–15.
 
 **Evidence boundary:** Cornell OCR/text-layer and apparatus only. No page pixels for pp.302–308 (BookReader n323–n329) were inspected. The IMAGE_PROOFING_LOG reports these images as retrieved but not individually checked. The visual proofing count remains 20 / 254. Independent human approval remains outstanding.
+
+
+## Final proofing tracker
+
+The remaining facsimile and independent-review requirements are tracked in [GitHub issue #1 — Complete 1 Enoch 1893 facsimile proofing and independent review](https://github.com/hasnocool/ancient-books-study/issues/1). This issue does not change the proofing ledger or imply that review has occurred.
