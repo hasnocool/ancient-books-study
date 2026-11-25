@@ -220,7 +220,10 @@ def verse_units(section: str) -> list[tuple[int, str]]:
     for index, match in enumerate(matches):
         number = next(int(group) for group in match.groups() if group is not None)
         end = matches[index + 1].start() if index + 1 < len(matches) else len(section)
-        body = re.sub(r"(?m)^\s*---\s*$", "", section[match.end():end])
+        body = section[match.end():end]
+        body = re.split(r"(?mi)^\s*(?:>\s*)?\*\*Editorial note\b", body, maxsplit=1)[0]
+        body = re.split(r"(?m)^##\s+(?:Editorial|Completeness|Textual|Historical)", body, maxsplit=1)[0]
+        body = re.sub(r"(?m)^\s*---\s*$", "", body)
         units.append((number, body.strip()))
     return units
 
