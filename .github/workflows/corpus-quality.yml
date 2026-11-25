@@ -1,0 +1,46 @@
+# .github/workflows/corpus-quality.yml
+name: Corpus quality checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: corpus-quality-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  audit-and-test:
+    name: Audit corpus and run unit tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: false
+
+      - name: Run full read-only corpus audit
+        run: python tools/audit_corpus.py all --json-out audit-report.json
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Upload audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: corpus-audit-report
+          path: audit-report.json
+          if-no-files-found: ignore
+          retention-days: 14
