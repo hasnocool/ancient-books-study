@@ -27,7 +27,7 @@ This is how it rises: its first appearance in the east comes on the thirtieth mo
 
 ### Verse 5
 
-At first, one seventh of its visible half is illuminated. Most of its circumference remains dark, except for one seventh of the moon and one fourteenth of that half of its light.
+The source's wording here is obscure. It says that one half of the moon projects by one seventh, and that its circumference is without light except for one seventh of the moon and one fourteenth of half its light.
 
 ### Verse 6
 
