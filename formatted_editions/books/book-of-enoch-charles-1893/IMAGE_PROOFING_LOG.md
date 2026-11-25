@@ -354,3 +354,10 @@ Copy one row per inspected printed page:
 | Printed page | Scan / zero-based PDF index | Visual result | Discrepancy / observation | Reviewer / date |
 |---:|---|---|---|---|
 |  |  |  |  |  |
+
+
+## Re-access attempt — 25 November 2026
+
+The existing batch record for pp.75–308 remains unchanged: 234 page JPEGs were previously reported retrieved, but none of those pages has an individual inspection row. In this session, attempts to reacquire page pixels for the later target range through the BookReader medium/large URL forms, the IIIF manifest and image route, and the ArchiveLab page API did not return image bytes. The Internet Archive searchable DjVu text layer was accessible, but it is not visual evidence.
+
+**No new page was inspected and no progress count changes.** The progress ledger remains 20 / 254 individually image-checked; pp.75–308 remain retrieval-reported, not individually proofed. The page-by-page rows above are the only valid inspection records. Do not infer visual checking from the batch-retrieval note.
