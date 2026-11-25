@@ -24,7 +24,7 @@ All six formatted 1 Enoch source files were compared with the 108 modernized cha
 
 The original combined Enoch archive file was also compared against the six formatted chapter files by normalized body text. **108 of 108 chapter bodies now match.** Seven sequential embedded page-number artifacts (53–59) were found in Chapters 91, 93, 96, 98, 100, 102, and 104; they were removed from the formatted derivative. The archival source file was not changed. The local validator now repeats this raw-to-formatted transfer check and emits token-level differences for any future mismatches.
 
-The comparison preserved source irregularities rather than repairing them, including unnumbered chapters, numbering gaps, repeated verse numbers, and interpolation labels. This is a structural result only; it does not prove that the modernized wording preserves every nuance of the source.
+The comparison preserved source irregularities rather than repairing them, including unnumbered chapters, numbering gaps, repeated verse numbers, and interpolation labels. A verse-length anomaly screen across all 108 chapters found no units outside the severe word-count thresholds after removing editorial apparatus. Moderate examples in Chapters 10:20, 72:20, and 89:4 were inspected; Chapter 69:2 was revised to retain the ordinal sequence of 21 names, and commentary was separated from Chapter 98:5. These checks are triage and spot review only; they do not prove that the modernized wording preserves every nuance of the source.
 
 ### Historical source findings
 
@@ -59,7 +59,7 @@ The toolkit and tests have been committed, but the full Python test suite and wh
 |---|---|
 | Run the local audit toolkit across all five archival directories | Pending local execution |
 | Run the Python unittest suite | Pending local execution |
-| Review every modernized 1 Enoch verse semantically | Pending human review |
+| Complete independent human semantic review of every modernized 1 Enoch verse | Pending; automated length triage and selected spot checks are complete |
 | Fully collate Chapters 1–104 against the 1893 facsimile | Pending |
 | Collate Chapters 105–108 against their explicitly identified later witness | Pending |
 | Identify exact textual lineage of the combined repository transcription | Unresolved |
