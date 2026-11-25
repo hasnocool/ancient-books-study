@@ -15,35 +15,35 @@ After this, Enoch began reading from the books. He said:
 
 ### Verse 2
 
-“I will speak to you, my sons, about the children of righteousness, the chosen people of the world, and the shoot of righteousness. I, Enoch, will announce these things to you according to what was shown to me in a heavenly vision, what I learned through the words of the holy angels, and what I discovered in the heavenly tablets.
+“I will speak to you, my sons, about the children of righteousness, the chosen people of the world, and the shoot of righteousness. I, Enoch, will announce these things to you according to what was shown to me in a heavenly vision, what I learned through the words of the holy angels, and what I discovered in the heavenly tablets.”
 
 ### Verse 3
 
-“I began reading from the books and said: I was born as the seventh generation in the first week, when judgment and righteousness were still delayed.
+“I began reading from the books and said: I was born as the seventh generation in the first week, when judgment and righteousness were still delayed.”
 
 ### Verse 4
 
-“After me, in the second week, great wickedness will arise and deception will take root. During that period the first decisive ending will come, and one man will be saved. After that period has passed, unrighteousness will grow, and God will establish a law for sinners.
+“After me, in the second week, great wickedness will arise and deception will take root. During that period the first decisive ending will come, and one man will be saved. After that period has passed, unrighteousness will grow, and God will establish a law for sinners.”
 
 ### Verse 5
 
-“Then, at the end of the third week, a man will be chosen as the shoot of righteous judgment. After him, the shoot of righteousness will continue forever.
+“Then, at the end of the third week, a man will be chosen as the shoot of righteous judgment. After him, the shoot of righteousness will continue forever.”
 
 ### Verse 6
 
-“Then, at the end of the fourth week, visions of the holy and righteous will be revealed. A law will be given for all future generations, and a protected enclosure will be established for them.
+“Then, at the end of the fourth week, visions of the holy and righteous will be revealed. A law will be given for all future generations, and a protected enclosure will be established for them.”
 
 ### Verse 7
 
-“Then, at the end of the fifth week, a glorious house and a dominion will be established forever.
+“Then, at the end of the fifth week, a glorious house and a dominion will be established forever.”
 
 ### Verse 8
 
-“Then, during the sixth week, everyone living in that period will become spiritually blind, and their hearts will be overcome by a corrupt forgetfulness of wisdom. A man will arise during that week. At its end, the house of dominion will be burned with fire, and the entire people descended from the chosen root will be scattered.
+“Then, during the sixth week, everyone living in that period will become spiritually blind, and their hearts will be overcome by a corrupt forgetfulness of wisdom. A man will arise during that week. At its end, the house of dominion will be burned with fire, and the entire people descended from the chosen root will be scattered.”
 
 ### Verse 9
 
-“After that, during the seventh week, a generation will arise whose deeds will be many, but all its actions will be rebellious.
+“After that, during the seventh week, a generation will arise whose deeds will be many, but all its actions will be rebellious.”
 
 ### Verse 10
 
