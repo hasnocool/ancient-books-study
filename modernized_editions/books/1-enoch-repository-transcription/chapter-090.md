@@ -179,6 +179,12 @@ That night I remembered my first dream. I wept because of it as well, and I was 
 
 ---
 
+## 1893 critical-apparatus notes
+
+- **90:1:** The printed Charles translation reads “thirty-six shepherds,” but his note says this is probably a manuscript error for “thirty-five.” The printed reading is retained in the verse; the emendation is documented rather than silently substituted.
+- **90:15:** This is the only interpolation Charles identifies in Section IV; its bracketed status is retained.
+- **90:19:** Charles's introduction recommends reading this verse before 90:16. The modernization retains the printed order and records the alternate sequence here so that readers can distinguish the 1893 printed layout from the editor's proposed reconstruction.
+
 ## Completeness and editorial notes
 
 - All **42 numbered units** in the repository's Chapter 90 have been rendered individually.
