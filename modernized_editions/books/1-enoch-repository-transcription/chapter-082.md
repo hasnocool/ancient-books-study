@@ -58,7 +58,7 @@ The four leaders who divide the four parts of the year enter first. After them c
 
 One of the heads over thousands is added between each leader, behind the appointed position, while their leaders carry out the division.
 
-### Verse 14
+### Verse 13
 
 These are the names of the leaders who divide the four appointed parts of the year: Melkeel, Helemmelek, Melejal, and Narel.
 
@@ -90,7 +90,7 @@ These are the signs seen on earth during his days: intense heat and dryness. The
 
 These are the names and appointed orders of the leaders over those thousands: Gedael, Keel, and Heel, together with the additional head over a thousand, Asfael. The days of their authority then come to an end.
 
-**Editorial note:** The source's printed numbering moves from verse 12 to two successive units both numbered 14, then continues with 15–20. Verse 13 is absent. Both occurrences of verse 14 are retained and distinguished here; no missing verse has been invented.
+**1893 numbering note:** The authentic 1893 printed text numbers the names of the four year-section leaders as verse 13, followed by verse 14 for the names of those who serve under them. The repository base had accidentally labelled the first of these passages verse 14, creating a duplicate. The modernization now restores the printed sequence 12, 13, 14, 15–20; no verse has been invented or omitted.
 
 ---
 
