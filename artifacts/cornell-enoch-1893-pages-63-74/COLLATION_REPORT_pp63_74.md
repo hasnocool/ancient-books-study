@@ -1,4 +1,4 @@
-# Text-Layer Collation Report: Printed pp. 63–74
+# OCR Inventory and Initial Text-Layer Review: Printed pp. 63–74
 
 **Source:** Cornell / Internet Archive scan `enoch-1893-clarendon-original.pdf` (identifier: `cu31924014590545`)
 **BookReader leaves:** n84–n95
