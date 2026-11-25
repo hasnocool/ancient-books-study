@@ -57,11 +57,11 @@ How terrible it will be for you stubborn-hearted people who practise wickedness 
 
 ### Verse 12
 
-How terrible it will be for you who love injustice! Why do you expect good things for yourselves? You will be handed over to the righteous, who will execute judgment upon you without pity.
+How terrible it will be for you who love injustice! Why do you expect good things for yourselves? You will be handed over to the righteous, who will cut off your necks, kill you, and show you no pity.
 
 ### Verse 13
 
-How terrible it will be for you who celebrate the suffering of the righteous. No lasting burial place will be found for you.
+How terrible it will be for you who celebrate the suffering of the righteous. No grave will be found for you.
 
 ### Verse 14
 
