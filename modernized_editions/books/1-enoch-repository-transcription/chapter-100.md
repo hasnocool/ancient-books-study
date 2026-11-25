@@ -13,7 +13,7 @@ In those days, fathers and their sons will be struck down together. Brothers wil
 
 ### Verse 2
 
-People will not hold back from killing their own sons, and sons will not hold back from killing their fathers. Sinners will not spare even their honoured brothers. From sunrise until sunset they will slaughter one another.
+A man will not hold back his hand from killing his sons, and his sons will not hold back either. A sinner will not hold back from killing his honoured brother. From dawn until sunset they will kill one another.
 
 ### Verse 3
 
@@ -53,7 +53,7 @@ He will call the clouds, mist, dew, and rain as witnesses against you. These wil
 
 ### Verse 12
 
-You might as well try to give gifts to the rain to persuade it not to withhold itself, or offer gold and silver to the dew so that it will descend.
+You may as well give gifts to the rain so that it will not be withheld, or offer gold and silver to the dew so that it will descend.
 
 ### Verse 13
 
