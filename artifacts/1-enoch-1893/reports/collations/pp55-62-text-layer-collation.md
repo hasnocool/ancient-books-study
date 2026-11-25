@@ -2,7 +2,7 @@
 
 **Date:** 25 November 2026  
 **Repository base:** `main` at commit `bdfd4219ea9b6bb9d6e75b22414a40a6e51694b1`  
-**OCR input:** `pdfs/extracted/cornell_pages_75_84_text.txt`  
+**OCR input:** `artifacts/1-enoch-1893/ocr/cornell-pdf-ordinals-75-84.txt`  
 **Formatted comparison text:** `book-01-watchers-chapters-01-36.md`  
 **Witness:** R. H. Charles, *The Book of Enoch* (Oxford: Clarendon Press, 1893), Cornell copy, Internet Archive identifier `cu31924014590545`.
 
