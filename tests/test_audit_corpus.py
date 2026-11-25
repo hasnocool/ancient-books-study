@@ -126,6 +126,7 @@ class RepositoryCheckTests(unittest.TestCase):
             result = audit_corpus.audit_catalog(root)
             self.assertEqual(result["edition_count"], 1)
             self.assertIn("Sample Edition", result["markdown_preview"])
+            self.assertEqual(result["editions"][0]["status_line"], "Draft")
             self.assertEqual(catalog.read_text(encoding="utf-8"), "maintained catalog\n")
 
 
