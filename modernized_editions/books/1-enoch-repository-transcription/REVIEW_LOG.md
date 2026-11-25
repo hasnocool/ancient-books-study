@@ -7,7 +7,7 @@
 
 | Chapter range | Source divisions | Files present | Structural review | Semantic review | Historical collation |
 |---|---|---:|---|---|---|
-| 1–36 | Watchers | 36/36 | 36/36 verse-label sequences match; first-pass semantic review complete for 1–18, pending for 19–36 | Assistant first-pass reviewed 1–18; independent human approval pending for all | Pending; sample textual differences already documented |
+| 1–36 | Watchers | 36/36 | 36/36 verse-label sequences match; assistant first-pass semantic review complete for 1–36 | Independent human approval pending for all | Pending; sample textual differences already documented |
 | 37–71 | Parables | 35/35 | Source and modernization verse-label sequences compared for all chapters in this range; interpolation markers retained | Pending verse-by-verse human review | Pending |
 | 72–82 | Luminaries | 11/11 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 82 numbering anomaly preserved | Pending verse-by-verse human review | Pending |
 | 83–90 | Visions | 8/8 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 89/90 counts checked | Pending verse-by-verse human review | Pending |
@@ -34,7 +34,8 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 | 1–6 | Reviewed; no material verse-body omission found | Corrected copied completeness notes that incorrectly referred to Chapter 4 inside Chapters 1, 2, 3, and 5. Corrected Chapter 6's note, which falsely implied this chapter contained interpolation markers. |
 | 7–12 | Reviewed; no material verse-body omission found | Preserved the source measurement “3,000 ells” in 7:2 (the earlier adaptation said “cubits”). Corrected Chapter 7's false claim that it contains source-marked interpolations. Corrected 10:15 to retain “souls” rather than changing the noun to “spirits.” |
 | 13–18 | Reviewed; no material verse-body omission found | Restored the source form “Rufael” in 13:1. Revised 14:11 to preserve the source's statement that “their heaven was water,” rather than recasting it as a sea-like feature above them. |
-| 19–36 | Pending | Not yet reviewed verse by verse. |
+| 19–30 | Reviewed; no material verse-body omission found | Corrected future tense in 19:1, retained “vengeance” in 20:4, removed an interpretive “hollow” from 22:1, restored the source's ambiguous “revilers” in 22:11, and retained the source wording in 25:2, 25:4, 27:1, 27:4, and 29:2. |
+| 31–36 | Reviewed; no material verse-body omission found | Checked botanical terms, locations, directions, gates, winds, and repeated structural details. Changed 34:2 to retain the source plural “north winds.” |
 
 Reviewers should continue checking names, numbers, measures, directions, sequence, agency, and interpretive additions—not only whether each numbered unit exists.
 
