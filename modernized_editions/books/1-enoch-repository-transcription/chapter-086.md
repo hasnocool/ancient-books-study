@@ -21,7 +21,7 @@ Again I looked toward heaven in the vision. I saw many stars descend and throw t
 
 ### Verse 4
 
-I watched them. They exposed themselves like horses and began mating with the cows. All the cows became pregnant and gave birth to elephants, camels, and donkeys.
+I watched them. They exposed their sexual organs like horses and began mounting the cows of the oxen. All the cows became pregnant and gave birth to elephants, camels, and donkeys.
 
 ### Verse 5
 
