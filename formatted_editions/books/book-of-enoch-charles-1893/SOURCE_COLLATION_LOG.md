@@ -578,3 +578,32 @@ The authentic 1917 searchable text layer for 105–108 was examined. The image-b
 ### Charles 1912 second-edition scope clarification
 
 The separately scanned 1912 second edition was examined as bibliographic/critical context for the later SPCK reprint. Charles's 1912 Introduction classifies 105 as an independent two-verse fragment, 106–107 as material from the Book of Noah, and 108 as a later appendix (see the searchable 1912 scan, pp. 34–35 / OCR lines 685–689: [1912 second-edition scan](https://iapsop.com/ssoc/1912__charles___book_of_enoch.pdf)). The 1912 contents list the translated sections through Chapter 104 and Appendix E as the Latin fragment 106:1–18; the 1912 volume does not provide a complete printed translation of 105–108 that could substitute for missing 1917 p.152. The 1917 preface explicitly says the SPCK translation reprints Charles's 1912 second edition, so its introduction and textual framing are relevant, but the full 105–108 reading sequence remains a separate 1917 witness.
+
+## Follow-up visual page-image retrieval audit — 25 November 2026
+
+This pass tested additional independently hosted image witnesses. **No new 1893 translation page has been counted as visually inspected.** The exact status is:
+
+### 1893 Clarendon Press witnesses
+
+- **Cornell / Internet Archive** (\`cu31924014590545\`): 428-page scan, 11.09 MB. The PDF and catalogue/title-page record identify the 1893 Clarendon edition. The page-rendering service rejected the original PDF as too large; attempts to retrieve internal page images did not return page pixels.
+- **University of Michigan / Google Books** (\`bookenochtransl00dillgoog\`): distinct 418-page scan, 14.28 MB. The title page and bibliographic metadata identify the same 1893 Clarendon edition. The Commons PDF preview provides a title-page thumbnail, but attempts to render the translation pages (including the Section I/II boundary and representative later-section pages) returned content-size errors or cache misses. The title-page thumbnail is not evidence for the translation text.
+- **Knox College / University of Toronto**: a third distinct digitization is mirrored as \"Charles_ed - Book of Enoch.pdf\" at the Luminist/Wasabi host. Its searchable PDF text identifies the Knox College copy and the Clarendon 1893 title page; the contents give the translation range as printed pp. 55–308. The page renderer refused the 30.5 MB PDF as too large, and a direct file download was unavailable in this environment. No internal page image from this witness was inspected.
+
+These are three separate digitizations of the same bibliographic edition. They are not interchangeable file identities, and their scan-page counts differ. The currently available route exposes searchable text and some title-page previews, but not the actual translation-page images. Therefore visual collation of **all printed pp. 55–308 remains unstarted/unverified in this environment**; the previous searchable-text/apparatus review remains a separate form of evidence.
+
+### 1917 SPCK witness — exact missing page re-tested
+
+The 160-page Commons/Internet Archive PDF (\`bookofenoch0000unse\`) is independently identified as the SPCK edition first published in 1917; this scanned physical copy is the tenth impression of 1962 and its editors' preface states that the translation reprints Charles's 1912 second edition. The PDF-page mapping around the unresolved leaf is:
+
+| Zero-based PDF index | Printed page | Visual result |
+|---:|---:|---|
+| 150 | 149 | Inspected as adjacent context |
+| 151 | 150 | Inspected |
+| 152 | 151 | Inspected |
+| 153 | 152 | **Repeated cache miss; not inspected** |
+| 154 | 153 | Inspected |
+| 155 | 154 | Inspected |
+
+The 1917 printed p.152 image was re-requested through the Commons-hosted 6.73 MB PDF as well as the earlier scan reference. Both attempts failed to return the image. A HathiTrust catalogue copy is listed as US-access-only; no second publicly retrievable page-image copy was found. Searchable text for the same passage is available, but it does not close the visual gap.
+
+**Audit conclusion:** 1917 printed pp.149–151 and 153–154 have image evidence; p.152 remains open. For 1893, source identification and text-layer review are established, but there is still no visual proofing of pp.55–308. Do not label either visual task complete until the actual page pixels have been inspected and recorded against printed page numbers.
