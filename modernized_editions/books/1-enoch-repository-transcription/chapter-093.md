@@ -19,7 +19,7 @@ After this, Enoch began reading from the books. He said:
 
 ### Verse 3
 
-“I began reading from the books and said: I was born as the seventh generation in the first week, when judgment and righteousness had not yet come into their fullness.
+“I began reading from the books and said: I was born as the seventh generation in the first week, when judgment and righteousness were still delayed.
 
 ### Verse 4
 
