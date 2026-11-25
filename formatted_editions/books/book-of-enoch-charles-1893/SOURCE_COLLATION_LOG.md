@@ -55,6 +55,23 @@ The 1893 preface describes the Slavonic Enoch as a distinct work that Charles ho
 
 ## Additional 1893 text-layer spot comparisons
 
+The Cornell / Internet Archive scan of the same 1893 Clarendon Press edition was used as a second searchable witness. Its scan metadata identifies the 1893 Oxford publication and Cornell holdings. Page-image capture of this second PDF was also rejected by the web screenshot service because the 11.09 MB PDF exceeded the service's size limit; the following are therefore text-layer comparisons, not visual proofreading.
+
+| Chapter / verse | Printed page | 1893 text-layer reading | Repository/adaptation comparison |
+|---|---:|---|---|
+| 1:2 | 57 | Opens “And Enoch answered and spake—(Enoch) a righteous man…” | The selected archive's wording instead begins “Enoch answered and spoke: I, Enoch…”. This is a substantive person/voice difference, not just spelling. The adaptation follows the selected archive source. |
+| 2:1 | 59 | Describes the luminaries as not deviating from their orbits and rising/setting “each in its season” | The modernized text follows the selected archive's plainer description of the appointed courses. |
+| 2:2 | 59 | Addresses the reader as “Behold ye the earth…” and describes God's work as appearing unvaryingly | The modernized text retains the injunction but updates the old second-person grammar and syntax. |
+| 2:3 | 59 | Explicit parenthetical: “(in the winter season)” before describing the earth's water, clouds, dew, and rain | That seasonal parenthetical is absent from the selected repository transcription and modernized verse. It has not been silently supplied from the 1893 witness. |
+| 3:1 | 60 | Begins “I observed and saw how (in the winter)…” before describing the trees | The selected archive does not retain that seasonal parenthetical; the modernized text follows the selected archive. |
+| 7:2 | 65 | “three thousand ells” | The adaptation retains **3,000 ells**. Charles's critical note on p. 65 says the number three thousand appears in the Gizeh Greek fragment but is absent from the Syncellus Greek. It is therefore a witness-specific reading, not a reading uniformly attested in both Greek fragments. |
+| 7:5 | 65 | Lists sins against birds, beasts, reptiles, and fish, then eating one another's flesh and drinking blood | The modernization preserves that sequence; the detailed apparatus explains the phrase “one another's flesh” as possibly referring to conflict among different classes of giants. |
+| 13:1 | 79 | “(Rufael) shall put thee in bonds” | The modernization preserves the source form **Rufael**. |
+| 14:11 | 81 | The printed text's apparatus gives the literal gloss “and their heaven was water” | The modernization retains the water image rather than recasting it as a sea above the scene. |
+
+The 1893 section introduction itself warns that Section I is composite and contains extensive interpolations. That editorial context reinforces the need to preserve brackets and witness-specific readings instead of silently harmonizing them.
+
+
 A further bounded comparison was made against the searchable text layer of the digitized 1893 Clarendon Press scan. This is **text-layer collation only**: it is not a visual reading of the page images, and it is not a chapter-by-chapter collation.
 
 | Chapter / verse | 1893 printed reference | Text-layer reading checked | Editorial observation |
