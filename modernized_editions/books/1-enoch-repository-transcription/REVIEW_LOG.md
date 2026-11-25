@@ -351,3 +351,20 @@ The 1917 searchable text layer has been compared against the repository-based mo
 - **Chapter 108:** Differences in the nouns used for the books/records (108:3), the referent described as a passing breath (108:9), blessings received versus destined (108:10), agency concerning honour in the flesh (108:11), and being led versus cast into darkness (108:14). Verse 108:4 has a daggered/corrupt 1917 reading rather than the repository's “could not look thereon.”
 
 The repository wording and sequence remain preserved in the reading derivative. These differences are not silently harmonized. The comparison records the 1917 witness and does not imply that these chapters form part of the 1893 main translation.
+
+
+## Supplemental Charles 1917 and Ethiopic-manuscript cross-check — 25 November 2026
+
+A second digital presentation of the 1917 English text was reviewed at [Theosis Library, 1 Enoch 91–108](https://theosislibrary.com/library/verified-enoch-ethiopic-epistle). Its stated sources identify the English text as Charles 1917 / Project Gutenberg eBook 77935 and pair it with Dillmann's 1851 Ge'ez text and photographs of Rylands Ethiopic MS 23. The chapter notes map 105–108 onto fols. 16r–16v and identify the photographed column boundaries. This adds an independently presented text-layer comparison and manuscript-level corroboration for the underlying Ethiopic passage, but it is not a photograph of the 1917 SPCK printed p.152 and cannot close that image gap.
+
+The supplemental review confirms the following 1917 source signs/wordings:
+- 106:2 and 106:3 contain daggered corrupt expressions; Charles's printed convention uses †...† to signal corrupt text. The modernization currently retains the repository's ordinary readable forms, with the 1917 critical signs now recorded in the Chapter 106 notes.
+- 106:8 is an interrogative (“wherefore hast thou come to me?”), not the repository's declarative “for you have come to me.”
+- 106:13 names “some of the angels of heaven”; the repository's “some from the heights of heaven” is less explicit.
+- 106:14 is in the present tense in the 1917 witness; the repository shifts to past tense.
+- 106:16 contains Charles's bracketed explanatory supplement “[he and his sons shall be saved]”.
+- 106:17a appears immediately after 106:14, before 106:15–16; Charles's note explicitly recommends that internal sequence.
+- 106:18 says “he and his sons”; the repository says “he and his children”.
+- In Chapter108, the supplemental transcription confirms the “holy books” wording, the “everything as a passing breath” phrase, the blessings “destined for them”, the un-recompensed honour wording, and the “led into darkness” clause already logged as variants.
+
+The 1912 second-edition Introduction was also checked separately. It categorizes Chapter105 as an independent fragment, Chapters106–107 as Book of Noah material, and Chapter108 as an appendix; the 1912 contents do not supply a complete translation of 105–108. This supports the decision to use the SPCK 1917 witness for those chapters, but it does not replace its page images.
