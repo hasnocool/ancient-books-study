@@ -41,15 +41,22 @@ Only 1 Enoch is reproduced in this directory. The Slavonic sections are delibera
 - For Chapters 37–71, verse labels follow Charles's chapter/verse structure. The editor's interpolation markers have been preserved: XXXIX.1–2; XLI.3–8; XLIII; XLIV; L; LIV.7–LV.2; LVI.5–LVII.3a; LIX; LX; and LXV–LXIX.25. The complete chapter bodies for XXXVII–LXXI were compared with the selected repository source after removal of structural markup; all 35 matched.
 - Chapter LXXI is part of the Parables, under the heading “Two earlier Visions of Enoch.” Its 17 verse divisions are restored, with verses 1–4 forming the first vision and verses 5–17 the second.
 - Charles's later 1912 text records a lost passage between verses 13 and 14. The selected repository transcription has no corresponding passage; it is not reconstructed here. This later-edition note remains a collation issue for the 1893 printing.
-- Chapters LXXII–CVIII still require verse boundaries to be restored. No verse numbers are inferred from paragraph length.
+- Chapters LXXII–CVIII have now had verse boundaries restored in the six formatted reading files. The restoration uses Charles's printed 1893 structure for the earlier chapters and documented later structural references where recorded in the restoration log. This structural work does not establish that the repository wording is verbatim Charles 1893.
 - No spelling or wording has been silently modernized or repaired in the formatted derivative.
 
 ## Completeness and verification
 
-A normalized comparison was performed between all 108 numbered chapter bodies in the selected repository transcription and the formatted files. The first 70 bodies were rechecked after verse restoration: 36 Book 1 chapters and 34 Book 2 chapters matched after normalization of whitespace, page numbers, source dividers, and editorial markup. The supplementary compilation Chapter 71 is retained separately. The remaining 72–108 files have their original first-pass chapter-body transfer check; verse-level restoration remains outstanding. This verifies transfer from the selected repository transcription; it does **not** establish that the selected transcription itself is complete or textually identical to the 1893 printed edition.
+- All 108 1 Enoch chapter entries from the selected repository transcription are represented in the six formatted reading files.
+- Chapter divisions, verse labels, and source-marked interpolations have been restored through Chapter 108. Known irregularities are preserved rather than silently repaired: Chapter 16 lacks verse 3; Chapters 4 and 35 are unnumbered; Chapter 82 is numbered 1–12, 14, 14, 15–20; Chapter 91 includes an interpolated verse 11 and retains verses 12–17 in the repository sequence; Chapter 106 retains the repository's sequence and its documented rearrangement note.
+- The prior normalized transfer checks recorded in the restoration log cover the chapter bodies against the selected repository transcription. These checks validate transfer/structure only; they do not prove semantic equivalence with the 1893 printing.
+- The modern-language derivative is maintained separately at `modernized_editions/books/1-enoch-repository-transcription/`. Its 108 chapter files have been committed. A separate local audit tool now checks file coverage, verse-label sequences, and extreme source/adaptation word-count ratios. These mechanical checks do not replace a human semantic review.
+- Chapters 91–108 have a documented normalized body-transfer check (18/18), and the restoration log records the chapter-level verse restoration work. Any remaining contradictions between older log entries and later completion notes should be resolved by treating this note and the current audit report as the latest status, while preserving historical log entries as dated history.
+- The exact textual lineage of the selected transcription remains unresolved. Direct sample comparison with the 1893 facsimile shows wording differences. A complete line-by-line collation against every page of the 1893 facsimile remains outstanding.
+- This directory contains the Enoch narrative reading text, not the complete 391-page 1893 scholarly volume. The general and special introductions, critical and exegetical notes, appendices, Greek and Latin fragments, and indices are outside this edition's declared scope.
+- The combined repository input contains 68 Slavonic sections belonging to 2 Enoch. Those are excluded from 1 Enoch and are addressed by the separate [2 Enoch formatted edition](../book-of-the-secrets-of-enoch-morfill-1896/README.md).
 
-The complete 1893 volume contains substantially more than the Enoch narrative: it includes general and special introductions, critical and exegetical notes, appendices, Greek and Latin fragments, and indices. Those scholarly materials are outside the scope of this reading-text derivative.
-
+**Current status:** chapter coverage and structural restoration are complete against the selected repository transcription; source-to-adaptation semantic review and full historical facsimile collation remain pending.
+  
 ## Bibliographic references
 
 - [Digitized 1893 Clarendon Press edition (PDF)](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf)
