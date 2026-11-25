@@ -54,7 +54,7 @@ class VerseParsingTests(unittest.TestCase):
         self.assertEqual([n for n, _ in audit_corpus.verse_units(sections[2])], [1])
 
     def test_verse_length_extraction_excludes_bibliographic_apparatus(self):
-        text = "### Verse 1\\nA short verse with enough words to count.\\n\\n## Bibliographic reference\\nA long bibliography that is not scripture."
+        text = "### Verse 1\nA short verse with enough words to count.\n\n## Bibliographic reference\nA long bibliography that is not scripture."
         units = audit_corpus.verse_units(text)
         self.assertEqual(len(units), 1)
         self.assertNotIn("bibliography", units[0][1])
