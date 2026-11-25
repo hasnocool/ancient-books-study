@@ -228,6 +228,13 @@ def verse_units(section: str) -> list[tuple[int, str]]:
             body,
             maxsplit=1,
         )[0]
+        body = re.split(
+            r"(?im)^\\s*(?:>\\s*)?\\*\\*(?:(?:18|19|20)\\d{2}\\s+)?"
+            r"(?:Witness|Critical(?:[- ]Apparatus)?|Source)(?:\\s+and\\s+(?:Apparatus|Notes))?"
+            r"(?:[- ]notes?)?:\\*\\*",
+            body,
+            maxsplit=1,
+        )[0]
         body = re.sub(r"(?m)^\s*---\s*$", "", body)
         units.append((number, body.strip()))
     return units
