@@ -285,3 +285,16 @@ The 1893 Section III introduction and text/apparatus were checked for the celest
 - **Chapters 72–79 and 82:** retained as the main celestial treatise; the 364-day calendar and lunar calculations are preserved as historical text, not normalized to current astronomy.
 
 This is a section-boundary and apparatus-level pass. A complete line-by-line lexical comparison and printed page-image review of Section III remain outstanding; no independent human approval is implied.
+
+
+## Authentic 1893 collation progress: Chapters 83–90 — 25 November 2026
+
+The 1893 text and Section IV introduction/apparatus were checked for Chapters 83–90. The main findings are structural:
+
+- Charles says Section IV has only one interpolation: 90:15. The modernization correctly marks that verse alone.
+- Charles recommends moving the latter clause of 89:48 to the end of 89:49; the printed verse includes it in 48. The modernization preserves print order and records the alternate arrangement.
+- Charles recommends reading 90:19 before 90:16; the printed text places it after 90:18. The modernization preserves print order and records the proposed sequence.
+- Charles says 90:1's printed count “thirty-six” is likely a manuscript error for “thirty-five.” The modernization retains the print reading and records the emendation.
+- The 1893 apparatus explains that 84:4's “day of the great judgment” refers to the Deluge, not final judgment.
+
+This is a critical-apparatus / structural pass, not full lexical or page-image verification. Independent human review remains outstanding.
