@@ -405,3 +405,22 @@ Chapters 7, 11, and 12 were checked for their numbered sequence and basic wordin
 Charles's own introduction also lists XVII–XIX among interpolations. The modernization retains the selected repository base and does not silently delete or bracket these chapters. This is a witness-layout and source-critical difference; it is not independent evidence that these chapters should be omitted.
 
 **Batch boundary:** This is a sequential text-layer check of Chapters 16–20, including the adjacent critical apparatus. Printed pp. 85–91 have not been visually checked against page images. The difficult reconstructed text at 16:1 and the Greek-only fragment context at 16:2 require continued apparatus-aware treatment.
+
+
+## Authentic 1893 text-layer collation: Chapters 21–36 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Section I, printed approximately pp. 91–106. The authentic scan's searchable text and notes were inspected at these passages. This is not visual page-image verification.
+
+| Chapter range | Comparison result | Notes |
+|---|---|---|
+| 21–25 | The repository's numbered sequence and the modernization's sequence align with the 1893 translation in the reviewed passages. | No consequential wording correction identified in this pass. Charles's notes for 21:2, 21:5, 21:9 and the 24–25 tree description were considered separately from the verse text. |
+| 26–27 | The Jerusalem/valley sequence and the division of the blessed and accursed places align in sequence and substance. | Charles's apparatus identifies the blessed place as Jerusalem and interprets the tree/branches allegorically; this is commentary, not additional verse text. |
+| 28–30 | The eastern wilderness, streams, frankincense/myrrh trees, mastic-like tree, and cinnamon sequence align in the passages reviewed. | No consequential correction identified. |
+| 31 | 1893 XXXI.3 says the taste of the fruit was better than all fragrant odours. | The modernization had changed this to “One of its fruits was more fragrant than every other perfume,” shifting taste into fragrance. Chapter 31:3 has been corrected to preserve the printed sense. |
+| 32 | The northward journey, seven mountains, Erythraean Sea, angel Zutel, Garden of Righteousness, carob-like fruit, and expulsion all align in sequence. | No consequential correction identified in this pass. |
+| 33–34 | The description of beasts/birds, the eastern gate of heaven, star portals, and the three north-wind portals aligns in sequence. | No consequential correction identified in this pass. |
+| 35 | Charles prints the westward gate description as an unnumbered chapter passage. | The repository correctly retains Chapter 35 as unnumbered. |
+| 36 | The south-wind portals and eastern star portals align in four numbered units. | No consequential correction identified in this pass. |
+
+**Batch boundary:** The comparison was conducted through the searchable text and apparatus, not page images. The page-image captures for printed pp. 91–106 were not available through the PDF screenshot service. “No consequential correction identified” records the result of this textual pass, not independent human approval or a claim that every manuscript variant has been resolved.
+
