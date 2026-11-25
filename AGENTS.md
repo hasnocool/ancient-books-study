@@ -16,8 +16,6 @@
 
 | Subdirectory | Contents |
 |--------------|----------|
-| `page-images/bookreader-medium/` | 12 medium-res BookReader JPEGs (340×569), printed pp.63–74, leaves n84–n95 |
-| `page-images/bookreader-large/` | 10 high-res BookReader JPEGs (1360×2274), printed pp.75–84, leaves n96–n105 |
 | `manifests/bookreader-pages-63-74.json` | Retrieval manifest for pp.63–74 |
 | `manifests/bookreader-pages-75-84-large.json` | Retrieval manifest for pp.75–84 |
 | `ocr/cornell-pdf-ordinals-75-84.txt` | OCR text layer — PDF ordinals 75–84 (printed p.53, pp.55–62; PAGE 76 blank). **Not** printed pp.75–84 |
@@ -25,16 +23,33 @@
 | `reports/collations/` | Collation reports, inventories, verification targets report |
 | `reports/historical/` | Superseded reconciliation reports |
 
-### Cornell Native Scans (1360×2274 JPXDecode from PDF)
-`artifacts/page-images/cornell-native/`
+### Page Images — BookReader JPEGs (Internet Archive)
+`artifacts/page-images/cornell-native/bookreader-medium/`
+- 12 medium-res JPEGs (340×569), printed pp.63–74, leaves n84–n95
 
-| Subdirectory | Printed Pages | PDF Pages | Files per Page |
-|--------------|---------------|-----------|----------------|
-| `cornell_printed_pp63_84/` | 63–84 | 85–106 | `_full.png` + `.png` + `.txt` |
-| `cornell_printed_pp75_308/` | 75–308 | 97–330 | `_full.png` + `.png` + `.txt` |
-| `cornell_pages_75_84/` | PDF ordinals 75–84 | 75–84 | `_full.png` + `.png` + `.txt` |
-| `cornell_pages_85_106/` | PDF ordinals 85–106 | 85–106 | `_full.png` + `.png` + `.txt` |
-| `cornell_all_pages/` | All | 1–428 | `_full.png` only |
+`artifacts/page-images/cornell-native/bookreader-large/`
+- 10 high-res JPEGs (1360×2274), printed pp.75–84, leaves n96–n105
+
+### Page Images — Cornell Native Scans (1360×2274 JPXDecode from PDF)
+`artifacts/page-images/cornell-native/cornell_printed_pp63_84/`
+- Printed pp.63–84 → PDF pages 85–106
+- Files per page: `_full.png` + `.png` + `.txt`
+
+`artifacts/page-images/cornell-native/cornell_printed_pp75_308/`
+- Printed pp.75–308 → PDF pages 97–330
+- Files per page: `_full.png` + `.png` + `.txt`
+
+`artifacts/page-images/cornell-native/cornell_pages_75_84/`
+- PDF ordinals 75–84 → PDF pages 75–84
+- Files per page: `_full.png` + `.png` + `.txt`
+
+`artifacts/page-images/cornell-native/cornell_pages_85_106/`
+- PDF ordinals 85–106 → PDF pages 85–106
+- Files per page: `_full.png` + `.png` + `.txt`
+
+`artifacts/page-images/cornell-native/cornell_all_pages/`
+- All 428 PDF pages → PDF pages 1–428
+- Files per page: `_full.png` only
 
 ## Key Files
 
@@ -69,7 +84,7 @@ python tools/download_archive_pages.py \
   --end-page 74 \
   --prefer-large \
   --force \
-  --output-dir artifacts/1-enoch-1893/page-images/bookreader-large \
+  --output-dir artifacts/page-images/cornell-native/bookreader-large \
   --manifest artifacts/1-enoch-1893/manifests/bookreader-pages-63-74-large.json
 ```
 
