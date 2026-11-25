@@ -95,7 +95,8 @@ python3 tools/audit_corpus.py markdown
 python3 tools/audit_corpus.py provenance
 python3 tools/audit_corpus.py enoch
 python3 tools/audit_corpus.py compare
+python3 tools/generate_catalog.py --catalog-out /tmp/formatted-catalog-preview.md
 python3 -m unittest discover -s tests -v
 ```
 
-The default mode is read-only. Reports are printed or written to a user-selected path; no source document is modified.
+The default mode is read-only. Reports are printed or written to a user-selected path; no source document is modified. Thin command-specific entry points are documented in tools/README.md.
