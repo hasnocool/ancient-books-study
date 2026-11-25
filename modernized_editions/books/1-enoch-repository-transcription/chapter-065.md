@@ -31,7 +31,7 @@
 
 ### Verse 6 — interpolation
 
-[“A command has gone out from the presence of the Lord concerning those who live on the earth: their end must come, because they have learned all the secrets of the angels, all the violence of the accusers, all their hidden powers, the power of sorcery and witchcraft, and the power of those who make molten images for the whole earth.]
+[“A command has gone out from the presence of the Lord concerning those who live on the earth: their end must come, because they have learned all the secrets of the angels, all the violence of the Satans (the adversaries), all their hidden powers, the power of sorcery and witchcraft, and the power of those who make molten images for the whole earth.]
 
 ### Verse 7 — interpolation
 
