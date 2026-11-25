@@ -16,6 +16,7 @@ The repository is primarily a **document collection**, not an application. Most 
 | [`copyrighted_works/`](./copyrighted_works/) | Rights and provenance records for selected works; archival source files remain in their original collection folders. |
 | [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading editions, editorial standards, templates, and progress catalog. |
 | [`pdfs/`](./pdfs/) | Source PDFs and digitized 1 Enoch editions, with provenance notes and scan-verification status. |
+| [`artifacts/`](./artifacts/) | Downloaded page-image batches, OCR extracts, manifests, and research/audit reports; see the artifact placement guide. |
 | [`modernized_editions/`](./modernized_editions/) | Clearly labelled modern-language adaptations kept separate from archival and faithful formatted source texts. |
 | [`docs/`](./docs/) | Usage guidance, audit standards, and repository maintenance documentation. |
 ## Example texts
