@@ -13,7 +13,7 @@
 
 ### Verse 2
 
-“As for the Watchers who sent you to plead on their behalf—the ones who were once in heaven—tell them this: You were in heaven, and although the hidden things had not yet been fully revealed to you, you learned forbidden mysteries. Because your hearts were hard, you told these mysteries to the women. Through these secrets, women and men have committed great evil on the earth.
+“As for the Watchers who sent you to plead on their behalf—the ones who were once in heaven—tell them this: You were in heaven, and although the hidden things had not yet been fully revealed to you, you knew worthless mysteries. Because your hearts were hard, you told these mysteries to the women. Through these secrets, women and men have committed great evil on the earth.
 
 ### Verse 4
 
@@ -26,5 +26,6 @@
 ## Completeness and editorial notes
 
 - All **3 numbered units** present in the repository transcription have been represented.
+- **1893 wording correction, 16:2:** Charles's printed translation reads “you knew worthless mysteries,” not “you learned forbidden mysteries.” The modernization now follows the printed wording more closely.
 - Printed numbering irregularities are retained; no missing verse has been invented.
 - This rendering follows the repository's chapter divisions and does not silently substitute another translation's wording or arrangement.
