@@ -251,13 +251,13 @@ The 1917 PDF is the Wikimedia Commons scan titled *The book of Enoch. Robert Cha
 
 ### Actual visual page checks
 
-The full SPCK scan's page images visibly returned for printed pp. 150–151 and 153–154. Printed p. 152 remains the one unresolved image retrieval.
+The full SPCK scan's page images visibly returned for printed pp. 150–151 and 153–154. Printed p. 152 remains the one unresolved image retrieval. In the 160-page scan PDF, the relevant zero-indexed PDF page indices are printed p. 150 → index 151; p. 151 → index 152; p. 152 → index 153 (cache miss); p. 153 → index 154; and p. 154 → index 155.
 
 - **Printed p. 150:** Chapter 105:1–2 appears in full, followed by the heading for the Fragment of the Book of Noah and the opening of Chapter 106:1. The image confirms 105:1's “The Lord bade (them) to summon and testify...” and “ye are their guides.”
-- **Printed p. 151:** Continues 106:1 and the birth narrative through the beginning of 106:12 (“And his father Lamech…”). This is not the whole of 106:1–14.
-- **Printed p. 152:** The image could not be retrieved. The searchable text layer shows that this page continues 106:12, contains 106:13–19 including the relocated 106:17a clause after 106:14, and begins Chapter 107:1. It remains text-layer checked but not visually checked.
-- **Printed p. 153:** Completes Chapter 107:1–3 and begins the Chapter 108 appendix (108:1–7, including the daggered/corrupt expression in 108:4). The image confirms 107:3's “he will comfort the earth after all the destruction” and the 108:4 mark “†look overt†.”
-- **Printed p. 154:** Continues the latter part of Chapter 108 and contains its closing verses through “Amen.”
+- **Printed p. 151 (PDF index 152):** Continues 106:1 and the birth narrative through the beginning of 106:12 (“And his father Lamech…”). This is not the whole of 106:1–14; the screenshot was successfully inspected in this pass.
+- **Printed p. 152 (PDF index 153):** Screenshot retrieval returned a cache miss, including on a second direct-PDF route. The searchable text layer shows that this page continues 106:12, contains 106:13–19 including the relocated 106:17a clause after 106:14, and begins Chapter 107:1. It remains text-layer checked but not visually checked.
+- **Printed p. 153 (PDF index 154):** Completes Chapter 107:1–3 and begins the Chapter 108 appendix (108:1–7, including the daggered/corrupt expression in 108:4). This image confirms 107:3's “he will comfort the earth after all the destruction” and the 108:4 mark “†look overt†.”
+- **Printed p. 154 (PDF index 155):** Continues the latter part of Chapter 108 and contains its closing verses through “Amen.”
 
 Therefore the 1917 witness is **partially visually collated**, not completely page-image collated. Chapter 105 is visible on p. 150; Chapter 106 is only partially visible across pp. 150–151 and remains incomplete at p. 152; Chapter 107 is completed on p. 153 but begins on the missing p. 152; Chapter 108 is visible across pp. 153–154.
 
