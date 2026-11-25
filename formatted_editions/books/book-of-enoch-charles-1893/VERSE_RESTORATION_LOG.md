@@ -1,6 +1,6 @@
 # Enoch Verse Restoration Log
 
-This log records verse boundaries cross-referenced to Charles's printed editions, with the 1893 Clarendon Press text as the primary structural reference. Where chapters 101–105 were restored in this pass, the 1917 Charles edition was used to verify numbering and boundaries; the repository wording remains unchanged. The words inside the formatted reading edition remain the words of the repository's combined transcription, which is not a verbatim reproduction of the 1893 text. Structural restoration is now recorded through Chapter CVIII; full wording collation remains separate and outstanding.
+This log records verse boundaries cross-referenced to Charles's printed editions, with the 1893 Clarendon Press text as the primary structural reference. The 1893 translation pagination includes CV–CVIII on pp.301–308 as separately presented units after the Section V composition XCI–CIV. The 1917 Charles/Oesterley edition is used as a parallel later witness for numbering and boundaries in Chapters 105–108; the repository wording remains unchanged. The words inside the formatted reading edition remain the words of the repository's combined transcription, which is not a verbatim reproduction of the 1893 text. Structural restoration is recorded through Chapter CVIII; the targeted text-layer reports are not a complete diplomatic collation.
 
 ## Reference editions
 
