@@ -9,7 +9,7 @@
 
 ### Verse 1
 
-Enoch went and said: “Azazel, you will find no peace. A severe sentence has been issued against you. Rafael will bind you.
+Enoch went and said: “Azazel, you will find no peace. A severe sentence has been issued against you. Rufael will bind you.
 
 ### Verse 2
 
