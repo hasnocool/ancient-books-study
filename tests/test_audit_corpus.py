@@ -92,6 +92,17 @@ class VerseParsingTests(unittest.TestCase):
         self.assertEqual(len(units), 1)
         self.assertNotIn("editorial explanation", units[0][1])
 
+    def test_verse_length_extraction_excludes_year_prefixed_critical_heading(self):
+        text = (
+            "### Verse 1\\n"
+            "A short scriptural verse with enough words to count.\\n\\n"
+            "## 1893 critical-apparatus notes\\n"
+            "A long editorial explanation that is not part of the verse."
+        )
+        units = audit_corpus.verse_units(text)
+        self.assertEqual(len(units), 1)
+        self.assertNotIn("editorial explanation", units[0][1])
+
 
 class EnochAuditTests(unittest.TestCase):
     def test_reports_missing_chapters_without_mutating_files(self):
