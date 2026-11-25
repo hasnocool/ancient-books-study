@@ -41,20 +41,22 @@
 | File | Purpose |
 |------|---------|
 | `AGENTS.md` | This file — project paths and artifacts layout |
+| `formatted_editions/books/book-of-enoch-charles-1893/IMAGE_PROOFING_LOG.md` | Authoritative proofing log: page map (pp.55–308 → leafNums 76–329), inspection rules, progress ledger |
 | `artifacts/1-enoch-1893/reports/collations/VERIFICATION_TARGETS_REPORT.md` | 3 verification targets: CII.4 (p.291), CV.2 (p.301), CVI.17 (p.305) |
 | `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md` | pp.75–84 retrieval + OCR inventory |
 | `artifacts/1-enoch-1893/reports/collations/pp63-74-ocr-inventory.md` | pp.63–74 OCR inventory |
 | `artifacts/1-enoch-1893/reports/collations/pp55-62-text-layer-collation.md` | pp.55–62 text-layer collation |
 
-## Proofing Ledger Status
+## Proofing Ledger Status (see IMAGE_PROOFING_LOG.md for full detail)
 
-| Metric | Count | Basis |
-|--------|-------|-------|
-| Auditable visual inspections | 0 / 254 | No page individually opened and inspected |
-| Retrieval records (pp.55–74) | 20 | BookReader JPEGs downloaded, not visually inspected |
-| Retrieval records (pp.75–308) | 234 | PDF native scans extracted, not visually inspected |
+| Tier | Count | Basis |
+|------|-------|-------|
+| Page/layout-level visual inspection | 12 / 254 | pp.63–74 individually opened at 340×569 medium JPEG |
+| Full high-resolution textual/apparatus proofing | 0 / 254 | No page completed at 1360×2274 resolution |
+| Retrieval records (pp.55–74) | 20 | BookReader JPEGs downloaded; reclassified as retrieval-only |
+| Retrieval records (pp.75–308) | 234 | Batch-retrieved; not individually image-checked |
 
-**Rule:** Successful download ≠ visual verification. Each page must be individually opened and inspected before incrementing the proofing count.
+**Rule:** Successful download ≠ visual verification. Each page must be individually opened and inspected at legible resolution before incrementing any proofing count. OCR, extracted PDF text, search snippets, and page metadata do not qualify.
 
 ## Downloader
 
