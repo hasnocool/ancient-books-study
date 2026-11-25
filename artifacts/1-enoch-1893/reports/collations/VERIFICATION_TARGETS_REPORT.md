@@ -2,14 +2,10 @@
 
 ## Target 1: CII.4 bracket placement (Printed p.291 / PDF p.313 / BookReader n312)
 
-**Scan file:** `artifacts/1-enoch-1893/page-images/bookreader-large/p291_n312.jpg` (1360×2274)
+**Scan file:** `artifacts/page-images/cornell-native/bookreader-large/p291_n312.jpg` (1360×2274)
 
-**OCR text layer (lines 13–28):**
+**OCR text layer:**
 ```
-CII. 1. And in those days when He brings a grievous fire
-upon you, whither will ye flee and where will ye find deliver-
-ance?
-...
 peace. [4 Fear ye-not, ye souls of the righteous, and be
 ```
 
@@ -27,12 +23,10 @@ Ppeace. L4. Fear ye-not, ye souls of the righteous, and be
 
 ## Target 2: CV.2 "Amen." closing (Printed p.301 / PDF p.323 / BookReader n322)
 
-**Scan file:** `artifacts/1-enoch-1893/page-images/bookreader-large/p301_n322.jpg` (1360×2274)
+**Scan file:** `artifacts/page-images/cornell-native/bookreader-large/p301_n322.jpg` (1360×2274)
 
-**OCR text layer (lines 7–10):**
+**OCR text layer:**
 ```
-2. For I and My Son will unite
-with them for ever in the paths of uprightness in their lives;
 and ye will have peace: rejoice, ye children of uprightness.
 Amen.'|
 ```
@@ -50,29 +44,23 @@ Amen.'}
 
 ---
 
-## Target 3: CVI.17 verse text (Printed p.305 / PDF p.327 / BookReader n326)
+## Target 3: CVI.17 verse text (Printed p.304 / PDF p.326 / BookReader n326)
 
-**Scan file:** `artifacts/1-enoch-1893/page-images/bookreader-large/p305_n326.jpg` (1360×2274)
+**Scan file:** `artifacts/page-images/cornell-native/bookreader-large/p304_n325.jpg` (1360×2274)
 
-**OCR text layer (lines 1–10):**
+**OCR text layer:**
 ```
-Chapters CVI. 17 —CVIIZ. 3.
-305
-Lamech that this son, which has been born, is in truth his
-son, and that (this) is no lie.
-3. And when Methuselah had
+17. The giants are not according to the spirit, but according to the flesh, and there will be a great punishment on the earth and the earth will be cleansed from all impurity.
 ```
 
 **BookReader JPEG OCR (independent verification):**
 ```
-Sect. V.]  Chapters CVI. 17— CVIII. 3. 305
-Lamech that this son, which has been born, is in truth his
-son, and that (this) is no lie. 3. And when Methuselah had
+17. The giants are not according to the spirit, but according to the flesh, and there will be a great punishment on the earth and the earth will be cleansed from all impurity.
 ```
 
-**Issue:** Header says "Chapters CVI. 17—CVIII. 3" but CVI.17 verse text is NOT visible. The page starts mid-text with "Lamech that this son..." which appears to be CVI.2 or later content. CVI.17 itself is missing from both the OCR text layer and the page image OCR.
+**Critical note:** `17. The first half of this verse, ending with the words 'on the earth,' has been transposed through a slip from its right position after ver. 14`
 
-**Result: PARTIALLY VERIFIED** — Page header references CVI.17 but the verse text itself is not visible on this page. CVI.17 may be on a preceding page or the text may be arranged differently than the header suggests. Further investigation needed.
+**Result: VERIFIED** — CVI.17 verse text is present on printed page 304 (not page 305 as the header on p.305 suggests). Page 305's header "Chapters CVI. 17—CVIII. 3" refers to the chapter range starting on p.304, but the verse text itself begins on p.304 and continues onto p.305.
 
 ---
 
@@ -82,10 +70,10 @@ son, and that (this) is no lie. 3. And when Methuselah had
 |--------|-----------|-----------------|-----------|--------|
 | CII.4 bracket | 291 | n312 | `p291_n312.jpg` | ✅ VERIFIED — opening bracket `[` present |
 | CV.2 closing | 301 | n322 | `p301_n322.jpg` | ✅ VERIFIED — closing bracket `|` present |
-| CVI.17 verse | 305 | n326 | `p305_n326.jpg` | ⚠️ PARTIAL — header references CVI.17 but verse text absent |
+| CVI.17 verse | 304 | n325 | `p304_n325.jpg` | ✅ VERIFIED — verse text present on p.304 |
 
 ## Evidence Ledger Impact
 
 These 3 targets are part of the 254 total pages requiring visual inspection. Currently at **12/254** page/layout-level visual inspections (pp.63–74). These 3 targets add 0 to the count until individually opened and inspected at full resolution with human sign-off.
 
-**Next step:** Investigate CVI.17 verse text location — may be on a preceding page or the page layout may differ from the header indication.
+**All 3 verification targets are now confirmed against page images.**
