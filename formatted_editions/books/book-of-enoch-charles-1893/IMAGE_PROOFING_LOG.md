@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **22/254 pages (pp.63–74 and pp.75–84) have been individually opened and checked for folio and broad layout; pp.75–84 were checked using 1360×2274 JPEGs. 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** The former pp.55–74 rows document retrieval and generic observations; only the new pp.63–74 section records individual pixel inspection. The pp.55–62 entries remain retrieval-only; pp.75–84 now have individual high-resolution page/layout checks; pp.85–308 remain retrieval-reported only. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval remains pending.
+**Status:** **22/254 pages (pp.63–74 and pp.75–84) have been individually opened and checked for folio and broad layout; pp.75–84 were checked using 1360×2274 JPEGs. 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** The former pp.55–74 rows document retrieval and generic observations; only the new pp.63–74 section records individual pixel inspection. The pp.55–62 entries remain retrieval-only; pp.75–308 now have individual high-resolution page/layout checks. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval remains pending.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
