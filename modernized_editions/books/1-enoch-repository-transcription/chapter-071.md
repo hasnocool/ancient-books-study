@@ -63,7 +63,7 @@ The Ancient of Days came with Michael, Gabriel, Rufael, and Fanuel, together wit
 
 ### Verse 14
 
-He came to me, greeted me with his voice, and said: “You are the Son of Man, born for righteousness, and righteousness rests upon you. The righteousness of the Ancient of Days will never abandon you.
+He came to me, greeted me with his voice, and said: “You are a son of man, born for righteousness, and righteousness rests upon you. The righteousness of the Ancient of Days will never abandon you.
 
 ### Verse 15
 
