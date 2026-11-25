@@ -51,7 +51,7 @@ Then the Lord spoke to Rafael: “Bind Azazel by his hands and feet and put him 
 
 ### Verse 11 — interpolation
 
-[“‘The Lord said to Michael: Go and announce the sentence to Semjaza and his companions, who joined themselves to women and defiled themselves through every kind of uncleanness.]
+[The Lord said to Michael: “Go and announce the sentence to Semjaza and his companions, who joined themselves to women and defiled themselves through every kind of uncleanness.”]
 
 ### Verse 12
 
