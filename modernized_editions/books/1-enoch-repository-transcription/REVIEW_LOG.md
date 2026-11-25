@@ -11,8 +11,8 @@
 | 37–71 | Parables | 35/35 | 35/35 verse-label sequences match; assistant first-pass semantic review complete for 37–71 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 110–186 pending |
 | 72–82 | Luminaries | 11/11 | 11/11 verse-label sequences match; assistant first-pass semantic review complete for 72–82 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 191–219 pending |
 | 83–90 | Visions | 8/8 | 8/8 verse-label sequences match; assistant first-pass semantic review complete for 83–90 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 223–259 pending |
-| 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded for 91–104; visual proofing of pp. 265–308 pending. Chapter 105 compared with 1917 text layer and p. 150 image-checked |
-| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer review recorded; printed pp. 150–154 image-checked, including p. 152 (gap closed 25 November 2026). Chapter 106 order/wording difference remains documented. Not 1893 main-text chapters |
+| 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | 1893 searchable-text/apparatus pass now recorded for 91–105 (pp.260–301); CV is a separate literary unit on p.301. Visual proofing of pp.265–308 pending; 1917 remains a parallel witness |
+| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1893 text-layer/apparatus pass recorded for pp.302–308; CVI–CVII are the Noachian fragment and CVIII an independent addition. 1917 is a parallel witness; 1893 page-image proofing pending |
 
 ## Independent human review priority queue
 
@@ -153,7 +153,7 @@ The full searchable text layer of the 1917 Charles/Oesterley scan is now accessi
 
 **Historical status note (superseded by the 25 November 2026 scan audit below):** At the time of this earlier entry, only printed pp. 153–154 of the 1917 scan had been visually checked; pp. 150–152 were unavailable in the screenshot service. The later check successfully inspected pp. 150–151 as well. Printed p. 152 remains unavailable, so Chapters 105–108 are still not fully visually collated.
 
-The 1893 Clarendon Press main translation covers Chapters 1–104. Its Appendix E contains a separate Latin fragment of 106:1–18, not a complete 1893 main-text Chapter 106. The complete searchable 1893 text layer is available at https://archive.org/stream/thebookofenoch00unknuoft/thebookofenoch00unknuoft_djvu.txt, but the 104-chapter line-by-line collation against its printed pages and apparatus has not been completed. No 1893 page images have been visually proofread in this pass.
+The five core sections in the 1893 Clarendon Press volume run through Chapter CIV (104), but the printed translation pagination continues with CV–CVIII on pp.301–308 as distinct appended units. Appendix E separately contains the Latin fragment CVI.1–18, not a substitute for the Ethiopic translation on pp.302–304. The Cornell 1893 searchable text layer is available at https://archive.org/stream/cu31924014590545/cu31924014590545_djvu.txt. A targeted first-pass collation of pp.55–308 is recorded, but complete diplomatic collation and page-image proofing remain outstanding.
 
 ## Required review record for each corrected unit
 
@@ -308,7 +308,7 @@ The final main-translation section (91–104) has been examined against the sear
 
 The other key boundaries are retained: 91:11 and 93:11–14 are interpolated blocks; 96:2 is bracketed; 100:7 has a proposed clause transposition which is now recorded without silently changing the base order. Charles's interpretation of 100:5 identifies the guarded righteous as departed souls; this informs reading but does not alter verse text.
 
-This establishes that Chapters 1–104 have now received a sequential text-layer/source-apparatus pass in the present assistant-led review, including the major structural issues in each section. It does **not** establish a line-by-line visual facsimile collation of every printed page, independent semantic approval, or a fresh independent re-transcription. Printed pages 55–308 still require systematic page-image proofing. Chapter 104 is the end of the 1893 main translation; Appendix E separately supplies the Latin fragment 106:1–18 and is not a substitute witness for Chapters 105–108.
+This establishes that the 1893 searchable text-layer/source-apparatus pass has been extended through pp.55–308, including the separately presented CV–CVIII units. It does **not** establish a line-by-line visual facsimile collation of every printed page, independent semantic approval, or a fresh independent re-transcription. Printed pages 55–308 still require systematic page-image proofing. Chapter CIV is the end of the core Section V literary composition; CV–CVIII follow as distinct units, and Appendix E separately supplies the Latin fragment 106:1–18.
 
 
 ## Corrected 1917 visual evidence boundary — 25 November 2026
