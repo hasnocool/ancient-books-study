@@ -79,5 +79,55 @@ class EnochAuditTests(unittest.TestCase):
             self.assertEqual(modern_file.read_text(encoding="utf-8"), before)
 
 
+class RepositoryCheckTests(unittest.TestCase):
+    def test_inventory_reports_empty_files_without_modifying_them(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            empty = root / "books_01" / "empty.txt"
+            empty.parent.mkdir(parents=True)
+            empty.write_bytes(b"")
+            before = empty.read_bytes()
+            result = audit_corpus.audit_inventory(root)
+            self.assertEqual(result["empty_files"], ["books_01/empty.txt"])
+            self.assertEqual(empty.read_bytes(), before)
+
+    def test_exact_duplicate_detection_is_advisory(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for folder in ("books_01", "books_02"):
+                path = root / folder / "same.txt"
+                path.parent.mkdir(parents=True)
+                path.write_text("The same source text.\n", encoding="utf-8")
+            result = audit_corpus.audit_duplicates(root)
+            self.assertEqual(len(result["exact_duplicate_groups"]), 1)
+            self.assertEqual(len(result["exact_duplicate_groups"][0]), 2)
+
+    def test_markdown_validator_finds_missing_relative_target(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            doc = root / "docs" / "index.md"
+            doc.parent.mkdir(parents=True)
+            doc.write_text("[Missing](./missing.md)\n", encoding="utf-8")
+            result = audit_corpus.audit_markdown(root)
+            self.assertEqual(len(result["issues"]), 1)
+            self.assertIn("does not exist", result["issues"][0]["message"])
+
+    def test_catalog_preview_is_generated_without_overwriting_catalog(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            edition = root / "formatted_editions" / "books" / "sample"
+            edition.mkdir(parents=True)
+            (edition / "README.md").write_text(
+                "# Sample Edition\n\n**Status:** Draft\n", encoding="utf-8"
+            )
+            catalog = root / "formatted_editions" / "CATALOG.md"
+            catalog.parent.mkdir(parents=True, exist_ok=True)
+            catalog.write_text("maintained catalog\n", encoding="utf-8")
+            result = audit_corpus.audit_catalog(root)
+            self.assertEqual(result["edition_count"], 1)
+            self.assertIn("Sample Edition", result["markdown_preview"])
+            self.assertEqual(catalog.read_text(encoding="utf-8"), "maintained catalog\n")
+
+
 if __name__ == "__main__":
     unittest.main()
