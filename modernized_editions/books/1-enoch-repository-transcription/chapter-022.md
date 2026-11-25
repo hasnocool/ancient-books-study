@@ -9,7 +9,7 @@
 
 ### Verse 1
 
-Then I went to another place. In the west he showed me a great, high mountain with hard rocks and four beautiful hollow places.
+Then I went to another place. In the west he showed me a great, high mountain with hard rocks and four beautiful places.
 
 ### Verse 2
 
