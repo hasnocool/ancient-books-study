@@ -77,6 +77,19 @@ Compare sizes and representative passages before merging or deleting anything.
 - do not claim that a disputed text or theory is factually established;
 - add or update documentation when repository conventions change.
 
+## Local quality checks
+
+Before submitting changes to text editions or repository documentation, run the read-only local audit toolkit from the repository root (Python 3.12+):
+
+```bash
+python3 tools/audit_corpus.py all --json-out /tmp/ancient-books-audit.json
+python3 -m unittest discover -s tests -v
+```
+
+For a focused review, run one of the commands in [tools/README.md](./tools/README.md). Review warnings manually. Duplicate candidates, word-count outliers, and provenance keyword matches are not automatic grounds for deleting or changing a text.
+
+Do not commit generated reports unless they are intended as maintained documentation. Do not add paid hosted CI workflows as a prerequisite for these checks.
+
 ## Reporting issues
 
 Open a GitHub issue for:
