@@ -277,7 +277,7 @@ def normalize_transfer_body(text: str, formatted: bool = False) -> str:
         text = VERSE_MARKER.sub(" ", text)
         text = re.sub(r"(?m)^\s*>\s*.*$", " ", text)
         text = re.split(
-            r"(?m)^##\\s+(?:Bibliographic reference|Verification status|Sources and references)\\b",
+            r"(?m)^##\s+(?:Bibliographic reference|Verification status|Sources and references)\b",
             text,
             maxsplit=1,
         )[0]
