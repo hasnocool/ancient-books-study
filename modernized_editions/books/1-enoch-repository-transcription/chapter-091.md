@@ -11,43 +11,81 @@
 
 ## Chapter 91
 
-### Verse 1 Now, my son Methuselah, call all your brothers to me. Gather together all the sons of your mother, because the message has come to me and the spirit has been poured out upon me. I must show you everything that will happen to you throughout the ages.
+### Verse 1
 
-### Verse 2 Methuselah went and called all his brothers. He gathered his relatives together.
+Now, my son Methuselah, call all your brothers to me. Gather together all the sons of your mother, because the message has come to me and the spirit has been poured out upon me. I must show you everything that will happen to you throughout the ages.
 
-### Verse 3 Enoch spoke to all the children of righteousness and said: “Listen, you children of Enoch. Hear all the words of your father, and pay attention to what I say. I urge you, my beloved children: love what is right and walk in its ways.
+### Verse 2
 
-### Verse 4 Do not approach righteousness with a divided heart, and do not associate with those whose hearts are divided. Instead, walk in integrity and righteousness. They will guide you along good paths, and righteousness will remain your companion.
+Methuselah went and called all his brothers. He gathered his relatives together.
 
-### Verse 5 I know that oppression will increase across the earth. A great punishment will be carried out upon the earth. All unrighteousness will reach its full measure and then be cut away at its roots; its entire structure will be destroyed.
+### Verse 3
 
-### Verse 6 Yet unrighteousness will rise to its full measure again on the earth. Every kind of unrighteous deed, violence, and transgression will once more become widespread.
+Enoch spoke to all the children of righteousness and said: “Listen, you children of Enoch. Hear all the words of your father, and pay attention to what I say. I urge you, my beloved children: love what is right and walk in its ways.
 
-### Verse 7 When unrighteousness, sin, blasphemy, and every kind of violence increase—and when rebellion, transgression, and impurity also multiply—a great punishment will come down from heaven upon them all. Then the Holy Lord will come forth in anger and bring punishment, carrying out judgment upon the earth.
+### Verse 4
 
-### Verse 8 In those days violence will be cut away at its roots, along with the roots of unrighteousness and deceit. They will be removed and destroyed from beneath heaven.
+Do not approach righteousness with a divided heart, and do not associate with those whose hearts are divided. Instead, walk in integrity and righteousness. They will guide you along good paths, and righteousness will remain your companion.
 
-### Verse 9 The nations will abandon their idols. Their temples will be burned with fire and removed from the whole earth. They will be cast into the judgment of fire and perish in anger and in a severe, everlasting judgment.
+### Verse 5
 
-### Verse 10 The righteous one will rise from sleep. Wisdom will also arise and be given to them.
+I know that oppression will increase across the earth. A great punishment will be carried out upon the earth. All unrighteousness will reach its full measure and then be cut away at its roots; its entire structure will be destroyed.
 
-### Verse 11 — interpolation After this, the roots of unrighteousness will be cut away. Sinners will be destroyed by the sword and removed from among the blasphemers everywhere. Those who devise oppression and those who commit blasphemy will perish by the sword.
+### Verse 6
 
-### Verse 12 After this there will be another week—the eighth—marked by righteousness. A sword will be given to it so that judgment and righteousness may be carried out against those who practise oppression. Sinners will be handed over to the righteous.
+Yet unrighteousness will rise to its full measure again on the earth. Every kind of unrighteous deed, violence, and transgression will once more become widespread.
 
-### Verse 13 At the end of that week, the righteous will acquire houses through their righteousness, and the house of the Great King will be built in glory forever.
+### Verse 7
 
-### Verse 14 After this, during the ninth week, the righteous judgment will be revealed to the whole world. All the works of the godless will disappear from the earth. The world will be marked for destruction, and all humanity will look toward the path of integrity.
+When unrighteousness, sin, blasphemy, and every kind of violence increase—and when rebellion, transgression, and impurity also multiply—a great punishment will come down from heaven upon them all. Then the Holy Lord will come forth in anger and bring punishment, carrying out judgment upon the earth.
 
-### Verse 15 After this, during the tenth week, in its seventh part, there will be the great everlasting judgment. In that judgment, He will take vengeance among the angels.
+### Verse 8
 
-### Verse 16 The first heaven will depart and pass away. A new heaven will appear, and all the powers of heaven will shine seven times more brightly forever.
+In those days violence will be cut away at its roots, along with the roots of unrighteousness and deceit. They will be removed and destroyed from beneath heaven.
 
-### Verse 17 After that there will be many weeks without number, continuing forever in goodness and righteousness. Sin will never again be remembered.
+### Verse 9
 
-### Verse 18 Now, my children, I have told you these things. I have shown you the paths of righteousness and the paths of violence. I will show them to you again so that you may understand what is going to happen.
+The nations will abandon their idols. Their temples will be burned with fire and removed from the whole earth. They will be cast into the judgment of fire and perish in anger and in a severe, everlasting judgment.
 
-### Verse 19 Now listen, my children. Walk along the paths of righteousness, and do not walk along the paths of violence. Everyone who follows the paths of unrighteousness will perish forever.
+### Verse 10
+
+The righteous one will rise from sleep. Wisdom will also arise and be given to them.
+
+### Verse 11 — interpolation
+
+After this, the roots of unrighteousness will be cut away. Sinners will be destroyed by the sword and removed from among the blasphemers everywhere. Those who devise oppression and those who commit blasphemy will perish by the sword.
+
+### Verse 12
+
+After this there will be another week—the eighth—marked by righteousness. A sword will be given to it so that judgment and righteousness may be carried out against those who practise oppression. Sinners will be handed over to the righteous.
+
+### Verse 13
+
+At the end of that week, the righteous will acquire houses through their righteousness, and the house of the Great King will be built in glory forever.
+
+### Verse 14
+
+After this, during the ninth week, the righteous judgment will be revealed to the whole world. All the works of the godless will disappear from the earth. The world will be marked for destruction, and all humanity will look toward the path of integrity.
+
+### Verse 15
+
+After this, during the tenth week, in its seventh part, there will be the great everlasting judgment. In that judgment, He will take vengeance among the angels.
+
+### Verse 16
+
+The first heaven will depart and pass away. A new heaven will appear, and all the powers of heaven will shine seven times more brightly forever.
+
+### Verse 17
+
+After that there will be many weeks without number, continuing forever in goodness and righteousness. Sin will never again be remembered.
+
+### Verse 18
+
+Now, my children, I have told you these things. I have shown you the paths of righteousness and the paths of violence. I will show them to you again so that you may understand what is going to happen.
+
+### Verse 19
+
+Now listen, my children. Walk along the paths of righteousness, and do not walk along the paths of violence. Everyone who follows the paths of unrighteousness will perish forever.
 
 ---
 
