@@ -15,7 +15,7 @@ They took women as wives. Each chose one for himself, and they began to have rel
 
 ### Verse 2
 
-The women became pregnant and gave birth to enormous giants, whose height was three thousand cubits.
+The women became pregnant and gave birth to enormous giants, whose height was three thousand ells.
 
 ### Verse 3
 
