@@ -168,7 +168,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 2]** For you men will put on more adornments than a woman, and coloured garments more than a virgin: in royalty, and in grandeur, and in power, and in silver, and in gold, and in purple, and in splendour, and in food they will be poured out as water.
 
-**[Verse 3]** Therefore they will be wanting in knowledge, and wisdom, and they will perish thereby together with their possessions, and with all their glory, and their splendour, and in shame, and in slaughter, and in great destitution will their spirits be cast into the furnace of lire.
+**[Verse 3]** Therefore they will be wanting in knowledge, and wisdom, and they will perish thereby together with their possessions, and with all their glory, and their splendour, and in shame, and in slaughter, and in great destitution will their spirits be cast into the furnace of fire.
 
 **[Verse 4]** I have sworn unto you, you sinners, as a mountain does not become a slave, and will not, nor a hill the handmaid of a woman, even so sin has not been sent upon the earth, but man of himself has created it, and into great condemnation will those fall who commit it.
 
@@ -201,7 +201,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **[Verse 1]** Woe to them who act godlessly, and glory in lying words, and extol them: you will perish, and no happy life will be yours.
 
-**[Verse 2]** Woe to them who pervert the words of uprightness, and transgress the eternal law, and transform themselves into what they were not, mean, into sinners: they shall be trodden under foot upon the earth.
+**[Verse 2]** Woe to them who pervert the words of uprightness, and transgress the eternal law, and transform themselves into what they were not, i.e. into sinners: they shall be trodden under foot upon the earth.
 
 **[Verse 3]** In those days make ready, you righteous, to raise your prayers as a memorial, and you will place them as a testimony before the angels in order that they may place the sin of the sinners for a memorial before the Most High.
 
