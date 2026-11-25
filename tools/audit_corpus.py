@@ -239,6 +239,113 @@ def load_enoch_sources(root: Path) -> dict[int, str]:
             sources.update(chapter_sections(path.read_text(encoding="utf-8", errors="replace")))
     return sources
 
+
+def load_raw_enoch_chapters(root: Path) -> dict[int, str]:
+    """Extract 1 Enoch chapters from the original combined repository transcription."""
+    candidates = (
+        root / "books_02" / "The Book of Enoch.txt",
+        root / "books_05" / "The Book of Enoch.txt",
+    )
+    source_path = next((item for item in candidates if item.is_file()), None)
+    if source_path is None:
+        return {}
+    text = source_path.read_text(encoding="utf-8", errors="replace")
+    heading_re = re.compile(r"(?m)^[ \t]*(Enoch Slavonic|Enoch|Chapt)\s+(\d+)\.\s*$")
+    matches = list(heading_re.finditer(text))
+    chapters = {}
+    for index, match in enumerate(matches):
+        if match.group(1) == "Enoch Slavonic":
+            continue
+        number = int(match.group(2))
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        chapters[number] = text[match.end():end]
+    if matches:
+        preamble = text[:matches[0].start()]
+        blessing = re.search(
+            r"These are the words of blessing of Enoch,[\s\S]*?removed\.",
+            preamble,
+            flags=re.IGNORECASE,
+        )
+        if blessing and 1 in chapters:
+            chapters[1] = blessing.group(0) + " " + chapters[1]
+    return chapters
+
+
+def normalize_transfer_body(text: str, formatted: bool = False) -> str:
+    """Normalize layout and editorial markup for comparison only; never writes text."""
+    if formatted:
+        text = VERSE_MARKER.sub(" ", text)
+        text = re.sub(r"(?m)^\s*>\s*.*$", " ", text)
+        text = re.sub(
+            r"(?m)^##\s+(?:Bibliographic reference|Verification status|Sources and references)\b.*$",
+            " ",
+            text,
+        )
+        text = re.sub(r"(?m)^\s*---\s*$", " ", text)
+        text = re.sub(r"(?m)^\s*#+\s*", "", text)
+        text = re.sub(r"[*_\x60]", "", text)
+        text = text.replace("[", "").replace("]", "")
+    text = re.sub(r"(?m)^\s*\d{1,4}\s*$", " ", text)
+    text = re.sub(r"(?mi)^\s*Book\s+\d+\s*[-–—].*$", " ", text)
+    text = unicodedata.normalize("NFKC", text).casefold()
+    text = text.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
+    return " ".join(text.split())
+
+
+def audit_enoch_source_transfer(root: Path) -> dict:
+    """Compare the original combined transcription with the formatted 1 Enoch chapters."""
+    raw_chapters = load_raw_enoch_chapters(root)
+    formatted_chapters = load_enoch_sources(root)
+    missing_raw = sorted(set(ENOCH_CHAPTERS) - set(raw_chapters))
+    missing_formatted = sorted(set(ENOCH_CHAPTERS) - set(formatted_chapters))
+    exact_matches = []
+    review_candidates = []
+    for number in ENOCH_CHAPTERS:
+        if number not in raw_chapters or number not in formatted_chapters:
+            continue
+        source_text = normalize_transfer_body(raw_chapters[number])
+        formatted_text = normalize_transfer_body(formatted_chapters[number], formatted=True)
+        source_tokens = source_text.split()
+        formatted_tokens = formatted_text.split()
+        if source_tokens == formatted_tokens:
+            exact_matches.append(number)
+            continue
+        matcher = difflib.SequenceMatcher(None, source_tokens, formatted_tokens)
+        differences = []
+        for tag, i1, i2, j1, j2 in matcher.get_opcodes():
+            if tag == "equal":
+                continue
+            differences.append({
+                "operation": tag,
+                "source": " ".join(source_tokens[i1:i2])[:180],
+                "formatted": " ".join(formatted_tokens[j1:j2])[:180],
+            })
+            if len(differences) >= 4:
+                break
+        review_candidates.append({
+            "chapter": number,
+            "source_words": len(source_tokens),
+            "formatted_words": len(formatted_tokens),
+            "similarity": round(matcher.ratio(), 5),
+            "differences": differences,
+        })
+    return {
+        "raw_source_chapters_found": len(raw_chapters),
+        "formatted_source_chapters_found": len(formatted_chapters),
+        "exact_normalized_chapter_matches": len(exact_matches),
+        "exact_match_chapters": exact_matches,
+        "missing_raw_chapters": missing_raw,
+        "missing_formatted_chapters": missing_formatted,
+        "review_candidates": review_candidates,
+        "method": (
+            "Compares original combined source chapter bodies with formatted 1 Enoch bodies after "
+            "removing verse labels, Markdown/editorial markup, whitespace, and standalone page-number "
+            "lines. Inline numeric artifacts are retained and flagged. This checks transfer, not "
+            "whether the underlying source is an accurate Charles 1893 transcription."
+        ),
+    }
+
+
 def audit_enoch(root: Path) -> dict:
     modern_base = root / "modernized_editions" / "books" / "1-enoch-repository-transcription"
     source_sections = load_enoch_sources(root)
@@ -282,9 +389,18 @@ def audit_enoch(root: Path) -> dict:
 
 def audit_comparison(root: Path) -> dict:
     result = audit_enoch(root)
-    return {"extreme_verse_length_ratios": result["extreme_verse_length_ratios"],
+    return {
+        "source_to_formatted_transfer": audit_enoch_source_transfer(root),
+        "formatted_to_modernized_structure_and_length": {
+            "extreme_verse_length_ratios": result["extreme_verse_length_ratios"],
             "numbered_unit_sequence_mismatches": result["numbered_unit_sequence_mismatches"],
-            "method": "Compare paired source and adaptation units. Large word-count ratios are review candidates, not proof of mistranslation or omission."}
+        },
+        "method": (
+            "Compare archival source to formatted text by normalized word sequence, then compare "
+            "formatted verse labels and source/adaptation unit lengths. These are mechanical checks "
+            "and do not establish semantic fidelity."
+        ),
+    }
 
 
 def audit_catalog(root: Path) -> dict:
@@ -330,6 +446,17 @@ def collect_issues(results: dict) -> list[dict]:
     enoch = results.get("enoch", {})
     for chapter in enoch.get("missing_files", []):
         issues.append(issue("error", "enoch", f"chapter-{chapter:03d}.md", "Expected modernized chapter file is missing."))
+    transfer = results.get("comparison_review_candidates", {}).get("source_to_formatted_transfer", {})
+    for chapter in transfer.get("missing_raw_chapters", []):
+        issues.append(issue("error", "enoch-source-transfer", "books_02/The Book of Enoch.txt",
+                            f"Raw 1 Enoch chapter {chapter} was not found."))
+    for chapter in transfer.get("missing_formatted_chapters", []):
+        issues.append(issue("error", "enoch-source-transfer", "formatted_editions/books/book-of-enoch-charles-1893/",
+                            f"Formatted 1 Enoch chapter {chapter} was not found."))
+    for candidate in transfer.get("review_candidates", []):
+        issues.append(issue("warning", "enoch-source-transfer", f"Chapter {candidate['chapter']}",
+                            "Raw-to-formatted transfer differs after layout normalization; inspect the token differences.",
+                            **candidate))
     for mismatch in enoch.get("numbered_unit_sequence_mismatches", []):
         issues.append(issue("error", "enoch", f"chapter-{mismatch['chapter']:03d}.md", "Unit labels differ from formatted source.",
                             source=mismatch["source_labels"], modernized=mismatch["modernized_labels"]))
@@ -367,6 +494,9 @@ def print_report(results: dict) -> None:
         print(f"Provenance: {item['edition_readmes_checked']} edition READMEs checked; {missing} possible metadata gaps")
     if "catalog" in results:
         print(f"Catalog preview: {results['catalog']['edition_count']} formatted-edition indexes found")
+    if "comparison_review_candidates" in results:
+        transfer = results["comparison_review_candidates"]["source_to_formatted_transfer"]
+        print(f"Enoch raw-to-formatted transfer: {transfer['exact_normalized_chapter_matches']}/108 exact normalized chapters; {len(transfer['review_candidates'])} review candidates")
     if "enoch" in results:
         item = results["enoch"]
         print(f"1 Enoch: {item['modernized_files_found']}/108 modernized files; {item['source_chapter_sections_found']} source sections")
