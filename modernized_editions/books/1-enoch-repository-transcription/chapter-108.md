@@ -23,7 +23,7 @@ Wait until sin has disappeared. The names of the wicked will be erased from the 
 
 ### Verse 4
 
-I saw something there that looked like an invisible cloud. Its depth was so great that I could not see through it. I also saw a bright, burning flame, surrounded by shapes like shining mountains that moved back and forth.
+I saw something there that looked like an invisible cloud. Its depth was so great that I could not look upon it. I also saw a bright, burning flame, surrounded by shapes like shining mountains that moved back and forth.
 
 ### Verse 5
 
