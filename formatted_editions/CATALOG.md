@@ -36,4 +36,4 @@ The following are candidates, not approvals to reproduce their full contents. Co
 
 ## Collection observations
 
-The source collections contain repeated works, alternate translations, near-duplicates, incomplete scans, OCR artifacts, and zero-byte placeholders. A candidate must be checked by content and edition metadata, not filename alone.
+The source collections contain repeated works, alternate translations, near-duplicates, incomplete scans, OCR artifacts, and zero-byte placeholders. A candidate must be checked by content and edition metadata, not filename alone. See [`docs/CORPUS_INVENTORY_AUDIT.md`](../docs/CORPUS_INVENTORY_AUDIT.md) for the latest remote inventory, exact-byte duplicate candidates, empty placeholders, and rights/provenance leads.
