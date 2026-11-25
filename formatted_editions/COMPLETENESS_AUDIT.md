@@ -1,7 +1,7 @@
 # Completeness and Structure Audit
 
 **Audit date:** 2026-11-23  
-**Scope:** Three reading projects currently stored under `formatted_editions/books/`.
+**Scope:** Current formatted reading projects and their documented completeness/verification status.
 
 ## What “complete” means here
 
@@ -41,7 +41,7 @@ Passing the first check does not automatically pass the second or third. A faith
 - The six files contain the 1 Enoch reading text, not the entire 391-page 1893 Charles volume. The general and special introductions, critical and exegetical notes, appendices, and indices are not included.
 - Textual collation against the 1893 scan is still outstanding. The source compilation's attribution is not proof that its wording is identical to the printed edition.
 
-**Assessment:** Complete against the selected repository transcription at the chapter-body and verse-structure formatting level; not a reproduction of the entire 1893 scholarly volume, and not textually verified against the facsimile. The separate 2 Enoch material remains to be formatted as its own work.
+**Assessment:** Complete against the selected repository transcription at the chapter-body and verse-structure formatting level; not a reproduction of the entire 1893 scholarly volume, and not textually verified against the facsimile. The separate 2 Enoch material is maintained in its own formatted edition; its facsimile verification remains outstanding.
 
 ## 3. 2 Enoch — Morfill/Charles (1896)
 
@@ -77,16 +77,9 @@ A project may still be described as **complete against its selected repository t
 
 - Formatted edition: `books/gospel-of-thomas-mattison-public-domain/`.
 - Coverage: prologue, all 114 sayings in numerical order, closing title, and separate translator's notes.
-- Four reading files split at saying headings: 1–30, 31–60, 61–90, 91–114.
-- Source: Mark M. Mattison's translation, explicitly dedicated to the public domain on Gospels.net. Transfer used a digital mirror identifying the Gospels.net source; this is not an independent facsimile or Coptic collation.
-
-
-## Gospel of Thomas — Mattison public-domain translation
-
-- Edition: `books/gospel-of-thomas-mattison-public-domain/`.
-- Prologue and all 114 sayings are present in numerical order, followed by the closing title; translator's notes are separated.
-- Four reading files contain 30, 30, 30, and 24 sayings. A repository fetch audit confirmed 114/114 headings and no sequence errors.
-- Translation rights are based on Mattison's explicit public-domain dedication on Gospels.net. This is not an independent Coptic facsimile collation.
+- Four reading files contain 30, 30, 30, and 24 sayings. The repository fetch audit confirmed 114/114 headings and no sequence errors.
+- Source: Mark M. Mattison's translation, explicitly dedicated to the public domain on Gospels.net; transfer used a digital source mirror identifying that source.
+- This is not an independent facsimile or Coptic collation.
 
 ## Vitruvius — Morgan/Warren, 1914
 
