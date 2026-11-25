@@ -7,12 +7,12 @@
 
 | Chapter range | Source divisions | Files present | Structural review | Semantic review | Historical collation |
 |---|---|---:|---|---|---|
-| 1–36 | Watchers | 36/36 | 36/36 verse-label sequences match; assistant first-pass semantic review complete for 1–36 | Independent human approval pending for all | Pending; sample textual differences already documented |
-| 37–71 | Parables | 35/35 | 35/35 verse-label sequences match; assistant first-pass semantic review complete for 37–71 | Independent human approval pending for all | Pending |
-| 72–82 | Luminaries | 11/11 | 11/11 verse-label sequences match; assistant first-pass semantic review complete for 72–82 | Independent human approval pending for all | Pending |
-| 83–90 | Visions | 8/8 | 8/8 verse-label sequences match; assistant first-pass semantic review complete for 83–90 | Independent human approval pending for all | Pending |
-| 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | 1893 collation of 91–104 pending; Chapter 105 compared with 1917 text layer, page images pending |
-| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer review recorded; printed pp. 153–154 visually checked, pp. 150–152 still uninspected. Not 1893 main-text chapters |
+| 1–36 | Watchers | 36/36 | 36/36 verse-label sequences match; assistant first-pass semantic review complete for 1–36 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 55–105 pending |
+| 37–71 | Parables | 35/35 | 35/35 verse-label sequences match; assistant first-pass semantic review complete for 37–71 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 110–186 pending |
+| 72–82 | Luminaries | 11/11 | 11/11 verse-label sequences match; assistant first-pass semantic review complete for 72–82 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 191–219 pending |
+| 83–90 | Visions | 8/8 | 8/8 verse-label sequences match; assistant first-pass semantic review complete for 83–90 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded; systematic visual proofing of pp. 223–259 pending |
+| 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | 1893 searchable-text/apparatus pass recorded for 91–104; visual proofing of pp. 265–308 pending. Chapter 105 compared with 1917 text layer and p. 150 image-checked |
+| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer review recorded; printed pp. 151, 153–154 image-checked for 106–108; p. 152 image check missing. Chapter 106 order/wording difference remains documented. Not 1893 main-text chapters |
 
 ## Independent human review priority queue
 
@@ -321,3 +321,10 @@ For the authentic 1917 facsimile:
 - Printed p. 154 (end of Chapter 108) visually checked.
 
 Therefore Chapter 108's final witness pages (153–154) are visually checked, but the visual collation of the complete 105–108 span remains incomplete because printed p. 152 was not inspected. The 1917 full-scan text layer has been checked for Chapters 105–108, including 106:17a's placement after 106:14. Do not describe the repository-bundled 2005 transcription as the 1917 facsimile.
+
+
+## Repository historical-scan additions — 25 November 2026
+
+The repository now includes the two large historical scan files under `enoch-editions/`, alongside the two older project PDFs. The 1893 source is a Cornell/Internet Archive scan of the Clarendon Press edition, whose main translated text ends at Chapter 104; systematic page-image proofing remains open. The full SPCK scan provides the Chapter 105–108 witness; the physical copy is a 1962 tenth impression of the edition first published in 1917 and reprints Charles's 1912 second edition.
+
+The 1917 printed page images inspected are pp. 150, 151, 153, and 154. Printed p. 152 remains the sole missing page-image check. The 1917 searchable text layer has been compared for Chapters 105–108. This scan inventory is now documented in [`enoch-editions/README.md`](../../../enoch-editions/README.md) and the historical-source notes; no claim of byte-identical identity with the public-hosted scan files is made.
