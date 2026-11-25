@@ -31,12 +31,12 @@ No BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` are present under th
 | 93 | 115 | n114 | Present, unreadable in viewer | Present |
 | 94 | 116 | n115 | Present, unreadable in viewer | Present |
 
-The exact paths, Git blob SHAs, and repository byte sizes are recorded in `artifacts/1-enoch-1893/manifests/cornell-printed-pages-85-94-source-audit.json`. Cornell p.91's OCR gap has since been filled provisionally from a separate searchable 1893 Knox College/Toronto scan; this is a parallel witness, not Cornell OCR. The OCR-only comparison is recorded in `artifacts/1-enoch-1893/reports/collations/pp85-94-ocr-only-discrepancy-ledger.md`.
+The exact paths, Git blob SHAs, and repository byte sizes are recorded in `artifacts/1-enoch-1893/manifests/cornell-printed-pages-85-94-source-audit.json`. Cornell p.91's OCR gap has since been filled provisionally from a separate searchable Knox College/Toronto copy of the 1893 edition (printed 1897); this is a parallel witness, not Cornell OCR. The OCR-only comparison is recorded in `artifacts/1-enoch-1893/reports/collations/pp85-94-ocr-only-discrepancy-ledger.md`.
 
 ## Status and next operation
 
 - Cornell OCR/text assets: 9/10 present; p.91 missing in the Cornell text-layer batch.
-- Parallel p.91 text: recovered from a separate 1893 Knox College/Toronto scan; not a substitute for Cornell's own text layer.
+- Parallel p.91 text: recovered from a separate Knox College/Toronto copy of the 1893 edition (printed 1897); not a substitute for Cornell's own text layer.
 - Native PNG blobs: 10/10 located across the two Cornell-native directories, but all ten are visually unusable in this environment.
 - Valid high-resolution page images: 0/10 acquired in this operation.
 - BookReader JPEG batch: 0/10 present.
