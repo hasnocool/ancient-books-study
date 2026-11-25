@@ -247,3 +247,16 @@ A text-layer and critical-apparatus review was recorded for the Similitudes, Cha
 - Chapter 60 is a bracketed Noachic fragment. The modernization now marks all 25 units as interpolation. Charles's note explicitly recommends reading “Noah” instead of “Enoch” in the opening date formula, but the printed wording is retained and the suggested emendation disclosed.
 
 No broad word-level or visual page-image certification is claimed for Chapters 37–60. Printed pp. 110–154 remain to be visually proofread. Independent human review is still outstanding.
+
+
+## Authentic 1893 collation progress: Chapters 61–64 — 25 November 2026
+
+Text-layer and apparatus comparison against the 1893 Clarendon edition has been recorded for Chapters 61–64. The principal modernization corrections are in Chapter 62:
+
+- 62:1 restored “lift up your horns” instead of the interpretive “raise your heads.”
+- 62:2 preserved Charles's emended “the Lord of Spirits seated him” construction and recorded its critical basis.
+- 62:3 restored “righteousness is judged before him” rather than a generalized statement about righteous judgment.
+- 62:5 retained “Son of Man” as in Charles's Greek-supported text, while documenting the later Ethiopic “Son of the Woman” variant.
+- 61:1 retains the printed “north” and separately records Charles's note that it means north-west.
+
+Chapters 63–64 align in broad sequence and sense in the passages checked. This remains searchable-text and apparatus review, not facsimile page-image collation or independent human approval.
