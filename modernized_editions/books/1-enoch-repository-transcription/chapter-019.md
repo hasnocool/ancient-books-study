@@ -21,6 +21,10 @@ I, Enoch, alone saw this vision and the farthest reaches of all things. No other
 
 ---
 
+## 1893 witness note
+
+Charles's 1893 printing continues the square-bracketed interpolated passage through Chapter XIX; Chapter XX begins outside that bracketed block. The repository's selected formatted base and this modernization do not mark Chapter XIX as an interpolation. The base text is retained, and the 1893 structural boundary is disclosed here.
+
 ## Completeness and editorial notes
 
 - All **3 numbered units** present in the repository transcription have been represented.
