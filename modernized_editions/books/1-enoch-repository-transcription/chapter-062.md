@@ -11,7 +11,7 @@
 
 ### Verse 1
 
-Then the Lord commanded the kings, the powerful, the exalted, and everyone who lives on the earth: “Open your eyes and raise your heads, if you are able to recognize the Chosen One.”
+Then the Lord commanded the kings, the powerful, the exalted, and everyone who lives on the earth: “Open your eyes and lift up your horns, if you are able to recognize the Chosen One.”
 
 ### Verse 2
 
@@ -19,7 +19,7 @@ The Lord of Spirits seated him upon the throne of his glory. The spirit of right
 
 ### Verse 3
 
-On that day all the kings, powerful people, exalted ones, and rulers of the earth will stand up. They will see and recognize him seated on his glorious throne. Righteous judgment will be carried out before him, and no lie will be spoken in his presence.
+On that day all the kings, powerful people, exalted ones, and rulers of the earth will stand up. They will see and recognize him seated on his glorious throne. Righteousness will be judged before him, and no lie will be spoken in his presence.
 
 ### Verse 4
 
@@ -74,6 +74,13 @@ The righteous and chosen will rise from the earth. Their faces will no longer be
 “These will be your garments: garments of life in the presence of the Lord of Spirits. They will never wear out, and your glory will never fade before the Lord of Spirits.”
 
 ---
+
+## 1893 witness notes
+
+- **62:1:** Charles prints “lift up your horns,” a metaphorical image that the earlier modernization had flattened to “raise your heads.” The horn imagery is restored.
+- **62:2:** Charles's printed version reads “the Lord of Spirits seated him”; his note explains that the “seated him” construction rests on a necessary emendation because the following clause about the spirit of righteousness being poured upon him refers to the Messiah. The modernization retains this 1893 construction.
+- **62:3:** Charles prints “righteousness is judged before him.” The earlier modernization generalized this to “righteous judgment will be carried out”; the subject “righteousness” has been restored.
+- **62:5:** Charles follows the Greek reading “Son of Man.” He notes that later Ethiopic manuscripts read “Son of the Woman,” which he regards as a scribal corruption. The modernization keeps “Son of Man” and records the variant here.
 
 ## Completeness and editorial notes
 
