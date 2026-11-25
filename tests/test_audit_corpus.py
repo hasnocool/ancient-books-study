@@ -35,6 +35,10 @@ class VerseParsingTests(unittest.TestCase):
         text = "**[Verse 11 (interpolation)]** Interpolated unit."
         self.assertEqual([n for n, _ in audit_corpus.verse_units(text)], [11])
 
+    def test_parses_dash_interpolation_marker_inside_verse_label(self):
+        text = "**[Verse 2 — interpolation]** Interpolated unit."
+        self.assertEqual([n for n, _ in audit_corpus.verse_units(text)], [2])
+
     def test_parses_modern_heading_verse_format_and_interpolation_suffix(self):
         text = "### Verse 1\nFirst verse.\n\n### Verse 2 — interpolation\nSecond verse.\n"
         self.assertEqual([n for n, _ in audit_corpus.verse_units(text)], [1, 2])
