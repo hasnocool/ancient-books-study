@@ -19,7 +19,7 @@
 
 ### Verse 3 — interpolation
 
-[“I will establish your descendants before me forever. I will scatter those who live with you across the earth so that they do not lead one another astray. They will be blessed and multiply on the earth in the name of the Lord.”]
+[“I will establish your descendants before me forever. I will scatter those who live with you across the face of the earth, lest they tempt one another. They will be blessed and multiply on the earth in the name of the Lord.”]
 
 **The Judgment of the Watchers**
 
