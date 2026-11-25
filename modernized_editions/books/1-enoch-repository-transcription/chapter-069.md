@@ -15,7 +15,7 @@
 
 ### Verse 2 — interpolation
 
-[Here are the names of those angels: Semjaza, Arestiqifa, Armen, Kokabael, Turel, Rimjal, Danel, Nuqael, Baraqel, Azazel, Armers, Batarjal, Basasael, Ananel, Turjal, Simapisiel, Jetarel, Tumael, Tarel, Rumael, and Izezeel.]
+[These are the names of those angels, listed in their stated order: first, Semjaza; second, Arestiqifa; third, Armen; fourth, Kokabael; fifth, Turel; sixth, Rimjal; seventh, Danel; eighth, Nuqael; ninth, Baraqel; tenth, Azazel; eleventh, Armers; twelfth, Batarjal; thirteenth, Basasael; fourteenth, Ananel; fifteenth, Turjal; sixteenth, Simapisiel; seventeenth, Jetarel; eighteenth, Tumael; nineteenth, Tarel; twentieth, Rumael; and twenty-first, Izezeel.]
 
 ### Verse 3 — interpolation
 
