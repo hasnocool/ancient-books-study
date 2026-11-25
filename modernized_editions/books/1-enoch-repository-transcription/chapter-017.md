@@ -41,6 +41,10 @@ I saw the mouths of all the rivers on earth and the opening of the deep.
 
 ---
 
+## 1893 witness note
+
+Charles's 1893 printing encloses Chapter XVII in square brackets as an interpolated passage. The repository's selected formatted base and this modernization do not mark the chapter as interpolated. The base text and chapter are retained, but the 1893 structural difference must remain visible to readers.
+
 ## Completeness and editorial notes
 
 - All **8 numbered units** present in the repository transcription have been represented.
