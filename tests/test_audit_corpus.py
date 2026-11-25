@@ -129,5 +129,51 @@ class RepositoryCheckTests(unittest.TestCase):
             self.assertEqual(catalog.read_text(encoding="utf-8"), "maintained catalog\n")
 
 
+class SourceTransferTests(unittest.TestCase):
+    def test_raw_extractor_excludes_slavonic_and_preserves_opening_blessing(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source = root / "books_02" / "The Book of Enoch.txt"
+            source.parent.mkdir(parents=True)
+            source.write_text(
+                "These are the words of blessing of Enoch, for all the righteous removed.\\n"
+                "Enoch 1.\\nFirst chapter body.\\n"
+                "Enoch Slavonic 1.\\nSeparate Slavonic work.\\n"
+                "Chapt 2.\\nSecond chapter body.\\n",
+                encoding="utf-8",
+            )
+            chapters = audit_corpus.load_raw_enoch_chapters(root)
+            self.assertEqual(sorted(chapters), [1, 2])
+            self.assertIn("words of blessing", chapters[1])
+            self.assertNotIn("Slavonic work", chapters[1])
+            self.assertIn("Second chapter body", chapters[2])
+
+    def test_archival_to_formatted_transfer_compares_normalized_chapter_bodies(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            source = root / "books_02" / "The Book of Enoch.txt"
+            source.parent.mkdir(parents=True)
+            source.write_text(
+                "These are the words of blessing of Enoch, for all the righteous removed.\\n"
+                "Enoch 1.\\nFirst chapter body.\\n"
+                "Chapt 2.\\nSecond chapter body.\\n",
+                encoding="utf-8",
+            )
+            formatted = root / "formatted_editions" / "books" / "book-of-enoch-charles-1893"
+            formatted.mkdir(parents=True)
+            (formatted / "book-01-watchers-chapters-01-36.md").write_text(
+                "## Chapter 1\\nThese are the words of blessing of Enoch, for all the righteous removed.\\n"
+                "### Verse 1\\nFirst chapter body.\\n---\\n"
+                "## Chapter 2\\n### Verse 1\\nSecond chapter body.\\n",
+                encoding="utf-8",
+            )
+            result = audit_corpus.audit_enoch_source_transfer(root)
+            self.assertEqual(result["raw_source_chapters_found"], 2)
+            self.assertEqual(result["formatted_source_chapters_found"], 2)
+            self.assertEqual(result["exact_normalized_chapter_matches"], 2)
+            self.assertEqual(result["review_candidates"], [])
+
+
+
 if __name__ == "__main__":
     unittest.main()
