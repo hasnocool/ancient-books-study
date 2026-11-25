@@ -93,5 +93,5 @@ Now listen, my children. Walk along the paths of righteousness, and do not walk 
 
 - All **19** numbered units in the repository's Chapter 91 are represented.
 - Verse 11 remains explicitly marked as an interpolation, following the repository's editorial markup.
-- Verses 12–17 remain in the repository chapter sequence. The source notes that Charles's printed arrangement relocates this Apocalypse of Weeks material to follow Chapter 93; this rendering does not silently reorder it.
+- **1917 witness arrangement:** Charles's 1917 printing places Chapter 91 as 1–11 and 18–19, then prints the Apocalypse of Weeks material numbered 91:12–17 after Chapter 93:1–14. The 1917 layout therefore differs from the repository's continuous 91:1–19 sequence. This modernization intentionally follows the selected repository transcription and retains 91:12–17 here; it does not silently relocate or renumber them. The 1917 convention explicitly defines square brackets as interpolations, and the 1917 printing brackets the equivalent of 91:11. The repository's interpolation marker at 91:11 is retained.
 - This chapter is a complete modern-language rendering of the selected repository transcription, not a claim that the underlying transcription is a verified, word-for-word copy of the 1893 Charles edition.
