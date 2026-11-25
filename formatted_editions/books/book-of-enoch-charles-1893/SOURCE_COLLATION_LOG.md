@@ -424,3 +424,35 @@ Charles's own introduction also lists XVII–XIX among interpolations. The moder
 
 **Batch boundary:** The comparison was conducted through the searchable text and apparatus, not page images. The page-image captures for printed pp. 91–106 were not available through the PDF screenshot service. “No consequential correction identified” records the result of this textual pass, not independent human approval or a claim that every manuscript variant has been resolved.
 
+
+
+## Authentic 1893 text-layer collation: Chapters 37–60 — 25 November 2026
+
+**Witness:** R. H. Charles, *The Book of Enoch*, Clarendon Press, 1893, Section II, printed pp. 110–154. Comparison was made against the searchable text layer and Charles's critical apparatus; no page-image verification is claimed.
+
+### Structural and interpolation findings
+
+| Passage | 1893 printed/textual evidence | Repository treatment / correction |
+|---|---|---|
+| 37–38 | Chapter 37 opens the Similitudes and identifies three parables. Chapter 38 begins the first Similitude. | The modernized chapters retain the chapter/section transitions and their numbered units. No consequential correction identified in this pass. |
+| 39:1–2 | Both opening units are visibly bracketed in the 1893 text. | The modernization already marks and brackets both verses as interpolations. |
+| 40 | The four-presence passage is printed as the main text. Charles's note discusses variants in names/functions and the “Satans” language at 40:7. | The modernization retains the repository's names and order. “Adversaries” remains an explanatory gloss for “Satans,” not a replacement of the source term. |
+| 41:3–8 | Charles brackets verses 3–8; his note calls them alien to the context and probably from the Noah Apocalypse. Verse 9 resumes the main passage. | The modernization correctly labels 3–8 as interpolations and leaves verse 9 outside the bracketed block. |
+| 42:1–3 | The three-unit Wisdom fragment is printed without square brackets. Charles's apparatus treats it as a separate fragment out of context, not as part of the main visionary sequence. | The modernization preserves all three units and does not add an interpolation label unsupported by the printed brackets. |
+| 43:1–4 | The entire chapter is square-bracketed in the 1893 text. | The modernization correctly marks and brackets all four verses. |
+| 44 | The lightning sentence is unnumbered and printed without square brackets. Charles's apparatus nevertheless includes Chapter XLIV among the intrusive/interpolated passages. | The modernization was incorrectly making the square brackets appear to be in the 1893 print. That is corrected: the sentence stays unnumbered and unbracketed, with Charles's critical classification disclosed separately. |
+| 45–49 | The second Similitude and its following material are printed as main text in the reviewed passages. | Numbered units and sequence broadly align; no additional consequential correction identified in this pass. |
+| 50 | Charles's printed text opens Chapter L with a square-bracketed passage; his note says the chapter must be regarded as an interpolation. | The modernization's five verses remain bracketed as an interpolated chapter. |
+| 51–53 | The resurrection of the dead, mountains, metals, and valley passages are presented in sequence. | No consequential correction identified in the reviewed passages. |
+| 54:7–10 | Square-bracketed Noachic material follows the preceding chapter's judgment narrative. | The modernization correctly brackets verses 7–10 as interpolation material. |
+| 55:1–2 | The Noahic continuation is bracketed; verses 3–4 resume the main Similitudes context. | The modernization correctly brackets verses 1–2 only. |
+| 56:5–57:3 | Charles treats this inserted sequence as a Noachic interpolation, extending across the chapter boundary. | The modernization correctly marks 56:5–8 and 57:1–3 as interpolation material. |
+| 58 | The third Similitude begins; the six numbered units form the main text. | Sequence and broad sense align in the reviewed passage. |
+| 59 | The entire chapter is square-bracketed; Charles's apparatus describes it as an intrusion and links it with the interpolation group. | The modernization correctly retains its bracketed status. |
+| 60 | The whole chapter begins with a square-bracketed heading and is identified in Charles's notes as one of the Noachic fragments. The date formula says “in the life of Enoch,” but the apparatus explicitly says “For Enoch we should read Noah.” | The modernization now marks all 25 units as one continuous bracketed Noachic interpolation. The printed Enoch wording is retained while Charles's recommended Noah emendation is disclosed; the emendation is not silently substituted. |
+
+### Confirmed source-sensitive distinction
+
+A critical-apparatus classification and square brackets in the printed text are not interchangeable. Chapters 43, 50, 59, and 60 have printed bracket marking; Chapters 42 and 44 are not square-bracketed in the translation text even though Charles treats these as out-of-context fragments/intrusions in his notes. The modernization now reflects that distinction in Chapter 44. Chapter 60's Noachic status is also made explicit in the modernized file.
+
+**Batch boundary:** The source text layer and critical notes for Chapters 37–60 have been examined at the major chapter boundaries and interpolation zones. This pass is not a claim that every word in every verse has been proofread against the scan. The authentic 1893 pages in this span have not been visually checked.
