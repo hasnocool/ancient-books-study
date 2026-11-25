@@ -1,6 +1,6 @@
 # 1 Enoch source PDFs
 
-This directory now contains **seven PDFs**. They are not interchangeable: several are modern transcriptions, three are full digitizations of the 1893 edition, one is a separate revised 1912 edition, and one is the later SPCK witness. **Do not cite a filename alone as proof that a file is a historical facsimile.**
+This directory now contains **eight PDFs**. They are not interchangeable: several are modern transcriptions, three are full digitizations of the 1893 edition, one is a separate revised 1912 edition, and one is the later SPCK witness. **Do not cite a filename alone as proof that a file is a historical facsimile.**
 
 ## File inventory
 
@@ -44,7 +44,7 @@ External scan reference: [Internet Archive / Claremont scan](https://archive.org
 
 - **1893:** The searchable text layer and critical apparatus have received a sequential assistant-led review for Chapters 1–104. The OpusMagnum PDF is now the preferred first candidate to test for visual proofing because it is a smaller 420-page scan and its contents confirm the printed translation range. The PDF text is accessible, but repeated page-image/screenshot attempts from this environment still returned cache misses. Printed pp. 55–308 are **not** visually verified.
 - **1912:** The 454-page Robarts / University of Toronto scan is identified as the revised second edition. It has not yet been page-image proofed here. It is a supplementary textual witness, not a replacement for the 1917 edition.
-- **1917:** Printed pp. 150, 151, 153, and 154 have been visually inspected in the full SPCK scan. Printed p. 152 remains an image-retrieval gap; in the 160-page scan it maps to zero-based PDF index 153. The searchable text layer for Chapters 105–108 has been reviewed.
+- **1917:** Printed pp. 150–154, including p. 152, have been visually inspected in the full SPCK scan. Printed p. 152 maps to zero-based PDF index 153 in the 160-page scan. The searchable text layer for Chapters 105–108 has been reviewed.
 - The older 66-page and 101-page PDFs remain preserved as project artifacts. They document previous project inputs, but they are not substitutes for the historical scans.
 - The exact textual lineage of the selected combined repository transcription remains unresolved. Do not silently replace its wording with a reading from another edition; log each witness difference.
 
