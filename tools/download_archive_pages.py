@@ -72,7 +72,7 @@ def jpeg_dimensions(data: bytes) -> tuple[int, int] | None:
 
 def has_jpeg_eoi(data: bytes) -> bool:
     """Return whether a JPEG byte stream ends with its required EOI marker."""
-    return data.endswith(b"\\xff\\xd9")
+    return data.endswith(bytes((0xFF, 0xD9)))
 
 
 def fetch_jpeg_sync(url: str, timeout: float) -> dict[str, Any]:
