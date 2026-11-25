@@ -194,3 +194,19 @@ A separate authentic 418-page digitized copy of the 1893 Clarendon Press edition
 An initial text-layer comparison of authentic 1893 Chapters 1–5 has begun. Chapter 1 shows differences between the 1893 printed translation and the repository's derivative, including the opening “The words of the blessing of Enoch” versus “These are the words of blessing of Enoch”; 1:2's “And Enoch answered and spake—(Enoch) a righteous man” versus “Enoch answered and spoke: I, Enoch, a righteous”; and the omitted opening conjunctions in 1:4 and 1:9. Chapters 2–5 were spot-compared for sense and sequence, but not fully collated word by word or visually.
 
 This discovery removes the need to treat the 1893 source as wholly unavailable. It does not complete the historical collation: continue chapter-by-chapter across all 1–104, inspect relevant page images, and keep the attached composite and the authentic Clarendon facsimile clearly distinguished.
+
+
+## Authentic 1893 collation progress: Chapters 6–15 — 25 November 2026
+
+A sequential text-layer comparison against the authentic 1893 Charles edition was completed for Chapters 6–15. This pass identified and recorded the following consequential readings:
+
+- **6:3:** the 1893 printing brackets the verse as an interpolation; the selected repository base does not. The base's structure is preserved while the witness difference is disclosed.
+- **6:7:** Charles's printed list contains 18 names, with multiple transliteration variants relative to the repository list. The modernization retains the repository forms and logs the variants.
+- **8:1:** the 1893 errata corrects “eyebrows” to “eyelids” at printed p. 66, line 8. The modernization now uses “eyelids” and records the base-text difference.
+- **9:1–2, 9:7:** Charles discusses the archangel-name variants, notes that 9:2 is absent from the Greek witness, and identifies 9:7 as an interpolation. The repository already marks 9:7; the other witness notes are now disclosed.
+- **10:1–3, 10:7, 10:11, 10:14:** the 1893 interpolation boundaries are confirmed, including unbracketed 10:7. The 10:14 wording is explicitly based on the Syncellus Greek rather than the Ethiopic singular reading that Charles regards as corrupt in context.
+- **13:7:** “to the right (i.e. the south) of Hermon” does not support the previous modernization's more specific “south-west”; the wording is corrected to “south of Mount Hermon.”
+- **14:11, 14:24:** the literal “their heaven was water” and singular “hear my holy word” are restored in the modernization. Charles notes that “hear” is supported by the Gizeh Greek but absent from the Ethiopic manuscripts.
+- **15:4:** the explicit begetting of children was obscured by “joined yourselves to mortal flesh”; the modernization has been revised to retain the action.
+
+Chapters 7, 11, and 12 were checked for verse sequence and substance; no substantive correction was indicated in this pass. Chapters 6–15 have had a sequential **text-layer** collation, not visual page-image proofing. Printed pp. 62–84 remain to be checked against page images, and this pass is not independent human approval.
