@@ -5,7 +5,7 @@
 
 **Editorial method:** Complete verse-by-verse modernization of all 25 numbered verses in the repository transcription. Archaic wording is updated while the source sequence and substance are retained. This is not a new translation from the Ethiopic, and the repository transcription has not been verified as a verbatim copy of the 1893 Charles/Dillmann printing.
 
-**Textual caution:** Source-marked interpolation status is retained; Chapter 60 is identified in the source as a Noachic interpolation.
+**Textual caution:** The complete chapter is a bracketed Noachic interpolation in the 1893 Charles printing. The text remains included as source material, but is not treated as part of the unbracketed main Similitudes narrative.
 
 ---
 
@@ -107,9 +107,9 @@ Then the other angel who travelled with me and revealed hidden things spoke to m
 
 ### Verse 25
 
-“The angel of peace who was with me said: ‘These two great creatures have been prepared to receive food in accordance with God's greatness. The punishment of the Lord of Spirits will bring lamentation and will cause sons and mothers, and children and fathers, to be struck down together. When the punishment of the Lord of Spirits comes upon them, it will not be in vain. Afterward judgment will take place according to his mercy and patience.’”
+“The angel of peace who was with me said: ‘These two great creatures have been prepared to receive food in accordance with God's greatness. The punishment of the Lord of Spirits will bring lamentation and will cause sons and mothers, and children and fathers, to be struck down together. When the punishment of the Lord of Spirits comes upon them, it will not be in vain. Afterward judgment will take place according to his mercy and patience.’”]
 
-**Editorial note:** The source edition identifies the whole chapter as a Noachic interpolation. The complete chapter is retained and modernized as such.
+**Editorial note:** The 1893 printing encloses the chapter as a Noachic interpolation. All 25 numbered units are marked here as interpolation material and enclosed as one continuous interpolated block. Charles's apparatus also notes that the date formula is from Noah's lifetime rather than Enoch's: his note says “For Enoch we should read Noah.” The printed wording is retained in the text pending an explicit editorial choice on applying that emendation.
 
 ---
 
