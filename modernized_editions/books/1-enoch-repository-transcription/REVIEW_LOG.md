@@ -167,3 +167,10 @@ When a reviewer completes a chapter, add a dated entry containing:
 
 Do not mark a full chapter reviewed because only its headings, word counts, or first and last verses were checked.
 
+
+
+## Vendored scan acquisition update — 25 November 2026
+
+Both source PDFs are now committed in the repository at `enoch-editions/enoch-1893-charles-dillmann.pdf` (Git blob `398352f3010cd7f059c91a24e8c32b9f8b1539a6`, 540,432 bytes) and `enoch-editions/enoch-1917-charles-oesterley.pdf` (Git blob `9bd830eafb560890c6c78d2f89d828b603d6a979`, 438,198 bytes), commit `3b40e629641377b3cb966497082171544c05fc23`.
+
+The source scans are now available as version-controlled project artifacts. This update records acquisition only; it adds no verse-level approval and no new visual page checks. The binary-file retrieval path available in this review session does not expose PDF bytes for local rendering. Keep the existing visual status unchanged: 1917 printed pp. 153–154 checked; pp. 150–152 and the 1893 chapter pages remain unchecked. Continue to label the historical collation incomplete until the page images are actually inspected.
