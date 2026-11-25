@@ -63,6 +63,10 @@ The angel who accompanied me said: “They are bringing measures and cords of ri
 
 ---
 
+## 1893 witness note
+
+At 61:1 Charles prints “towards the North.” His critical note explains this as “the North-West.” The modernization retains the printed cardinal direction in the verse and records the more specific geographical gloss here rather than silently rewriting the verse.
+
 ## Completeness and editorial notes
 
 - All **13 numbered verses** in the repository's Chapter 61 have been represented.
