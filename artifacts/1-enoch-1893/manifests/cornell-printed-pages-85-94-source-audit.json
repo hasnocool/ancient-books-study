@@ -8,7 +8,7 @@
     "pdf_pages": "107–116",
     "formula": "leaf = printed_page + 21; PDF page = printed_page + 22"
   },
-  "scope_note": "This is a source-audit manifest, not a successful image-retrieval manifest. Nine native PNG blobs and nine page OCR text files exist in the repository, but the PNGs were opened and render as dark/unreadable images. Printed p.91 has no corresponding PNG or OCR file in this directory. No BookReader JPEGs p085_n106 through p094_n115 were present.",
+  "scope_note": "Ten native PNGs are stored across the printed-page and ordinal-page directories for pp.85–94. All ten were opened and render dark/unreadable in the current image viewer. Nine page-specific OCR text files are present; p.91 OCR is missing. No target BookReader JPEGs were present. Source PDFs exist in the repository, but direct GitHub/raw download from the current execution environment fails due network/DNS restrictions, so PDF re-rendering was not possible.",
   "pages": [
     {
       "printed_page": 85,
@@ -117,8 +117,10 @@
       "bookreader_leaf": "n112",
       "pdf_page": 113,
       "image": {
-        "path": null,
-        "status": "missing"
+        "path": "artifacts/page-images/cornell-native/cornell_all_pages/page_0113_full.png",
+        "git_blob_sha": "cc63616b46adb61b9c289234de6b8b952ff09074",
+        "repository_size_bytes": 433178,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
       },
       "ocr": {
         "path": null,
