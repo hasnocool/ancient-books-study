@@ -19,7 +19,7 @@ They will not ascend into heaven, nor will they find a place on earth. This will
 
 ### Verse 3
 
-“On that day my Chosen One will sit upon the throne of glory and judge their deeds. His dwelling places will be beyond counting. Their spirits will grow strong when they see my chosen people and those who have called upon my glorious name.
+“On that day my Chosen One will sit upon the throne of glory and judge their deeds. His dwelling places will be beyond counting. Their souls will grow strong when they see my chosen people and those who have called upon my glorious name.
 
 ### Verse 4
 
