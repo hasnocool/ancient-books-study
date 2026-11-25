@@ -90,6 +90,29 @@ Chapter-level files 91–94 now carry corresponding editorial notes. These obser
 - No complete line-by-line collation against the 1893 Charles printing or the Ethiopic witnesses has been completed.
 - The selected source transcription is not verified as verbatim Charles 1893. The modernization inherits that source limitation.
 
+## Execution and evidence status — 25 November 2026
+
+A live GitHub directory inventory of `modernized_editions/books/1-enoch-repository-transcription/` confirms that the current `main` branch contains **108 chapter files**, numbered `chapter-001.md` through `chapter-108.md`. This verifies file presence only; it does not establish semantic completeness.
+
+The current review added a targeted **1917 text-layer** comparison for Chapters 91–94 and recorded the arrangement/interpolation findings in the four chapter files, this review log, and the historical collation log. It did not complete the outstanding 1893 collation of Chapters 1–104.
+
+### Local audit and test execution
+
+The audit README specifies the following standard-library commands:
+
+```bash
+python3 tools/audit_corpus.py all --json-out audit-report.json
+python3 -m unittest discover -s tests -v
+```
+
+A fresh shallow checkout was attempted to run those commands, but the environment could not resolve `github.com` (`Could not resolve host: github.com`). Consequently, **the repository's Python audit and unit-test suite were not executed** in this pass. This is an environment/network blocker, not a passing or failing test result. The remote inventory is not a substitute for running the local toolkit against the complete working tree.
+
+No GitHub Actions workflow was added or invoked. The audit procedure remains local and does not require paid CI.
+
+### Approval boundary
+
+The chapter review log records an assistant-led first-pass comparison. This pass also records targeted witness observations for 91–94. Neither activity is an independent human review. **Independent human verse-by-verse approval remains pending for all 108 chapters**, and no entry should be labelled “human approved” until a named second reviewer has checked the passage and signed the review record.
+
 ## Required review record for each corrected unit
 
 When a reviewer completes a chapter, add a dated entry containing:
