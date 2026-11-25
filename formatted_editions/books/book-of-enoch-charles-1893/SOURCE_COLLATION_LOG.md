@@ -678,3 +678,12 @@ A sequential text-layer collation of XCIII.11–14, Chapters XCIV–XCIX, and th
 The apparatus records variants in XCIV.1–11, XCV.1–7, XCVI.1–8, XCVII.2–10, XCVIII.1–16, and XCIX.1–16, including the G/G1 textual discontinuity beginning at XCVII.6b, the competing readings at XCIX.7 (“not according to knowledge” / “in idol temples”), and the variant “woe to them” / “woe to you” at XCIX.2. Two obvious repository transcription artifacts are identified against the printed OCR: “furnace of lire” at XCVIII.3 and “mean, into sinners” at XCIX.2. These corrections are limited to clear transcription errors; the report does not silently replace manuscript variants.
 
 **Evidence boundary:** Cornell searchable OCR/text-layer and commentary only. No page pixels for pp.274–288 (BookReader n295–n309) were inspected. The image-proofing ledger remains unchanged at 20 / 254 individually image-checked pages. Independent human approval remains outstanding. This is a targeted collation, not a complete diplomatic transcription audit.
+
+
+## Chapters C–CV text-layer and apparatus collation — printed pp.288–301 — 25 November 2026
+
+The sequential collation of Chapters C–CV (100–105) is recorded in [CHAPTERS_100-105_COLLATION_PP288-301.md](CHAPTERS_100-105_COLLATION_PP288-301.md), completing the OCR/text-layer pass through the end of the repository's Book 5 scope. The report distinguishes the translation, Charles's apparatus, and his commentary, and records the major decisions at C.4–5, CI.4 (“sailors of the ships,” Charles's emendation), CII.4 bracket uncertainty, CIII.9–15 (Charles's deliberate third-person text against first-person witnesses), and CV (which Charles treats as outside XCI–CIV).
+
+One clear transcription error was corrected in the formatted text at C.2: “his sons, and his sons” was corrected to “his sons and his sons’ sons.” The report also records the 1893 closing “Amen” after CV.2 as absent from the repository and pending facsimile confirmation; it does not silently insert it. Charles treats CVI–CVIII as a separate Noachian fragment, not part of the XCI–CV Book 5 scope.
+
+**Evidence boundary:** Cornell searchable OCR/text-layer and commentary only. No page pixels for pp.288–301 (BookReader n309–n322) were inspected. The image-proofing ledger remains unchanged at 20 / 254 individually image-checked pages. Independent human approval remains outstanding. This is a targeted collation, not a complete diplomatic transcription audit.
