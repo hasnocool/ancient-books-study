@@ -570,3 +570,17 @@ The PDFs stored under `enoch-editions/` are not the authentic historical facsimi
 
 The historical comparison has instead used a separate authentic 418-page 1893 Clarendon scan with searchable OCR for Chapters 1–104 and a separate full 1917 Charles/Oesterley scan for Chapters 105–108. For the authentic 1917 scan, page images printed pp. 149–151 and 153–154 were visually inspected. Printed p. 152 remains an image-retrieval gap; do not declare the 1917 visual collation complete. Chapter 108 is present in the authentic full 1917 scan and is visually checked on pp. 153–154; it is absent only from the shorter repository-bundled 2005 transcription.
 
+
+
+## 1917 page-image audit clarification — 25 November 2026
+
+To avoid conflating the repository's bundled PDF with the historical witness, the visual review is now explicitly recorded against the separate authentic 1917 Charles/Oesterley facsimile. The repository PDF (101 pages, Word/PDFMaker 2005) was also rendered at its final three pages, but it is only a modern typeset transcription and not a 1917 scan.
+
+Authentic 1917 facsimile page-image status:
+- Printed p. 150: inspected (Chapter 105).
+- Printed p. 151: inspected (Chapter 106:1–14).
+- Printed p. 152: image retrieval failed; not inspected.
+- Printed p. 153: inspected (end of 107 / start of 108).
+- Printed p. 154: inspected (end of 108).
+
+The authentic 1917 searchable text layer for 105–108 was examined. The image-based review of the whole 105–108 range remains incomplete because p. 152 is missing. Chapter 108's final two printed pages were inspected. This is distinct from the user-supplied repository PDF, which ends at 107:3.
