@@ -49,7 +49,7 @@ Just as God created human beings and gave them the ability to understand words o
 
 ### Verse 11
 
-“Its ceiling resembled the paths of the stars and lightning, with fiery cherubim between them. Above them was something like a sea of water.
+“Its ceiling resembled the paths of the stars and lightning, with fiery cherubim between them. The heaven above them was water.
 
 ### Verse 12
 
