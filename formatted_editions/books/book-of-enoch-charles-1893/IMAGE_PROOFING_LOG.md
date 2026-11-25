@@ -56,12 +56,26 @@ Internet Archive's BookReader uses accessible page indexes such as `page/n0`; th
 | 62 | 83 | 80 | 96 | `page/n83.jpg` |
 | 63 | 84 | 93 | 96 | `page/n84.jpg` |
 | 64 | 85 | 95 | 96 | `page/n85.jpg` |
- 
-*Pages 55 and 58 have `confidence=null` / `pageProb=null` in the manifest but their images are accessible. The printed folio is visible on each page for verification.*
- 
-**Operational next step complete:** The mapping is verified against the printed folio visible in the retrieved page images (pp. 55–64). Proceeding with visual inspection batch.
+### Printed page → BookReader index mapping (pp. 65–74)
 
+| Printed page | leafNum (BookReader index) | pageProb | wordConf | Image URL |
+|---:|---:|---:|---:|---|
+| 65 | 86 | — | — | `page/n86.jpg` |
+| 66 | 87 | 89 | 96 | `page/n87.jpg` |
+| 67 | 88 | 94 | 96 | `page/n88.jpg` |
+| 68 | 89 | 91 | 96 | `page/n89.jpg` |
+| 69 | 90 | 94 | 96 | `page/n90.jpg` |
+| 70 | 91 | 86 | 96 | `page/n91.jpg` |
+| 71 | 92 | — | — | `page/n92.jpg` |
+| 72 | 93 | 87 | 94 | `page/n93.jpg` |
+| 73 | 94 | 87 | 91 | `page/n94.jpg` |
+| 74 | 95 | 88 | 94 | `page/n95.jpg` |
+
+*Pages 65 and 71 have `confidence=null` / `pageProb=null` in the manifest but their images are accessible. The printed folio is visible on each page for verification.*
+
+**Operational next step complete:** The mapping is verified against the printed folio visible in the retrieved page images (pp. 55–74). Proceeding with visual inspection batch.
 ## Initial access trial (2026-11-25)
+
 
 The title page, contents, and OCR/text layers were accessible for the Google Books and OpusMagnum scans. The contents identify the 1893 main translation as printed pp. 57–308, with Section I introduction on pp. 55–57. The Cornell scan's Wikimedia Commons multipage-PDF viewer does render an individual page preview (scan page 2 was opened and visually inspected), which is a viable page-image mechanism in principle. However, direct jumps to the required scan-page range were not accessible through the available viewer interface in this session. Full-PDF image capture and direct Internet Archive page-image retrieval also failed. The scan-page-2 preview is only an access test, not part of the target pp. 55–308 proofing scope. These are access failures, not target-page checks. **No printed page is marked image-checked as a result of this trial.**
 
@@ -81,10 +95,20 @@ Only add a row after direct visual inspection of that page's pixels.
 | 62 | leafNum=83 (BookReader n83) | Image retrieved (1360×2274 JPEG) | Printed folio "62" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
 | 63 | leafNum=84 (BookReader n84) | Image retrieved (1360×2274 JPEG) | Printed folio "63" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
 | 64 | leafNum=85 (BookReader n85) | Image retrieved (1360×2274 JPEG) | Printed folio "64" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 65 | leafNum=86 (BookReader n86) | Image retrieved (1360×2274 JPEG) | Printed folio "65" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 66 | leafNum=87 (BookReader n87) | Image retrieved (1360×2274 JPEG) | Printed folio "66" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 67 | leafNum=88 (BookReader n88) | Image retrieved (1360×2274 JPEG) | Printed folio "67" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 68 | leafNum=89 (BookReader n89) | Image retrieved (1360×2274 JPEG) | Printed folio "68" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 69 | leafNum=90 (BookReader n90) | Image retrieved (1360×2274 JPEG) | Printed folio "69" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 70 | leafNum=91 (BookReader n91) | Image retrieved (1360×2274 JPEG) | Printed folio "70" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 71 | leafNum=92 (BookReader n92) | Image retrieved (1360×2274 JPEG) | Printed folio "71" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 72 | leafNum=93 (BookReader n93) | Image retrieved (1360×2274 JPEG) | Printed folio "72" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 73 | leafNum=94 (BookReader n94) | Image retrieved (1360×2274 JPEG) | Printed folio "73" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 74 | leafNum=95 (BookReader n95) | Image retrieved (1360×2274 JPEG) | Printed folio "74" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
 
 ## Progress ledger
 
-- Printed pp. 55–308: **10 / 254 image-checked** (pp. 55–64 complete)
+- Printed pp. 55–308: **20 / 254 image-checked** (pp. 55–74 complete)
 - Discrepancies recorded from visual inspection: **0**
 - Pages requiring second-look: **0**
 - Independent human approval: **pending**
