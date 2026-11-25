@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **22/254 pages (pp.63–84) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 remain retrieval-only; pp.85–308 are not individually image-checked in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
+**Status:** **22/254 pages (pp.63–84) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 have been retrieved (high-res and medium JPEGs downloaded 2026-11-25) but not yet visually inspected; pp.85–308 are not individually image-checked in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -317,14 +317,14 @@ The following pp.55–74 entries were previously presented as inspection records
 
 | Printed page | Scan / zero-based PDF index | Visual result | Discrepancy / observation | Reviewer / date |
 |---:|---|---|---|---|
-| 55 | leafNum=76 (BookReader n76) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
-| 56 | leafNum=77 (BookReader n77) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
-| 57 | leafNum=78 (BookReader n78) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
-| 58 | leafNum=79 (BookReader n79) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
-| 59 | leafNum=80 (BookReader n80) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
-| 60 | leafNum=81 (BookReader n81) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
-| 61 | leafNum=82 (BookReader n82) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
-| 62 | leafNum=83 (BookReader n83) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 55 | leafNum=76 (BookReader n76) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
+| 56 | leafNum=77 (BookReader n77) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
+| 57 | leafNum=78 (BookReader n78) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
+| 58 | leafNum=79 (BookReader n79) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
+| 59 | leafNum=80 (BookReader n80) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
+| 60 | leafNum=81 (BookReader n81) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
+| 61 | leafNum=82 (BookReader n82) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
+| 62 | leafNum=83 (BookReader n83) | High-res and medium JPEGs downloaded 2026-11-25; visual inspection not yet performed | Retrieved via BookReader endpoint; page pixels not yet opened for visual inspection | Retrieval record / 2026-11-25 |
 | 63 | leafNum=84 (BookReader n84) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
 | 64 | leafNum=85 (BookReader n85) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
 | 65 | leafNum=86 (BookReader n86) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
@@ -363,9 +363,9 @@ On 2026-11-25, each committed BookReader JPEG for pp.63–74 was opened individu
 ## Progress ledger
 
 - Printed pp. 55–308: **12 / 254 individually opened and visually checked at page/layout level** (pp.63–74, medium 340×569 JPEGs). High-resolution textual/apparatus proofing remains outstanding for all 254 pages.
-- Retrieval records: pp.55–74 have 20 page-level retrieval entries; pp.75–308 have 234 batch-retrieval entries. Only pp.63–74 have new individual pixel-inspection records in this pass.
+- Retrieval records: pp.55–62 have 8 page-level retrieval entries (high-res and medium JPEGs downloaded 2026-11-25); pp.63–74 have 12 page-level retrieval entries; pp.75–308 have 234 batch-retrieval entries. Only pp.63–74 have new individual pixel-inspection records in this pass.
 - Discrepancies: no gross scan/layout defect observed in pp.63–74 at medium resolution; textual, Greek, punctuation, bracket, and apparatus discrepancies remain unassessed.
-- Pages requiring second-look: **not yet assessed for pp. 75–308**
+- Pages requiring second-look: **not yet assessed for pp. 55–308**
 - Independent human approval: **pending**
 
 ## Entry template
