@@ -276,11 +276,11 @@ def normalize_transfer_body(text: str, formatted: bool = False) -> str:
     if formatted:
         text = VERSE_MARKER.sub(" ", text)
         text = re.sub(r"(?m)^\s*>\s*.*$", " ", text)
-        text = re.sub(
-            r"(?m)^##\s+(?:Bibliographic reference|Verification status|Sources and references)\b.*$",
-            " ",
+        text = re.split(
+            r"(?m)^##\\s+(?:Bibliographic reference|Verification status|Sources and references)\\b",
             text,
-        )
+            maxsplit=1,
+        )[0]
         text = re.sub(r"(?m)^\s*---\s*$", " ", text)
         text = re.sub(r"(?m)^\s*#+\s*", "", text)
         text = re.sub(r"[*_\x60]", "", text)
@@ -444,6 +444,11 @@ def collect_issues(results: dict) -> list[dict]:
         if record["missing_metadata"]:
             issues.append(issue("warning", "provenance", record["path"], "Possible missing metadata: " + ", ".join(record["missing_metadata"])))
     enoch = results.get("enoch", {})
+    for chapter in enoch.get("missing_source_sections", []):
+        issues.append(issue("error", "enoch", "formatted_editions/books/book-of-enoch-charles-1893/",
+                            f"Selected formatted source chapter {chapter} is missing."))
+    for missing in enoch.get("missing_numbered_units", []):
+        issues.append(issue("error", "enoch", f"chapter-{missing['chapter']:03d}.md", missing["reason"]))
     for chapter in enoch.get("missing_files", []):
         issues.append(issue("error", "enoch", f"chapter-{chapter:03d}.md", "Expected modernized chapter file is missing."))
     transfer = results.get("comparison_review_candidates", {}).get("source_to_formatted_transfer", {})
