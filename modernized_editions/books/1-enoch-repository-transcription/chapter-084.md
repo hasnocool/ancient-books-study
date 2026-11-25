@@ -33,6 +33,10 @@ I raised my hands in righteousness and blessed the Holy and Great One. With my b
 
 ---
 
+## 1893 witness note
+
+At 84:4 Charles's note identifies “the day of the great judgment” in this passage with the Deluge, distinguishing it from the final judgment sense used in other sections. The verse's wording is retained; this interpretive qualification is recorded separately.
+
 ## Completeness and editorial notes
 
 - All **6 numbered verses** in the repository's Chapter 84 have been rendered individually.
