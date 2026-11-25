@@ -377,3 +377,8 @@ A second round of direct page-image attempts was made against alternate authenti
 For the 1917 SPCK scan, the p.152 image was retried against the smaller Commons-hosted PDF as well as the previous PDF reference. Both returned a cache miss. The exact missing page is zero-based PDF index 153; its adjacent pages (indices 150–152 and 154–155) map to printed pp.149–151 and 153–154 and have previously been visually inspected. The missing p.152 must remain open.
 
 The outcome is a confirmed access limitation, not a completed visual review. The prior text-layer, structural, and OCR screening results remain separate and must not be used to promote the visual verification status.
+
+
+## Chapter 71 interpolation and dialogue markup correction — 25 November 2026
+
+The Chapter 71 modernization was corrected so the 1893 interpolation marking is represented at each verse boundary rather than as a single bracket opened in verse 1 and closed in verse 17. All 17 verse bodies are now individually enclosed in square brackets. The speech in 71:14–17 also has balanced quotation marks at the verse level; no verse text was added, removed, or reconstructed. This is a presentation/markup correction, not a new textual collation. The lost passage reported by the later 1912 witness between 71:13–14 remains unreconstructed.
