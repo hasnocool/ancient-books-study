@@ -414,7 +414,7 @@ def audit_catalog(root: Path) -> dict:
                 continue
             text = readme.read_text(encoding="utf-8", errors="replace")
             title_match = re.search(r"(?m)^#\s+(.+)$", text)
-            status_match = re.search(r"(?im)^\s*[-*]?\s*(?:\*\*)?(?:status|verification status)(?:\*\*)?\s*:\s*(.+)$", text)
+            status_match = re.search(r"(?im)^\s*(?:[-*]\s*)?(?:\*\*)?(?:status|verification status)\s*:\s*(?:\*\*)?(.+?)(?:\*\*)?\s*$", text)
             rows.append({
                 "title": title_match.group(1).strip() if title_match else folder.name,
                 "path": readme.relative_to(root).as_posix(),
