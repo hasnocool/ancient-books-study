@@ -34,5 +34,6 @@ Use --root PATH to audit a different local checkout. Use --json-out PATH for mac
 - Normalized and near-duplicate results are candidates for manual review; different translations and editions must not be merged automatically.
 - Provenance checks are keyword screens, not legal opinions or proof of bibliographic accuracy.
 - Chapter sequence checks validate structure, not meaning.
+- Normalized source-to-formatted text comparison validates transfer from the selected archive file, not fidelity to the historically attributed edition.
 - Verse-length ratios flag unusual compression or expansion; they are not semantic-similarity scores.
 - Humans must review source images and text variants before declaring a transcription verified.
