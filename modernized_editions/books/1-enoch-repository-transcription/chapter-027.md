@@ -21,7 +21,7 @@ Uriel, one of the holy angels who was with me, answered: “This cursed valley i
 
 ### Verse 4
 
-“At the time when judgment is carried out against those who came before, the righteous will bless him for the mercy he has shown them and for the place he has assigned to them.”
+“In those days of judgment upon the former group, the righteous will bless him for the mercy by which he assigned their place to them.”
 
 ### Verse 5
 
