@@ -348,3 +348,21 @@ This PDF can be studied as a modern composite transcription, but it is not a pag
 - Chapter 108: absent from the attached 1917 file; a separately identified witness containing 108 is still required.
 - 1893 Chapters 1–104: not historically collated, because the attached 66-page file is a modern composite rather than the original 1893 facsimile.
 - No independent human semantic approval is implied by these mechanical or visual checks.
+
+
+## Authentic 1893 Clarendon witness located — 25 November 2026
+
+A separate, authentic digitized copy of the 1893 Clarendon Press volume has now been located: [The Book of Enoch, R. H. Charles, 1893, Wikimedia Commons / Google Books scan](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf). The scan is 418 pages and its title page identifies the work as translated from Professor Dillmann's Ethiopic text, edited by R. H. Charles, Clarendon Press, 1893. Its contents explicitly place the translation of Sections I–V (Chapters I–CIV) on printed pp. 55–308; Appendix E is separately identified as the new Latin fragment, Chapter CVI.1–18, pp. 372–375. This confirms the correct historical scope: main translation Chapters 1–104, with a separately labelled Latin fragment, not full 105–108.
+
+The file attached in this conversation as `enoch-1893-charles-dillmann.pdf` is not this facsimile. It remains classified as a modern composite transcription, not a primary image witness. The authentic 1893 scan is therefore now available as an external primary witness, but its page images still require systematic inspection. The searchable text layer has been opened and the first chapter text compared; do not treat this discovery as completion of the 104-chapter collation.
+
+### Initial 1893 text-layer collation: Chapters 1–5
+
+The authentic 1893 text layer was examined at the start of Section I. Chapter 1 confirms that the repository's formatted source is a modernization/derivative rather than a verbatim transcription. Examples include:
+
+- 1893 I.1 begins “The words of the blessing of Enoch, wherewith he blessed...” while the repository derivative begins “These are the words of blessing of Enoch...”.
+- 1893 I.2 reads “And Enoch answered and spake—(Enoch) a righteous man...” while the repository derivative reads “Enoch answered and spoke: I, Enoch, a righteous...”. The parenthetical grammatical construction and the first-person restatement are not identical.
+- 1893 I.4 begins “And going from thence...” and I.9 begins “And lo!”; the repository derivative drops those conjunctions in its corresponding clauses.
+- Chapters 2–5 were spot-compared at the section opening. Their sense and sequence are broadly aligned, with modernization of diction and syntax. This is an initial text-layer pass, not a full word-by-word or visual collation of all verses in those chapters.
+
+Continue the 1893 collation sequentially by chapter and record every substantive lexical, syntactic, verse-division, interpolation, and omission difference. Page-image verification remains a separate requirement.
