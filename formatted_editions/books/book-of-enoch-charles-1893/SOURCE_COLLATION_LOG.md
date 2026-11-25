@@ -620,3 +620,8 @@ The \`pdfs/\` directory now contains seven PDFs. The newly added full scans are 
 The updated [\`pdfs/README.md\`](../../../pdfs/README.md) now inventories all seven PDFs and distinguishes their evidentiary uses. The addition commits describe the OpusMagnum scan as “page-renderable”; I attempted to render its PDF pages directly, but the available screenshot service returned cache misses. The claim is therefore recorded as repository-provided acquisition metadata, not as an image inspection result from this audit.
 
 **Visual status is unchanged:** the 1893 printed translation pages 55–308 still require actual page-image review. The 1917 scan's printed p.152 is still missing from the inspected image set (zero-based PDF page index 153). The new 1912 edition is a supplemental source only. Do not promote OCR or catalogue identification to visual verification.
+
+
+## PDF directory relocation — 25 November 2026
+
+The seven PDFs and their inventory README were moved from the former `enoch-editions/` directory to the top-level `pdfs/` directory. The move reused the existing Git blob objects, so the PDF contents and blob identifiers were preserved without downloading or re-uploading the binary files. Repository navigation, usage guidance, source notes, and review documentation now point to `pdfs/`. The former directory is no longer present.

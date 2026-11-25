@@ -69,7 +69,7 @@ These references establish the historical edition and provide comparison materia
 
 ## Repository PDF provenance audit — 25 November 2026
 
-The `pdfs/` directory contains two older project transcriptions and two newly added historical scans. The older files should not be represented as facsimiles; the newly added originals are the intended page-image witnesses.
+The `pdfs/` directory contains seven PDFs: two older project transcriptions and five digitized scans/editions. The older files should not be represented as facsimiles; the historical scans are the page-image witnesses, with their distinct editions and limitations described in the PDF inventory.
 
 | Repository file | Git blob SHA | Size | Provenance and role |
 |---|---|---:|---|

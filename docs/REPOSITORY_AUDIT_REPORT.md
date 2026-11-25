@@ -8,7 +8,7 @@
 
 ### Documentation and navigation
 
-- Moved the seven 1 Enoch source/reference PDFs and their provenance README from `pdfs/` into the top-level `pdfs/` directory. The move reuses the existing Git blobs, preserving the binary files byte-for-byte.
+- Moved the seven 1 Enoch source/reference PDFs and their provenance README from `enoch-editions/` into the top-level `pdfs/` directory. The move reuses the existing Git blobs, preserving the binary files byte-for-byte.
 - Updated the root README, usage guide, Enoch source notes, collation/restoration/review logs, and this report to use the new `pdfs/` paths.
 
 - Added modernized_editions to the root repository layout and clarified the separation between archival sources, faithful formatted editions, and modern-language adaptations.
