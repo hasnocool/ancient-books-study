@@ -80,7 +80,7 @@ The `pdfs/enoch-editions/` directory contains eight PDFs: two older project tran
 
 ### Historical publication and scan notes
 
-- **1893:** The Cornell/Internet Archive catalogue record identifies the scan as *The Book of Enoch*, Oxford: Clarendon Press, 1893, Internet Archive identifier `cu31924014590545`. The scanned title page names R. H. Charles and the Clarendon Press. The original historical volume's main translated text covers Chapters 1–104. Appendix E separately contains a New Latin fragment (106:1–18); it does not supply a complete Chapter 105–108 translation.
+- **1893:** The Cornell/Internet Archive catalogue record identifies the scan as *The Book of Enoch*, Oxford: Clarendon Press, 1893, Internet Archive identifier `cu31924014590545`. The scanned title page names R. H. Charles and the Clarendon Press. The five core sections run through Chapter CIV (104), but the printed translation pages continue with CV–CVIII on pp.301–308 as distinct appended literary units. Appendix E separately contains a New Latin fragment (106:1–18), distinct from the Ethiopic CVI translation on pp.302–304.
 - **1917:** The full SPCK edition includes Chapters 105–108. The newly added repository PDF is a scan of a later 1962 impression, not the first impression of 1917. The preface indicates that the translation reprints Charles's 1912 second edition.
 - The repository files' blob hashes and byte sizes are supplied to identify the precise current artifacts. No byte-for-byte identity with external Wikimedia/Internet Archive files is claimed.
 
