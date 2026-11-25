@@ -127,7 +127,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 ## Chapter 89
 
-**1.** One of those four went to that white bull, and instructed him in a secret, as he trembled: he was born a bull, and became a man, and built for himself a great vessel (Noah), and dwelt thereon; and three bulls dwelt with him in that vessel, and they were covered in.
+**1.** One of those four went to that white bull, and instructed him in a secret, as he trembled: he was born a bull, and became a man, and built for himself a great vessel , and dwelt thereon; and three bulls dwelt with him in that vessel, and they were covered in.
 
 **2.** Again I raised mine eyes toward heaven, and saw a lofty roof, with seven water torrents thereon, and those torrents poured much water into an enclosure.
 
@@ -149,7 +149,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **11.** They began to bite one another; but that white bull which was born amongst them begat a wild ass, and a white bull with it, and the wild ass multiplied.
 
-**12.** But that bull which was born from him begat a black wild boar, and a white sheep; and that wild boar begat many boars, but that sheep (Jacob) begat twelve sheep.
+**12.** But that bull which was born from him begat a black wild boar, and a white sheep; and that wild boar begat many boars, but that sheep  begat twelve sheep.
 
 **13.** When those twelve sheep had grown, they gave up one of them to the asses, and these asses again gave up that sheep to the wolves, and that sheep grew up among the wolves.
 
@@ -171,13 +171,13 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **22.** The Lord of the sheep went with them, as their leader, and all His sheep followed Him: His face was dazzling, and glorious, terrible to behold.
 
-**23.** But the wolves began to pursue those sheep until they found them by a sea of water (Red Sea).
+**23.** But the wolves began to pursue those sheep until they found them by a sea of water .
 
 **24.** This sea was divided, and the water stood on this side, and on that before their face, and their Lord who led them placed Himself between them, and the wolves.
 
 **25.** As those wolves did not yet see the sheep, they proceeded into the midst of that sea, and the wolves pursued the sheep, and those wolves ran after them into that sea.
 
-**26.** When they saw the Lord of the sheep, they turned to flee before His face, but that sea gathered itself together, and resumed its own nature suddenly, and the water swelled, and rose until it covered those wolves (Egyptians).
+**26.** When they saw the Lord of the sheep, they turned to flee before His face, but that sea gathered itself together, and resumed its own nature suddenly, and the water swelled, and rose until it covered those wolves .
 
 **27.** I saw until all the wolves which pursued those sheep perished, and were drowned.
 
@@ -199,9 +199,9 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **36.** I saw in this vision until that sheep became a man, and built a house for the Lord of the sheep, and placed all the sheep in that house.
 
-**37.** I saw until this sheep which had met that sheep which led the sheep fell asleep (Moses); and I saw until all the great sheep perished, and little ones arose in their place, and they came to a pasture, and approached a stream of water (Jordan).
+**37.** I saw until this sheep which had met that sheep which led the sheep fell asleep ; and I saw until all the great sheep perished, and little ones arose in their place, and they came to a pasture, and approached a stream of water .
 
-**38.** Then that sheep which led them (Joshuah), and became a man withdrew from them, and fell asleep, and all the sheep sought it, and lamented over it with a great lamentation.
+**38.** Then that sheep which led them , and became a man withdrew from them, and fell asleep, and all the sheep sought it, and lamented over it with a great lamentation.
 
 **39.** I saw until they left off crying for that sheep, and crossed that stream of water, and there always arose other sheep as leaders in the place of those which had led them, and fallen asleep.
 
@@ -219,17 +219,17 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **46.** It went to it, and spoke with it alone, and raised it to being ram, and made it the prince and leader of the sheep; but during all these things those dogs oppressed the sheep.
 
-**47.** The first ram (Saul) pursued that second ram (David), and that second ram arose, and fled before it; and I saw until those dogs pulled down the first ram.
+**47.** The first ram  pursued that second ram , and that second ram arose, and fled before it; and I saw until those dogs pulled down the first ram.
 
-**48.** That second ram arose, and led the sheep, and that ram begat many sheep, and fell asleep; and a little sheep became ram in its stead, and became prince (Solomon), and leader of those sheep.
+**48.** That second ram arose, and led the sheep, and that ram begat many sheep, and fell asleep; and a little sheep became ram in its stead, and became prince , and leader of those sheep.
 
 **49.** Those sheep grew, and multiplied; and all the dogs, and foxes, and wild boars feared, and fled before it, and that ram butted, and killed all the wild beasts, and those wild beasts had no longer any power among the sheep, and robbed them no more of ought.
 
-**50.** That house became great, and broad, and a lofty (Temple), and great tower was built for those sheep: it was built on the house for the Lord of the sheep, and that house was low, but the tower was elevated, and lofty, and the Lord of the sheep stood on that tower, and a full table was placed before Him.
+**50.** That house became great, and broad, and a lofty , and great tower was built for those sheep: it was built on the house for the Lord of the sheep, and that house was low, but the tower was elevated, and lofty, and the Lord of the sheep stood on that tower, and a full table was placed before Him.
 
 **51.** Again I saw those sheep that they again erred, and went many ways, and forsook that their house, and the Lord of the sheep called some from amongst them, and sent them to the sheep, but the sheep began to slay them.
 
-**52.** One of them was saved, and was not slain, and it sped away (Elyah), and cried aloud over the sheep; and they wanted to slay it, but the, Lord of the sheep saved it from the sheep, and brought it up to me, and caused it to dwell.
+**52.** One of them was saved, and was not slain, and it sped away , and cried aloud over the sheep; and they wanted to slay it, but the, Lord of the sheep saved it from the sheep, and brought it up to me, and caused it to dwell.
 
 **53.** Many other sheep He sent to those sheep to testify, and lament over them.
 
@@ -271,7 +271,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **72.** Forthwith I saw how the shepherds pastured for twelve hours, and behold three of those sheep turned back, and came, and entered, and began to build up all the ruins of the house; but the wild boars tried to hinder them, but they were not able.
 
-**73.** They began again to build as before (2nd Temple), and they reared up that tower, and it was named the high tower; and they began again to place a table before the tower, but all the bread on it was polluted, and not pure.
+**73.** They began again to build as before , and they reared up that tower, and it was named the high tower; and they began again to place a table before the tower, but all the bread on it was polluted, and not pure.
 
 **74.** Besides all, the eyes of these sheep were blinded so that they saw not, and the eyes of their shepherds likewise; and they were delivered in large numbers to their shepherds for destruction, and they trampled the sheep with their feet, and devoured them.
 
@@ -283,6 +283,37 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 ---
 
+
+### Editorial identifications (not part of the translated wording)
+
+The following identifications are explanatory annotations derived from Charles's critical and exegetical notes. They have been removed from the running translation so readers do not mistake them for words printed in the 1893 English text.
+
+| Verse | Identification | Charles's commentary / qualification |
+|---|---|---|
+| 89:1 | Noah; the three bulls are Noah's three sons | Explicit in Charles's note to 89:1 (printed p.231). |
+| 89:9 | Noah and his three sons | Explicit in Charles's note to 89:9 (printed p.232). |
+| 89:10–11 | Abraham; Ishmael; Isaac | Charles identifies the white bull as Abraham, the wild ass as Ishmael, and the white bull with it as Isaac (printed p.233). |
+| 89:12 | Esau; Jacob | Charles identifies the black wild boar as Esau and the white sheep as Jacob (printed p.233). |
+| 89:13 | Joseph; the asses as Midianites; the wolves as Egyptians | Explicit in Charles's note to 89:13 (printed pp.233–234). |
+| 89:16 | Moses | Explicit in Charles's note to 89:16 (printed p.235). |
+| 89:18 | Aaron | Explicit in Charles's note to 89:18 (printed p.235). |
+| 89:23–27 | Exodus; Red Sea | Charles labels 89:27 the Exodus from Egypt and discusses the wilderness journey (printed pp.235–236). “Red Sea” is a geographical gloss, not wording in the verse. |
+| 89:26–27 | Egyptians | Inferred from the Exodus context; the verse itself says “wolves.” |
+| 89:29–36 | Moses; Sinai; tabernacle | Charles identifies Moses's ascent of Sinai at 89:29 and explains 89:36 as Moses building the tabernacle (printed pp.236–237). |
+| 89:37 | Aaron; the Exodus generation; the Jordan | Charles identifies the falling asleep at the start of 89:37 with Aaron and the death of the Exodus generation; the pasture is east of Jordan and the stream is the Jordan (printed p.237). The former Moses label was misplaced. |
+| 89:38 | Moses | Charles explicitly identifies 89:38 with the death of Moses (printed p.237). The former Joshuah label was incorrect. |
+| 89:39–41 | Joshua and the Judges; Samuel | Charles identifies successive leaders as the Judges, including Joshua, and describes 89:41 as the work of Samuel (printed p.237). |
+| 89:42–44 | Philistines; Ammonites; Edomites; Samuel | Charles discusses the dogs, foxes, and wild boars as hostile peoples, and treats the opened eyes in 89:44 as Samuel's prophetic insight (printed pp.238–239). The animal-to-people mapping is interpretive. |
+| 89:45–47 | Samuel, David, and Saul | Charles discusses David's anointing in 89:45–46; the specific Saul/David labels are historical identifications, not wording in the translation (printed pp.239–240). |
+| 89:48–49 | Solomon; David's reign; proposed relocation of the latter clause of 89:48 | Charles explicitly identifies the little sheep as Solomon and describes 89:49 as David's reign. He argues that the clause beginning “and that ram begat…” should follow 89:49, while the printed translation retains it in 89:48 (printed pp.240–241). |
+| 89:50–51 | House = Jerusalem; tower = Temple | Explicit in Charles's note to 89:51 (printed p.241). The former inline Temple gloss identifies the tower, not the house. |
+| 89:52 | Elijah | Charles identifies the escape and translation as Elijah (printed p.241). |
+| 89:55–56 | Assyrians, Chaldeans, Egyptians; possibly Ethiopians | Charles identifies the lions and tigers with Assyrians and Chaldeans, the wolves with Egyptians, and says the hyenas may be Ethiopians (printed pp.242–243). |
+| 89:72–74 | Zerubbabel; Ezra or Nehemiah; Second Temple rebuilding | Charles identifies two of the three sheep as Zerubbabel and allows Ezra or Nehemiah as the third; he connects the rebuilding and polluted bread with the Temple (printed p.247). “Second Temple” is an editorial summary. |
+
+**Editorial correction:** the former Moses label at 89:37 and Joshuah label at 89:38 have been removed. The correct explanatory identifications are Aaron at 89:37 and Moses at 89:38. Joshua belongs among the later leaders in 89:39.
+
+**Textual status:** the verse wording is retained apart from removal of repository-added parenthetical identifications. Charles's own parenthetical clarification in the printed translation, such as “their (the sheep's) young” at 89:15, is preserved.
 ## Chapter 90
 
 **1.** I saw until that in this manner (36) thirty six shepherds undertook the pasturing of the sheep, and they severally completed their periods as did the first; and others received them into their hand, to pasture them for their period, each shepherd for his own period.
