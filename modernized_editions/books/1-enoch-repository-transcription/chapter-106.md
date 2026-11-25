@@ -19,7 +19,7 @@ His body was white as snow and red as a blooming rose. The hair on his head and 
 
 ### Verse 3
 
-When the midwife lifted him from her hands, he opened his mouth and conversed with the Lord of righteousness.
+When he was taken from the midwife's hands, he opened his mouth and conversed with the Lord of righteousness.
 
 ### Verse 4
 
