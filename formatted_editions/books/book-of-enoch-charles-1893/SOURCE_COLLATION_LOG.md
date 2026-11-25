@@ -90,6 +90,12 @@ The modernization corrections to 106:3 and 106:16 preserve these source details.
 
 **Status:** The 1917 witness is identified and sampled, but Chapters 105–108 have not yet been fully collated verse by verse against the 1917 page images. Do not label them “1893 Charles main text.”
 
+## 1917 witness cross-check of the Chapter 72 cycle counts
+
+The 1917 Charles/Oesterley text layer was also checked for the repeated solar-cycle wording in Chapter 72. It reads “one and thirty mornings” at verses 13, 19, 25, and 31, and “thirty mornings” at verse 29. The modernized Chapter 72 now follows that pattern: 31 mornings at 13, 19, 25, and 31; 30 mornings at 29.
+
+This is corroboration from the explicitly identified 1917 reprint of Charles's 1912 second edition. It is **not** cited as proof of what the 1893 printing says, and it does not replace a page-image collation of the 1893 Chapter 72.
+
 ## Scan inspection limitation
 
 The accessible 1893 PDF text layer could be searched and opened, but the available page-image screenshot service rejected both accessible 1893 scan PDFs because their file sizes exceeded its capture limit. The text-layer samples above are therefore not described as visually proofread. A local download or smaller page-image segments will be needed for image-level collation.
