@@ -4,9 +4,9 @@ The eight PDF files are stored in `pdfs/enoch-editions/`; this README is stored 
 
 ## File inventory
 
-| [`book-of-noah-stone.pdf`](./enoch-editions/book-of-noah-stone.pdf) | 242,993 bytes | Supplementary modern study document; not a facsimile of the 1893, 1912, or 1917 editions. |
 | File | Repository size | Bibliographic / evidentiary role |
 |---|---:|---|
+| [`book-of-noah-stone.pdf`](./enoch-editions/book-of-noah-stone.pdf) | 242,993 bytes | Supplementary modern study document; not a facsimile of the 1893, 1912, or 1917 editions. |
 | [`enoch-1893-charles-dillmann.pdf`](./enoch-editions/enoch-1893-charles-dillmann.pdf) | 540,432 bytes | Older 66-page modern composite/re-typeset artifact. It combines 1 Enoch with Slavonic 2 Enoch and later material. It is not a photographic scan of the 1893 Clarendon volume. |
 | [`enoch-1893-clarendon-original.pdf`](./enoch-editions/enoch-1893-clarendon-original.pdf) | 16,777,301 bytes | Cornell / Internet Archive scan of the 1893 Clarendon edition; 428 scanned pages. The catalogue/title page identifies R. H. Charles, Oxford: Clarendon Press, 1893. |
 | [`enoch-1893-opusmagnum.pdf`](./enoch-editions/enoch-1893-opusmagnum.pdf) | 11,632,626 bytes | Additional OpusMagnum-hosted full scan of the 1893 Clarendon edition; the addition commit identifies 420 pages. Its PDF text layer identifies the 1893 title page and the translation's printed-page range (57–308). It is the most promising smaller candidate for image proofing, but page screenshots from this environment still returned cache misses; it has **not** yet supplied inspected translation-page pixels. The scan's exact lineage relative to the other digitizations has not been established. |
