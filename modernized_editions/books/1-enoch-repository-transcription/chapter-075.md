@@ -37,7 +37,7 @@ I saw twelve gates in heaven at the edges of the earth. Through them the sun, mo
 
 ### Verse 7
 
-Many windows stand to the right and left of these gates. At its appointed time, each window produces warmth, corresponding to the gates through which the stars emerge and set, each according to the number and order God has commanded.
+Many windows stand to the right and left of these gates. At its appointed time, one window produces warmth, corresponding to the gates through which the stars emerge and set, each according to the number and order God has commanded.
 
 ### Verse 8
 
