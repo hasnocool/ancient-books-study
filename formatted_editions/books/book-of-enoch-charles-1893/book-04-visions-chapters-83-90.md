@@ -316,7 +316,7 @@ The following identifications are explanatory annotations derived from Charles's
 **Textual status:** the verse wording is retained apart from removal of repository-added parenthetical identifications. Charles's own parenthetical clarification in the printed translation, such as “their (the sheep's) young” at 89:15, is preserved.
 ## Chapter 90
 
-**1.** I saw until that in this manner (36) thirty six shepherds undertook the pasturing of the sheep, and they severally completed their periods as did the first; and others received them into their hand, to pasture them for their period, each shepherd for his own period.
+**1.** I saw until that in this manner thirty-six shepherds undertook the pasturing of the sheep, and they severally completed their periods as did the first; and others received them into their hand, to pasture them for their period, each shepherd for his own period.
 
 **2.** After that I saw in the vision all the birds of heaven coming, the eagles, the vultures, the kites, the ravens; but the eagles led all the birds; and they began to devour those sheep, and to pick out their eyes, and to devour their flesh.
 
@@ -324,7 +324,7 @@ The following identifications are explanatory annotations derived from Charles's
 
 **4.** I saw until those sheep were devoured by the dogs, and eagles, and kites, and they left neither flesh nor skin nor sinew remaining on them until only their skeletons stood there: their skeletons too fell to the earth, and the sheep became few.
 
-**5.** I saw until that twenty, three undertook the pasturing, and they completed in their several periods fifty eight times.
+**5.** I saw until that twenty-three undertook the pasturing, and they completed in their several periods fifty eight times.
 
 **6.** But behold lambs were borne by those white sheep, and they began to open their eyes, and to see, and to cry to the sheep.
 
@@ -342,7 +342,7 @@ The following identifications are explanatory annotations derived from Charles's
 
 **13.** I saw them until the shepherds, and eagles, and those vultures, and kites came, and they cried to the ravens that they should break the horn of that ram, and they battled, and fought with it, and it battled with them, and cried that his succour should come unto him.
 
-**14.** I saw until that man who wrote down the names of the shepherds, and carried up unto the presence of the Lord of the sheep came, and he helped that ram, and showed it everything1, that he had come down to help it.
+**14.** I saw until that man who wrote down the names of the shepherds, and carried up unto the presence of the Lord of the sheep came, and he helped that ram, and showed it everything, that he had come down to help it.
 
 **[15].** I saw until that Lord of the sheep came to them in wrath, and all who saw Him fled, and all cast themselves into the darkness from before His face.
 
@@ -354,7 +354,7 @@ The following identifications are explanatory annotations derived from Charles's
 
 **19.** I saw until a great sword was given to the sheep, and the sheep proceeded against all the beasts of the field to slay them; and all the beasts, and the birds of the heaven fled before their face.
 
-**20.** I saw until a throne was erected in the pleasant land, and the Lord of the sheep sat Himself thereon (Judgment’s day), and that other took the sealed books, and opened them before the Lord of the sheep.
+**20.** I saw until a throne was erected in the pleasant land, and the Lord of the sheep sat Himself thereon, and that other took the sealed books, and opened them before the Lord of the sheep.
 
 **21.** The Lord called those seven first white ones, and commanded that they should bring before Him, beginning, with the first star which led the way, all the stars whose privy members were like those of horses, and they brought them all before Him.
 
@@ -372,7 +372,7 @@ The following identifications are explanatory annotations derived from Charles's
 
 **28.** I stood up to see until He folded up that old house; and all the pillars were taken away, and all the beams, and ornaments of the house were folded up with it, and it was taken off, and laid in a place in the south of the land.
 
-**29.** I saw the Lord of the sheep until he brought a new house greater, and loftier than that first, and set it up in the place of the first which had been folded up (New Jerusalem): all its pillars were new, and its ornaments were new, and larger than those of the first one which He had taken away, and the Lord of the sheep was within it.
+**29.** I saw the Lord of the sheep until he brought a new house greater, and loftier than that first, and set it up in the place of the first which had been folded up: all its pillars were new, and its ornaments were new, and larger than those of the first one which He had taken away, and the Lord of the sheep was within it.
 
 **30.** I saw all the sheep which had been left, and all the beasts on the earth, and all the birds of the heaven, falling down, and doing homage to those sheep, and making petition to, and obeying them in every word.
 
@@ -394,7 +394,7 @@ The following identifications are explanatory annotations derived from Charles's
 
 **39.** I slept in their midst: then I awoke, and saw everything.
 
-**40.** This is the vision which I saw while I slept, arid I awoke, and blessed the Lord of righteousness, and gave Him glory.
+**40.** This is the vision which I saw while I slept, and I awoke, and blessed the Lord of righteousness, and gave Him glory.
 
 **41.** Then I fell into a great fit of weeping, and my tears stayed not until I could no longer endure it: when I looked, they flowed on account of what I saw; for everything will come, and be fulfilled, and all the deeds of men in their order were shown to me.
 
