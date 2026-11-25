@@ -27,7 +27,7 @@ The angel who accompanied me said: “They are bringing measures and cords of ri
 
 ### Verse 5
 
-“These measures will reveal everything hidden in the depths of the earth, including those who were destroyed in the wilderness and those devoured by the fish of the sea and by wild animals. They will return and stand firm on the day of the Chosen One. No one will be lost before the Lord of Spirits; no one can be destroyed beyond his power.
+“These measures will reveal everything hidden in the depths of the earth, including those who were destroyed in the wilderness and those devoured by the fish of the sea and by wild animals. They will return and find support on the day of the Chosen One. No one will be destroyed before the Lord of Spirits, and no one can be destroyed.
 
 ### Verse 6
 
