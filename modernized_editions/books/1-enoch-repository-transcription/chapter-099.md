@@ -27,7 +27,7 @@ In those days the nations will be stirred up, and the peoples of the nations wil
 
 ### Verse 5
 
-In those days, people driven into desperation will go out and harm their children or abandon them. Miscarriages will occur; infants will be cast aside and left without care. People will show no compassion even toward those they love.
+In those days, people reduced to desperation will go out and mangle their children and cast them away. Miscarriages will occur; infants will be cast aside and left without care. People will show no compassion even toward those they love.
 
 ### Verse 6
 
