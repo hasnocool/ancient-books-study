@@ -42,7 +42,7 @@ python3 tools/download_archive_pages.py --start-page 55 --end-page 308 --force
 python3 tools/download_archive_pages.py --concurrency 2 --retries 4 --timeout 60
 ```
 
-The default output is under `artifacts/cornell-enoch-1893-pages/`, which is intentionally outside the formatted edition. Do not mark a page visually checked merely because it downloaded; open the image, verify the printed folio and content, then add an individual row to `IMAGE_PROOFING_LOG.md`. The script has not been run in this environment because direct access to the Archive.org image hosts failed.
+By default, images are written to `artifacts/1-enoch-1893/page-images/bookreader-medium/`. The manifest is written to `artifacts/1-enoch-1893/manifests/bookreader-pages-START-END.json`, using the selected printed-page range. Both paths can be overridden with `--output-dir` and `--manifest`. Do not mark a page visually checked merely because it downloaded; open the image, verify the printed folio and content, then add an individual row to `IMAGE_PROOFING_LOG.md`. The script has not been run in this environment because direct access to the Archive.org image hosts failed.
 
 ## Safety and limits
 

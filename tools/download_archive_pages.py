@@ -258,7 +258,11 @@ async def run(args: argparse.Namespace) -> int:
         raise ValueError("retries cannot be negative")
 
     output_dir = Path(args.output_dir).expanduser().resolve()
-    manifest_path = Path(args.manifest).expanduser().resolve()
+    manifest_value = args.manifest or (
+        f"artifacts/1-enoch-1893/manifests/"
+        f"bookreader-pages-{args.start_page}-{args.end_page}.json"
+    )
+    manifest_path = Path(manifest_value).expanduser().resolve()
     await asyncio.to_thread(output_dir.mkdir, parents=True, exist_ok=True)
 
     semaphore = asyncio.Semaphore(args.concurrency)
@@ -309,11 +313,15 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--output-dir",
-        default="artifacts/cornell-enoch-1893-pages",
+        default="artifacts/1-enoch-1893/page-images/bookreader-medium",
     )
     parser.add_argument(
         "--manifest",
-        default="artifacts/cornell-enoch-1893-pages/manifest.json",
+        default=None,
+        help=(
+            "Manifest output path (default: artifacts/1-enoch-1893/manifests/"
+            "bookreader-pages-START-END.json)."
+        ),
     )
     parser.add_argument("--concurrency", type=int, default=4)
     parser.add_argument("--retries", type=int, default=2)
