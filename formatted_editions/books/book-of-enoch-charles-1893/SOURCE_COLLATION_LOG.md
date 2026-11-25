@@ -708,3 +708,10 @@ The collation is recorded in [CHAPTERS_106-108_COLLATION_PP302-308.md](CHAPTERS_
 ## Final proofing tracker
 
 The remaining facsimile and independent-review requirements are tracked in [GitHub issue #1 — Complete 1 Enoch 1893 facsimile proofing and independent review](https://github.com/hasnocool/ancient-books-study/issues/1). This issue does not change the proofing ledger or imply that review has occurred.
+
+
+## pp.63–74 BookReader retrieval and preliminary image review — 25 November 2026
+
+The repository now contains 12 BookReader JPEGs (leaves n84–n95), a manifest, and an OCR inventory/first-pass text-layer report under `artifacts/cornell-enoch-1893-pages-63-74/`. The 12 JPEGs were re-fetched from the committed blobs and checked for JPEG start/end markers, manifest byte-count agreement, and 340×569 dimensions (12/12 passed). Each image was also opened individually. Printed folios 63–74 are visible, including pp.65 and 71 whose folio digits were missed by OCR. Page 68 shows Greek text in the right column with substantial blank space at left, explaining its unusually low OCR character count.
+
+**Evidence boundary:** This is an individual medium-resolution (340×569) page/layout inspection only. Small critical apparatus and Greek glyphs are not reliably legible at this size. No high-resolution native page PNGs or per-page OCR text files are present in the committed artifact directory; the report's referenced filenames must not be mistaken for tracked files. This is not a full line-by-line diplomatic collation. The IMAGE_PROOFING_LOG now records 12/254 pages with page/layout-level checks; detailed high-resolution textual proofing and independent human review remain outstanding.
