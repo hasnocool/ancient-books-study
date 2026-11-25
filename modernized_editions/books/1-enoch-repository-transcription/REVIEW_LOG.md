@@ -8,11 +8,11 @@
 | Chapter range | Source divisions | Files present | Structural review | Semantic review | Historical collation |
 |---|---|---:|---|---|---|
 | 1–36 | Watchers | 36/36 | 36/36 verse-label sequences match; assistant first-pass semantic review complete for 1–36 | Independent human approval pending for all | Pending; sample textual differences already documented |
-| 37–71 | Parables | 35/35 | 35/35 verse-label sequences match; assistant first-pass semantic review complete for 37–42, pending for 43–71 | Independent human approval pending for all | Pending |
+| 37–71 | Parables | 35/35 | 35/35 verse-label sequences match; assistant first-pass semantic review complete for 37–71 | Independent human approval pending for all | Pending |
 | 72–82 | Luminaries | 11/11 | 11/11 verse-label sequences match; assistant first-pass semantic review complete for 72–82 | Independent human approval pending for all | Pending |
 | 83–90 | Visions | 8/8 | 8/8 verse-label sequences match; assistant first-pass semantic review complete for 83–90 | Independent human approval pending for all | Pending |
-| 91–105 | Laws of Enoch | 15/15 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 91 formatting standardized | Pending verse-by-verse human review | Pending; later Charles structural references are identified in restoration log |
-| 106–108 | Deluge | 3/3 | Source and modernization verse-label sequences compared for all chapters in this range; Chapter 106 sequence preserved | Pending verse-by-verse human review | Pending; do not assume all three chapters are part of the 1893 main translation text |
+| 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | Pending; the 1893 main text coverage ends at Chapter 104 |
+| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | Pending; compare with a separately identified later witness, not the 1893 main translation |
 
 ## Priority review queue
 
@@ -47,6 +47,10 @@ The following entries record an assistant-led verse-by-verse comparison of each 
 | 83–86 | Reviewed; no material verse-body omission found | Checked the collapse vision, prayer, animal identities (Abel and Seth), and the Watchers-as-stars imagery. Revised 86:4 to retain the explicit sexual description rather than reducing it to “mating.” |
 | 87–88 | Reviewed; no material verse-body omission found | Checked the four heavenly beings, the lifting of Enoch, and the binding of the fallen star and other stars. |
 | 89–90 | Reviewed; no material verse-body omission found | Compared the 77-unit animal allegory and the 42-unit shepherd sequence, preserving source identifications and chronology. Removed added interpretations in 89:32, 89:35, and 89:24; retained the source's “twelve hours” in 89:72 and verse-15 interpolation in Chapter 90. |
+| 91–96 | Reviewed; no material verse-body omission found | Standardized Chapter 91's separate verse headings and retained its repository sequence and verse-11 interpolation. Corrected 93:3, restored 94:10's “Creator will rejoice at your destruction,” restored the “cloud of water” image and “according to your desires” in 95:1 and 95:3, and retained the squirrels/satyrs imagery in interpolated 96:2. |
+| 97–102 | Reviewed; no material verse-body omission found | Corrected 97:2 to destruction rather than vindication; restored explicit execution wording and “no grave” in 98:12–13; restored the source's severe wording in 99:5; corrected the kinship sequence in 100:2 so it no longer says sons kill their fathers; kept 100:12's rain/dew gift image; restored “strip men naked” in 102:9. |
+| 103–105 | Reviewed; no material verse-body omission found | Compared all numbered units, including the descriptions of the righteous dead, the testimony against their oppressors, and the closing promise that the Lord and his Son unite with the children of righteousness. No text correction was indicated in this pass. |
+| 106–108 | Reviewed; no material verse-body omission found | Compared Noah's birth account, the three surviving sons, the year-long deluge reference, and the concluding book on the generation of light. Corrected 106:3 to “conversed with the Lord of righteousness” and retained the source sequence for 106:17. These chapters still require collation against an explicitly identified later witness. |
 
 Reviewers should continue checking names, numbers, measures, directions, sequence, agency, and interpretive additions—not only whether each numbered unit exists.
 
