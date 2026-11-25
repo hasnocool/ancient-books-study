@@ -133,7 +133,7 @@ They feared and trembled before him. They cried to the sheep that was among them
 
 ### Verse 32
 
-The sheep that led them climbed to the top of the rock again. But the sheep began to lose their sight and wander away from the path he had shown them. The leading sheep did not join their rebellion.
+The sheep that led them climbed to the top of the rock again. But the sheep began to lose their sight and wander away from the path he had shown them. The leading sheep was not among them.
 
 ### Verse 33
 
