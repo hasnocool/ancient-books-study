@@ -361,7 +361,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **12.** Of those heads over thousands one is added between leader, and leader, behind the position, but their leaders make the division.
 
-**14.** These are the names of the leaders who divide the four parts of the year which are ordained: Melkeel, and Helemmelek, and Melejal, and Narel.
+**13.** These are the names of the leaders who divide the four parts of the year which are ordained: Melkeel, and Helemmelek, and Melejal, and Narel.
 
 **14.** The names of those which they lead: Adnarel, and Ijasusael, and Ijelumiel, these three follow the leaders of the orders, and one follows the three leaders of the orders which follow those leaders of positions that divide the four parts of the year.
 
@@ -377,7 +377,7 @@ The combined source also interleaves chapters from the separate Slavonic `Book o
 
 **20.** These are the names, and the orders, and the leaders of those heads of thousands: Gedael, and Keel, and Heel, and the name of the head of a thousand which is added to them, Asfael; and the days of his dominion are at an end.
 
-> **Editorial note:** The 1893 printed sequence proceeds from verse 12 to two successive labels numbered 14, then continues with 15–20. Verse 13 is absent and 14 appears twice in that printing; this reading text preserves the irregular numbering instead of renumbering it.
+> **Editorial note:** The selected combined repository transcription accidentally repeats the label 14 for the leaders of the four parts of the year. The authentic 1893 printed text labels that passage verse 13 and the subordinate-leaders passage verse 14. This formatted derivative corrects the duplicated label to 13; the underlying archival transcription remains unchanged.
 
 ---
 
