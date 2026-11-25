@@ -16,6 +16,6 @@ I observed and saw that all the trees seemed to have withered and shed their lea
 ## Completeness and editorial notes
 
 - The chapter's 1 numbered verses in the repository transcription are represented.
-- Chapter IV is an unnumbered unit in the cited source edition; it is intentionally not divided into invented verses.
+- Chapter 3 contains one numbered verse, which is retained without adding further divisions.
 - No source passage has been intentionally omitted or replaced by a chapter summary.
 - This rendering follows the repository's chapter divisions and does not silently substitute another translation's wording or arrangement.
