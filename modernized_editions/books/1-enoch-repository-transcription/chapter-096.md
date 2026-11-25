@@ -15,7 +15,7 @@ Take courage, you righteous people. The sinners will suddenly perish before you,
 
 ### Verse 2 — interpolation
 
-[On the day when sinners suffer, your children will rise and soar like eagles. Your nest will be higher than that of vultures. You will climb to safety and enter the cracks of the earth and the clefts of the rocks, beyond the reach of the unrighteous. They will groan and weep because of you like wild creatures.]
+[On the day when sinners suffer, your children will rise and soar like eagles. Your nest will be higher than that of vultures. You will climb like squirrels and enter the cracks of the earth and the clefts of the rocks, forever beyond the reach of the unrighteous. They will sigh and weep because of you like satyrs.]
 
 ### Verse 3
 
