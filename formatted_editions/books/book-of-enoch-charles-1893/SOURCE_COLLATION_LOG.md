@@ -53,6 +53,47 @@ These are sufficient to reject the description “verbatim Charles 1893 transcri
 
 The 1893 preface describes the Slavonic Enoch as a distinct work that Charles hoped to publish separately, with a translation by W. R. Morfill. The repository's combined source interleaves 68 Slavonic Enoch sections with the 1 Enoch material. The 68 sections are therefore not to be merged into the 1 Enoch reading text. They belong in the separate 2 Enoch edition.
 
+## Additional 1893 text-layer spot comparisons
+
+A further bounded comparison was made against the searchable text layer of the digitized 1893 Clarendon Press scan. This is **text-layer collation only**: it is not a visual reading of the page images, and it is not a chapter-by-chapter collation.
+
+| Chapter / verse | 1893 printed reference | Text-layer reading checked | Editorial observation |
+|---|---:|---|---|
+| 7:2 | pp. 64–65 | “whose height was three thousand ells” | Confirms the correction from “cubits” to **ells** in the modernized chapter. The 1893 critical note further says the 3,000 figure is present in the Gizeh Greek but absent from the Syncellus Greek. |
+| 13:1 | p. 79 | “(Rufael) shall put thee in bonds” | Supports the name-form **Rufael** in the modernization. |
+| 14:11 | p. 81 | “in a transparent heaven (lit. ‘and their heaven was water’)” | Confirms that the water wording is an explicit literal gloss in the 1893 apparatus. The modernization retains the literal water image rather than inventing a sea above the scene. |
+| 20:3–4 | pp. 91–92 | Rufael is over human spirits; Raguel “takes vengeance on the world and on the luminaries” | Confirms the angel names and the vengeance role retained in the modernization. |
+| 22:11 | p. 95 | “punishment and torture of the revilers for ever, and vengeance for their souls” | Confirms the source's difficult term **revilers** and the separate vengeance clause. The modernized verse now retains both. |
+| 46:1 | p. 127 | “And there I saw One who had a head of days, and His head was white like wool” | The modernization's capitalized “Head of Days” makes the phrase read as a fixed title. This is plausible in context, but the exact wording and title treatment should remain on the independent-review list. |
+| 65:6 | p. 170 | “all the violence of the Satans and all their hidden power” | Confirms that “Satans” is the 1893 wording; the modernization retains the term and gives an explanatory gloss. |
+
+The searchable scan text also exposes the edition's own critical apparatus and variant readings. A search hit is not a substitute for reading the complete printed context, and the quoted page references still require page-image proofing.
+
+## Later witness for Chapters 105–108
+
+The 1893 contents do not list Chapters 105–108 as a main translation section. A separately identified witness is now available:
+
+- **Printed witness:** R. H. Charles, *The Book of Enoch*, with an introduction by W. O. E. Oesterley (London: SPCK, 1917).
+- **Edition statement:** The 1917 front matter says the translation is reprinted from Charles's second edition of *The Book of Enoch* (1912). A 1962 impression is represented by Project Gutenberg eBook 77935.
+- **Digital text:** [Project Gutenberg eBook 77935](https://www.gutenberg.org/ebooks/77935) and its [HTML transcription](https://www.gutenberg.org/files/77935/77935-h/77935-h.htm).
+- **Scan comparator:** [1917 SPCK scan on Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf).
+
+The 1917 introduction classifies Chapter CV (105) as a two-verse section of uncertain date, Chapters CVI–CVII (106–107) as the “Fragment of the Book of Noah,” and Chapter CVIII (108) as an appendix. It also states that the reprinted translation is that of Charles's 1912 second edition. This is a much better-defined witness for comparison than an unattributed assumption that these chapters belong to the 1893 main translation.
+
+A limited comparison of the available 1917 electronic text confirms:
+- 106:3 retains the newborn's opening of his mouth and his conversation with the Lord of Righteousness;
+- 106:16 says that Noah's three children are saved with him;
+- 107:1–3 form the three-verse concluding Noah-fragment unit;
+- 108 is presented as an appendix-like closing book.
+
+The modernization corrections to 106:3 and 106:16 preserve these source details. Chapter 107:3 has also been adjusted to retain the repository source's “cause the earth to rejoice in compensation for all the destruction” wording, rather than borrowing the later witness's shorter “comfort the earth” phrasing.
+
+**Status:** The 1917 witness is identified and sampled, but Chapters 105–108 have not yet been fully collated verse by verse against the 1917 page images. Do not label them “1893 Charles main text.”
+
+## Scan inspection limitation
+
+The accessible 1893 PDF text layer could be searched and opened, but the available page-image screenshot service rejected both accessible 1893 scan PDFs because their file sizes exceeded its capture limit. The text-layer samples above are therefore not described as visually proofread. A local download or smaller page-image segments will be needed for image-level collation.
+
 ## Collation procedure
 
 A full collation must proceed in bounded batches and record evidence per chapter:
