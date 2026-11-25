@@ -6,6 +6,7 @@ This log records verse boundaries cross-referenced to Charles's printed editions
 
 - R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893). [Digitized facsimile (PDF)](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf)
 - R. H. Charles, *The Book of Enoch* (SPCK, 1917), used for later verse-boundary cross-checks. [Project Gutenberg eBook 77935](https://www.gutenberg.org/ebooks/77935)
+- **Page-image witness for the 1917 edition:** the repository file `enoch-editions/enoch-1917-spck-original.pdf` is a Claremont scan of the tenth impression (1962), which states “First published in 1917”; its preface says it reprints Charles's 1912 second edition. It is therefore a later physical impression of the 1917 textual edition, not a first-impression scan from 1917.
 - [Theosis Library: 1 Enoch 91–108, manuscript and Charles 1917 structural cross-reference](https://theosislibrary.com/library/verified-enoch-ethiopic-epistle)
 
 ## Restored chapters
