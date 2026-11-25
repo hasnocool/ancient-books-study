@@ -312,3 +312,39 @@ The repository now contains both source PDFs in `enoch-editions/`, added in comm
 
 This closes the source-acquisition gap: the exact PDF artifacts are now versioned with the project. It does **not** itself close either collation task. The current review environment can verify the repository entries and blob identifiers, but the GitHub connector does not expose binary PDF contents for local rasterization. The earlier page-image findings therefore remain unchanged: only 1917 printed pp. 153–154 have been visually inspected; 1917 pp. 150–152 and the 1893 chapter pages remain to be rendered and checked. Do not mark visual collation complete until the vendored PDFs have been rasterized and every relevant printed page has been reviewed.
 
+
+
+## Direct inspection of the user-supplied PDFs — 25 November 2026
+
+The user attached both PDFs directly to the review conversation. Their bytes were available for local extraction and page rendering, so the earlier note claiming that the binary files could not be rendered is superseded by this direct inspection.
+
+### 1917 Charles/Oesterley file
+
+File: `enoch-1917-charles-oesterley.pdf` (101 PDF pages).
+
+The final three PDF pages were rendered and visually inspected:
+
+| PDF page | Visible contents | Result |
+|---:|---|---|
+| 99 | End of 104, complete Chapter 105, heading for Chapter 106 | Checked |
+| 100 | Chapter 106:1–14 | Checked |
+| 101 | Chapter 106:17a, 106:15–19, and Chapter 107:1–3 | Checked |
+
+The page images confirm the unusual printed order in Chapter 106: verse 17a appears immediately after verse 14, before verses 15 and 16. The page images also confirm the 1917 wording in 105:1 and 107:3 previously noted from the text layer.
+
+**Important scope limitation:** the attached 1917 PDF ends after 107:3. It contains no Chapter 108 and no subsequent page. It therefore cannot be cited as a visual witness for Chapter 108. Earlier review notes about a different, fuller 1917 scan's pp. 153–154 must remain explicitly tied to that separate witness; they are not pages of this 101-page attachment.
+
+### File labelled 1893 Charles/Dillmann
+
+File: `enoch-1893-charles-dillmann.pdf` (66 PDF pages).
+
+This is not a photographic facsimile of the 1893 Clarendon Press edition. Its own opening text identifies it as a compiled/combined text: “translated (Geez) by Professor Dillman, Charles 1893” and “integrated with The Book of the Secrets of Enoch (2Enoch) translated (Slavonic) by Professors Morfill and Sokoloff, Charles 1896.” It is modern typesetting, has internal headings “Book 1” through “Book 6,” and interleaves material explicitly labelled “Enoch Slavonic.” Its page 60 moves from 1 Enoch 105 into “Enoch Slavonic 49”; later pages include further Slavonic material and a separate “Book 6 - The Deluge” presentation of 106–108.
+
+This PDF can be studied as a modern composite transcription, but it is not a page-image witness to the original 1893 Charles/Dillmann publication and cannot complete the requested historical facsimile collation for Chapters 1–104. Its exact textual lineage and editorial assembly require separate provenance work before its readings can be treated as a primary witness.
+
+### Revised completion boundary
+
+- Direct visual check of the attached 1917 file: PDF pp. 99–101, covering 105, 106 and 107:3, complete for the content actually present in that file.
+- Chapter 108: absent from the attached 1917 file; a separately identified witness containing 108 is still required.
+- 1893 Chapters 1–104: not historically collated, because the attached 66-page file is a modern composite rather than the original 1893 facsimile.
+- No independent human semantic approval is implied by these mechanical or visual checks.
