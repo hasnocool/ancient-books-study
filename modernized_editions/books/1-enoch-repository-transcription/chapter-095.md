@@ -19,7 +19,7 @@ Who gave you permission to practise hatred and wickedness? May judgment fall upo
 
 ### Verse 3
 
-Do not be afraid, you righteous people. The Lord will once again place the sinners in your hands, so that judgment may be carried out against them.
+Do not be afraid, you righteous people. The Lord will once again place the sinners in your hands, so that you may carry out judgment against them according to your wishes.
 
 ### Verse 4
 
