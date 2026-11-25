@@ -315,7 +315,7 @@ Nevertheless they perished, and became as though they had not been, and their so
 
 ## Chapter 105
 
-**[Verse 1]** In those days, says the Lord, they shall call and testify to the children of earth concerning their wisdom: —Show it unto them for you are their guide and a recompense over the whole earth.  **[Verse 2]** For I and My Son will unite with them forever in the paths of uprightness in their lives; and you will have peace.  Rejoice, you children of uprightness.
+**[Verse 1]** In those days, says the Lord, they shall call and testify to the children of earth concerning their wisdom: —Show it unto them for you are their guide and a recompense over the whole earth.  **[Verse 2]** For I and My Son will unite with them forever in the paths of uprightness in their lives; and you will have peace.  Rejoice, you children of uprightness. Amen.
 ---
 
 ## Bibliographic reference
