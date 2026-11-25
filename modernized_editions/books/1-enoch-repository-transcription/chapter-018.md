@@ -73,6 +73,10 @@ The angel said: “This is where heaven and earth come to an end. It serves as a
 
 ---
 
+## 1893 witness note
+
+Charles's 1893 printing continues the square-bracketed interpolated passage through Chapter XVIII. The repository's selected formatted base and this modernization do not mark the chapter as interpolated. The base text is retained, with this separate witness boundary recorded rather than silently changing the edition's structure.
+
 ## Completeness and editorial notes
 
 - All **16 numbered units** present in the repository transcription have been represented.
