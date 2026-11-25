@@ -49,7 +49,7 @@ He answered: “Three divisions have been established to separate the spirits of
 
 ### Verse 11
 
-“Their souls are placed here in great suffering until the great day of judgment, punishment, and torment. Those who insulted and oppressed others will face everlasting judgment and vengeance for their victims. They will remain bound forever.
+“Their souls are placed here in great suffering until the great day of judgment, when the revilers will face punishment and everlasting torment, and vengeance will be taken for their souls. They will remain bound forever.
 
 ### Verse 12
 
