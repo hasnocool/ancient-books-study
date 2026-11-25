@@ -77,7 +77,7 @@ The toolkit and tests have been committed, but the full Python test suite and wh
 | Run the Python unittest suite | Pending local execution |
 | Complete independent human semantic review of every modernized 1 Enoch verse | Pending; assistant-led first-pass comparison of all 108 chapters completed and corrections logged |
 | Fully collate Chapters 1–104 against the 1893 facsimile | Pending; selected searchable text-layer comparisons completed, no page-image proofing |
-| Collate Chapters 105–108 against their explicitly identified later witness | Pending; 1917 Charles/Oesterley witness identified and sampled, full collation pending |
+| Collate Chapters 105–108 against their explicitly identified later witness | 1917 text-layer comparison complete for 105–108; visual page-image collation and independent review pending |
 | Identify exact textual lineage of the combined repository transcription | Unresolved |
 | Inspect uncertain readings directly from scan page images | Pending; the initial PDF page-image capture attempt was blocked by the provider's file-size limit |
 | Review copyright and licensing metadata for every archival item | Pending; targeted rights/provenance signals recorded in corpus inventory report |
