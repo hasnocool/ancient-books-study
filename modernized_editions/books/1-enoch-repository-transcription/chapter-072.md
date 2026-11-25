@@ -107,7 +107,7 @@ On that day the night has eleven parts and the day seven.
 
 ### Verse 25
 
-The sun rises through the second gate, sets through the second western gate, and returns east. For thirty mornings it rises through the first eastern gate and sets through the first western gate.
+The sun rises through the second gate, sets through the second western gate, and returns east. For thirty-one mornings it rises through the first eastern gate and sets through the first western gate.
 
 ### Verse 26
 
@@ -123,7 +123,7 @@ On that day the night becomes shorter by one part, reaching eleven parts, while 
 
 ### Verse 29
 
-The sun returns and enters the second eastern gate. It follows its course for thirty-one mornings, rising and setting.
+The sun returns and enters the second eastern gate. It follows its course for thirty mornings, rising and setting.
 
 ### Verse 30
 
