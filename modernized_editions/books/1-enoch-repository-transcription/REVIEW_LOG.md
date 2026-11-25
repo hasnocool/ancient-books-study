@@ -210,3 +210,17 @@ A sequential text-layer comparison against the authentic 1893 Charles edition wa
 - **15:4:** the explicit begetting of children was obscured by “joined yourselves to mortal flesh”; the modernization has been revised to retain the action.
 
 Chapters 7, 11, and 12 were checked for verse sequence and substance; no substantive correction was indicated in this pass. Chapters 6–15 have had a sequential **text-layer** collation, not visual page-image proofing. Printed pp. 62–84 remain to be checked against page images, and this pass is not independent human approval.
+
+
+## Authentic 1893 collation progress: Chapters 16–20 — 25 November 2026
+
+The authentic 1893 text layer and adjacent apparatus were checked for Chapters 16–20 (printed pp. 85–91). Findings:
+
+- **16:1:** Charles explicitly describes this as a difficult reconstructed text, restored with the Book of Jubilees and Syncellus Greek because the Ethiopic is corrupt.
+- **16:2:** the modernization's “learned forbidden mysteries” was not faithful to the 1893 wording “you knew worthless mysteries”; it has been corrected.
+- **16:2 source scope:** Charles says the following fragment is absent from the Ethiopic and probably belongs to the lost Apocalypse of Noah. This is not to be confused with the Ethiopic text.
+- **16:1, 16:2, 16:4:** the missing verse 3 label is retained; no new verse is invented.
+- **17–19:** Charles brackets the three-chapter block as an interpolation; the repository base and modernization do not. The base is preserved, with the variant disclosed in each chapter.
+- **20:** the seven-angel list begins outside the interpolated block and matches the repository base in sequence and basic sense.
+
+This is text-layer and apparatus review only. Printed pp. 85–91 still require visual inspection. Independent human approval remains outstanding.
