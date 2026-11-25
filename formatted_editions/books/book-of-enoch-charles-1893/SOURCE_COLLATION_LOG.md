@@ -639,3 +639,10 @@ The 1893 Clarendon page-image task remains separate and outstanding: printed pp.
 ## Repository PDF path and inventory correction — 25 November 2026
 
 A live GitHub tree check confirms that the eight PDF artifacts are stored under `pdfs/enoch-editions/`, not directly under `pdfs/`. The inventory is maintained in `pdfs/README.md`. Earlier statements in this log that refer generically to files in `pdfs/` describe the parent collection, not the exact file paths. The Cornell 1893 scan used for this audit is `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf` (Git blob `38be2b5e0e95779f92dcb19a745fc654b010b711`). The PDF's presence in GitHub does not by itself make its page pixels available to the current inspection tools; no additional page is marked image-checked by this path correction.
+
+
+## Cornell 1893 searchable-text collation — printed pp.55–62 — 25 November 2026
+
+A page-referenced searchable-text collation of Cornell extraction labels PAGE 77–84 (BookReader leaves n76–n83; printed pp.55–62) has been added in [`CORNELL_TEXT_LAYER_COLLATION_PP55-62.md`](CORNELL_TEXT_LAYER_COLLATION_PP55-62.md). It separates Charles's Section I introduction, English translation, critical apparatus, and the Greek Syncellus parallel; records representative differences from the repository's formatted Chapters 1–6; and lists OCR/layout defects separately from textual differences.
+
+This is OCR/text-layer evidence only. It is not visual page-image proofing, does not establish a complete line-by-line collation, and does not change the 1893 image-proofing count or the repository transcription. In particular, V.8 (“Then too will wisdom…” / repository “Then to wisdom…”) and the VI.3 name require image confirmation before any correction is proposed.
