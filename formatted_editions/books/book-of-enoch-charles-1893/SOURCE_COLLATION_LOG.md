@@ -1,6 +1,6 @@
 # 1 Enoch — Historical Source Collation Log
 
-**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Systematic page-image proofing of the 1893 scan remains open; a Cornell/Internet Archive facsimile has now been added inside `pdfs/`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
+**Status:** Sequential assistant-led searchable-text and critical-apparatus collation is recorded for the 1893 main translation (Chapters 1–104). Page-image mapping and retrieval for the 1893 scan (printed pp. 55–308) are recorded as complete; individual visual inspection is recorded for pp. 55–74 only, while pp. 75–308 remain to be inspected page by page. A Cornell/Internet Archive facsimile has been added inside `pdfs/`. Chapters 105–108 are separately compared against the 1917 Charles/Oesterley textual edition. Independent human approval and complete lexical/manuscript-variant collation remain open.  
 **Primary reference:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
 ## Primary facsimile and catalog records
