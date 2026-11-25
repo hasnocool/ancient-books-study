@@ -1,7 +1,7 @@
 # 1 Enoch Modernization — Review Log
 
 **Scope:** Chapters 1–108 in this directory, compared with the selected formatted repository transcription.  
-**Status:** File coverage is complete. Semantic review and full historical-source collation are not complete.
+**Status:** File coverage and assistant-led first-pass semantic comparison are complete for 108/108 chapters. Independent human approval remains pending. Full historical-source collation and visual page-image proofing remain incomplete.
 
 ## Review-status matrix
 
@@ -11,18 +11,18 @@
 | 37–71 | Parables | 35/35 | 35/35 verse-label sequences match; assistant first-pass semantic review complete for 37–71 | Independent human approval pending for all | Pending |
 | 72–82 | Luminaries | 11/11 | 11/11 verse-label sequences match; assistant first-pass semantic review complete for 72–82 | Independent human approval pending for all | Pending |
 | 83–90 | Visions | 8/8 | 8/8 verse-label sequences match; assistant first-pass semantic review complete for 83–90 | Independent human approval pending for all | Pending |
-| 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | Pending; the 1893 main text coverage ends at Chapter 104 |
-| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | Pending; compare with a separately identified later witness, not the 1893 main translation |
+| 91–105 | Laws of Enoch | 15/15 | 15/15 verse-label sequences match; assistant first-pass semantic review complete for 91–105 | Independent human approval pending for all | 1893 collation of 91–104 pending; Chapter 105 compared with 1917 text layer, page images pending |
+| 106–108 | Deluge | 3/3 | 3/3 verse-label sequences match; assistant first-pass semantic review complete for 106–108 | Independent human approval pending for all | 1917 text-layer comparison complete; visual page-image collation pending. Not 1893 main-text chapters |
 
-## Priority review queue
+## Independent human review priority queue
 
-These are review priorities, not confirmed textual defects.
+The assistant-led first pass now covers all 108 chapters. These are priorities for a second, independent reviewer; they are not confirmed textual defects.
 
-1. **Chapter 89:** 77 units in a very long allegorical narrative. Check each unit against its source, especially genealogical transitions, historical identifications, and the end of the narrative.
-2. **Chapters 67–71:** Dense Noachic and Similitudes material. Check interpolation boundaries, dialogue continuity, and the missing-passage note associated with Chapter 71.
-3. **Chapters 72–82:** Astronomical and calendar descriptions contain many quantities, names, and directional sequences. Check every number and name against the formatted source. The ancient cosmology is source content, not modern astronomy.
-4. **Chapters 91–93:** Preserve the repository sequence and the marked interpolation. Do not silently move 91:12–17 to another chapter; record the alternative Charles arrangement as a variant.
-5. **Chapter 106:** Preserve source order and the documented verse-17 rearrangement. Do not infer the 1893 wording from a later edition.
+1. **Chapter 89:** 77 units in a very long allegorical narrative. Independently recheck each unit, especially genealogical transitions, historical identifications, and the end of the narrative.
+2. **Chapters 67–71:** Dense Noachic and Similitudes material. Independently recheck interpolation boundaries, dialogue continuity, and the missing-passage note associated with Chapter 71.
+3. **Chapters 72–82:** Astronomical and calendar descriptions contain many quantities, names, and directional sequences. Independently recheck every number and name against the formatted source. The ancient cosmology is source content, not modern astronomy.
+4. **Chapters 91–93:** Independently assess the marked interpolation and repository sequence. Do not silently move 91:12–17 to another chapter; treat the 1917 order as a separate witness variant.
+5. **Chapter 106:** Independently assess the repository order and the documented verse-17 rearrangement. Do not infer 1893 wording from a later edition.
 6. **All other chapters:** Review for omissions, additions, compression, pronoun/reference shifts, changes in agency, and interpretive names inserted into the prose.
 
 ## First-pass semantic review progress
