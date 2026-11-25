@@ -1,0 +1,180 @@
+{
+  "title": "Cornell 1893 printed pages 85–94 source audit",
+  "scan_identifier": "cu31924014590545",
+  "created_utc": "2026-11-25",
+  "mapping": {
+    "printed_pages": "85–94",
+    "bookreader_leaves": "n106–n115",
+    "pdf_pages": "107–116",
+    "formula": "leaf = printed_page + 21; PDF page = printed_page + 22"
+  },
+  "scope_note": "This is a source-audit manifest, not a successful image-retrieval manifest. Nine native PNG blobs and nine page OCR text files exist in the repository, but the PNGs were opened and render as dark/unreadable images. Printed p.91 has no corresponding PNG or OCR file in this directory. No BookReader JPEGs p085_n106 through p094_n115 were present.",
+  "pages": [
+    {
+      "printed_page": 85,
+      "bookreader_leaf": "n106",
+      "pdf_page": 107,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p085_full.png",
+        "git_blob_sha": "c4886c760a0887db6bc4ea71dedc65103c7bd77e",
+        "repository_size_bytes": 482539,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p085.txt",
+        "git_blob_sha": "3e58c784dd370211d0c8b086ddd304d91896a97e",
+        "repository_size_bytes": 2406,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 86,
+      "bookreader_leaf": "n107",
+      "pdf_page": 108,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p086_full.png",
+        "git_blob_sha": "8b8a1546aaa59955e096755d01520677ab53d2a8",
+        "repository_size_bytes": 443990,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p086.txt",
+        "git_blob_sha": "8084170f7bd80d07cdbffc0d758c411fbf5ba96e",
+        "repository_size_bytes": 2106,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 87,
+      "bookreader_leaf": "n108",
+      "pdf_page": 109,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p087_full.png",
+        "git_blob_sha": "88e0709f7c3c74a2e2769a95bc42785e6c9b3af1",
+        "repository_size_bytes": 451905,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p087.txt",
+        "git_blob_sha": "fe3fcdeb1c6bf42770e79e84acd08f19d8d6fedb",
+        "repository_size_bytes": 2705,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 88,
+      "bookreader_leaf": "n109",
+      "pdf_page": 110,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p088_full.png",
+        "git_blob_sha": "20c1f5e6f5f35466b87cd78073b51d191316658a",
+        "repository_size_bytes": 455302,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p088.txt",
+        "git_blob_sha": "0184012ed506cfef4282d68c5a6f375ca1ed64a3",
+        "repository_size_bytes": 2501,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 89,
+      "bookreader_leaf": "n110",
+      "pdf_page": 111,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p089_full.png",
+        "git_blob_sha": "bed553966c1c48d88747a5153aeaf7ddd777fc30",
+        "repository_size_bytes": 517035,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p089.txt",
+        "git_blob_sha": "7d6555e5cf3b26c007d466cc1bdd3c21e28eeaf1",
+        "repository_size_bytes": 2439,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 90,
+      "bookreader_leaf": "n111",
+      "pdf_page": 112,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p090_full.png",
+        "git_blob_sha": "53ca4769a224e400d6970567b001103735dacd44",
+        "repository_size_bytes": 449851,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p090.txt",
+        "git_blob_sha": "b02a0bb0d5b6c85e35d445f7ff4782cb39b0b5b4",
+        "repository_size_bytes": 2663,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 91,
+      "bookreader_leaf": "n112",
+      "pdf_page": 113,
+      "image": {
+        "path": null,
+        "status": "missing"
+      },
+      "ocr": {
+        "path": null,
+        "status": "missing"
+      }
+    },
+    {
+      "printed_page": 92,
+      "bookreader_leaf": "n113",
+      "pdf_page": 114,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p092_full.png",
+        "git_blob_sha": "f602f6ba1fb3202205be74435ee6959f4b0bf99d",
+        "repository_size_bytes": 484805,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p092.txt",
+        "git_blob_sha": "f4c30c6519b2bd0da9f210e6d500b1e0c725f47b",
+        "repository_size_bytes": 2350,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 93,
+      "bookreader_leaf": "n114",
+      "pdf_page": 115,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p093_full.png",
+        "git_blob_sha": "c2a20c96d4be73b4394b8c548ae432fc3efe66f3",
+        "repository_size_bytes": 467803,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p093.txt",
+        "git_blob_sha": "f8c74c89ce54d7d7d1fded470a8b03a9619bfa77",
+        "repository_size_bytes": 2323,
+        "status": "present"
+      }
+    },
+    {
+      "printed_page": 94,
+      "bookreader_leaf": "n115",
+      "pdf_page": 116,
+      "image": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p094_full.png",
+        "git_blob_sha": "d48d4438cadfbff5e8909a1243c56cddc6cc7948",
+        "repository_size_bytes": 437119,
+        "status": "present_but_pixels_render_dark_and_unusable_for_proofing"
+      },
+      "ocr": {
+        "path": "artifacts/page-images/cornell-native/cornell_printed_pp75_308/printed_p094.txt",
+        "git_blob_sha": "8d6c3138e117dfe693ed7e754b84204f6fcf64a9",
+        "repository_size_bytes": 2885,
+        "status": "present"
+      }
+    }
+  ]
+}
