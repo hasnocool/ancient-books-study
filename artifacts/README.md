@@ -25,3 +25,13 @@ The 12 BookReader JPEGs are under `1-enoch-1893/page-images/bookreader-medium/`,
 3. Put downloaded page-image batches, OCR dumps, manifests, temporary extraction outputs, and one-off research/collation reports here.
 4. Never treat an OCR inventory or retrieval manifest as visual proofing.
 5. Preserve source identifiers, printed-page ranges, scan/leaf mappings, resolution, and evidence limitations in each batch report.
+
+
+### High-resolution batch: printed pp.75–84
+
+- JPEGs: `1-enoch-1893/page-images/bookreader-large/` (10 files, 1360×2274 per manifest; leaves n96–n105).
+- Manifest: `1-enoch-1893/manifests/bookreader-pages-75-84-large.json`.
+- Consolidated text layer: `1-enoch-1893/ocr/cornell-printed-pages-75-84.txt` (ten non-empty page sections).
+- Inventory: `1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md`.
+
+This batch is retrieval/OCR evidence only. The pages have not yet been individually opened and checked; do not increase the visual-proofing count until their pixels have been inspected.

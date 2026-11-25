@@ -382,3 +382,12 @@ Copy one row per inspected printed page:
 The existing batch record for pp.75–308 remains unchanged: 234 page JPEGs were previously reported retrieved, but none of those pages has an individual inspection row. In this session, attempts to reacquire page pixels for the later target range through the BookReader medium/large URL forms, the IIIF manifest and image route, and the ArchiveLab page API did not return image bytes. The Internet Archive searchable DjVu text layer was accessible, but it is not visual evidence.
 
 **No new page was inspected and no progress count changes.** The progress ledger was subsequently advanced only for pp.63–74 after each of those 12 JPEGs was opened individually on 2026-11-25. The pp.55–62 entries remain retrieval-only; pp.75–308 remain batch-retrieval-reported. The 12 checks are page/layout-level only and do not establish high-resolution diplomatic accuracy.
+
+
+## High-resolution Cornell batch retrieved — printed pp.75–84 — 25 November 2026
+
+A new batch of ten high-resolution BookReader JPEGs has been committed for printed pp.75–84 (leaves n96–n105; one-based PDF pages 97–106). The files are 1360×2274 according to the retrieval manifest, which records HTTP 200 for all ten images, byte counts, and SHA-256 values. The manifest and images are stored under `artifacts/1-enoch-1893/manifests/bookreader-pages-75-84-large.json` and `artifacts/1-enoch-1893/page-images/bookreader-large/`.
+
+A consolidated PDF text-layer extraction is available at `artifacts/1-enoch-1893/ocr/cornell-printed-pages-75-84.txt`. It contains ten non-empty page sections. The associated inventory is `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md`. The prior batch report incorrectly described p.76 as blank and p.75 as introductory p.53; those claims are superseded. The corrected inventory records the actual page-section character counts and notes the mixed ordering of English, Greek, and critical apparatus in the PDF text layer.
+
+**Evidence boundary:** retrieval and OCR/text-layer availability only. No page pixels were opened during this repository audit, so pp.75–84 add zero to the individually image-checked count. The current page/layout-level count remains 12/254 (pp.63–74); full high-resolution textual/apparatus proofing remains 0/254, and independent human approval remains pending.
