@@ -1,6 +1,6 @@
 # 1 Enoch — Complete Modern-Language Edition
 
-**Status: 108 of 108 chapters drafted and committed; assistant-led first-pass review logged for all 108. Independent approval and facsimile collation remain open.**
+**Status: 108 of 108 chapter files present. Assistant-led first-pass review is logged for all 108; the 1893 text-layer comparison has been expanded for Chapters 91–104, and two 1917 scan pages (printed pp. 153–154) have been visually inspected. Complete 1893 line-by-line collation for Chapters 1–104, complete 1917 page-image collation for Chapters 105–108, independent human approval of all 108 chapters, and local audit/test execution remain open.**
 
 This directory contains a separate modern-language rendering of all 108 numbered chapters of 1 Enoch found in the repository's selected transcription.
 
