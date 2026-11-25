@@ -258,8 +258,8 @@ def audit_catalog(root: Path) -> dict:
             if not readme.exists():
                 continue
             text = readme.read_text(encoding="utf-8", errors="replace")
-            title_match = re.search(r"(?m)^#\\s+(.+)$", text)
-            status_match = re.search(r"(?im)^\\s*[-*]?\\s*(?:\\*\\*)?(?:status|verification status)(?:\\*\\*)?\\s*:\\s*(.+)$", text)
+            title_match = re.search(r"(?m)^#\s+(.+)$", text)
+            status_match = re.search(r"(?im)^\s*[-*]?\s*(?:\*\*)?(?:status|verification status)(?:\*\*)?\s*:\s*(.+)$", text)
             rows.append({
                 "title": title_match.group(1).strip() if title_match else folder.name,
                 "path": readme.relative_to(root).as_posix(),
@@ -270,7 +270,7 @@ def audit_catalog(root: Path) -> dict:
                 "| Edition | Index | Status text found |", "|---|---|---|"]
     for row in rows:
         markdown.append(f"| {row['title'].replace('|', '&#124;')} | [{row['path']}]({row['path']}) | {row['status_line'].replace('|', '&#124;')} |")
-    return {"edition_count": len(rows), "editions": rows, "markdown_preview": "\\n".join(markdown) + "\\n"}
+    return {"edition_count": len(rows), "editions": rows, "markdown_preview": "\n".join(markdown) + "\n"}
 
 def collect_issues(results: dict) -> list[dict]:
     issues = []
