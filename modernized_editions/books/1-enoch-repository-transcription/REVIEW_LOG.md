@@ -123,7 +123,7 @@ A read-only cross-check was performed against the committed source and modernize
 - **108/108** source-versus-modernized verse-label sequences match after the Chapter 82 correction. Known source irregularities (for example Chapter 16's missing verse 3, and the printed duplicate verse labels that are genuinely present elsewhere) remain explicit; Chapter 82's accidental duplicate in the selected archive source is corrected in the reading derivatives to match the 1893 printed 13,14 sequence.
 - **0** verse-length outliers remained after excluding editorial/witness notes from verse bodies. Length ratios were treated only as triage signals, not semantic proof.
 - An independent normalized body-text comparison of the archival `books_02/The Book of Enoch.txt` against the six formatted source files found **108/108 exact normalized chapter-body matches**, with no missing source or formatted chapters. This confirms transfer and layout cleanup only; it does not establish historical accuracy.
-- The parser fixes in `tools/audit_corpus.py` now exclude appended `## 1893 witness notes` and bold inline witness/apparatus notes from verse-length measurements. Regression tests were added. The targeted parser checks were run locally: four cases passed, including parenthetical and dash interpolation labels and both note-exclusion boundaries.
+- The parser fixes in `tools/audit_corpus.py` now exclude appended year-prefixed witness/critical-apparatus headings and bold inline witness/apparatus notes from verse-length measurements. Six targeted parser regression cases were executed in an isolated Python `unittest` harness and passed: parenthetical interpolation labels, dash interpolation labels, the later 1893 witness heading, inline witness notes, generic witness headings, and year-prefixed critical-apparatus headings. This harness exercises the copied parser logic and test cases; it is not a run of the repository's full unit-test suite.
 
 These results are source-derived structural and transfer checks. They are not a fresh independent translation, a complete lexical comparison with the historical witnesses, or independent human approval.
 
@@ -345,3 +345,15 @@ A separate mechanical scan fetched and inspected all 108 modernized chapter file
 This is a narrow mechanical screening pass, not spell-checking, lexical proofreading, semantic verification, or page-image collation. It cannot detect plausible-but-wrong words, omitted phrases, paraphrase drift, or all OCR substitutions. Chapter 93's known source debris (the trailing l, the j after “deceit,” and embedded page-number contamination) is already explicitly documented and excluded from the modernized prose; the damaged 1917 token in 93:1 remains disclosed rather than conjecturally reconstructed.
 
 The independent human review queue remains open. The 1893 printed-page image proofing (pp. 55–308), 1917 printed p. 152 image check, and full local corpus/test execution remain outstanding. No item is marked historically or independently verified by this sweep.
+
+
+## Expanded 1917 witness comparison: Chapters 105–108 — 25 November 2026
+
+The 1917 searchable text layer has been compared against the repository-based modernizations for all four chapters, in addition to the earlier printed-page spot checks. The material differences now explicitly tracked include:
+
+- **Chapter 105:** Changes in agency and plural/singular reference in 105:1; syntactic and lexical shift in 105:2.
+- **Chapter 106:** The interrogative/declarative difference in 106:8; explicit “angels of heaven” subject in the 1917 form of 106:13; the 1917 bracketed explanatory addition in 106:16; and the displacement of 106:17a immediately after 106:14, with changed subject/agency in the repository rendering.
+- **Chapter 107:** Different concluding predicate in 107:3 (“comfort the earth” versus “cause the earth to rejoice in compensation”).
+- **Chapter 108:** Differences in the nouns used for the books/records (108:3), the referent described as a passing breath (108:9), blessings received versus destined (108:10), agency concerning honour in the flesh (108:11), and being led versus cast into darkness (108:14). Verse 108:4 has a daggered/corrupt 1917 reading rather than the repository's “could not look thereon.”
+
+The repository wording and sequence remain preserved in the reading derivative. These differences are not silently harmonized. The comparison records the 1917 witness and does not imply that these chapters form part of the 1893 main translation.
