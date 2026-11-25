@@ -2,9 +2,13 @@
 
 **Date:** 25 November 2026  
 **Repository base:** `main` at commit `bdfd4219ea9b6bb9d6e75b22414a40a6e51694b1`  
-**OCR input:** `cornell_pages_75_84/pages_75_84_text.txt`  
+**OCR input:** `pdfs/extracted/cornell_pages_75_84_text.txt`  
 **Formatted comparison text:** `book-01-watchers-chapters-01-36.md`  
 **Witness:** R. H. Charles, *The Book of Enoch* (Oxford: Clarendon Press, 1893), Cornell copy, Internet Archive identifier `cu31924014590545`.
+
+
+
+**OCR extraction location:** The original tracked extraction was restored from the parent commit after a later commit removed it without the stated replacement appearing in the tree. The restored file contains PDF ordinals PAGE 75–84: printed p.53, a blank PAGE 76, and printed pp.55–62. The filename refers to PDF ordinals, not printed folios. It does **not** supply OCR for printed pp.63–74.
 
 ## Scope and evidentiary limits
 
