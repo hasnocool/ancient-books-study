@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **Page-image mapping and retrieval complete for pp. 55–308; systematic visual proofing remains in progress.** The ledger contains individual inspection records for pp. 55–74 (20 pages). Images for pp. 75–308 are reported retrieved, with spot checks noted as a batch; those 234 pages are not counted as individually image-checked. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval remains pending.
+**Status:** **Page-image mapping is recorded for pp. 55–308; no target page currently has sufficient auditable evidence to count as visually proofed (0/254).** The former pp. 55–74 rows document image retrieval and generic observations, but do not establish that each page's pixels were opened and inspected. They are retained below as retrieval records, not accepted as visual proofing. Images for pp. 75–308 are also retrieval-reported only. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval remains pending.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -311,39 +311,39 @@ All 254 printed pages (55–308) mapped to BookReader accessible indexes (leafNu
 
 The title page, contents, and OCR/text layers were accessible for the Google Books and OpusMagnum scans. The contents identify the 1893 main translation as printed pp. 57–308, with Section I introduction on pp. 55–57. The Cornell scan's Wikimedia Commons multipage-PDF viewer does render an individual page preview (scan page 2 was opened and visually inspected), which is a viable page-image mechanism in principle. However, direct jumps to the required scan-page range were not accessible through the available viewer interface in this session. Full-PDF image capture and direct Internet Archive page-image retrieval also failed. The scan-page-2 preview is only an access test, not part of the target pp. 55–308 proofing scope. These are access failures, not target-page checks. **No printed page is marked image-checked as a result of this trial.**
 
-## Page-level inspection record
+## Page retrieval records — not visual proofing
 
-Only add a row after direct visual inspection of that page's pixels.
+The following pp.55–74 entries were previously presented as inspection records. Their wording establishes retrieval and generic folio/content assertions, but contains no auditable evidence that the page pixels were opened and inspected. They are reclassified as retrieval-only pending fresh visual review. Do not count them as image-checked. New visual-proofing rows belong in a separate section and may be added only after direct pixel inspection.
 
 | Printed page | Scan / zero-based PDF index | Visual result | Discrepancy / observation | Reviewer / date |
 |---:|---|---|---|---|
-| 55 | leafNum=76 (BookReader n76) | Image retrieved (1360×2274 JPEG) | Printed folio "55" visible top-center; Section I introduction text begins; no visible damage | Assistant / 2026-11-25 |
-| 56 | leafNum=77 (BookReader n77) | Image retrieved (1360×2274 JPEG) | Printed folio "56" visible; Section I introduction continues; clean scan | Assistant / 2026-11-25 |
-| 57 | leafNum=78 (BookReader n78) | Image retrieved (1360×2274 JPEG) | Printed folio "57" visible; Section I introduction ends; Chapter I heading visible | Assistant / 2026-11-25 |
-| 58 | leafNum=79 (BookReader n79) | Image retrieved (1360×2274 JPEG) | Printed folio "58" visible; Chapter I verse 1 begins; clean scan | Assistant / 2026-11-25 |
-| 59 | leafNum=80 (BookReader n80) | Image retrieved (1360×2274 JPEG) | Printed folio "59" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 60 | leafNum=81 (BookReader n81) | Image retrieved (1360×2274 JPEG) | Printed folio "60" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 61 | leafNum=82 (BookReader n82) | Image retrieved (1360×2274 JPEG) | Printed folio "61" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 62 | leafNum=83 (BookReader n83) | Image retrieved (1360×2274 JPEG) | Printed folio "62" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 63 | leafNum=84 (BookReader n84) | Image retrieved (1360×2274 JPEG) | Printed folio "63" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 64 | leafNum=85 (BookReader n85) | Image retrieved (1360×2274 JPEG) | Printed folio "64" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 65 | leafNum=86 (BookReader n86) | Image retrieved (1360×2274 JPEG) | Printed folio "65" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 66 | leafNum=87 (BookReader n87) | Image retrieved (1360×2274 JPEG) | Printed folio "66" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 67 | leafNum=88 (BookReader n88) | Image retrieved (1360×2274 JPEG) | Printed folio "67" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 68 | leafNum=89 (BookReader n89) | Image retrieved (1360×2274 JPEG) | Printed folio "68" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 69 | leafNum=90 (BookReader n90) | Image retrieved (1360×2274 JPEG) | Printed folio "69" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 70 | leafNum=91 (BookReader n91) | Image retrieved (1360×2274 JPEG) | Printed folio "70" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 71 | leafNum=92 (BookReader n92) | Image retrieved (1360×2274 JPEG) | Printed folio "71" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 72 | leafNum=93 (BookReader n93) | Image retrieved (1360×2274 JPEG) | Printed folio "72" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 73 | leafNum=94 (BookReader n94) | Image retrieved (1360×2274 JPEG) | Printed folio "73" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
-| 74 | leafNum=95 (BookReader n95) | Image retrieved (1360×2274 JPEG) | Printed folio "74" visible; Chapter I continues; clean scan | Assistant / 2026-11-25 |
+| 55 | leafNum=76 (BookReader n76) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 56 | leafNum=77 (BookReader n77) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 57 | leafNum=78 (BookReader n78) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 58 | leafNum=79 (BookReader n79) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 59 | leafNum=80 (BookReader n80) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 60 | leafNum=81 (BookReader n81) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 61 | leafNum=82 (BookReader n82) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 62 | leafNum=83 (BookReader n83) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 63 | leafNum=84 (BookReader n84) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 64 | leafNum=85 (BookReader n85) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 65 | leafNum=86 (BookReader n86) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 66 | leafNum=87 (BookReader n87) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 67 | leafNum=88 (BookReader n88) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 68 | leafNum=89 (BookReader n89) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 69 | leafNum=90 (BookReader n90) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 70 | leafNum=91 (BookReader n91) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 71 | leafNum=92 (BookReader n92) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 72 | leafNum=93 (BookReader n93) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 73 | leafNum=94 (BookReader n94) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
+| 74 | leafNum=95 (BookReader n95) | Retrieval recorded (1360×2274 JPEG); visual inspection not evidenced | Prior generic folio/content note is not sufficient proof of pixel inspection; reopen and inspect this page | Retrieval record only / 2026-11-25 |
 | 75–308 | leafNums 96–329 (BookReader n96–n329) | Retrieval reported for all 234 images (1360×2274 JPEG) | Batch note reports spot checks, but does not enumerate individually inspected pages or observations. These pages are **retrieved, not individually image-checked**; inspect and log each page before increasing the checked count. | Assistant / 2026-11-25 (batch retrieval / spot-check note) |
 
 ## Progress ledger
 
-- Printed pp. 55–308: **20 / 254 individually image-checked** (pp. 55–74 have individual page records)
-- Additional images: **234 / 234 reported retrieved** (pp. 75–308); systematic page-by-page inspection not yet recorded
-- Discrepancies: **0 recorded in the 20 individually logged pages**; the batch spot-check note is not a complete discrepancy audit
+- Printed pp. 55–308: **0 / 254 auditable individual visual inspections**
+- Retrieval records: pp. 55–74 have 20 page-level retrieval entries; pp. 75–308 have 234 batch-retrieval entries. None currently qualifies as visual proofing on the evidence recorded here.
+- Discrepancies: **not assessed**; do not interpret the former zero count as a clean visual audit
 - Pages requiring second-look: **not yet assessed for pp. 75–308**
 - Independent human approval: **pending**
 
@@ -360,4 +360,4 @@ Copy one row per inspected printed page:
 
 The existing batch record for pp.75–308 remains unchanged: 234 page JPEGs were previously reported retrieved, but none of those pages has an individual inspection row. In this session, attempts to reacquire page pixels for the later target range through the BookReader medium/large URL forms, the IIIF manifest and image route, and the ArchiveLab page API did not return image bytes. The Internet Archive searchable DjVu text layer was accessible, but it is not visual evidence.
 
-**No new page was inspected and no progress count changes.** The progress ledger remains 20 / 254 individually image-checked; pp.75–308 remain retrieval-reported, not individually proofed. The page-by-page rows above are the only valid inspection records. Do not infer visual checking from the batch-retrieval note.
+**No new page was inspected and no progress count changes.** The progress ledger is conservatively reconciled to 0 / 254 auditable individual visual inspections. The pp.55–74 entries are retained as retrieval records only; pp.75–308 remain batch-retrieval-reported. Do not infer visual checking from image retrieval, folio metadata, OCR, or generic prior notes.
