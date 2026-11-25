@@ -368,3 +368,12 @@ The supplemental review confirms the following 1917 source signs/wordings:
 - In Chapter108, the supplemental transcription confirms the “holy books” wording, the “everything as a passing breath” phrase, the blessings “destined for them”, the un-recompensed honour wording, and the “led into darkness” clause already logged as variants.
 
 The 1912 second-edition Introduction was also checked separately. It categorizes Chapter105 as an independent fragment, Chapters106–107 as Book of Noah material, and Chapter108 as an appendix; the 1912 contents do not supply a complete translation of 105–108. This supports the decision to use the SPCK 1917 witness for those chapters, but it does not replace its page images.
+
+
+## Follow-up archival page-image retrieval attempts — 25 November 2026
+
+A second round of direct page-image attempts was made against alternate authentic scans. For the 1893 Clarendon printing, three separate full scans were identified (Cornell/Internet Archive, University of Michigan/Google Books, and Knox College/University of Toronto). Their catalogues/title pages identify the correct edition, but the image-rendering service rejected the PDF objects as too large or returned cache misses for internal pages. **No Chapter 1–104 translation page from pp. 55–308 is counted as visually inspected in this round.** Title-page thumbnails and OCR/searchable text are provenance/text-layer evidence only.
+
+For the 1917 SPCK scan, the p.152 image was retried against the smaller Commons-hosted PDF as well as the previous PDF reference. Both returned a cache miss. The exact missing page is zero-based PDF index 153; its adjacent pages (indices 150–152 and 154–155) map to printed pp.149–151 and 153–154 and have previously been visually inspected. The missing p.152 must remain open.
+
+The outcome is a confirmed access limitation, not a completed visual review. The prior text-layer, structural, and OCR screening results remain separate and must not be used to promote the visual verification status.
