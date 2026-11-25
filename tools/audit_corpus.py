@@ -7,11 +7,12 @@ from urllib.parse import unquote, urlsplit
 
 ARCHIVE_DIRS = ("books_01", "books_02", "books_03", "books_04", "books_05")
 IGNORED_DIRS = {".git", ".venv", "venv", "__pycache__", ".pytest_cache", "node_modules"}
-ENoch_CHAPTERS = range(1, 109)
+ENOCH_CHAPTERS = range(1, 109)
 VERSE_MARKER = re.compile(
     r"(?m)^\s*(?:###\s+Verse\s+(\d+)(?:\s*[—-].*)?|"
-    r"\*\*(?:\[Verse\s+)?(\d+)(?:\])?(?:\s*[—-][^*]*)?\.\s*\*\*|"
-    r"\*\*\[?(\d+)(?:\]?)\.\s*\*\*)"
+    r"\*\*\[Verse\s+(\d+)\](?:\s*[—-][^*]*)?\*\*|"
+    r"\*\*(\d+)\.\s*\*\*|"
+    r"\*\*\[(\d+)\]\*\*)"
 )
 CHAPTER_MARKER = re.compile(r"(?m)^##\s+Chapter\s+(\d+)\b")
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
@@ -205,7 +206,7 @@ def audit_enoch(root: Path) -> dict:
     missing_files, missing_source_sections, missing_units = [], [], []
     mismatches, outliers, modern_count = [], [], 0
     known_unnumbered = {4, 35, 44}
-    for number in ENoch_CHAPTERS:
+    for number in ENOCH_CHAPTERS:
         modern_path = modern_base / f"chapter-{number:03d}.md"
         if not modern_path.exists():
             missing_files.append(number)
@@ -233,7 +234,7 @@ def audit_enoch(root: Path) -> dict:
             if ratio < 0.35 or ratio > 2.8:
                 outliers.append({"chapter": number, "source_verse": source_num, "modernized_verse": modern_num,
                                  "source_words": source_words, "modernized_words": modern_words, "ratio": round(ratio, 3)})
-    return {"expected_chapters": len(ENoch_CHAPTERS), "modernized_files_found": modern_count,
+    return {"expected_chapters": len(ENOCH_CHAPTERS), "modernized_files_found": modern_count,
             "source_chapter_sections_found": len(source_sections), "missing_files": missing_files,
             "missing_source_sections": missing_source_sections, "numbered_unit_sequence_mismatches": mismatches,
             "missing_numbered_units": missing_units, "extreme_verse_length_ratios": outliers,
@@ -245,6 +246,31 @@ def audit_comparison(root: Path) -> dict:
     return {"extreme_verse_length_ratios": result["extreme_verse_length_ratios"],
             "numbered_unit_sequence_mismatches": result["numbered_unit_sequence_mismatches"],
             "method": "Compare paired source and adaptation units. Large word-count ratios are review candidates, not proof of mistranslation or omission."}
+
+
+def audit_catalog(root: Path) -> dict:
+    """Build a reviewable catalog view from edition README files without overwriting CATALOG.md."""
+    rows = []
+    base = root / "formatted_editions" / "books"
+    if base.exists():
+        for folder in sorted(p for p in base.iterdir() if p.is_dir()):
+            readme = folder / "README.md"
+            if not readme.exists():
+                continue
+            text = readme.read_text(encoding="utf-8", errors="replace")
+            title_match = re.search(r"(?m)^#\\s+(.+)$", text)
+            status_match = re.search(r"(?im)^\\s*[-*]?\\s*(?:\\*\\*)?(?:status|verification status)(?:\\*\\*)?\\s*:\\s*(.+)$", text)
+            rows.append({
+                "title": title_match.group(1).strip() if title_match else folder.name,
+                "path": readme.relative_to(root).as_posix(),
+                "status_line": status_match.group(1).strip() if status_match else "Not declared in a recognized status line",
+            })
+    markdown = ["# Generated formatted-edition catalog preview", "",
+                "This is a review preview generated from per-edition README files. It does not overwrite formatted_editions/CATALOG.md.", "",
+                "| Edition | Index | Status text found |", "|---|---|---|"]
+    for row in rows:
+        markdown.append(f"| {row['title'].replace('|', '&#124;')} | [{row['path']}]({row['path']}) | {row['status_line'].replace('|', '&#124;')} |")
+    return {"edition_count": len(rows), "editions": rows, "markdown_preview": "\\n".join(markdown) + "\\n"}
 
 def collect_issues(results: dict) -> list[dict]:
     issues = []
@@ -273,8 +299,9 @@ def collect_issues(results: dict) -> list[dict]:
 def run_checks(root: Path, selected: set[str]) -> dict:
     results = {"repository_root": str(root.resolve())}
     checks = {"inventory": audit_inventory, "duplicates": audit_duplicates, "markdown": audit_markdown,
-              "provenance": audit_provenance, "enoch": audit_enoch, "compare": audit_comparison}
-    for name in ("inventory", "duplicates", "markdown", "provenance", "enoch", "compare"):
+              "provenance": audit_provenance, "enoch": audit_enoch, "compare": audit_comparison,
+              "catalog": audit_catalog}
+    for name in ("inventory", "duplicates", "markdown", "provenance", "enoch", "compare", "catalog"):
         if name in selected:
             key = "comparison_review_candidates" if name == "compare" else name
             results[key] = checks[name](root)
@@ -297,6 +324,8 @@ def print_report(results: dict) -> None:
         item = results["provenance"]
         missing = sum(bool(row["missing_metadata"]) for row in item["records"])
         print(f"Provenance: {item['edition_readmes_checked']} edition READMEs checked; {missing} possible metadata gaps")
+    if "catalog" in results:
+        print(f"Catalog preview: {results['catalog']['edition_count']} formatted-edition indexes found")
     if "enoch" in results:
         item = results["enoch"]
         print(f"1 Enoch: {item['modernized_files_found']}/108 modernized files; {item['source_chapter_sections_found']} source sections")
@@ -309,14 +338,14 @@ def print_report(results: dict) -> None:
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("check", nargs="?", default="all",
-        choices=("all", "inventory", "duplicates", "markdown", "provenance", "enoch", "compare"))
+        choices=("all", "inventory", "duplicates", "markdown", "provenance", "enoch", "compare", "catalog"))
     parser.add_argument("--root", type=Path, default=Path.cwd(), help="Repository root (default: current directory)")
     parser.add_argument("--json-out", type=Path, help="Optional path for a machine-readable JSON report")
     args = parser.parse_args(argv)
     root = args.root.resolve()
     if not root.is_dir():
         parser.error(f"Repository root is not a directory: {root}")
-    selected = {"inventory", "duplicates", "markdown", "provenance", "enoch", "compare"} if args.check == "all" else {args.check}
+    selected = {"inventory", "duplicates", "markdown", "provenance", "enoch", "compare", "catalog"} if args.check == "all" else {args.check}
     results = run_checks(root, selected)
     print_report(results)
     if args.json_out:
