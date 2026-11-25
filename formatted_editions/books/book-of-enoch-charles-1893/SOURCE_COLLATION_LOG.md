@@ -193,7 +193,7 @@ The modernization corrections to 106:3 and 106:16 preserve these source details.
 - **Chapter 108:11:** 1917 says the faithful were not recompensed with the honour their faithfulness deserved; the repository recasts this as those who “did not seek honour” in the flesh. This changes agency and is noted as consequential.
 - **Chapter 108:14:** 1917 says those born in darkness are “led into darkness”; the repository says they are “cast into darkness.”
 
-The 1917 front matter explicitly identifies the text as a reprint of Charles's 1912 second edition. It is therefore a separately identified witness for this comparison, not proof of the 1893 main translation wording. Do not label Chapters 105–108 “1893 Charles main text.”
+The 1917 front matter explicitly identifies the text as a reprint of Charles's 1912 second edition. It is therefore a separately identified parallel witness for comparison, not a substitute for the 1893 printed text layer on pp.301–308. Chapters CV–CVIII are present in the 1893 volume as separately presented units after Section V's XCI–CIV composition.
 
 The 1917 edition also preserves a different placement for the Apocalypse of Weeks material associated with Chapter 91. Its editorial arrangement places 91:12–17 after the material now numbered 93:1–10, rather than keeping those six verses in the Chapter 91 sequence. The modernized edition deliberately follows the selected repository transcription: Chapter 91 remains in its repository sequence, with 91:11 marked as interpolation and 91:12–17 left in place. This is a documented witness/arrangement variant, not a silent correction. The chapter files must therefore be described as a repository-sequence modernization, not as a reproduction of the 1917 order.
 
@@ -227,7 +227,7 @@ The first visual pass inspected printed pp. 153–154 only. Printed p.153 contai
 At the time of this initial review, the earlier pages had returned cache-miss or retrieval errors. This was subsequently reduced to the single missing printed p.152 image; the later page map and results below supersede that older status.
 ### 1893 witness scope correction
 
-The 1893 Clarendon Press volume's main translation sections are Chapters 1–104. The volume also contains Appendix E, a separately identified New Latin fragment of 106:1–18; that fragment is not a complete 1893 main-text edition of Chapter 106, and it must not be conflated with the 1917 Ethiopic-based translation. Chapters 105–108 must therefore be collated against their separately named witness, not represented as 1893 main-text chapters.
+The 1893 Clarendon Press volume labels its five core sections through Chapter CIV (104), but the translation pagination continues with CV–CVIII on pp.301–308 as distinct appended units. Appendix E separately prints a New Latin fragment of 106:1–18 on pp.372–375; that is a distinct witness and must not be conflated with the Ethiopic CVI translation on pp.302–304 or with the 1917 parallel witness.
 
 The Cornell/Internet Archive searchable 1893 text-layer rendition is available at:
 https://archive.org/stream/cu31924014590545/cu31924014590545_djvu.txt
