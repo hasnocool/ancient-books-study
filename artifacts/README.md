@@ -35,3 +35,8 @@ The 12 BookReader JPEGs are under `1-enoch-1893/page-images/bookreader-medium/`,
 - Inventory: `1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md`.
 
 This batch is retrieval/OCR evidence only. The pages have not yet been individually opened and checked; do not increase the visual-proofing count until their pixels have been inspected.
+
+
+### High-resolution inspection: printed pp.75–84
+
+The ten BookReader JPEGs in `1-enoch-1893/page-images/bookreader-large/` (leaves n96–n105, 1360×2274) were individually opened. Folios and layouts are confirmed; targeted OCR defects are logged in `1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md` and the edition's image-proofing log. This is not a complete line-by-line diplomatic collation. The separate native PNGs under `page-images/cornell-native/cornell_printed_pp75_308/` rendered nearly black in the viewer and were not used for this inspection.

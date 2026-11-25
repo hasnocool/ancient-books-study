@@ -724,3 +724,12 @@ The repository now contains ten high-resolution BookReader JPEGs for printed pp.
 The first report supplied with the batch contained page-inventory errors (it labelled p.75 as introductory p.53 and p.76 as blank despite both corresponding OCR sections containing text). The corrected report supersedes those statements and records the extracted character/line counts. The PDF text layer interleaves English, Greek, and critical apparatus; Greek OCR and reading order require facsimile checking.
 
 **Evidence boundary:** this establishes retrieval metadata and OCR availability, not visual inspection or diplomatic collation. No pixels were opened in this audit. The IMAGE_PROOFING_LOG remains at 12/254 pages individually checked for broad layout (pp.63–74); high-resolution textual/apparatus proofing remains 0/254. Independent human approval remains outstanding.
+
+
+## Printed pp.75–84 — high-resolution page inspection and targeted OCR comparison — 25 November 2026
+
+All ten BookReader JPEGs (leaves n96–n105; 1360×2274) were individually opened. Folios and page layouts are confirmed. Targeted OCR defects recorded: p.76 displaced “evermore” from v.16; p.77 lost/corrupted circled verse number XII.4; p.78 lost/corrupted circled XII.5–6; p.79 corrupted the chapter-heading numeral XII; p.80 “I have written” OCRed as “IT have written”; p.82 verse 22 OCRed as “42” and “Wherefore” as “herefore”; p.83 “Whilst” OCRed as “Ou”; p.84 begins with a note continuation (“wrong.”) from p.83, not body text. Pages 75, 81, and 84 also show severe Greek OCR corruption; Greek apparatus is generally not reliably represented by the text layer. The images show the printed readings; no edition wording has been changed.
+
+The alternate native PNGs `printed_p075_full.png`–`printed_p084_full.png` rendered nearly black in the viewer and were not used. The BookReader JPEGs were legible and support this targeted comparison.
+
+**Evidence boundary:** ten pages are now individually image-opened at high resolution and count toward page/layout inspection (22/254 including pp.63–74). This is not an exhaustive line-by-line diplomatic collation of all English, Greek, and apparatus content. Full textual/apparatus proofing remains 0/254, and independent human approval remains pending.

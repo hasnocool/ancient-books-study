@@ -72,3 +72,25 @@ The consolidated extraction contains a page marker for every printed page 75–8
 5. Obtain independent human review separately; do not infer approval from automated retrieval or OCR checks.
 
 **Important:** successful download, a valid manifest, and searchable text do not equal visual proofing. This batch increases retrieval coverage, not the individually inspected-page count.
+
+
+## High-resolution BookReader inspection — printed pp.75–84 — 25 November 2026
+
+All ten 1360×2274 BookReader JPEGs (leaves n96–n105) were individually opened at full image resolution. Printed folios 75–84 and broad page layouts are visible. The alternate files named `printed_p075_full.png` through `printed_p084_full.png` in the newly added native-scan directory rendered almost entirely black in the image viewer and were not used as proofing evidence; the BookReader JPEGs were legible and were used instead.
+
+| Printed page | Leaf | Visual result | OCR/text-layer discrepancy or observation |
+|---:|---:|---|---|
+| 75 | n96 | Folio 75, Chapter X.10–14, English/Greek parallel and two tiers of notes visible. | OCR Greek column is heavily corrupted and interleaves fragments; English begins mid-sentence as expected. Apparatus note at v.14 discusses Syn. Greek versus Ethiopic singular/plural wording. No English body-text change authorized. |
+| 76 | n97 | Folio 76; vv.15–20 and lower critical notes visible. | OCR column order is disrupted: “evermore” is displaced after v.20 in extraction although it completes v.16. The page image confirms the reading sequence. |
+| 77 | n98 | Folio 77; end of ch. X, ch. XI, and opening of ch. XII visible; apparatus below. | OCR fails to recognize the circled verse number 4 at XII.4 and emits a garbled token before “Enoch”; the printed verse number is visibly 4. The heading reads “Chapters X.15—XII.4.” |
+| 78 | n99 | Folio 78; XII.5–6, XIII.1–7, Ethiopic/Greek apparatus and notes visible. | OCR omits or corrupts the circled verse numbers 5 and 6 at XII.5–6; body wording and apparatus are present but mixed in extraction order. |
+| 79 | n100 | Folio 79; end of XIII and XIV.1–4; critical notes visible. | OCR heading corrupts XII in “Chapters XII.5—XIV.4”; the printed heading is XII.5—XIV.4. Greek/Ethiopic apparatus is poorly recognized. |
+| 80 | n101 | Folio 80; XIV.4–10 and two apparatus blocks visible. | OCR reads “IT have written” where the image reads “I have written”; Greek apparatus is transliterated/corrupted. Column/footnote order is partially interleaved. |
+| 81 | n102 | Folio 81; XIV.5–21 and critical notes visible. | OCR broadly preserves the English body, but Greek/Ethiopic forms and some apparatus abbreviations are corrupted. The printed reading “gat hold upon me” is visible and should not be modernized as an OCR correction. |
+| 82 | n103 | Folio 82; XIV.21–25 and XV.1–3; apparatus visible. | OCR reads “42.” for printed verse 22 and drops the initial “W” in “Wherefore” at XV.3 (extracted as “herefore”). A circled marginal/reader mark surrounds the printed verse number 3; it is not part of the text. |
+| 83 | n104 | Folio 83; XV.4–9, Greek parallel and critical apparatus visible. | OCR reads “Ou” for “Whilst” at XV.4 and has severe Greek text corruption. The English body and lower notes are interleaved in extraction. |
+| 84 | n105 | Folio 84; XV.9–11, Greek parallel and critical note visible. | Greek OCR is extensively corrupted; v.11’s English and the Synoptic Greek apparatus are visibly present. The opening “wrong.” in the extracted note is a continuation from p.83, not body text on p.84. |
+
+### Scope and limits
+
+This is an individual high-resolution page/layout inspection plus a targeted comparison of conspicuous OCR defects, not a complete line-by-line diplomatic collation of every word, Greek reading, or apparatus siglum. No wording has been silently amended in the edition. The ten pages can now be counted as individually image-opened at high resolution; the complete textual/apparatus proofing requirement and independent human review remain outstanding. The native PNG rendering issue should be investigated separately before those PNGs are used for any further visual work.

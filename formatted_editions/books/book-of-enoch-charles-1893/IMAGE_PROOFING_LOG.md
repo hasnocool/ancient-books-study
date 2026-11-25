@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **12/254 pages (pp.63–74) have been individually opened and checked for folio and broad layout using medium-resolution 340×569 JPEGs. 0/254 pages have completed full high-resolution textual/apparatus proofing.** The former pp.55–74 rows document retrieval and generic observations; only the new pp.63–74 section records individual pixel inspection. The pp.55–62 entries remain retrieval-only, and pp.75–308 remain retrieval-reported only. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval remains pending.
+**Status:** **22/254 pages (pp.63–74 and pp.75–84) have been individually opened and checked for folio and broad layout; pp.75–84 were checked using 1360×2274 JPEGs. 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** The former pp.55–74 rows document retrieval and generic observations; only the new pp.63–74 section records individual pixel inspection. The pp.55–62 entries remain retrieval-only; pp.75–84 now have individual high-resolution page/layout checks; pp.85–308 remain retrieval-reported only. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval remains pending.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -391,3 +391,27 @@ A new batch of ten high-resolution BookReader JPEGs has been committed for print
 A consolidated PDF text-layer extraction is available at `artifacts/1-enoch-1893/ocr/cornell-printed-pages-75-84.txt`. It contains ten non-empty page sections. The associated inventory is `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md`. The prior batch report incorrectly described p.76 as blank and p.75 as introductory p.53; those claims are superseded. The corrected inventory records the actual page-section character counts and notes the mixed ordering of English, Greek, and critical apparatus in the PDF text layer.
 
 **Evidence boundary:** retrieval and OCR/text-layer availability only. No page pixels were opened during this repository audit, so pp.75–84 add zero to the individually image-checked count. The current page/layout-level count remains 12/254 (pp.63–74); full high-resolution textual/apparatus proofing remains 0/254, and independent human approval remains pending.
+
+
+
+
+## High-resolution BookReader inspection — printed pp.75–84 — 25 November 2026
+
+All ten 1360×2274 BookReader JPEGs (leaves n96–n105) were individually opened at full image resolution. Printed folios 75–84 and broad page layouts are visible. The alternate files named `printed_p075_full.png` through `printed_p084_full.png` in the newly added native-scan directory rendered almost entirely black in the image viewer and were not used as proofing evidence; the BookReader JPEGs were legible and were used instead.
+
+| Printed page | Leaf | Visual result | OCR/text-layer discrepancy or observation |
+|---:|---:|---|---|
+| 75 | n96 | Folio 75, Chapter X.10–14, English/Greek parallel and two tiers of notes visible. | OCR Greek column is heavily corrupted and interleaves fragments; English begins mid-sentence as expected. Apparatus note at v.14 discusses Syn. Greek versus Ethiopic singular/plural wording. No English body-text change authorized. |
+| 76 | n97 | Folio 76; vv.15–20 and lower critical notes visible. | OCR column order is disrupted: “evermore” is displaced after v.20 in extraction although it completes v.16. The page image confirms the reading sequence. |
+| 77 | n98 | Folio 77; end of ch. X, ch. XI, and opening of ch. XII visible; apparatus below. | OCR fails to recognize the circled verse number 4 at XII.4 and emits a garbled token before “Enoch”; the printed verse number is visibly 4. The heading reads “Chapters X.15—XII.4.” |
+| 78 | n99 | Folio 78; XII.5–6, XIII.1–7, Ethiopic/Greek apparatus and notes visible. | OCR omits or corrupts the circled verse numbers 5 and 6 at XII.5–6; body wording and apparatus are present but mixed in extraction order. |
+| 79 | n100 | Folio 79; end of XIII and XIV.1–4; critical notes visible. | OCR heading corrupts XII in “Chapters XII.5—XIV.4”; the printed heading is XII.5—XIV.4. Greek/Ethiopic apparatus is poorly recognized. |
+| 80 | n101 | Folio 80; XIV.4–10 and two apparatus blocks visible. | OCR reads “IT have written” where the image reads “I have written”; Greek apparatus is transliterated/corrupted. Column/footnote order is partially interleaved. |
+| 81 | n102 | Folio 81; XIV.5–21 and critical notes visible. | OCR broadly preserves the English body, but Greek/Ethiopic forms and some apparatus abbreviations are corrupted. The printed reading “gat hold upon me” is visible and should not be modernized as an OCR correction. |
+| 82 | n103 | Folio 82; XIV.21–25 and XV.1–3; apparatus visible. | OCR reads “42.” for printed verse 22 and drops the initial “W” in “Wherefore” at XV.3 (extracted as “herefore”). A circled marginal/reader mark surrounds the printed verse number 3; it is not part of the text. |
+| 83 | n104 | Folio 83; XV.4–9, Greek parallel and critical apparatus visible. | OCR reads “Ou” for “Whilst” at XV.4 and has severe Greek text corruption. The English body and lower notes are interleaved in extraction. |
+| 84 | n105 | Folio 84; XV.9–11, Greek parallel and critical note visible. | Greek OCR is extensively corrupted; v.11’s English and the Synoptic Greek apparatus are visibly present. The opening “wrong.” in the extracted note is a continuation from p.83, not body text on p.84. |
+
+### Scope and limits
+
+This is an individual high-resolution page/layout inspection plus a targeted comparison of conspicuous OCR defects, not a complete line-by-line diplomatic collation of every word, Greek reading, or apparatus siglum. No wording has been silently amended in the edition. The ten pages can now be counted as individually image-opened at high resolution; the complete textual/apparatus proofing requirement and independent human review remain outstanding. The native PNG rendering issue should be investigated separately before those PNGs are used for any further visual work.
