@@ -21,7 +21,7 @@ He answered: “This high mountain you have seen, whose summit resembles the thr
 
 ### Verse 4
 
-“No mortal is permitted to touch this fragrant tree until the great day of judgment, when he will bring justice and bring all things to their final completion forever.
+“No mortal is permitted to touch this fragrant tree until the great day of judgment, when he will take vengeance and bring everything to its final completion forever.
 
 ### Verse 5
 
