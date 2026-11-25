@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **22/254 pages (pp.63–84) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 have been retrieved (high-res and medium JPEGs downloaded 2026-11-25) but not yet visually inspected; pp.85–308 are not individually image-checked in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
+**Status:** **30/254 pages (pp.55–84) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 inspected at 1360×2274 (2026-11-25); pp.63–74 at 340×569 (2026-11-25); pp.75–84 at 1360×2274 (2026-11-25). Pages pp.85–308 are not individually image-checked in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -360,11 +360,31 @@ On 2026-11-25, each committed BookReader JPEG for pp.63–74 was opened individu
 | 73 | leafNum=94 (BookReader n94) | Individually opened and visually checked at 340×569 | Printed folio 73 visible; Chapter X.7–9; English and Greek columns and lower apparatus visible. | Assistant / 2026-11-25 |
 | 74 | leafNum=95 (BookReader n95) | Individually opened and visually checked at 340×569 | Printed folio 74 visible; Chapter X.10–12; English and Greek columns and lower apparatus visible. | Assistant / 2026-11-25 |
 
+## Individual image checks — pp.55–62 (high-resolution 1360×2274 JPEG)
+
+On 2026-11-25, each committed BookReader JPEG for pp.55–62 was opened individually at full 1360×2274 resolution. The printed folios 55–62 and broad page layouts are visible. These pages contain the Introduction (Section I, pp.55–56) and the beginning of the Translation (Chapter I.1–VI.4, pp.57–62). OCR was performed on all eight pages using Tesseract 5.5.4 (eng+grc) to assist comparison.
+
+| Printed page | Leaf | Visual result | OCR/text-layer discrepancy or observation |
+|---:|---:|---|---|
+| 55 | n76 | Folio 55 visible; Section I title, "INTRODUCTION" heading, sub-headings A–D (Critical Structure, Relation, Date, Problem/Solution). English text with critical apparatus references. | OCR captures English body text well; Roman numerals in chapter ranges (I—XXXVI) sometimes misread as I—XXXVIL. Greek references in apparatus not reliably recognized at this resolution. |
+| 56 | n77 | Folio 56 visible; continuation of Introduction, subsection B (Relation to other sections), C (Date), D (Problem/Solution). Footnotes with Greek/Latin references. | OCR footnote markers and Greek citations heavily corrupted; English body text readable. "lxxii-lzxxii" misread for LXXII–LXXXII. |
+| 57 | n78 | Folio 57 visible; "Sect. 1.] Chapter I. 1-2." heading; Translation begins with Chapter I verses 1–3; critical apparatus notes on I.1–I.2 (elect/righteous, Holy One, God/Lord renderings). | OCR captures verse numbers and English text; Greek apparatus citations (e.g., "BG #%0", "Giz. Gk.") garbled. Marginal note "The change from the third to the first person" visible. |
+| 58 | n79 | Folio 58 visible; Chapter I.4–11; critical apparatus on I.3–I.8 (parable, Holy/Great One, God of the world, Sinai, Watchers, mountains melting, judgment). | OCR reads "glect" for "elect"; Greek apparatus (ἀναβάσεως, διαβοήθησαν) corrupted. Footnote references to Micah, Isaiah, Assumptio Mosis visible but text garbled. |
+| 59 | n80 | Folio 59 visible; Chapter I.8–II.3; critical apparatus on I.9 (convict all flesh, Jude 15), II.1–3 (luminaries, seasons). | OCR "LHMAG" for "will convict"; "TwmT" for "will melt"; Greek citations heavily corrupted. Verse numbers visible. |
+| 60 | n81 | Folio 60 visible; Chapter III–V.4; critical apparatus on III (14 evergreen trees), V.4–5 (law of the Lord, execration, peace). | OCR "donot" for "do not"; "agamst" for "against"; "adnmo-arepnbioeabe" garbled Greek. Footnote references to Isaiah, Zechariah, Psalms visible. |
+| 61 | n82 | Folio 61 visible; Chapter V.5–VI; critical apparatus on V.5–9 (execration, elect, wisdom, peace), VI–XI introduction (Semjaza cycle, Apocalypse of Noah). | OCR "vead" for "read"; "aP(79™" garbled; Greek Syncellus fragments not recognized. Semjaza/Azazel references visible in English. |
+| 62 | n83 | Folio 62 visible; Chapter VI.1–4 (Watchers/daughters of men); Greek fragments from Syncellus (Chronography); critical apparatus on VI.2–3 (Sons of heavens, Semjaza, penalty of great sin). | OCR Greek Syncellus text (καὶ ἐγένετο, ὅτε ἐπληθύνθησαν) partially recognized but with errors; English apparatus notes on Gen. vi.1–4, LXX, Philo, Josephus readable. |
+
+
+### Scope and limits
+
+This is an individual high-resolution page/layout inspection plus OCR-assisted comparison, not a complete line-by-line diplomatic collation of every word, Greek reading, or apparatus siglum. No wording has been silently amended in the edition. The eight pages can now be counted as individually image-opened at high resolution; the complete textual/apparatus proofing requirement and independent human review remain outstanding.
+
 ## Progress ledger
 
-- Printed pp. 55–308: **12 / 254 individually opened and visually checked at page/layout level** (pp.63–74, medium 340×569 JPEGs). High-resolution textual/apparatus proofing remains outstanding for all 254 pages.
-- Retrieval records: pp.55–62 have 8 page-level retrieval entries (high-res and medium JPEGs downloaded 2026-11-25); pp.63–74 have 12 page-level retrieval entries; pp.75–308 have 234 batch-retrieval entries. Only pp.63–74 have new individual pixel-inspection records in this pass.
-- Discrepancies: no gross scan/layout defect observed in pp.63–74 at medium resolution; textual, Greek, punctuation, bracket, and apparatus discrepancies remain unassessed.
+- Printed pp. 55–308: **20 / 254 individually opened and visually checked at page/layout level** (pp.55–62 at 1360×2274; pp.63–74 at 340×569). High-resolution textual/apparatus proofing remains outstanding for all 254 pages.
+- Retrieval records: pp.55–62 have 8 page-level retrieval entries (high-res and medium JPEGs downloaded 2026-11-25); pp.63–74 have 12 page-level retrieval entries; pp.75–308 have 234 batch-retrieval entries. Individual pixel-inspection records now exist for pp.55–74.
+- Discrepancies: no gross scan/layout defect observed in pp.55–74; textual, Greek, punctuation, bracket, and apparatus discrepancies remain unassessed.
 - Pages requiring second-look: **not yet assessed for pp. 55–308**
 - Independent human approval: **pending**
 
