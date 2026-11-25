@@ -65,3 +65,27 @@ Only 1 Enoch is reproduced in this directory. The Slavonic sections are delibera
 - [Wikisource transcription of Charles's translation](https://en.wikisource.org/wiki/The_Book_of_Enoch_%28Charles%29)
 
 These references establish the historical edition and provide comparison material. They do not prove that the supplied repository transcription was taken directly from the 1893 printing.
+
+
+## Repository-bundled PDF provenance correction — 25 November 2026
+
+The two files under `enoch-editions/` are project-supplied research artifacts, but neither is a photographic scan of the historical edition identified by its filename:
+
+| Repository artifact | Git blob SHA | Local file properties | Provenance finding |
+|---|---|---|---|
+| `enoch-editions/enoch-1893-charles-dillmann.pdf` | `398352f3010cd7f059c91a24e8c32b9f8b1539a6` | 540,432 bytes; 66 PDF pages | Modern digitally typeset composite. It combines a claimed 1893 Dillmann/Charles Ethiopic text with Slavonic *2 Enoch* / later material and internal Book 1–6 divisions. Not a facsimile of the 1893 Clarendon Press volume. |
+| `enoch-editions/enoch-1917-charles-oesterley.pdf` | `9bd830eafb560890c6c78d2f89d828b603d6a979` | 438,198 bytes; 101 PDF pages | Word-processed/digitally typeset transcription with PDFMaker metadata dated 2005, not a scanned 1917 impression. It stops after 107:3 and contains no Chapter 108. |
+
+The repository copies were rendered and inspected at their endings. The 1893-labelled file moves from 1 Enoch 105 into separate Slavonic material and later repackages 106–108 under its own “Book 6 — The Deluge” heading. The 1917-labelled file ends after 107:3. Their filenames therefore must not be used as proof of historical identity, complete coverage, or page-level authenticity.
+
+### Separate historical witnesses used for comparison
+
+- **Authentic 1893 Clarendon scan:** [Wikimedia Commons / Internet Archive Google Books scan](https://upload.wikimedia.org/wikipedia/commons/1/1d/The_book_of_Enoch._August_Dillmann%2C_Robert_Charles._1893_%28IA_bookenochtransl00dillgoog%29.pdf); [Cornell/Internet Archive searchable OCR](https://archive.org/stream/cu31924014590545/cu31924014590545_djvu.txt). This is the 1893 main translation, Chapters 1–104 (printed pp. 55–308), with the Latin fragment 106:1–18 separately in Appendix E.
+- **Authentic 1917 Charles/Oesterley scan:** [1917 digitized facsimile](https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf). Its introduction identifies it as the reprint of Charles's 1912 second edition. It includes Chapters 105–108.
+
+### 1917 visual review boundary
+
+For the authentic 1917 facsimile, page images were visually inspected for printed pp. 149–151 and 153–154. The image for printed p. 152 could not be retrieved in this pass. The searchable text layer for Chapters 105–108 was checked, and the visual checks of pp. 153–154 confirm the Chapter 108 text at the end of the volume. Consequently, the 1917 page-image review remains incomplete by one uninspected page (p. 152), even though Chapter 108 itself is present and its final pages were visually checked.
+
+The earlier statement that the repository's bundled 101-page “1917” PDF ends at 107:3 refers only to that project transcription. It must not be conflated with the authentic 1917 facsimile linked above.
+
