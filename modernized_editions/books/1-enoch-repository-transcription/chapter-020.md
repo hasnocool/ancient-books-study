@@ -21,7 +21,7 @@ Rufael is one of the holy angels, appointed over the spirits of human beings.
 
 ### Verse 4
 
-Raguel is one of the holy angels. He carries out judgment against the world and the heavenly lights.
+Raguel is one of the holy angels. He brings vengeance upon the world and the heavenly lights.
 
 ### Verse 5
 
