@@ -223,6 +223,50 @@ Attempts to retrieve the other relevant 1917 page images (including the earlier 
 
 The 1917 PDF is the Wikimedia Commons scan titled *The book of Enoch. Robert Charles. 1917*; its front matter identifies the translation as reprinted from Charles's second edition (1912), and states that the work was first published in 1917. It is therefore a 1917 publication witness, not the 1893 source.
 
+## 1917 text-layer and visual review expansion: Chapters 105–108
+
+**Separate witness:** R. H. Charles, *The Book of Enoch*, reprinted by S.P.C.K. in 1917 from the 1912 second edition, with W. O. E. Oesterley's introduction. This is not the 1893 Clarendon Press text.
+
+**Searchable scan:** https://upload.wikimedia.org/wikipedia/commons/c/c9/The_book_of_Enoch._Robert_Charles._1917_%28IA_bookofenoch0000unse%29.pdf  
+**Text-layer reference:** https://archive.org/stream/bookofenoch0000unse/bookofenoch0000unse_djvu.txt
+
+### Witness-specific findings
+
+| Location | 1917 witness | Repository-based modernization | Decision |
+|---|---|---|---|
+| 105:1 | “The Lord bade (them) to summon and testify to the children of earth concerning their wisdom”; “ye are their guides” | Says “people will call upon the children of the earth” and “you are their guide” | Record as a difference in agency/subject and number, not mere modernization. Retain repository wording. |
+| 105:2 | “I and My Son will be united with them for ever in the paths of uprightness in their lives” | “I and my Son will be united with them forever as they walk through life along the paths of righteousness” | Broad sense retained; note the modernization's syntax and “righteousness” for “uprightness.” |
+| 106:1–14 | 1917 prints the birth narrative through the angels' union with women. | Repository modernization preserves the same general sequence. | No silent witness substitution. |
+| 106:14 → 106:17a → 106:15–16 | The 1917 body places the “they shall produce ... giants not according to the spirit, but according to the flesh” clause immediately after 106:14. Charles's introduction explicitly says 106:17a should be read immediately after 106:14. | Repository order is 106:14, 106:15, 106:16, 106:17. Its verse 17 also recasts the clause as “The giants are not spiritual beings; they belong to the physical world.” | Record both relocation and a material subject/agency wording difference. Keep repository order in this derivative unless a witness-specific reordered text is deliberately produced. |
+| 106:15–19 | 1917 continues with the flood, Noah's preservation, and later unrighteousness; its verse 17a is displaced earlier. | Repository retains the same overall units but in its own sequence. | Retain repository order and record the 1917 arrangement. |
+| 107:3 | “He will comfort the earth after all the destruction.” | “He would cause the earth to rejoice in compensation for all the destruction.” | Confirmed visibly on printed p. 153; preserve the repository reading and record the witness wording. |
+| 108:4 | “†look overt†” (daggered/corrupt reading). | “I could not look thereon,” modernized as “I could not look upon it.” | Confirmed visibly on printed p. 153; retain repository reading and disclose the 1917 corruption/variant. |
+| 108:1–15 | 1917 appendix begins on printed p. 153 and continues through p. 154, ending “Amen.” | Repository modernization has 15 individually headed verses. | Page 153 and 154 visually checked for the portions visible on those pages; full visual collation still requires the missing earlier page images. |
+
+### Actual visual page checks
+
+The 1917 PDF page-image service successfully returned two scanned pages in this pass:
+
+- **Printed p. 153:** Chapter 107's closing verses, followed by Chapter 108:1–7 and the start of 108:4. The scan visibly confirms 107:3's “comfort the earth after all the destruction” and the daggered 108:4 reading.
+- **Printed p. 154:** The continuation of 108:7 and 108:8–15 through “Amen.” This confirms the closing portion and final verse sequence.
+
+The scanned page images for **printed pp. 150–152** could not be retrieved through the available page-image service (cache-miss errors). These pages contain Chapter 105 and the main body of Chapter 106. The 1917 text layer was available for reading, but it is not a visual substitute.
+
+Therefore **visual collation of Chapters 105–108 is not complete**. Specifically:
+- Chapter 105 (printed p. 150) remains uninspected as an image.
+- Chapter 106 (printed pp. 151–152) remains uninspected as images.
+- Chapter 107 (printed p. 153) has its visible closing verses checked.
+- Chapter 108 (printed pp. 153–154) has its visible beginning and ending portions checked.
+
+### 1893 witness scope correction
+
+The 1893 Clarendon Press volume's main translation sections are Chapters 1–104. The volume also contains Appendix E, a separately identified New Latin fragment of 106:1–18; that fragment is not a complete 1893 main-text edition of Chapter 106, and it must not be conflated with the 1917 Ethiopic-based translation. Chapters 105–108 must therefore be collated against their separately named witness, not represented as 1893 main-text chapters.
+
+The complete searchable 1893 text-layer rendition is available at:
+https://archive.org/stream/thebookofenoch00unknuoft/thebookofenoch00unknuoft_djvu.txt
+
+Its accessibility makes a chapter-by-chapter comparison possible, but does not mean that the 104-chapter collation has been completed. Each chapter still needs line-by-line comparison against the printed 1893 pages and relevant critical apparatus, with all differences recorded.
+
 ## Scan inspection limitation
 
 The accessible 1893 PDF text layer could be searched and opened, but the available page-image screenshot service rejected both accessible 1893 scan PDFs because their file sizes exceeded its capture limit. The text-layer samples above are therefore not described as visually proofread. A local download or smaller page-image segments will be needed for image-level collation.
@@ -239,7 +283,7 @@ A full collation must proceed in bounded batches and record evidence per chapter
 6. If using 1912 or 1917 Charles material for a chapter absent or structurally different in 1893, identify it as a separate witness and do not label it 1893.
 7. Mark the chapter as collated only after every verse and any relevant apparatus have been checked.
 
-A PDF text layer is a search aid, not a substitute for checking the scanned page image where readings are uncertain. The initial online PDF page-image capture attempt was blocked by the provider's file-size limit; no scan image is claimed to have been visually reviewed in this pass.
+A PDF text layer is a search aid, not a substitute for checking the scanned page image where readings are uncertain. The 1893 page-image capture remains blocked by the provider's file-size limit. Two 1917 page images (printed pp. 153–154) have been visually reviewed, while the needed 1917 images for pp. 150–152 remain unavailable.
 
 ## Open work
 
