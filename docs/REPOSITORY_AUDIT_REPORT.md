@@ -8,8 +8,8 @@
 
 ### Documentation and navigation
 
-- Moved the seven 1 Enoch source/reference PDFs and their provenance README from `enoch-editions/` into the top-level `pdfs/` directory. The move reuses the existing Git blobs, preserving the binary files byte-for-byte.
-- Updated the root README, usage guide, Enoch source notes, collation/restoration/review logs, and this report to use the new `pdfs/` paths.
+- The eight PDF artifacts are stored under `pdfs/enoch-editions/`, with their inventory and provenance guide at `pdfs/README.md`. The PDF binaries were verified by Git tree metadata; this recursive check did not download or inspect their page pixels.
+- Corrected the PDF inventory links and table structure, and reconciled the 1917 p. 152 status with the visual-proofing ledger.
 
 - Added modernized_editions to the root repository layout and clarified the separation between archival sources, faithful formatted editions, and modern-language adaptations.
 - Added a dedicated modernized-editions landing page with editorial rules and verification labels.
@@ -49,11 +49,11 @@ See `formatted_editions/books/book-of-enoch-charles-1893/SOURCE_COLLATION_LOG.md
 
 ## Corpus-wide remote inventory — current update
 
-A complete, untruncated Git-tree inventory of `books_01`–`books_05` was completed at tree SHA `867210a4e1898fba0155ae0885a7d35b7810e3e0`. It found **165 text files / 203,704,878 bytes**, with **24 zero-byte placeholders**. Git blob hashes confirmed **43 non-empty exact-byte duplicate groups** involving 100 files (57 copies beyond one representative per group), plus one zero-byte group. No duplicates or placeholders were changed.
+A complete, untruncated recursive Git-tree inventory of the current `main` branch was completed at tree SHA `ffa744941f124d1f898d288f033f95ffbb3199d6` (416 entries: 386 files and 30 directories). Within `books_01`–`books_05`, the inventory found 165 text files / 203,704,878 bytes. It found **165 text files / 203,704,878 bytes**, with **24 zero-byte placeholders**. Git blob hashes confirmed **43 non-empty exact-byte duplicate groups** involving 100 files (57 copies beyond one representative per group), plus one zero-byte group. No duplicates or placeholders were changed.
 
 Targeted content checks identified several rights and provenance leads, including modern copyrighted translations and commentary, a text whose own notice says it is not public domain, and OCR replacement-character damage in a four-path exact duplicate group. These findings are leads rather than legal determinations; the whole-corpus rights and OCR review remains outstanding. The detailed per-folder counts, full duplicate path groups, empty-file list, and rights/OCR leads are in `docs/CORPUS_INVENTORY_AUDIT.md`.
 
-The local audit toolkit and test suite still have **not** been run from a complete local checkout. A clone attempt failed at DNS resolution of `github.com`; the remote inventory is not represented as a successful local script run.
+The recursive Git-tree metadata review is complete, but the local audit toolkit and test suite still have **not** been run from a complete local checkout. A clone attempt failed at DNS resolution of `github.com`; the remote inventory is not represented as a successful local script run.
 
 ## Local audit toolkit added
 
@@ -70,7 +70,7 @@ The toolkit is dependency-free and targets Python 3.12 or later. It contains a r
 
 Unit tests cover normalization, verse-label variants, duplicate/missing numbering, chapter extraction, and read-only behavior.
 
-The toolkit and tests have been committed, but the full Python test suite and whole-corpus scan have **not** been executed from a fresh local checkout in this review environment. Run them locally using the commands in tools/README.md. Do not treat the static code review as a successful test run.
+The toolkit and tests have been committed, but the full Python test suite, Markdown-link scan, provenance scan, and whole-corpus content scan have **not** been executed from a fresh local checkout in this review environment. The recursive tree inspection is a remote metadata inventory, not a substitute for those local checks. Run them locally using the commands in tools/README.md. Do not treat the static code review as a successful test run.
 
 ## Remaining work — not marked complete
 
@@ -93,3 +93,10 @@ No archival source text was overwritten, deleted, or automatically normalized. D
 ## Overall assessment
 
 The repository now has clearer editorial layers, consistent 1 Enoch navigation, reconciled documentation, and a repeatable local validation toolkit. The 1 Enoch chapter/verse structure matches across the 108 source and modernized files. The repository is **not yet publication-ready as a semantically reviewed or facsimile-verified edition**. The remaining work is explicitly tracked rather than represented as completed.
+
+
+## Recursive repository tree recheck — 25 November 2026
+
+The current `main` tree was fetched recursively with GitHub's Git Trees API (`recursive=1`), returning `truncated=false`. It contains 416 entries: 386 blobs and 30 directories. The archival `books_01`–`books_05` portion contains 165 text files (203,704,878 bytes), including 24 zero-byte files. Blob SHA grouping reproduces 43 non-empty exact-byte duplicate groups involving 100 paths (57 extra copies), plus one zero-byte duplicate group. Per-folder counts are: `books_01` 24 files / 2 empty; `books_02` 39 / 4; `books_03` 27 / 0; `books_04` 34 / 4; `books_05` 41 / 14. These are metadata/hash findings; no duplicate, placeholder, or archival source was modified.
+
+The recursive check also caught and corrected two documentation defects: the PDF inventory table had its first data row above the table header, and `SOURCE_NOTES.md` still described 1917 printed p. 152 as uninspected despite the later ledger recording pp. 150–154 as inspected. The table and status wording are now reconciled. The repository's 1893 proofing ledger remains at 20/254 individually inspected pages; recursive tree metadata does not provide page-image inspection.
