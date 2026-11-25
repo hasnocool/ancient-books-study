@@ -4,7 +4,7 @@
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
-**Target scope:** Printed pp. 55–308 (Section introductions and main translation, Chapters 1–104). This is 254 printed pages. Appendix material and front matter are outside this first pass unless a page is needed to resolve a specific reference.
+**Target scope:** Printed pp. 55–308 (Section introductions and the complete Ethiopic narrative translation, Chapters I–CVIII). This is 254 printed pages. The 1893 contents labels Section V as Chapters XCI–CIV, but the printed translation continues with CV–CVIII as appended literary units on pp.301–308; these pages remain inside this proofing scope. Appendix material (including the separate Latin CVI fragment in Appendix E) and front matter are outside this first pass unless a page is needed to resolve a specific reference.
 
 ## Rules
 
