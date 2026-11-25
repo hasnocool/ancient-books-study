@@ -39,7 +39,7 @@ Lamech said to him: “I have fathered an extraordinary child. He does not look 
 
 ### Verse 8
 
-When Methuselah heard his son's words, he came to me at the ends of the earth, because he had heard that I was there. He called out loudly. I heard his voice, went to him, and said: “Here I am, my son. You have come to me.”
+When Methuselah heard his son's words, he came to me at the ends of the earth, because he had heard that I was there. He called out loudly. I heard his voice, went to him, and said: “Here I am, my son, for you have come to me.”
 
 ### Verse 9
 
