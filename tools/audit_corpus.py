@@ -10,7 +10,7 @@ IGNORED_DIRS = {".git", ".venv", "venv", "__pycache__", ".pytest_cache", "node_m
 ENOCH_CHAPTERS = range(1, 109)
 VERSE_MARKER = re.compile(
     r"(?:###\s+Verse\s+(\d+)(?:\s*[—-][^\n]*)?|"
-    r"\*\*\[Verse\s+(\d+)(?:\s*\([^]]*\))?\]\*\*|"
+    r"\*\*\[Verse\s+(\d+)(?:\s*(?:\([^]]*\)|[—-][^]]*))?\]\*\*|"
     r"\*\*\[?\s*(\d+)\.\s*\]?\s*\*\*|"
     r"\*\*\[(\d+)\]\.\s*\*\*)"
 )
