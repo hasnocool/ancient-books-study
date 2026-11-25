@@ -282,7 +282,7 @@ A full collation must proceed in bounded batches and record evidence per chapter
 6. If using 1912 or 1917 Charles material for a chapter absent or structurally different in 1893, identify it as a separate witness and do not label it 1893.
 7. Mark the chapter as collated only after every verse and any relevant apparatus have been checked.
 
-A PDF text layer is a search aid, not a substitute for checking the scanned page image where readings are uncertain. The 1893 page-image capture remains blocked by the provider's file-size limit. Two 1917 page images (printed pp. 153–154) have been visually reviewed, while the needed 1917 images for pp. 150–152 remain unavailable.
+A PDF text layer is a search aid, not a substitute for checking the scanned page image where readings are uncertain. The 1893 page-image capture remains blocked by the provider's file-size limit. The later 1917 image audit inspected pp. 150–151 and 153–154; printed p. 152 remains the one missing page image. Earlier statements below that only pp. 153–154 were checked are historical snapshots and are superseded by the later audit.
 
 ## Open work
 
@@ -596,8 +596,8 @@ The newly committed Cornell scan is the correct in-repository page-image witness
 To avoid conflating the repository's bundled PDF with the historical witness, the visual review is now explicitly recorded against the separate authentic 1917 Charles/Oesterley facsimile. The repository PDF (101 pages, Word/PDFMaker 2005) was also rendered at its final three pages, but it is only a modern typeset transcription and not a 1917 scan.
 
 Authentic 1917 facsimile page-image status:
-- Printed p. 150: inspected (Chapter 105).
-- Printed p. 151: inspected (Chapter 106:1–14).
+- Printed p. 150: inspected (Chapter 105:1–2 and the opening of 106:1).
+- Printed p. 151: inspected (continuation of 106:1 through the beginning of 106:12).
 - Printed p. 152: image retrieval failed; not inspected.
 - Printed p. 153: inspected (end of 107 / start of 108).
 - Printed p. 154: inspected (end of 108).
