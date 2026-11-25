@@ -23,7 +23,7 @@ He answered: “Each is going to those appointed to him, the chosen and beloved,
 
 ### Verse 4
 
-“Then that valley will be filled with those destined for punishment. Their lives will come to an end, and from that time onward the period during which they were led astray will no longer be counted.
+“Then that valley will be filled with the chosen and beloved ones. Their lives will come to an end, and from that time onward the days of their being led astray will no longer be counted.
 
 ### Verse 5 — interpolation
 
