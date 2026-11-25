@@ -9,10 +9,9 @@ ARCHIVE_DIRS = ("books_01", "books_02", "books_03", "books_04", "books_05")
 IGNORED_DIRS = {".git", ".venv", "venv", "__pycache__", ".pytest_cache", "node_modules"}
 ENOCH_CHAPTERS = range(1, 109)
 VERSE_MARKER = re.compile(
-    r"(?m)^\s*(?:###\s+Verse\s+(\d+)(?:\s*[—-].*)?|"
-    r"\*\*\[Verse\s+(\d+)\](?:\s*[—-][^*]*)?\*\*|"
-    r"\*\*(\d+)\.\s*\*\*|"
-    r"\*\*\[(\d+)\]\*\*)"
+    r"(?:###\\s+Verse\\s+(\\d+)(?:\\s*[—-][^\\n]*)?|"
+    r"\\*\\*\\[Verse\\s+(\\d+)(?:\\s*\\([^]]*\\))?\\]\\*\\*|"
+    r"\\*\\*\\[?\\s*(\\d+)\\.\\s*\\]?\\s*\\*\\*)"
 )
 CHAPTER_MARKER = re.compile(r"(?m)^##\s+Chapter\s+(\d+)\b")
 MARKDOWN_LINK = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
