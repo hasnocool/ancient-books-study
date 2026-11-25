@@ -11,7 +11,7 @@
 
 ### Verse 1
 
-If only my eyes were a spring of water, so I could weep for you and pour out my tears like rain! Perhaps then my troubled heart could find relief.
+If only my eyes were a cloud of water, so I could weep for you and shed my tears like a cloud of water! Perhaps then I could find rest from my troubled heart.
 
 ### Verse 2
 
