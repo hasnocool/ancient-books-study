@@ -224,7 +224,7 @@ def verse_units(section: str) -> list[tuple[int, str]]:
         body = re.split(r"(?mi)^\s*(?:>\s*)?\*\*Editorial note\b", body, maxsplit=1)[0]
         body = re.split(
             r"(?im)^##\s+(?:Editorial|Completeness|Textual|Historical|Bibliographic|Sources|Verification|"
-            r"\d{4}\s+Witness|Witness|Critical(?:\s+Apparatus)?|Source(?:\s+Notes)?)\b",
+            r"\d{4}\s+(?:Witness|Critical|Source)|Witness|Critical(?:\s+Apparatus)?|Source(?:\s+Notes)?)\b",
             body,
             maxsplit=1,
         )[0]
