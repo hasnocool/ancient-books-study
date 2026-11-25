@@ -33,9 +33,9 @@ Then the Lord spoke to Rafael: “Bind Azazel by his hands and feet and put him 
 
 “On the great day of judgment, he will be thrown into the fire.
 
-### Verse 7 — interpolation
+### Verse 7
 
-[“Heal the earth that the angels have corrupted. Announce that I will heal the earth, so that human beings will not all perish because of the forbidden knowledge the Watchers revealed and taught to their children.]
+“Heal the earth that the angels have corrupted. Announce that I will heal the earth, so that human beings will not all perish because of the forbidden knowledge the Watchers revealed and taught to their children.
 
 ### Verse 8
 
@@ -49,9 +49,9 @@ Then the Lord spoke to Rafael: “Bind Azazel by his hands and feet and put him 
 
 “‘Lead them out and set them against one another, so that they destroy one another in battle. Their lives will not be long. Their fathers may plead for them and hope that each will live for five hundred years, but their requests will not be granted.
 
-### Verse 11
+### Verse 11 — interpolation
 
-“‘The Lord said to Michael: Go and announce the sentence to Semjaza and his companions, who joined themselves to women and defiled themselves through every kind of uncleanness.
+[“‘The Lord said to Michael: Go and announce the sentence to Semjaza and his companions, who joined themselves to women and defiled themselves through every kind of uncleanness.]
 
 ### Verse 12
 
@@ -97,7 +97,7 @@ Then the Lord spoke to Rafael: “Bind Azazel by his hands and feet and put him 
 
 “‘The earth will be cleansed of all corruption, sin, punishment, and torment. From generation to generation, forever, I will never again send such destruction upon it.’”
 
-**Editorial note:** The source marks verses 1–3 as an interpolated Noah fragment and verse 7 as an interpolation. They remain bracketed and are not merged into the surrounding narrative.
+**Editorial note:** The source marks verses 1–3 as an interpolated Noah fragment and verse 11 as an interpolation. Verse 7 is not bracketed in the 1893 printed text. The bracketed material remains separate from the surrounding narrative.
 
 ---
 
