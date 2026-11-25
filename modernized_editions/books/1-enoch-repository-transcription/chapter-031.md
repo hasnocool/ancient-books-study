@@ -17,7 +17,7 @@ Above those mountains I saw another mountain covered with aloe trees. The trees 
 
 ### Verse 3
 
-One of its fruits was more fragrant than every other perfume.
+The taste of that fruit was better than every other fragrance.
 
 ---
 
