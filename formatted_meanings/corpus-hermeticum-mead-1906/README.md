@@ -20,7 +20,7 @@ Plain-language explanations of the tractates in G. R. S. Mead's 1906 English tra
 | III — The Sacred Sermon | [Read explanation](./tractates/tractate-03-meaning.md) | Provisional draft |
 | IV — The Cup or Monad | [Read explanation](./tractates/tractate-04-meaning.md) | Provisional draft |
 | V — Though Unmanifest, God Is Most Manifest | [Read explanation](./tractates/tractate-05-meaning.md) | Provisional draft |
-| VI–XV | Not yet created | Queued |
+| VI — In God Alone Is Good, and Elsewhere Nowhere | [Read explanation](./tractates/tractate-06-meaning.md) | Provisional draft |\n| VII–XV | Not yet created | Queued |
 
 ## Source
 
