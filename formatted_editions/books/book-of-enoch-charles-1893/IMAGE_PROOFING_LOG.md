@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **41/254 pages (pp.55–95) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 inspected at 1360×2274 (2026-11-25); pp.63–74 at 340×569 (2026-11-25); pp.75–84 at 1360×2274 (2026-11-25). Pages pp.85–94 were individually image-checked on 2026-11-26 using committed 1360×2274 BookReader JPEGs; pp.96–308 remain uninspected in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
+**Status:** **50/254 pages (pp.55–104) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 inspected at 1360×2274 (2026-11-25); pp.63–74 at 340×569 (2026-11-25); pp.75–84 at 1360×2274 (2026-11-25). Pages pp.85–94 were individually image-checked on 2026-11-26 using committed 1360×2274 BookReader JPEGs; pp.105–308 remain uninspected in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -537,3 +537,15 @@ Detailed record: `artifacts/1-enoch-1893/reports/collations/pp85-94-facsimile-co
 - [ ] Perform full line-by-line diplomatic comparison for pp.95–104 after visual inspection.
 
 The ten JPEGs for pp.95–104 are already committed and recorded in `artifacts/1-enoch-1893/manifests/bookreader-pages-95-104-large.json`. An OCR/alignment pilot exists at `artifacts/1-enoch-1893/reports/diplomatic_proofing/pilot_pp95-104_detailed.md`; its automated matches are leads, not proof. Current total: 41/254 page/layout inspections; 0/254 complete line-by-line diplomatic proofing; independent human approval pending.
+
+
+## pp.96–104 page/layout inspection — complete (2026-11-26)
+
+- [x] Opened and inspected pp.96–104 individually from committed 1360×2274 JPEGs (leaves n117–n125).
+- [x] Recorded page headers, chapter/verse coverage, body/apparatus layout, and collation targets.
+- [x] Corrected the OCR pilot's unsupported p.104 west/south “variant”: Cornell prints XXXV as the westward journey and XXXVI.1 as the southward journey, i.e. consecutive distinct chapters, not a single direction variant.
+- [ ] Complete line-by-line collation for pp.95–104, including English, Greek, Ethiopic, punctuation, sigla, and apparatus.
+
+Detailed record: `artifacts/1-enoch-1893/reports/collations/pp96-104-page-layout-inspection.md`.
+
+**Ledger:** 50/254 page/layout inspections (pp.55–104); 0/254 full diplomatic proofing; independent human approval pending. The nine newly opened pages do not count as line-by-line proofed.
