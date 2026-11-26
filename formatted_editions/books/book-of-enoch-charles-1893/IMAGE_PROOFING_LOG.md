@@ -484,7 +484,7 @@ Detailed paths, blob SHAs, sizes, and per-page statuses are recorded in:
 
 ## Formatted-content pilot Chapters I–V — 26 November 2026
 
-The new formatted-content pilot is documented at `formatted_stories/1-enoch-charles-1893/`. The related 1893 searchable-text-layer comparison for pp.57–62 is consolidated in `1893-witness-collation.md` within that directory. This is not a new page-image inspection and does not change the ledger: page/layout inspection remains 30/254; full line-by-line diplomatic proofing remains 0/254. Independent human approval remains pending. A second reviewer must complete the separate [review packet](../../../formatted_stories/1-enoch-charles-1893/INDEPENDENT_REVIEW_PACKET.md); assistant-led work cannot satisfy this gate.
+The new formatted-content pilot is documented at `formatted_stories/1-enoch-charles-1893/`. The related 1893 searchable-text-layer comparison for pp.57–62 is consolidated in `1893-witness-collation.md` within that directory. This is not a new page-image inspection and does not change the ledger: page/layout inspection remains 40/254; full line-by-line diplomatic proofing remains 0/254. Independent human approval remains pending. A second reviewer must complete the separate [review packet](../../../formatted_stories/1-enoch-charles-1893/INDEPENDENT_REVIEW_PACKET.md); assistant-led work cannot satisfy this gate.
 
 
 ## Individual high-resolution BookReader inspection — printed pp.85–94 — 26 November 2026
