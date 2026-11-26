@@ -12,6 +12,8 @@ Interpret each numbered verse independently before synthesizing the chapter. Use
 - [Chapter 1 — Visual Interpretation Prompts](visual-prompts/chapter-01-visual-prompts.md) — five distinct prompts for each verse.
 - [Chapter 2 — Verse-by-Verse Interpretation](chapters/chapter-02-interpretation.md)
 - [Chapter 2 — Visual Interpretation Prompts](visual-prompts/chapter-02-visual-prompts.md) — five distinct prompts for each verse.
+- [Chapter 3 — Verse-by-Verse Interpretation](chapters/chapter-03-interpretation.md)
+- [Chapter 3 — Visual Interpretation Prompts](visual-prompts/chapter-03-visual-prompts.md) — five distinct prompts for its single numbered verse.
 
 ## Source and status
 
