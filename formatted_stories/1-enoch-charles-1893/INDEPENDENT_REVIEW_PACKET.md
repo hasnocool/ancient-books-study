@@ -38,6 +38,10 @@ For each chapter pair, the reviewer should:
 - **Reviewer statement:** I independently reviewed the listed documents and source passages, and the decision above represents my own assessment.
 - **Signature or attributable approval record:** NOT PROVIDED
 
+## AI-assisted editorial review record — 26 November 2026
+
+A separate AI-assisted editorial review was completed and recorded in [`AI_EDITORIAL_REVIEW.md`](AI_EDITORIAL_REVIEW.md). It identified and corrected repetitive explanation text in all five meaning documents, qualified an interpretive inference in Chapter 2, and flagged the unresolved Chapter 5:8 reading. This review is explicitly not a human review and does not fill any human reviewer field above.
+
 ## Status rule
 
 Until the fields above are completed by an actual second reviewer, all ten derivative documents remain **provisional**. An assistant cannot supply, simulate, or self-certify independent human approval.
