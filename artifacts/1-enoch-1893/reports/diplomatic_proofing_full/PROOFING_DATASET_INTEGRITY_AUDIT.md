@@ -64,3 +64,7 @@ A regression test file, `tests/test_proofing_dataset_integrity.py`, now checks e
 - Continue facsimile proofing and obtain actual independent human review.
 
 The initial findings remain in this report as an audit trail; the follow-up section supersedes their page-coverage status.
+
+## CI execution attempt
+
+The newly added GitHub Actions workflow was triggered by the commits, but its runs terminated as failed before any job steps were reported. The workflow job has no runner ID, no step summaries, and no retrievable job log. Therefore this is **not a test assertion failure**, but it also does **not** establish that the tests passed. The test suite remains unexecuted pending a functioning GitHub Actions runner or a local repository checkout.
