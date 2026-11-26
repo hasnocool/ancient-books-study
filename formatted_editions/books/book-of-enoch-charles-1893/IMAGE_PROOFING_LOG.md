@@ -549,3 +549,21 @@ The ten JPEGs for pp.95–104 are already committed and recorded in `artifacts/1
 Detailed record: `artifacts/1-enoch-1893/reports/collations/pp96-104-page-layout-inspection.md`.
 
 **Ledger:** 50/254 page/layout inspections (pp.55–104); 0/254 full diplomatic proofing; independent human approval pending. The nine newly opened pages do not count as line-by-line proofed.
+
+
+## pp.85–104 facsimile-led first-pass collation — 26 November 2026
+
+All twenty committed Cornell BookReader JPEGs for printed pp.85–104 (leaves n106–n125; 1360×2274) were fetched and individually opened. A facsimile-led first-pass review and discrepancy triage is recorded at `artifacts/1-enoch-1893/reports/collations/pp85-104-facsimile-collation-review.md`.
+
+Key image-anchored corrections and distinctions:
+- p.85 XV.12 visibly includes “and against the women”; withdraw the OCR pilot's alleged omission.
+- p.86 explicitly labels the Greek fragment as absent from the Ethiopic version; it is a separate witness, not missing narrative.
+- pp.87–91 show the opening bracket at XVII.1 and closing bracket after XIX.3.
+- p.92 XX.7 body text reads “the serpents and the Cherubin”; “The serpents may be Seraphim” is a separate apparatus hypothesis.
+- p.98 XXV.1 prints “what dost thou ask”; the derivative modernizes this to “what do you ask.”
+- p.102 XXXI.3 prints “the taste of that fruit (lit. ‘when one took of that fruit’)”; the derivative's “One of that fruit” is a substantive wording difference requiring decision.
+- p.104 prints XXXV as the westward unit and XXXVI.1 as the southward unit; the pilot's alleged west/south variant is withdrawn.
+
+The review also records repeated omitted initial conjunctions, parenthetical omissions, punctuation differences, and altered wording for later line-by-line resolution. This is not yet a complete transcription of every English line, Greek parallel, Ethiopic reading, siglum, or apparatus entry. No derivative wording has been changed.
+
+**Ledger:** 50/254 page/layout inspections; 0/254 complete full line-by-line diplomatic proofing; independent human approval pending. The new first-pass review does not advance the diplomatic-proofing count.
