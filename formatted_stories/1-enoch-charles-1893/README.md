@@ -28,6 +28,11 @@ The selected passage was extracted from the single source file above, from the h
 - Chapter 4 — `formatted_meanings/1-enoch-charles-1893/chapters/chapter-04-meaning.md` — Meaning and Explanation: The Heat of Summer
 - Chapter 5 — `formatted_meanings/1-enoch-charles-1893/chapters/chapter-05-meaning.md` — Meaning and Explanation: Faithfulness, Judgment, and Hope
 
+## Additional review records
+
+- [1893 witness comparison and impact on the pilot](1893-witness-collation.md) — records known differences between the repository source and the 1893 searchable text layer, and the outstanding page-image collation work.
+- [Independent human review packet](INDEPENDENT_REVIEW_PACKET.md) — prepared for a second reviewer; no independent review is claimed.
+
 ## Validation performed
 
 - [x] Confirmed the source file exists and inspected the complete Chapter 1–5 extraction.
