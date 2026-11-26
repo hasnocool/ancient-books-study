@@ -84,7 +84,7 @@ class ProofingDatasetIntegrityTests(unittest.TestCase):
         self.assertIn("30/254 pages", image_log)
         self.assertIn("Page/layout-level visual inspection | 30 / 254", agents)
         self.assertIn("0/254 pages have completed full line-by-line", image_log)
-        self.assertIn("Full high-resolution textual/apparatus proofing | 0 / 254", agents)
+        self.assertIn("Full line-by-line diplomatic textual/apparatus proofing | 0 / 254", agents)
 
 
 if __name__ == "__main__":
