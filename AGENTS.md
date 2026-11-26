@@ -28,7 +28,7 @@
 - 12 medium-res JPEGs (340×569), printed pp.63–74, leaves n84–n95
 
 `artifacts/page-images/cornell-native/bookreader-large/`
-- 10 high-res JPEGs (1360×2274), printed pp.75–84, leaves n96–n105
+- 20 high-res JPEGs (1360×2274), printed pp.75–94, leaves n96–n115; pp.85–94 are recorded in `artifacts/1-enoch-1893/manifests/bookreader-pages-85-94-large.json`
 
 ### Page Images — Cornell Native Scans (1360×2274 JPXDecode from PDF)
 `artifacts/page-images/cornell-native/cornell_printed_pp63_84/`
@@ -73,12 +73,14 @@
 
 ## Proofing Ledger Status (see IMAGE_PROOFING_LOG.md for full detail)
 
+**Updated 2026-11-26:** pp.85–94 BookReader JPEGs were fetched from the current branch and individually opened at 1360×2274. The p.92 reading “the serpents and the Cherubin” is visibly confirmed and flagged against the derivative transcription. Full line-by-line collation for pp.85–94 remains outstanding; independent human approval remains pending.
+
 | Tier | Count | Basis |
 |------|-------|-------|
-| Page/layout-level visual inspection | 30 / 254 | pp.55–62 and pp.75–84 individually opened at 1360×2274; pp.63–74 at 340×569 |
+| Page/layout-level visual inspection | 40 / 254 | pp.55–62 and pp.75–94 individually opened at 1360×2274; pp.63–74 at 340×569 |
 | Full line-by-line diplomatic textual/apparatus proofing | 0 / 254 | No page has completed full text, punctuation, and apparatus comparison against the facsimile |
 | Retrieval records (pp.55–74) | 20 | BookReader JPEGs downloaded; reclassified as retrieval-only |
-| Retrieval records (pp.75–308) | 234 | Batch-retrieved; not individually image-checked |
+| Retrieval records (pp.75–308) | 234 | Batch-retrieved; pp.75–94 now individually opened; pp.95–308 not individually image-checked |
 
 **Rule:** Successful download ≠ visual verification. Each page must be individually opened and inspected at legible resolution before incrementing any proofing count. OCR, extracted PDF text, search snippets, and page metadata do not qualify.
 
