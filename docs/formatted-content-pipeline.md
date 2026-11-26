@@ -2,7 +2,11 @@
 
 ## Status
 
-**Workflow specification established; automated extraction and validation are not yet implemented.** Story and meaning documents produced under this workflow must not be counted as diplomatic transcription, image proofing, or independent human approval.
+**Workflow specification established; first manual production pilot completed for 1 Enoch 1–5. Automated extraction and validation are not yet implemented.** The pilot outputs and its validation record are in `formatted_stories/1-enoch-charles-1893/`. Story and meaning documents produced under this workflow must not be counted as diplomatic transcription, image proofing, or independent human approval.
+
+## Current pilot
+
+The first manual pilot covers 1 Enoch, chapters 1–5, using the repository transcription in `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`. Five story adaptations and five meaning explanations were created. All remain provisional because the repository source warns that its wording has not been verified as a verbatim copy of the 1893 Charles/Dillmann printing. See `formatted_stories/1-enoch-charles-1893/README.md` for the extraction scope, unit coverage, validation performed, and outstanding checks.
 
 ## Purpose and outputs
 
