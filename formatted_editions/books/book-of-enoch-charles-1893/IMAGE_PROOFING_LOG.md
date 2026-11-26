@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **40/254 pages (pp.55–94) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 inspected at 1360×2274 (2026-11-25); pp.63–74 at 340×569 (2026-11-25); pp.75–84 at 1360×2274 (2026-11-25). Pages pp.85–94 were individually image-checked on 2026-11-26 using committed 1360×2274 BookReader JPEGs; pp.95–308 remain uninspected in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
+**Status:** **41/254 pages (pp.55–95) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 inspected at 1360×2274 (2026-11-25); pp.63–74 at 340×569 (2026-11-25); pp.75–84 at 1360×2274 (2026-11-25). Pages pp.85–94 were individually image-checked on 2026-11-26 using committed 1360×2274 BookReader JPEGs; pp.96–308 remain uninspected in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -484,7 +484,7 @@ Detailed paths, blob SHAs, sizes, and per-page statuses are recorded in:
 
 ## Formatted-content pilot Chapters I–V — 26 November 2026
 
-The new formatted-content pilot is documented at `formatted_stories/1-enoch-charles-1893/`. The related 1893 searchable-text-layer comparison for pp.57–62 is consolidated in `1893-witness-collation.md` within that directory. This is not a new page-image inspection and does not change the ledger: page/layout inspection remains 40/254; full line-by-line diplomatic proofing remains 0/254. Independent human approval remains pending. A second reviewer must complete the separate [review packet](../../../formatted_stories/1-enoch-charles-1893/INDEPENDENT_REVIEW_PACKET.md); assistant-led work cannot satisfy this gate.
+The new formatted-content pilot is documented at `formatted_stories/1-enoch-charles-1893/`. The related 1893 searchable-text-layer comparison for pp.57–62 is consolidated in `1893-witness-collation.md` within that directory. This is not a new page-image inspection and does not change the ledger: page/layout inspection remains 41/254; full line-by-line diplomatic proofing remains 0/254. Independent human approval remains pending. A second reviewer must complete the separate [review packet](../../../formatted_stories/1-enoch-charles-1893/INDEPENDENT_REVIEW_PACKET.md); assistant-led work cannot satisfy this gate.
 
 
 ## Individual high-resolution BookReader inspection — printed pp.85–94 — 26 November 2026
@@ -527,4 +527,13 @@ These are page-identity and layout inspections only. I checked folio, running he
 
 Detailed record: `artifacts/1-enoch-1893/reports/collations/pp85-94-facsimile-collation-review.md`.
 
-**Ledger remains:** 40/254 page/layout inspections; 0/254 completed full line-by-line diplomatic proofing; independent human approval pending. The ten image-anchored observations do not change the full-proofing count.
+**Ledger remains:** 41/254 page/layout inspections; 0/254 completed full line-by-line diplomatic proofing; independent human approval pending. The ten image-anchored observations do not change the full-proofing count.
+
+
+## pp.95–104 visual inspection — in progress (2026-11-26)
+
+- [x] Printed p.95 (BookReader leaf n116; 1360×2274 JPEG) opened individually; folio, heading, Chapter XXII.6–12 coverage, body layout, and lower apparatus placement inspected.
+- [ ] Individually open pp.96–104 and record page-specific layout observations.
+- [ ] Perform full line-by-line diplomatic comparison for pp.95–104 after visual inspection.
+
+The ten JPEGs for pp.95–104 are already committed and recorded in `artifacts/1-enoch-1893/manifests/bookreader-pages-95-104-large.json`. An OCR/alignment pilot exists at `artifacts/1-enoch-1893/reports/diplomatic_proofing/pilot_pp95-104_detailed.md`; its automated matches are leads, not proof. Current total: 41/254 page/layout inspections; 0/254 complete line-by-line diplomatic proofing; independent human approval pending.
