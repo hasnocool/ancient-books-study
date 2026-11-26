@@ -23,7 +23,8 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | VI — In God Alone Is Good, and Elsewhere Nowhere | [Read story](./tractates/tractate-06-story.md) | Provisional draft |
 | VII — The Greatest Ill Among Men Is Ignorance of God | [Read story](./tractates/tractate-07-story.md) | Provisional draft |
 | VIII — That No One of Existing Things Doth Perish | [Read story](./tractates/tractate-08-story.md) | Provisional draft |
-| IX–XV | Not yet created | Queued |
+| IX — On Thought and Sense | [Read story](./tractates/tractate-09-story.md) | Provisional draft |
+| X–XV | Not yet created | Queued |
 
 ## Source
 
