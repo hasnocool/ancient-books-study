@@ -1,0 +1,34 @@
+# .github/workflows/proofing-integrity.yml
+name: Proofing dataset integrity
+
+on:
+  push:
+    paths:
+      - "artifacts/1-enoch-1893/reports/diplomatic_proofing_full/**"
+      - "formatted_editions/books/book-of-enoch-charles-1893/IMAGE_PROOFING_LOG.md"
+      - "AGENTS.md"
+      - "tests/test_proofing_dataset_integrity.py"
+      - ".github/workflows/proofing-integrity.yml"
+  pull_request:
+    paths:
+      - "artifacts/1-enoch-1893/reports/diplomatic_proofing_full/**"
+      - "formatted_editions/books/book-of-enoch-charles-1893/IMAGE_PROOFING_LOG.md"
+      - "AGENTS.md"
+      - "tests/test_proofing_dataset_integrity.py"
+      - ".github/workflows/proofing-integrity.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  proofing-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run proofing integrity regression tests
+        run: python -m unittest discover -s tests -p "test_proofing_dataset_integrity.py" -v
