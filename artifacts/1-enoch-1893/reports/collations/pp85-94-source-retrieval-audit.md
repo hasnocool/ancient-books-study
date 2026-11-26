@@ -14,7 +14,7 @@ It contains nine page-specific OCR text files and nine `printed_pNNN_full.png` f
 
 The separate `cornell_pages_85_106` directory contains PDF ordinals 85–106, which correspond to printed pp.63–84, not the target printed pp.85–94. Its clear page_0085.png is printed p.63 and must not be mistaken for target p.85.
 
-No BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` are present under the expected `bookreader-large` directory. Attempts to retrieve them directly from Internet Archive still did not return usable image bytes.
+No BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` are present under the expected `bookreader-large` directory. Attempts to retrieve them directly from Internet Archive still did not return usable image bytes. The repository does, however, contain the original Cornell PDF at `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf` (16,777,301 bytes; Git blob `38be2b5e0e95779f92dcb19a745fc654b010b711`). A reproducible renderer has been added at `scripts/render_cornell_1893_pages.py`; it exports PDF pages 107–116 as raw grayscale PNGs plus separate contrast-normalized viewing derivatives. The renderer has not yet been executed in this environment because local network/DNS access is unavailable and the GitHub connector does not expose a local binary-rendering path.
 
 ## Per-page asset status
 
@@ -44,4 +44,4 @@ The exact paths, Git blob SHAs, and repository byte sizes are recorded in `artif
 - Transcription: unchanged.
 - Independent human approval: outstanding.
 
-**Next required operation:** repair/re-export the native PNGs from the source PDF or obtain the original BookReader JPEGs for leaves n106–n115. Reconcile the flagged OCR/source differences against legible Cornell pixels. Do not treat the OCR-only pages or the parallel p.91 text as image proofing or increment the visual-inspection ledger.
+**Next required operation:** execute `python -m pip install pymupdf pillow` followed by `python scripts/render_cornell_1893_pages.py --dpi 300` in a working checkout. Inspect the raw and normalized exports individually; retain raw renders as the evidentiary files and do not increment visual-proofing counts until the pixels are actually inspected. Reconcile the flagged OCR/source differences against legible Cornell pixels. Do not treat the OCR-only pages or the parallel p.91 text as image proofing or increment the visual-inspection ledger.
