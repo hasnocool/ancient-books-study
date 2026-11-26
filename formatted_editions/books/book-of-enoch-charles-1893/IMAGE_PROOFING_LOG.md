@@ -567,3 +567,21 @@ Key image-anchored corrections and distinctions:
 The review also records repeated omitted initial conjunctions, parenthetical omissions, punctuation differences, and altered wording for later line-by-line resolution. This is not yet a complete transcription of every English line, Greek parallel, Ethiopic reading, siglum, or apparatus entry. No derivative wording has been changed.
 
 **Ledger:** 50/254 page/layout inspections; 0/254 complete full line-by-line diplomatic proofing; independent human approval pending. The new first-pass review does not advance the diplomatic-proofing count.
+
+
+## pp.85–104 diplomatic collation working ledger — 26 November 2026
+
+A structured working ledger has been added at `artifacts/1-enoch-1893/reports/collations/pp85-104-diplomatic-collation-working-ledger.md`. It consolidates page-specific English body-text candidates, Greek parallel/apparatus locations, Ethiopic witness/sigla locations, page continuities, brackets, and parenthetical/punctuation issues.
+
+The working ledger explicitly distinguishes:
+- English body readings from Charles's explanatory notes and critical apparatus.
+- Greek fragments/parallels from the Ethiopic narrative (notably the p.86 fragment).
+- Ethiopic manuscript readings from Charles's proposed emendations and Dillmann's German translation.
+- Confirmed image readings from OCR-only candidates and unresolved glyphs.
+- Editorial proposals from the unchanged derivative edition.
+
+High-priority loci include XV.12 (initial conjunction; “and against the women” is present), XX.7 (Cherubin body reading vs separate Seraphim apparatus hypothesis), XXV.1 (“dost thou”), XXV.6 (“thy fathers”), XXX.1 parentheticals, XXXI.3 (“the taste of that fruit”), XXXIII.1 “(I saw)”, and XXXIV.3 “(at such times)”. The ledger withdraws the false p.104 west/south variant and preserves XXXV and XXXVI.1 as consecutive chapter units.
+
+This is a working discrepancy ledger, not a completed character-accurate transcription. The OCR for Greek and Ethiopic is not reliable enough to normalize; those witnesses and manuscript sigla still require direct glyph-by-glyph transcription from the page images. The Cornell p.91 OCR gap must remain explicitly distinguished from the parallel Knox/Toronto witness.
+
+**Progress remains conservative:** 50/254 page/layout inspections; 0/254 completed full line-by-line diplomatic proofing; independent human approval pending. No derivative text has been modified.
