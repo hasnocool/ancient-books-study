@@ -20,7 +20,7 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | III — The Sacred Sermon | [Read story](./tractates/tractate-03-story.md) | Provisional draft |
 | IV — The Cup or Monad | [Read story](./tractates/tractate-04-story.md) | Provisional draft |
 | V — Though Unmanifest, God Is Most Manifest | [Read story](./tractates/tractate-05-story.md) | Provisional draft |
-| VI–XV | Not yet created | Queued |
+| VI — In God Alone Is Good, and Elsewhere Nowhere | [Read story](./tractates/tractate-06-story.md) | Provisional draft |\n| VII–XV | Not yet created | Queued |
 
 ## Source
 
