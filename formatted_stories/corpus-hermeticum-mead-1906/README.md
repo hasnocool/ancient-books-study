@@ -24,7 +24,8 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | VII — The Greatest Ill Among Men Is Ignorance of God | [Read story](./tractates/tractate-07-story.md) | Provisional draft |
 | VIII — That No One of Existing Things Doth Perish | [Read story](./tractates/tractate-08-story.md) | Provisional draft |
 | IX — On Thought and Sense | [Read story](./tractates/tractate-09-story.md) | Provisional draft |
-| X–XV | Not yet created | Queued |
+| X — The Key | [Read story](./tractates/tractate-10-story.md) | Provisional draft |
+| XI–XV | Not yet created | Queued |
 
 ## Source
 
