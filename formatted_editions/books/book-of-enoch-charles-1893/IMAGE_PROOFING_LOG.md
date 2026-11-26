@@ -514,3 +514,17 @@ These are page-identity and layout inspections only. I checked folio, running he
 - **p.91:** The page image supplies direct Cornell visual evidence for the passage previously recovered only from a parallel scan. It does not create a missing Cornell OCR text layer, nor does it establish a full line-by-line collation.
 
 **Proofing boundary:** 10/10 pages individually opened and checked for page identity/layout. Full line-by-line diplomatic textual/apparatus proofing for these pages remains 0/10. Independent human approval remains pending.
+
+
+## pp.85–94 facsimile collation review — 2026-11-26
+
+- [x] Opened all ten committed high-resolution BookReader JPEGs individually and recorded image-anchored page observations.
+- [x] Confirmed the p.92 body reading “Paradise and the serpents and the Cherubin”; Charles's “may be Seraphim” statement is an apparatus hypothesis, not a body-text replacement.
+- [x] Confirmed the printed interpolation bracket opens at XVII.1 (p.87) and closes after XIX.3 (p.91).
+- [x] Confirmed p.86's Greek fragment is explicitly outside the Ethiopic version and p.91's Cornell JPEG is readable despite missing Cornell OCR.
+- [ ] Complete word-for-word English comparison and transcribe all Greek, Ethiopic, sigla, punctuation, and apparatus for pp.85–94.
+- [ ] Resolve all flagged differences in a separate editorial review queue; do not silently edit the derivative.
+
+Detailed record: `artifacts/1-enoch-1893/reports/collations/pp85-94-facsimile-collation-review.md`.
+
+**Ledger remains:** 40/254 page/layout inspections; 0/254 completed full line-by-line diplomatic proofing; independent human approval pending. The ten image-anchored observations do not change the full-proofing count.
