@@ -25,21 +25,21 @@ Chapter 1 introduces Enoch’s blessing and vision as a message for future gener
 ### 1:3–5
 
 - **What the text says:** The Holy and Great One is pictured as leaving the divine dwelling and appearing with hosts and power.
-- **What it means:** The Holy and Great One is pictured as leaving the divine dwelling and appearing with hosts and power. The watchers respond with fear. The imagery communicates the overwhelming scale of the divine arrival and its effect on the heavenly and earthly order.
+- **What it means:** The scene uses royal and cosmic imagery to portray divine arrival as an event that no created power can resist. The watchers’ fear signals the seriousness of the appearance before the judgment on earth is described.
 - **Textual evidence:** Repository source, 1:3–5; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** “Watchers” is the term used in this passage. Its precise referent should not be expanded here beyond the text’s portrayal of beings who quake at the appearance.
 
 ### 1:6–7
 
 - **What the text says:** Shaking mountains, melting hills, and a torn earth portray judgment as cosmic in scale.
-- **What it means:** Shaking mountains, melting hills, and a torn earth portray judgment as cosmic in scale. The language is vivid and catastrophic rather than a technical description of a physical process.
+- **What it means:** The imagery makes the judgment comprehensive: even the apparently stable features of the world are depicted as unable to withstand it. This is poetic-apocalyptic language, so it should not be converted into a literal geological forecast.
 - **Textual evidence:** Repository source, 1:6–7; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The text says judgment reaches everything and all the righteous; the next verses clarify that the righteous receive protection and peace. The apparent tension should be read with that immediate continuation in view.
 
 ### 1:8–9
 
 - **What the text says:** The vision distinguishes the fate of the righteous from that of the ungodly.
-- **What it means:** The vision distinguishes the fate of the righteous from that of the ungodly. The righteous receive peace, protection, grace, blessing, and divine light. The holy host accompanies the coming judge, who judges the ungodly and exposes their deeds.
+- **What it means:** The contrast is the chapter’s central ethical claim: divine judgment is not presented as indiscriminate destruction, because the passage immediately distinguishes protection for the righteous from condemnation of the ungodly. The closing appeal to deeds makes conduct, rather than status alone, central to the accusation.
 - **Textual evidence:** Repository source, 1:8–9; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The chapter makes a strong moral distinction, but it does not provide a detailed list of every person or group included in either category.
 
