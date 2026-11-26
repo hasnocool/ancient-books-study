@@ -3,7 +3,55 @@
     "total_pages": 254,
     "total_chapters": 108,
     "total_verses": 130,
-    "sections_processed": 16
+    "sections_processed": 16,
+    "audit_status": "INCOMPLETE_UNVALIDATED",
+    "audit_note": "Section ranges are not complete non-overlapping coverage. This dataset is an OCR/apparatus extraction artifact, not completed diplomatic proofing.",
+    "coverage_start_page": 55,
+    "coverage_end_page": 308,
+    "missing_printed_pages": [
+      260,
+      261,
+      262,
+      263,
+      264
+    ],
+    "overlapping_printed_pages": [
+      {
+        "page": 301,
+        "section_count": 2
+      },
+      {
+        "page": 302,
+        "section_count": 2
+      },
+      {
+        "page": 303,
+        "section_count": 2
+      },
+      {
+        "page": 304,
+        "section_count": 2
+      },
+      {
+        "page": 305,
+        "section_count": 2
+      },
+      {
+        "page": 306,
+        "section_count": 2
+      },
+      {
+        "page": 307,
+        "section_count": 2
+      },
+      {
+        "page": 308,
+        "section_count": 2
+      }
+    ],
+    "human_verified_discrepancies": 0,
+    "automated_queue_rows": 18,
+    "automated_queue_status": "RECLASSIFIED_PENDING_HUMAN_REVIEW"
   },
   "sections": {
     "pp55-62": {
@@ -26,28 +74,28 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Holy One.\u2019 7. The earth will be rent. So G \u2018TwmT",
-          "charles_note": "Holy One.\u2019 7. The earth will be rent. So G \u2018TwmT",
+          "witnesses": "Holy One.’ 7. The earth will be rent. So G ‘TwmT",
+          "charles_note": "Holy One.’ 7. The earth will be rent. So G ‘TwmT",
           "repo_has": false
         },
         {
           "page": 60,
-          "lemma": "Ethiopic MSS,, but the text of G implies them, giving ACZm\u00a5",
+          "lemma": "Ethiopic MSS,, but the text of G implies them, giving ACZm¥",
           "sigla": [
             "G"
           ],
-          "witnesses": "Ethiopic MSS,, but the text of G implies them, giving ACZm\u00a5",
-          "charles_note": "Ethiopic MSS,, but the text of G implies them, giving ACZm\u00a5",
+          "witnesses": "Ethiopic MSS,, but the text of G implies them, giving ACZm¥",
+          "charles_note": "Ethiopic MSS,, but the text of G implies them, giving ACZm¥",
           "repo_has": false
         },
         {
           "page": 61,
-          "lemma": "execration unto all the righteous, reading fla\u00bb with G instead of",
+          "lemma": "execration unto all the righteous, reading fla» with G instead of",
           "sigla": [
             "G"
           ],
-          "witnesses": "execration unto all the righteous, reading fla\u00bb with G instead of",
-          "charles_note": "execration unto all the righteous, reading fla\u00bb with G instead of",
+          "witnesses": "execration unto all the righteous, reading fla» with G instead of",
+          "charles_note": "execration unto all the righteous, reading fla» with G instead of",
           "repo_has": false
         },
         {
@@ -77,8 +125,8 @@
             "G",
             "M"
           ],
-          "witnesses": "VI. 3. Pay the penalty of a great sin. So G M 4.\u00a3%: AHmMET:",
-          "charles_note": "VI. 3. Pay the penalty of a great sin. So G M 4.\u00a3%: AHmMET:",
+          "witnesses": "VI. 3. Pay the penalty of a great sin. So G M 4.£%: AHmMET:",
+          "charles_note": "VI. 3. Pay the penalty of a great sin. So G M 4.£%: AHmMET:",
           "repo_has": false
         }
       ],
@@ -115,12 +163,12 @@
         },
         {
           "page": 64,
-          "lemma": "abr\u00e9v oi d\u00e9ka, which, as M",
+          "lemma": "abrév oi déka, which, as M",
           "sigla": [
             "M"
           ],
-          "witnesses": "abr\u00e9v oi d\u00e9ka, which, as M. Bouriant proposes, should be emended",
-          "charles_note": "abr\u00e9v oi d\u00e9ka, which, as M. Bouriant proposes, should be emended",
+          "witnesses": "abrév oi déka, which, as M. Bouriant proposes, should be emended",
+          "charles_note": "abrév oi déka, which, as M. Bouriant proposes, should be emended",
           "repo_has": false
         },
         {
@@ -129,8 +177,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So G TwAt. Dln. gives T@mAt and translates \u2018the metals of",
-          "charles_note": "So G TwAt. Dln. gives T@mAt and translates \u2018the metals of",
+          "witnesses": "So G TwAt. Dln. gives T@mAt and translates ‘the metals of",
+          "charles_note": "So G TwAt. Dln. gives T@mAt and translates ‘the metals of",
           "repo_has": false
         },
         {
@@ -167,12 +215,12 @@
         },
         {
           "page": 74,
-          "lemma": "of \u00aeALND-T, or @ALNT with G",
+          "lemma": "of ®ALND-T, or @ALNT with G",
           "sigla": [
             "G"
           ],
-          "witnesses": "of \u00aeALND-T, or @ALNT with G.  Although they hope to live",
-          "charles_note": "of \u00aeALND-T, or @ALNT with G.  Although they hope to live",
+          "witnesses": "of ®ALND-T, or @ALNT with G.  Although they hope to live",
+          "charles_note": "of ®ALND-T, or @ALNT with G.  Although they hope to live",
           "repo_has": false
         }
       ],
@@ -213,8 +261,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "XIV. 4. G inserts after v. 4 @&aI\u00b0Lal: &T%&h: oOrt: Ha",
-          "charles_note": "XIV. 4. G inserts after v. 4 @&aI\u00b0Lal: &T%&h: oOrt: Ha",
+          "witnesses": "XIV. 4. G inserts after v. 4 @&aI°Lal: &T%&h: oOrt: Ha",
+          "charles_note": "XIV. 4. G inserts after v. 4 @&aI°Lal: &T%&h: oOrt: Ha",
           "repo_has": false
         },
         {
@@ -223,18 +271,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So G and the Giz. Gk. Dln. gives \u2018He that is great in glory.",
-          "charles_note": "So G and the Giz. Gk. Dln. gives \u2018He that is great in glory.",
+          "witnesses": "So G and the Giz. Gk. Dln. gives ‘He that is great in glory.",
+          "charles_note": "So G and the Giz. Gk. Dln. gives ‘He that is great in glory.",
           "repo_has": false
         },
         {
           "page": 83,
-          "lemma": "\u2018hear",
+          "lemma": "‘hear",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018hear.\u201d 5. That thus, &c. So G: hav; ho7U: ALFI7: 20C:",
-          "charles_note": "\u2018hear.\u201d 5. That thus, &c. So G: hav; ho7U: ALFI7: 20C:",
+          "witnesses": "‘hear.” 5. That thus, &c. So G: hav; ho7U: ALFI7: 20C:",
+          "charles_note": "‘hear.” 5. That thus, &c. So G: hav; ho7U: ALFI7: 20C:",
           "repo_has": false
         },
         {
@@ -305,8 +353,8 @@
             "G",
             "M"
           ],
-          "witnesses": "Gk. supports G. 3. The places of the luminaries. So M O\u2014",
-          "charles_note": "Gk. supports G. 3. The places of the luminaries. So M O\u2014",
+          "witnesses": "Gk. supports G. 3. The places of the luminaries. So M O—",
+          "charles_note": "Gk. supports G. 3. The places of the luminaries. So M O—",
           "repo_has": false
         },
         {
@@ -325,8 +373,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "XVIIL 4. Instead of .\u20ac0CH: ANNA, G has the strange reading",
-          "charles_note": "XVIIL 4. Instead of .\u20ac0CH: ANNA, G has the strange reading",
+          "witnesses": "XVIIL 4. Instead of .€0CH: ANNA, G has the strange reading",
+          "charles_note": "XVIIL 4. Instead of .€0CH: ANNA, G has the strange reading",
           "repo_has": false
         },
         {
@@ -347,8 +395,8 @@
             "G",
             "M"
           ],
-          "witnesses": "So G M, and the Giz. Gk. Dln. and FHO \u2018has seen.\u2019",
-          "charles_note": "So G M, and the Giz. Gk. Dln. and FHO \u2018has seen.\u2019",
+          "witnesses": "So G M, and the Giz. Gk. Dln. and FHO ‘has seen.’",
+          "charles_note": "So G M, and the Giz. Gk. Dln. and FHO ‘has seen.’",
           "repo_has": false
         },
         {
@@ -357,8 +405,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "XX. 2. The angel over the world. So G HA%AJ\u00ae, and the",
-          "charles_note": "XX. 2. The angel over the world. So G HA%AJ\u00ae, and the",
+          "witnesses": "XX. 2. The angel over the world. So G HA%AJ®, and the",
+          "charles_note": "XX. 2. The angel over the world. So G HA%AJ®, and the",
           "repo_has": false
         },
         {
@@ -377,8 +425,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "high heaven. A place chaotic. So G apa\u2019h; Hnk: LA@- but",
-          "charles_note": "high heaven. A place chaotic. So G apa\u2019h; Hnk: LA@- but",
+          "witnesses": "high heaven. A place chaotic. So G apa’h; Hnk: LA@- but",
+          "charles_note": "high heaven. A place chaotic. So G apa’h; Hnk: LA@- but",
           "repo_has": false
         },
         {
@@ -387,19 +435,19 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "oketagroy. Later MSS. add \u2018empty \u2019 after * place\u2019 against G and",
-          "charles_note": "oketagroy. Later MSS. add \u2018empty \u2019 after * place\u2019 against G and",
+          "witnesses": "oketagroy. Later MSS. add ‘empty ’ after * place’ against G and",
+          "charles_note": "oketagroy. Later MSS. add ‘empty ’ after * place’ against G and",
           "repo_has": false
         },
         {
           "page": 93,
-          "lemma": "\u00a2 guide",
+          "lemma": "¢ guide",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "\u00a2 guide.\u2019 \u2018Why dost thou enquire and art curious? So G M.",
-          "charles_note": "\u00a2 guide.\u2019 \u2018Why dost thou enquire and art curious? So G M.",
+          "witnesses": "¢ guide.’ ‘Why dost thou enquire and art curious? So G M.",
+          "charles_note": "¢ guide.’ ‘Why dost thou enquire and art curious? So G M.",
           "repo_has": false
         },
         {
@@ -414,12 +462,12 @@
         },
         {
           "page": 93,
-          "lemma": "\u2018Most High God",
+          "lemma": "‘Most High God",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018Most High God.\u2019 7. The place was cleft. So G, reading",
-          "charles_note": "\u2018Most High God.\u2019 7. The place was cleft. So G, reading",
+          "witnesses": "‘Most High God.’ 7. The place was cleft. So G, reading",
+          "charles_note": "‘Most High God.’ 7. The place was cleft. So G, reading",
           "repo_has": false
         },
         {
@@ -459,8 +507,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "the souls of the dead.\u201d The Giz. Gk. supports G. See Crit. Note",
-          "charles_note": "the souls of the dead.\u201d The Giz. Gk. supports G. See Crit. Note",
+          "witnesses": "the souls of the dead.” The Giz. Gk. supports G. See Crit. Note",
+          "charles_note": "the souls of the dead.” The Giz. Gk. supports G. See Crit. Note",
           "repo_has": false
         },
         {
@@ -469,18 +517,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "and light. G may be right here: \u2018a",
-          "charles_note": "and light. G may be right here: \u2018a",
+          "witnesses": "and light. G may be right here: ‘a",
+          "charles_note": "and light. G may be right here: ‘a",
           "repo_has": false
         },
         {
           "page": 97,
-          "lemma": "inserts @%%37% \u2018one founded on the other",
+          "lemma": "inserts @%%37% ‘one founded on the other",
           "sigla": [
             "G"
           ],
-          "witnesses": "inserts @%%37% \u2018one founded on the other.\u201d The Giz. Gk. supports G.",
-          "charles_note": "inserts @%%37% \u2018one founded on the other.\u201d The Giz. Gk. supports G.",
+          "witnesses": "inserts @%%37% ‘one founded on the other.” The Giz. Gk. supports G.",
+          "charles_note": "inserts @%%37% ‘one founded on the other.” The Giz. Gk. supports G.",
           "repo_has": false
         },
         {
@@ -499,8 +547,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "werden.\u2019 6. Will enter the holy habitation. So G: @-I't:",
-          "charles_note": "werden.\u2019 6. Will enter the holy habitation. So G: @-I't:",
+          "witnesses": "werden.’ 6. Will enter the holy habitation. So G: @-I't:",
+          "charles_note": "werden.’ 6. Will enter the holy habitation. So G: @-I't:",
           "repo_has": false
         },
         {
@@ -509,8 +557,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "XXVL 1. G omits 49\u00b000: but FHLM N O support Din.",
-          "charles_note": "XXVL 1. G omits 49\u00b000: but FHLM N O support Din.",
+          "witnesses": "XXVL 1. G omits 49°00: but FHLM N O support Din.",
+          "charles_note": "XXVL 1. G omits 49°00: but FHLM N O support Din.",
           "repo_has": false
         },
         {
@@ -530,8 +578,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So G: @L\u00aeOA: &I\u00b0LU: hov; L2PCE. Dln. and FHKLNO",
-          "charles_note": "So G: @L\u00aeOA: &I\u00b0LU: hov; L2PCE. Dln. and FHKLNO",
+          "witnesses": "So G: @L®OA: &I°LU: hov; L2PCE. Dln. and FHKLNO",
+          "charles_note": "So G: @L®OA: &I°LU: hov; L2PCE. Dln. and FHKLNO",
           "repo_has": false
         },
         {
@@ -540,8 +588,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "flowed forth from them as it were nectar.\u201d M points to the text",
-          "charles_note": "flowed forth from them as it were nectar.\u201d M points to the text",
+          "witnesses": "flowed forth from them as it were nectar.” M points to the text",
+          "charles_note": "flowed forth from them as it were nectar.” M points to the text",
           "repo_has": false
         },
         {
@@ -561,8 +609,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "MSS. but G, which reads 970 =* device.\u2019",
-          "charles_note": "MSS. but G, which reads 970 =* device.\u2019",
+          "witnesses": "MSS. but G, which reads 970 =* device.’",
+          "charles_note": "MSS. but G, which reads 970 =* device.’",
           "repo_has": false
         }
       ],
@@ -640,12 +688,12 @@
         },
         {
           "page": 117,
-          "lemma": "Instead of &l =\" until\u2019 G reads &flov = for",
+          "lemma": "Instead of &l =\" until’ G reads &flov = for",
           "sigla": [
             "G"
           ],
-          "witnesses": "Instead of &l =\" until\u2019 G reads &flov = for.\u2019",
-          "charles_note": "Instead of &l =\" until\u2019 G reads &flov = for.\u2019",
+          "witnesses": "Instead of &l =\" until’ G reads &flov = for.’",
+          "charles_note": "Instead of &l =\" until’ G reads &flov = for.’",
           "repo_has": false
         },
         {
@@ -654,8 +702,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "that sleep not. So G A.LIm-av., This is better than Dln.\u2019s",
-          "charles_note": "that sleep not. So G A.LIm-av., This is better than Dln.\u2019s",
+          "witnesses": "that sleep not. So G A.LIm-av., This is better than Dln.’s",
+          "charles_note": "that sleep not. So G A.LIm-av., This is better than Dln.’s",
           "repo_has": false
         },
         {
@@ -664,19 +712,19 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "12. Dln\u2019s @dm-av+ is probably an emendation of M\u2019s reading",
-          "charles_note": "12. Dln\u2019s @dm-av+ is probably an emendation of M\u2019s reading",
+          "witnesses": "12. Dln’s @dm-av+ is probably an emendation of M’s reading",
+          "charles_note": "12. Dln’s @dm-av+ is probably an emendation of M’s reading",
           "repo_has": false
         },
         {
           "page": 120,
-          "lemma": "unto him\u2019 against G M",
+          "lemma": "unto him’ against G M",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "unto him\u2019 against G M. 9. This first is Michael. So GM.",
-          "charles_note": "unto him\u2019 against G M. 9. This first is Michael. So GM.",
+          "witnesses": "unto him’ against G M. 9. This first is Michael. So GM.",
+          "charles_note": "unto him’ against G M. 9. This first is Michael. So GM.",
           "repo_has": false
         },
         {
@@ -705,19 +753,19 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "Cf. the co-ordinate verb in the previous line \u00a30.L%.. M Lid(r",
-          "charles_note": "Cf. the co-ordinate verb in the previous line \u00a30.L%.. M Lid(r",
+          "witnesses": "Cf. the co-ordinate verb in the previous line £0.L%.. M Lid(r",
+          "charles_note": "Cf. the co-ordinate verb in the previous line £0.L%.. M Lid(r",
           "repo_has": false
         },
         {
           "page": 121,
-          "lemma": "\u2014an easy corruption of G",
+          "lemma": "—an easy corruption of G",
           "sigla": [
             "G",
             "G"
           ],
-          "witnesses": "\u2014an easy corruption of G. 3. The dust of the earth. G reads",
-          "charles_note": "\u2014an easy corruption of G. 3. The dust of the earth. G reads",
+          "witnesses": "—an easy corruption of G. 3. The dust of the earth. G reads",
+          "charles_note": "—an easy corruption of G. 3. The dust of the earth. G reads",
           "repo_has": false
         },
         {
@@ -726,8 +774,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "8. The sun. So G. All other MSS, read \u2018the shining sun\u2019",
-          "charles_note": "8. The sun. So G. All other MSS, read \u2018the shining sun\u2019",
+          "witnesses": "8. The sun. So G. All other MSS, read ‘the shining sun’",
+          "charles_note": "8. The sun. So G. All other MSS, read ‘the shining sun’",
           "repo_has": false
         },
         {
@@ -742,12 +790,12 @@
         },
         {
           "page": 123,
-          "lemma": "Lord of Spirits\u201d vv",
+          "lemma": "Lord of Spirits” vv",
           "sigla": [
             "G"
           ],
-          "witnesses": "Lord of Spirits\u201d vv. 3-8 are an interpolation, G differs from the",
-          "charles_note": "Lord of Spirits\u201d vv. 3-8 are an interpolation, G differs from the",
+          "witnesses": "Lord of Spirits” vv. 3-8 are an interpolation, G differs from the",
+          "charles_note": "Lord of Spirits” vv. 3-8 are an interpolation, G differs from the",
           "repo_has": false
         },
         {
@@ -776,8 +824,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "M also omits it, but varies otherwise. Other MSS. give \u2018The",
-          "charles_note": "M also omits it, but varies otherwise. Other MSS. give \u2018The",
+          "witnesses": "M also omits it, but varies otherwise. Other MSS. give ‘The",
+          "charles_note": "M also omits it, but varies otherwise. Other MSS. give ‘The",
           "repo_has": false
         }
       ],
@@ -797,8 +845,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "XLV. 3. Mine Elect One. So G 44\u00a3%. FHLMN",
-          "charles_note": "XLV. 3. Mine Elect One. So G 44\u00a3%. FHLMN",
+          "witnesses": "XLV. 3. Mine Elect One. So G 44£%. FHLMN",
+          "charles_note": "XLV. 3. Mine Elect One. So G 44£%. FHLMN",
           "repo_has": false
         },
         {
@@ -813,12 +861,12 @@
         },
         {
           "page": 129,
-          "lemma": "M@i\ufb01w' 4",
+          "lemma": "M@iﬁw' 4",
           "sigla": [
             "M"
           ],
-          "witnesses": "M@i\ufb01w' 4. And this Son of Man whom thou",
-          "charles_note": "M@i\ufb01w' 4. And this Son of Man whom thou",
+          "witnesses": "M@iﬁw' 4. And this Son of Man whom thou",
+          "charles_note": "M@iﬁw' 4. And this Son of Man whom thou",
           "repo_has": false
         },
         {
@@ -849,8 +897,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "have they denied. So G. FHLMNO and Dln. read \u00a2The",
-          "charles_note": "have they denied. So G. FHLMNO and Dln. read \u00a2The",
+          "witnesses": "have they denied. So G. FHLMNO and Dln. read ¢The",
+          "charles_note": "have they denied. So G. FHLMNO and Dln. read ¢The",
           "repo_has": false
         },
         {
@@ -869,8 +917,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "regard to their life.\u201d G\u2019s reading preserves the parallelism in both",
-          "charles_note": "regard to their life.\u201d G\u2019s reading preserves the parallelism in both",
+          "witnesses": "regard to their life.” G’s reading preserves the parallelism in both",
+          "charles_note": "regard to their life.” G’s reading preserves the parallelism in both",
           "repo_has": false
         },
         {
@@ -889,8 +937,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "Other MSS. except M read: \u2018before the face of the righteous.\u2019",
-          "charles_note": "Other MSS. except M read: \u2018before the face of the righteous.\u2019",
+          "witnesses": "Other MSS. except M read: ‘before the face of the righteous.’",
+          "charles_note": "Other MSS. except M read: ‘before the face of the righteous.’",
           "repo_has": false
         },
         {
@@ -926,12 +974,12 @@
         },
         {
           "page": 137,
-          "lemma": "him\u2019 4",
+          "lemma": "him’ 4",
           "sigla": [
             "G"
           ],
-          "witnesses": "him\u2019 4. He is the Elect One. Instead of 44-\u00a3 G reads 44.9\u00b0",
-          "charles_note": "him\u2019 4. He is the Elect One. Instead of 44-\u00a3 G reads 44.9\u00b0",
+          "witnesses": "him’ 4. He is the Elect One. Instead of 44-£ G reads 44.9°",
+          "charles_note": "him’ 4. He is the Elect One. Instead of 44-£ G reads 44.9°",
           "repo_has": false
         },
         {
@@ -951,8 +999,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "May repent. LiHlch-. G reads LAV \u2018may",
-          "charles_note": "May repent. LiHlch-. G reads LAV \u2018may",
+          "witnesses": "May repent. LiHlch-. G reads LAV ‘may",
+          "charles_note": "May repent. LiHlch-. G reads LAV ‘may",
           "repo_has": false
         },
         {
@@ -981,18 +1029,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "of G. Dln. is supported by FHLN O and gives: \u00a2 That which is",
-          "charles_note": "of G. Dln. is supported by FHLN O and gives: \u00a2 That which is",
+          "witnesses": "of G. Dln. is supported by FHLN O and gives: ¢ That which is",
+          "charles_note": "of G. Dln. is supported by FHLN O and gives: ¢ That which is",
           "repo_has": false
         },
         {
           "page": 140,
-          "lemma": "to it, which it has received\u201d M agrees with DIn",
+          "lemma": "to it, which it has received” M agrees with DIn",
           "sigla": [
             "M"
           ],
-          "witnesses": "to it, which it has received\u201d M agrees with DIn. but that it",
-          "charles_note": "to it, which it has received\u201d M agrees with DIn. but that it",
+          "witnesses": "to it, which it has received” M agrees with DIn. but that it",
+          "charles_note": "to it, which it has received” M agrees with DIn. but that it",
           "repo_has": false
         },
         {
@@ -1002,19 +1050,19 @@
             "G",
             "M"
           ],
-          "witnesses": "On My throne. So G M. Other MSS. and Dln. \u2018on His throne.\u2019",
-          "charles_note": "On My throne. So G M. Other MSS. and Dln. \u2018on His throne.\u2019",
+          "witnesses": "On My throne. So G M. Other MSS. and Dln. ‘on His throne.’",
+          "charles_note": "On My throne. So G M. Other MSS. and Dln. ‘on His throne.’",
           "repo_has": false
         },
         {
           "page": 141,
-          "lemma": "G M, omitting the A\u00a3LN",
+          "lemma": "G M, omitting the A£LN",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "G M, omitting the A\u00a3LN: 9\u00b0\u00a3:C of Dln. and FHLNO. Din.",
-          "charles_note": "G M, omitting the A\u00a3LN: 9\u00b0\u00a3:C of Dln. and FHLNO. Din.",
+          "witnesses": "G M, omitting the A£LN: 9°£:C of Dln. and FHLNO. Din.",
+          "charles_note": "G M, omitting the A£LN: 9°£:C of Dln. and FHLNO. Din.",
           "repo_has": false
         },
         {
@@ -1030,12 +1078,12 @@
         },
         {
           "page": 142,
-          "lemma": "established, G reads HnAA=\u00b0which encompasses the Lord of",
+          "lemma": "established, G reads HnAA=°which encompasses the Lord of",
           "sigla": [
             "G"
           ],
-          "witnesses": "established, G reads HnAA=\u00b0which encompasses the Lord of",
-          "charles_note": "established, G reads HnAA=\u00b0which encompasses the Lord of",
+          "witnesses": "established, G reads HnAA=°which encompasses the Lord of",
+          "charles_note": "established, G reads HnAA=°which encompasses the Lord of",
           "repo_has": false
         },
         {
@@ -1045,8 +1093,8 @@
             "G",
             "M"
           ],
-          "witnesses": "Spirits.\u201d 6. Which thine eyes have seen. So G M: HC&\u00a3:",
-          "charles_note": "Spirits.\u201d 6. Which thine eyes have seen. So G M: HC&\u00a3:",
+          "witnesses": "Spirits.” 6. Which thine eyes have seen. So G M: HC&£:",
+          "charles_note": "Spirits.” 6. Which thine eyes have seen. So G M: HC&£:",
           "repo_has": false
         },
         {
@@ -1096,8 +1144,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "of the earth. So G. Other MSS. give \u2018The mighty of this",
-          "charles_note": "of the earth. So G. Other MSS. give \u2018The mighty of this",
+          "witnesses": "of the earth. So G. Other MSS. give ‘The mighty of this",
+          "charles_note": "of the earth. So G. Other MSS. give ‘The mighty of this",
           "repo_has": false
         },
         {
@@ -1118,8 +1166,8 @@
             "G",
             "M"
           ],
-          "witnesses": "G &.\u00a3\u00a2. Dln. gives 7% \u2018 Before His face\u201d M (Yhap; %8\u00a2,",
-          "charles_note": "G &.\u00a3\u00a2. Dln. gives 7% \u2018 Before His face\u201d M (Yhap; %8\u00a2,",
+          "witnesses": "G &.£¢. Dln. gives 7% ‘ Before His face” M (Yhap; %8¢,",
+          "charles_note": "G &.£¢. Dln. gives 7% ‘ Before His face” M (Yhap; %8¢,",
           "repo_has": false
         }
       ],
@@ -1149,8 +1197,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "their jaws. So G \u00a38.\u00a3}% in subj. as preceding verb. Other MSS.",
-          "charles_note": "their jaws. So G \u00a38.\u00a3}% in subj. as preceding verb. Other MSS.",
+          "witnesses": "their jaws. So G £8.£}% in subj. as preceding verb. Other MSS.",
+          "charles_note": "their jaws. So G £8.£}% in subj. as preceding verb. Other MSS.",
           "repo_has": false
         },
         {
@@ -1201,8 +1249,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "culine.\u2019 9. G omits who dwell on the earth, and. 10.",
-          "charles_note": "culine.\u2019 9. G omits who dwell on the earth, and. 10.",
+          "witnesses": "culine.’ 9. G omits who dwell on the earth, and. 10.",
+          "charles_note": "culine.’ 9. G omits who dwell on the earth, and. 10.",
           "repo_has": false
         },
         {
@@ -1233,18 +1281,18 @@
             "G",
             "M"
           ],
-          "witnesses": "omits *so0.\u2019 3. And this will be. So G M reading @H",
-          "charles_note": "omits *so0.\u2019 3. And this will be. So G M reading @H",
+          "witnesses": "omits *so0.’ 3. And this will be. So G M reading @H",
+          "charles_note": "omits *so0.’ 3. And this will be. So G M reading @H",
           "repo_has": false
         },
         {
           "page": 147,
-          "lemma": "instead of @AI\u2122H =* after this it will be",
+          "lemma": "instead of @AI™H =* after this it will be",
           "sigla": [
             "G"
           ],
-          "witnesses": "instead of @AI\u2122H =* after this it will be.\u2019 For \u00a31.:C G reads",
-          "charles_note": "instead of @AI\u2122H =* after this it will be.\u2019 For \u00a31.:C G reads",
+          "witnesses": "instead of @AI™H =* after this it will be.’ For £1.:C G reads",
+          "charles_note": "instead of @AI™H =* after this it will be.’ For £1.:C G reads",
           "repo_has": false
         },
         {
@@ -1253,8 +1301,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "other MSS. and Dln. \u00a2 Throne of My glory.\u201d All his hosts. G",
-          "charles_note": "other MSS. and Dln. \u00a2 Throne of My glory.\u201d All his hosts. G",
+          "witnesses": "other MSS. and Dln. ¢ Throne of My glory.” All his hosts. G",
+          "charles_note": "other MSS. and Dln. ¢ Throne of My glory.” All his hosts. G",
           "repo_has": false
         },
         {
@@ -1269,22 +1317,22 @@
         },
         {
           "page": 148,
-          "lemma": "\u2018scourges and",
+          "lemma": "‘scourges and",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018scourges and.\u2019 2. With the scourges. So G reading",
-          "charles_note": "\u2018scourges and.\u2019 2. With the scourges. So G reading",
+          "witnesses": "‘scourges and.’ 2. With the scourges. So G reading",
+          "charles_note": "‘scourges and.’ 2. With the scourges. So G reading",
           "repo_has": false
         },
         {
           "page": 149,
-          "lemma": "So G &M1&, for \u00a3 DA of Dln",
+          "lemma": "So G &M1&, for £ DA of Dln",
           "sigla": [
             "G"
           ],
-          "witnesses": "So G &M1&, for \u00a3 DA of Dln. < Will gather",
-          "charles_note": "So G &M1&, for \u00a3 DA of Dln. < Will gather",
+          "witnesses": "So G &M1&, for £ DA of Dln. < Will gather",
+          "charles_note": "So G &M1&, for £ DA of Dln. < Will gather",
           "repo_has": false
         },
         {
@@ -1304,8 +1352,8 @@
             "G",
             "M"
           ],
-          "witnesses": "brother.\u2019 Through their slaughter. G omits: M &9\u00b0av+, a",
-          "charles_note": "brother.\u2019 Through their slaughter. G omits: M &9\u00b0av+, a",
+          "witnesses": "brother.’ Through their slaughter. G omits: M &9°av+, a",
+          "charles_note": "brother.’ Through their slaughter. G omits: M &9°av+, a",
           "repo_has": false
         },
         {
@@ -1325,18 +1373,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "nicht vergeblich sein.\u2019 8. They will be swallowed up. G",
-          "charles_note": "nicht vergeblich sein.\u2019 8. They will be swallowed up. G",
+          "witnesses": "nicht vergeblich sein.’ 8. They will be swallowed up. G",
+          "charles_note": "nicht vergeblich sein.’ 8. They will be swallowed up. G",
           "repo_has": false
         },
         {
           "page": 150,
-          "lemma": "reads Svamg\u00ae, Their destruction will be at an end",
+          "lemma": "reads Svamg®, Their destruction will be at an end",
           "sigla": [
             "G"
           ],
-          "witnesses": "reads Svamg\u00ae, Their destruction will be at an end. So G",
-          "charles_note": "reads Svamg\u00ae, Their destruction will be at an end. So G",
+          "witnesses": "reads Svamg®, Their destruction will be at an end. So G",
+          "charles_note": "reads Svamg®, Their destruction will be at an end. So G",
           "repo_has": false
         },
         {
@@ -1355,18 +1403,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "oLoofh: L0 190 G reads o-NE); 0 Lo \u00a30: IGAT. So",
-          "charles_note": "oLoofh: L0 190 G reads o-NE); 0 Lo \u00a30: IGAT. So",
+          "witnesses": "oLoofh: L0 190 G reads o-NE); 0 Lo £0: IGAT. So",
+          "charles_note": "oLoofh: L0 190 G reads o-NE); 0 Lo £0: IGAT. So",
           "repo_has": false
         },
         {
           "page": 151,
-          "lemma": "M but with the correction of \u00a5\u00a7AT into }&AT",
+          "lemma": "M but with the correction of ¥§AT into }&AT",
           "sigla": [
             "M"
           ],
-          "witnesses": "M but with the correction of \u00a5\u00a7AT into }&AT. 2. From the",
-          "charles_note": "M but with the correction of \u00a5\u00a7AT into }&AT. 2. From the",
+          "witnesses": "M but with the correction of ¥§AT into }&AT. 2. From the",
+          "charles_note": "M but with the correction of ¥§AT into }&AT. 2. From the",
           "repo_has": false
         },
         {
@@ -1405,8 +1453,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "2. Before. So G 1P.Lap. Other MSS. \u2018According to the word of.",
-          "charles_note": "2. Before. So G 1P.Lap. Other MSS. \u2018According to the word of.",
+          "witnesses": "2. Before. So G 1P.Lap. Other MSS. ‘According to the word of.",
+          "charles_note": "2. Before. So G 1P.Lap. Other MSS. ‘According to the word of.",
           "repo_has": false
         },
         {
@@ -1427,19 +1475,19 @@
             "G",
             "M"
           ],
-          "witnesses": "loins became relaxed. So G M. Dln. reads \u00a2 my loins bent and",
-          "charles_note": "loins became relaxed. So G M. Dln. reads \u00a2 my loins bent and",
+          "witnesses": "loins became relaxed. So G M. Dln. reads ¢ my loins bent and",
+          "charles_note": "loins became relaxed. So G M. Dln. reads ¢ my loins bent and",
           "repo_has": false
         },
         {
           "page": 153,
-          "lemma": "were relaxed\u201d For Tapll@ \u2018 melted away\u2019 G reads @",
+          "lemma": "were relaxed” For Tapll@ ‘ melted away’ G reads @",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "were relaxed\u201d For Tapll@ \u2018 melted away\u2019 G reads @.&q: M",
-          "charles_note": "were relaxed\u201d For Tapll@ \u2018 melted away\u2019 G reads @.&q: M",
+          "witnesses": "were relaxed” For Tapll@ ‘ melted away’ G reads @.&q: M",
+          "charles_note": "were relaxed” For Tapll@ ‘ melted away’ G reads @.&q: M",
           "repo_has": false
         },
         {
@@ -1449,18 +1497,18 @@
             "G",
             "M"
           ],
-          "witnesses": "holy ones. So G M omitting P80 and reading AI\u00b0$SAT in-",
-          "charles_note": "holy ones. So G M omitting P80 and reading AI\u00b0$SAT in-",
+          "witnesses": "holy ones. So G M omitting P80 and reading AI°$SAT in-",
+          "charles_note": "holy ones. So G M omitting P80 and reading AI°$SAT in-",
           "repo_has": false
         },
         {
           "page": 154,
-          "lemma": "has so disquieted thee? G reads 9\u00b0%l",
+          "lemma": "has so disquieted thee? G reads 9°%l",
           "sigla": [
             "G"
           ],
-          "witnesses": "has so disquieted thee? G reads 9\u00b0%l: &a$: Hnao'H: TUmh.",
-          "charles_note": "has so disquieted thee? G reads 9\u00b0%l: &a$: Hnao'H: TUmh.",
+          "witnesses": "has so disquieted thee? G reads 9°%l: &a$: Hnao'H: TUmh.",
+          "charles_note": "has so disquieted thee? G reads 9°%l: &a$: Hnao'H: TUmh.",
           "repo_has": false
         },
         {
@@ -1479,8 +1527,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "11. Spake unto me. G reads \u00a3(b{l\u00b0 \u00a2 spake unto him.\u201d Beneath",
-          "charles_note": "11. Spake unto me. G reads \u00a3(b{l\u00b0 \u00a2 spake unto him.\u201d Beneath",
+          "witnesses": "11. Spake unto me. G reads £(b{l° ¢ spake unto him.” Beneath",
+          "charles_note": "11. Spake unto me. G reads £(b{l° ¢ spake unto him.” Beneath",
           "repo_has": false
         },
         {
@@ -1490,8 +1538,8 @@
             "G",
             "M"
           ],
-          "witnesses": "the earth. So G M AZhl; \u00a9Afl. Other MSS. and Dln. \u2018on earth.\u2019",
-          "charles_note": "the earth. So G M AZhl; \u00a9Afl. Other MSS. and Dln. \u2018on earth.\u2019",
+          "witnesses": "the earth. So G M AZhl; ©Afl. Other MSS. and Dln. ‘on earth.’",
+          "charles_note": "the earth. So G M AZhl; ©Afl. Other MSS. and Dln. ‘on earth.’",
           "repo_has": false
         },
         {
@@ -1521,8 +1569,8 @@
             "G",
             "M"
           ],
-          "witnesses": "one of them as it peals. G M omit \u2018as it peals\u2019 According",
-          "charles_note": "one of them as it peals. G M omit \u2018as it peals\u2019 According",
+          "witnesses": "one of them as it peals. G M omit ‘as it peals’ According",
+          "charles_note": "one of them as it peals. G M omit ‘as it peals’ According",
           "repo_has": false
         },
         {
@@ -1531,8 +1579,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "to the number of the quarters. For {IH\u00a5 G reads AIH-.",
-          "charles_note": "to the number of the quarters. For {IH\u00a5 G reads AIH-.",
+          "witnesses": "to the number of the quarters. For {IH¥ G reads AIH-.",
+          "charles_note": "to the number of the quarters. For {IH¥ G reads AIH-.",
           "repo_has": false
         },
         {
@@ -1542,8 +1590,8 @@
             "G",
             "M"
           ],
-          "witnesses": "@mop i G M read apAih: \u2018its chamber is an angel\u201d  21. And",
-          "charles_note": "@mop i G M read apAih: \u2018its chamber is an angel\u201d  21. And",
+          "witnesses": "@mop i G M read apAih: ‘its chamber is an angel”  21. And",
+          "charles_note": "@mop i G M read apAih: ‘its chamber is an angel”  21. And",
           "repo_has": false
         },
         {
@@ -1553,8 +1601,8 @@
             "G",
             "M"
           ],
-          "witnesses": "the Lord of Spirits. So G M. Other MSS. give \u2018that the",
-          "charles_note": "the Lord of Spirits. So G M. Other MSS. give \u2018that the",
+          "witnesses": "the Lord of Spirits. So G M. Other MSS. give ‘that the",
+          "charles_note": "the Lord of Spirits. So G M. Other MSS. give ‘that the",
           "repo_has": false
         },
         {
@@ -1563,8 +1611,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "the sons. This rendering rests on an emendation of G\u2019s text",
-          "charles_note": "the sons. This rendering rests on an emendation of G\u2019s text",
+          "witnesses": "the sons. This rendering rests on an emendation of G’s text",
+          "charles_note": "the sons. This rendering rests on an emendation of G’s text",
           "repo_has": false
         },
         {
@@ -1573,8 +1621,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "AHZANT: @AN: TOAO: AI\u00b03%: OMC. 6. So M w4",
-          "charles_note": "AHZANT: @AN: TOAO: AI\u00b03%: OMC. 6. So M w4",
+          "witnesses": "AHZANT: @AN: TOAO: AI°3%: OMC. 6. So M w4",
+          "charles_note": "AHZANT: @AN: TOAO: AI°3%: OMC. 6. So M w4",
           "repo_has": false
         },
         {
@@ -1605,8 +1653,8 @@
             "G",
             "M"
           ],
-          "witnesses": "So G M. Dln. adds \u00a2laud and extol. 12. All the holy ones.",
-          "charles_note": "So G M. Dln. adds \u00a2laud and extol. 12. All the holy ones.",
+          "witnesses": "So G M. Dln. adds ¢laud and extol. 12. All the holy ones.",
+          "charles_note": "So G M. Dln. adds ¢laud and extol. 12. All the holy ones.",
           "repo_has": false
         },
         {
@@ -1615,8 +1663,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So GM. Din. \u2018all His holy ones\u201d For Pt G reads P.L1NOT.",
-          "charles_note": "So GM. Din. \u2018all His holy ones\u201d For Pt G reads P.L1NOT.",
+          "witnesses": "So GM. Din. ‘all His holy ones” For Pt G reads P.L1NOT.",
+          "charles_note": "So GM. Din. ‘all His holy ones” For Pt G reads P.L1NOT.",
           "repo_has": false
         },
         {
@@ -1625,8 +1673,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "13. All the extent of His work. So M H'll: &9\u00b0m}: 7. and",
-          "charles_note": "13. All the extent of His work. So M H'll: &9\u00b0m}: 7. and",
+          "witnesses": "13. All the extent of His work. So M H'll: &9°m}: 7. and",
+          "charles_note": "13. All the extent of His work. So M H'll: &9°m}: 7. and",
           "repo_has": false
         },
         {
@@ -1645,8 +1693,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "eous were destroyed. So G, which for Hd\u00b0 reads Hfvar:; and",
-          "charles_note": "eous were destroyed. So G, which for Hd\u00b0 reads Hfvar:; and",
+          "witnesses": "eous were destroyed. So G, which for Hd° reads Hfvar:; and",
+          "charles_note": "eous were destroyed. So G, which for Hd° reads Hfvar:; and",
           "repo_has": false
         },
         {
@@ -1655,28 +1703,28 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "righteous and they were destroyed.\u201d M omits the @ but otherwise",
-          "charles_note": "righteous and they were destroyed.\u201d M omits the @ but otherwise",
+          "witnesses": "righteous and they were destroyed.” M omits the @ but otherwise",
+          "charles_note": "righteous and they were destroyed.” M omits the @ but otherwise",
           "repo_has": false
         },
         {
           "page": 164,
-          "lemma": "are judged in righteousness\u201d 5",
+          "lemma": "are judged in righteousness” 5",
           "sigla": [
             "G"
           ],
-          "witnesses": "are judged in righteousness\u201d 5. That Son of Man. So G: all",
-          "charles_note": "are judged in righteousness\u201d 5. That Son of Man. So G: all",
+          "witnesses": "are judged in righteousness” 5. That Son of Man. So G: all",
+          "charles_note": "are judged in righteousness” 5. That Son of Man. So G: all",
           "repo_has": false
         },
         {
           "page": 164,
-          "lemma": "Before I had consulted G, I felt convinced that the reading \u2018Son",
+          "lemma": "Before I had consulted G, I felt convinced that the reading ‘Son",
           "sigla": [
             "G"
           ],
-          "witnesses": "Before I had consulted G, I felt convinced that the reading \u2018Son",
-          "charles_note": "Before I had consulted G, I felt convinced that the reading \u2018Son",
+          "witnesses": "Before I had consulted G, I felt convinced that the reading ‘Son",
+          "charles_note": "Before I had consulted G, I felt convinced that the reading ‘Son",
           "repo_has": false
         },
         {
@@ -1707,8 +1755,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "7. Before Him. So G 49\u00b0%.\u00a3av.. Dln. gives \u2018 formerly. 9.",
-          "charles_note": "7. Before Him. So G 49\u00b0%.\u00a3av.. Dln. gives \u2018 formerly. 9.",
+          "witnesses": "7. Before Him. So G 49°%.£av.. Dln. gives ‘ formerly. 9.",
+          "charles_note": "7. Before Him. So G 49°%.£av.. Dln. gives ‘ formerly. 9.",
           "repo_has": false
         },
         {
@@ -1756,12 +1804,12 @@
         },
         {
           "page": 167,
-          "lemma": "mighty\u201d 2",
+          "lemma": "mighty” 2",
           "sigla": [
             "G"
           ],
-          "witnesses": "mighty\u201d 2. (Before whom) every secret is clear. G points",
-          "charles_note": "mighty\u201d 2. (Before whom) every secret is clear. G points",
+          "witnesses": "mighty” 2. (Before whom) every secret is clear. G points",
+          "charles_note": "mighty” 2. (Before whom) every secret is clear. G points",
           "repo_has": false
         },
         {
@@ -1791,18 +1839,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "glory. G reads \u2018Thy glory\u2019 7. Lord of Spirits. So GF:",
-          "charles_note": "glory. G reads \u2018Thy glory\u2019 7. Lord of Spirits. So GF:",
+          "witnesses": "glory. G reads ‘Thy glory’ 7. Lord of Spirits. So GF:",
+          "charles_note": "glory. G reads ‘Thy glory’ 7. Lord of Spirits. So GF:",
           "repo_has": false
         },
         {
           "page": 167,
-          "lemma": "HILN O give \u2018Lord of kings\u2019",
+          "lemma": "HILN O give ‘Lord of kings’",
           "sigla": [
             "M"
           ],
-          "witnesses": "HILN O give \u2018Lord of kings\u2019: M \u00a2 Lord of Lords.\u2019 GHlorified",
-          "charles_note": "HILN O give \u2018Lord of kings\u2019: M \u00a2 Lord of Lords.\u2019 GHlorified",
+          "witnesses": "HILN O give ‘Lord of kings’: M ¢ Lord of Lords.’ GHlorified",
+          "charles_note": "HILN O give ‘Lord of kings’: M ¢ Lord of Lords.’ GHlorified",
           "repo_has": false
         },
         {
@@ -1811,8 +1859,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "LXV. 1. For &\u00a3 G reads A% with the same meaning.",
-          "charles_note": "LXV. 1. For &\u00a3 G reads A% with the same meaning.",
+          "witnesses": "LXV. 1. For &£ G reads A% with the same meaning.",
+          "charles_note": "LXV. 1. For &£ G reads A% with the same meaning.",
           "repo_has": false
         },
         {
@@ -1829,32 +1877,32 @@
         },
         {
           "page": 171,
-          "lemma": "up is the chief\u2019 9",
+          "lemma": "up is the chief’ 9",
           "sigla": [
             "G"
           ],
-          "witnesses": "up is the chief\u2019 9. With his hand. So all MSS. but G, which",
-          "charles_note": "up is the chief\u2019 9. With his hand. So all MSS. but G, which",
+          "witnesses": "up is the chief’ 9. With his hand. So all MSS. but G, which",
+          "charles_note": "up is the chief’ 9. With his hand. So all MSS. but G, which",
           "repo_has": false
         },
         {
           "page": 172,
-          "lemma": "&fr, and so translates \u2018they\u2019  As for thee",
+          "lemma": "&fr, and so translates ‘they’  As for thee",
           "sigla": [
             "G"
           ],
-          "witnesses": "&fr, and so translates \u2018they\u2019  As for thee. So G. Dln",
-          "charles_note": "&fr, and so translates \u2018they\u2019  As for thee. So G. Dln",
+          "witnesses": "&fr, and so translates ‘they’  As for thee. So G. Dln",
+          "charles_note": "&fr, and so translates ‘they’  As for thee. So G. Dln",
           "repo_has": false
         },
         {
           "page": 172,
-          "lemma": "\u2018 Noah, behold thy lot",
+          "lemma": "‘ Noah, behold thy lot",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018 Noah, behold thy lot.\u201d A lot without blame. Wanting in G.",
-          "charles_note": "\u2018 Noah, behold thy lot.\u201d A lot without blame. Wanting in G.",
+          "witnesses": "‘ Noah, behold thy lot.” A lot without blame. Wanting in G.",
+          "charles_note": "‘ Noah, behold thy lot.” A lot without blame. Wanting in G.",
           "repo_has": false
         },
         {
@@ -1864,18 +1912,18 @@
             "G",
             "M"
           ],
-          "witnesses": "2. Completed that task. So G @.\u00a3&. M @.29, which should",
-          "charles_note": "2. Completed that task. So G @.\u00a3&. M @.29, which should",
+          "witnesses": "2. Completed that task. So G @.£&. M @.29, which should",
+          "charles_note": "2. Completed that task. So G @.£&. M @.29, which should",
           "repo_has": false
         },
         {
           "page": 173,
-          "lemma": "&0PQ G reads 0\u00a2A",
+          "lemma": "&0PQ G reads 0¢A",
           "sigla": [
             "G"
           ],
-          "witnesses": "&0PQ G reads 0\u00a2A. 3. All the best MSS. ACEFGHIKMN",
-          "charles_note": "&0PQ G reads 0\u00a2A. 3. All the best MSS. ACEFGHIKMN",
+          "witnesses": "&0PQ G reads 0¢A. 3. All the best MSS. ACEFGHIKMN",
+          "charles_note": "&0PQ G reads 0¢A. 3. All the best MSS. ACEFGHIKMN",
           "repo_has": false
         },
         {
@@ -1884,19 +1932,19 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "imprison. So FG M. Other MSS. \u2018they will imprison.\u2019 5.",
-          "charles_note": "imprison. So FG M. Other MSS. \u2018they will imprison.\u2019 5.",
+          "witnesses": "imprison. So FG M. Other MSS. ‘they will imprison.’ 5.",
+          "charles_note": "imprison. So FG M. Other MSS. ‘they will imprison.’ 5.",
           "repo_has": false
         },
         {
           "page": 174,
-          "lemma": "For TU\u00aemn G reads 7@ (sic) ; M Um-h",
+          "lemma": "For TU®mn G reads 7@ (sic) ; M Um-h",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "For TU\u00aemn G reads 7@ (sic) ; M Um-h. 6. For oUm-nav+;",
-          "charles_note": "For TU\u00aemn G reads 7@ (sic) ; M Um-h. 6. For oUm-nav+;",
+          "witnesses": "For TU®mn G reads 7@ (sic) ; M Um-h. 6. For oUm-nav+;",
+          "charles_note": "For TU®mn G reads 7@ (sic) ; M Um-h. 6. For oUm-nav+;",
           "repo_has": false
         },
         {
@@ -1926,8 +1974,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "the soul and body.\u201d Believe not. G omits the negative. 9. A",
-          "charles_note": "the soul and body.\u201d Believe not. G omits the negative. 9. A",
+          "witnesses": "the soul and body.” Believe not. G omits the negative. 9. A",
+          "charles_note": "the soul and body.” Believe not. G omits the negative. 9. A",
           "repo_has": false
         },
         {
@@ -1958,8 +2006,8 @@
             "G",
             "M"
           ],
-          "witnesses": "temperature.\u201d So G M, reading LTRAMr instead of LTERAT",
-          "charles_note": "temperature.\u201d So G M, reading LTRAMr instead of LTERAT",
+          "witnesses": "temperature.” So G M, reading LTRAMr instead of LTERAT",
+          "charles_note": "temperature.” So G M, reading LTRAMr instead of LTERAT",
           "repo_has": false
         },
         {
@@ -1969,8 +2017,8 @@
             "G",
             "M"
           ],
-          "witnesses": "ture of these water-springs will change.\u201d 12. Michael. So G M.",
-          "charles_note": "ture of these water-springs will change.\u201d 12. Michael. So G M.",
+          "witnesses": "ture of these water-springs will change.” 12. Michael. So G M.",
+          "charles_note": "ture of these water-springs will change.” 12. Michael. So G M.",
           "repo_has": false
         },
         {
@@ -1986,12 +2034,12 @@
         },
         {
           "page": 176,
-          "lemma": "confusion of D\u2019?S",
+          "lemma": "confusion of D’?S",
           "sigla": [
             "S"
           ],
-          "witnesses": "confusion of D\u2019?S:P\u2019Q *angels\u2019 with D\"?\u2019?? \u2018kings.\u201d Hall\u00e9vi thinks",
-          "charles_note": "confusion of D\u2019?S:P\u2019Q *angels\u2019 with D\"?\u2019?? \u2018kings.\u201d Hall\u00e9vi thinks",
+          "witnesses": "confusion of D’?S:P’Q *angels’ with D\"?’?? ‘kings.” Hallévi thinks",
+          "charles_note": "confusion of D’?S:P’Q *angels’ with D\"?’?? ‘kings.” Hallévi thinks",
           "repo_has": false
         },
         {
@@ -2006,12 +2054,12 @@
         },
         {
           "page": 176,
-          "lemma": "supported throughout by M, and in the first clause \u00a2 to the healing",
+          "lemma": "supported throughout by M, and in the first clause ¢ to the healing",
           "sigla": [
             "M"
           ],
-          "witnesses": "supported throughout by M, and in the first clause \u00a2 to the healing",
-          "charles_note": "supported throughout by M, and in the first clause \u00a2 to the healing",
+          "witnesses": "supported throughout by M, and in the first clause ¢ to the healing",
+          "charles_note": "supported throughout by M, and in the first clause ¢ to the healing",
           "repo_has": false
         },
         {
@@ -2031,8 +2079,8 @@
             "G",
             "M"
           ],
-          "witnesses": "LXVIIIL. 2. Michael. So G M. Dln. \u2018the holy Michael\u2019",
-          "charles_note": "LXVIIIL. 2. Michael. So G M. Dln. \u2018the holy Michael\u2019",
+          "witnesses": "LXVIIIL. 2. Michael. So G M. Dln. ‘the holy Michael’",
+          "charles_note": "LXVIIIL. 2. Michael. So G M. Dln. ‘the holy Michael’",
           "repo_has": false
         },
         {
@@ -2042,8 +2090,8 @@
             "G",
             "M"
           ],
-          "witnesses": "and Dln. add \u2018and abides.\u2019 3. Michael. So G M. Dln. \u2018the",
-          "charles_note": "and Dln. add \u2018and abides.\u2019 3. Michael. So G M. Dln. \u2018the",
+          "witnesses": "and Dln. add ‘and abides.’ 3. Michael. So G M. Dln. ‘the",
+          "charles_note": "and Dln. add ‘and abides.’ 3. Michael. So G M. Dln. ‘the",
           "repo_has": false
         },
         {
@@ -2065,18 +2113,18 @@
             "G",
             "M"
           ],
-          "witnesses": "upon them.\u2019 5. All that is hidden. So G M. Other MSS.",
-          "charles_note": "upon them.\u2019 5. All that is hidden. So G M. Other MSS.",
+          "witnesses": "upon them.’ 5. All that is hidden. So G M. Other MSS.",
+          "charles_note": "upon them.’ 5. All that is hidden. So G M. Other MSS.",
           "repo_has": false
         },
         {
           "page": 178,
-          "lemma": "translate, \u00a2 inspire fear and trembling",
+          "lemma": "translate, ¢ inspire fear and trembling",
           "sigla": [
             "G"
           ],
-          "witnesses": "translate, \u00a2 inspire fear and trembling.\u2019 2. G differs consider-",
-          "charles_note": "translate, \u00a2 inspire fear and trembling.\u2019 2. G differs consider-",
+          "witnesses": "translate, ¢ inspire fear and trembling.’ 2. G differs consider-",
+          "charles_note": "translate, ¢ inspire fear and trembling.’ 2. G differs consider-",
           "repo_has": false
         },
         {
@@ -2085,8 +2133,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Other MSS. \u2018the holy angels\u201d  12. For 19748 G reads @1,",
-          "charles_note": "Other MSS. \u2018the holy angels\u201d  12. For 19748 G reads @1,",
+          "witnesses": "Other MSS. ‘the holy angels”  12. For 19748 G reads @1,",
+          "charles_note": "Other MSS. ‘the holy angels”  12. For 19748 G reads @1,",
           "repo_has": false
         },
         {
@@ -2096,8 +2144,8 @@
             "G",
             "M"
           ],
-          "witnesses": "name. So G M. Other MSS. give \u2018 show them the hidden name.",
-          "charles_note": "name. So G M. Other MSS. give \u2018 show them the hidden name.",
+          "witnesses": "name. So G M. Other MSS. give ‘ show them the hidden name.",
+          "charles_note": "name. So G M. Other MSS. give ‘ show them the hidden name.",
           "repo_has": false
         },
         {
@@ -2107,8 +2155,8 @@
             "G",
             "M"
           ],
-          "witnesses": "After these words Dln. and all MSS. but G M insert \u2018that thus",
-          "charles_note": "After these words Dln. and all MSS. but G M insert \u2018that thus",
+          "witnesses": "After these words Dln. and all MSS. but G M insert ‘that thus",
+          "charles_note": "After these words Dln. and all MSS. but G M insert ‘that thus",
           "repo_has": false
         },
         {
@@ -2118,8 +2166,8 @@
             "G",
             "M"
           ],
-          "witnesses": "they might see that hidden name and.\u2019 I have followed G. M has a",
-          "charles_note": "they might see that hidden name and.\u2019 I have followed G. M has a",
+          "witnesses": "they might see that hidden name and.’ I have followed G. M has a",
+          "charles_note": "they might see that hidden name and.’ I have followed G. M has a",
           "repo_has": false
         },
         {
@@ -2149,8 +2197,8 @@
             "G",
             "G"
           ],
-          "witnesses": "in G. 22. For winds G gives wrongly * souls,\u201d by a change in one",
-          "charles_note": "in G. 22. For winds G gives wrongly * souls,\u201d by a change in one",
+          "witnesses": "in G. 22. For winds G gives wrongly * souls,” by a change in one",
+          "charles_note": "in G. 22. For winds G gives wrongly * souls,” by a change in one",
           "repo_has": false
         },
         {
@@ -2181,18 +2229,18 @@
             "G",
             "M"
           ],
-          "witnesses": "Imprisoned. Before \u00a3100aL G M insert H. 29. The word.",
-          "charles_note": "Imprisoned. Before \u00a3100aL G M insert H. 29. The word.",
+          "witnesses": "Imprisoned. Before £100aL G M insert H. 29. The word.",
+          "charles_note": "Imprisoned. Before £100aL G M insert H. 29. The word.",
           "repo_has": false
         },
         {
           "page": 182,
-          "lemma": "read \u00ae\u00a32%0",
+          "lemma": "read ®£2%0",
           "sigla": [
             "G"
           ],
-          "witnesses": "read \u00ae\u00a32%0. For Aaf. G reads NAAT \u2018Son of the Woman.\u2019",
-          "charles_note": "read \u00ae\u00a32%0. For Aaf. G reads NAAT \u2018Son of the Woman.\u2019",
+          "witnesses": "read ®£2%0. For Aaf. G reads NAAT ‘Son of the Woman.’",
+          "charles_note": "read ®£2%0. For Aaf. G reads NAAT ‘Son of the Woman.’",
           "repo_has": false
         },
         {
@@ -2201,8 +2249,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "LXX. 1. And to the Lord. So G. Other MSS. omit *and.\u2019",
-          "charles_note": "LXX. 1. And to the Lord. So G. Other MSS. omit *and.\u2019",
+          "witnesses": "LXX. 1. And to the Lord. So G. Other MSS. omit *and.’",
+          "charles_note": "LXX. 1. And to the Lord. So G. Other MSS. omit *and.’",
           "repo_has": false
         },
         {
@@ -2211,8 +2259,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "3. Was no longer numbered amongst them. So G \u2018t'dhiih-",
-          "charles_note": "3. Was no longer numbered amongst them. So G \u2018t'dhiih-",
+          "witnesses": "3. Was no longer numbered amongst them. So G ‘t'dhiih-",
+          "charles_note": "3. Was no longer numbered amongst them. So G ‘t'dhiih-",
           "repo_has": false
         },
         {
@@ -2229,12 +2277,12 @@
         },
         {
           "page": 186,
-          "lemma": "\u2018der",
+          "lemma": "‘der",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018der ... geboren ist. And righteousness: wanting in G.",
-          "charles_note": "\u2018der ... geboren ist. And righteousness: wanting in G.",
+          "witnesses": "‘der ... geboren ist. And righteousness: wanting in G.",
+          "charles_note": "‘der ... geboren ist. And righteousness: wanting in G.",
           "repo_has": false
         }
       ],
@@ -2254,8 +2302,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "LXXII. 10. Two parts longer than the night. \u2018G adds",
-          "charles_note": "LXXII. 10. Two parts longer than the night. \u2018G adds",
+          "witnesses": "LXXII. 10. Two parts longer than the night. ‘G adds",
+          "charles_note": "LXXII. 10. Two parts longer than the night. ‘G adds",
           "repo_has": false
         },
         {
@@ -2264,8 +2312,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "night to eight parts. G adds \u2018exactly, TIdd. 11. Fifth",
-          "charles_note": "night to eight parts. G adds \u2018exactly, TIdd. 11. Fifth",
+          "witnesses": "night to eight parts. G adds ‘exactly, TIdd. 11. Fifth",
+          "charles_note": "night to eight parts. G adds ‘exactly, TIdd. 11. Fifth",
           "repo_has": false
         },
         {
@@ -2294,8 +2342,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "thirty. G reads \u2018 thirty.\u2019 19. Rises in the fourth portal on",
-          "charles_note": "thirty. G reads \u2018 thirty.\u2019 19. Rises in the fourth portal on",
+          "witnesses": "thirty. G reads ‘ thirty.’ 19. Rises in the fourth portal on",
+          "charles_note": "thirty. G reads ‘ thirty.’ 19. Rises in the fourth portal on",
           "repo_has": false
         },
         {
@@ -2305,8 +2353,8 @@
             "G",
             "M"
           ],
-          "witnesses": "account of its sign. G M read: \u2018rises in the fourth portal on",
-          "charles_note": "account of its sign. G M read: \u2018rises in the fourth portal on",
+          "witnesses": "account of its sign. G M read: ‘rises in the fourth portal on",
+          "charles_note": "account of its sign. G M read: ‘rises in the fourth portal on",
           "repo_has": false
         },
         {
@@ -2315,8 +2363,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "night becomes longer than night. So G: @AT: AI\u00b0MLAT;",
-          "charles_note": "night becomes longer than night. So G: @AT: AI\u00b0MLAT;",
+          "witnesses": "night becomes longer than night. So G: @AT: AI°MLAT;",
+          "charles_note": "night becomes longer than night. So G: @AT: AI°MLAT;",
           "repo_has": false
         },
         {
@@ -2325,8 +2373,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Till the thirtieth morning. So G &fh. Dln. \u00a2 till the thirtieth",
-          "charles_note": "Till the thirtieth morning. So G &fh. Dln. \u00a2 till the thirtieth",
+          "witnesses": "Till the thirtieth morning. So G &fh. Dln. ¢ till the thirtieth",
+          "charles_note": "Till the thirtieth morning. So G &fh. Dln. ¢ till the thirtieth",
           "repo_has": false
         },
         {
@@ -2335,8 +2383,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "day.\u2019 25. In the west in the first portal. G reads: QEAT:",
-          "charles_note": "day.\u2019 25. In the west in the first portal. G reads: QEAT:",
+          "witnesses": "day.’ 25. In the west in the first portal. G reads: QEAT:",
+          "charles_note": "day.’ 25. In the west in the first portal. G reads: QEAT:",
           "repo_has": false
         },
         {
@@ -2345,8 +2393,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "0adt: 00T: 09\u00b00\u00a2N: N97L. M \u2018in the west in the sixth",
-          "charles_note": "0adt: 00T: 09\u00b00\u00a2N: N97L. M \u2018in the west in the sixth",
+          "witnesses": "0adt: 00T: 09°0¢N: N97L. M ‘in the west in the sixth",
+          "charles_note": "0adt: 00T: 09°0¢N: N97L. M ‘in the west in the sixth",
           "repo_has": false
         },
         {
@@ -2355,8 +2403,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "portal.\u2019 2%. Enters that portal. G reads: \u2018enters all the",
-          "charles_note": "portal.\u2019 2%. Enters that portal. G reads: \u2018enters all the",
+          "witnesses": "portal.’ 2%. Enters that portal. G reads: ‘enters all the",
+          "charles_note": "portal.’ 2%. Enters that portal. G reads: ‘enters all the",
           "repo_has": false
         },
         {
@@ -2365,8 +2413,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "portals.\u2019 28. On that day. F G read: \u2018on that night\u2019 By",
-          "charles_note": "portals.\u2019 28. On that day. F G read: \u2018on that night\u2019 By",
+          "witnesses": "portals.’ 28. On that day. F G read: ‘on that night’ By",
+          "charles_note": "portals.’ 28. On that day. F G read: ‘on that night’ By",
           "repo_has": false
         },
         {
@@ -2375,8 +2423,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "one part. G reads: TAFY: 4.8 Ho-&'F: h\u00a7dd. 31. Second",
-          "charles_note": "one part. G reads: TAFY: 4.8 Ho-&'F: h\u00a7dd. 31. Second",
+          "witnesses": "one part. G reads: TAFY: 4.8 Ho-&'F: h§dd. 31. Second",
+          "charles_note": "one part. G reads: TAFY: 4.8 Ho-&'F: h§dd. 31. Second",
           "repo_has": false
         },
         {
@@ -2385,8 +2433,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "portal. \u2018Second\u2019 wanting in G. 35. As often as he returns",
-          "charles_note": "portal. \u2018Second\u2019 wanting in G. 35. As often as he returns",
+          "witnesses": "portal. ‘Second’ wanting in G. 35. As often as he returns",
+          "charles_note": "portal. ‘Second’ wanting in G. 35. As often as he returns",
           "repo_has": false
         },
         {
@@ -2395,8 +2443,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "sixty times. So G, omitting the \u00a370a: AA%FT of Din's text\u2014",
-          "charles_note": "sixty times. So G, omitting the \u00a370a: AA%FT of Din's text\u2014",
+          "witnesses": "sixty times. So G, omitting the £70a: AA%FT of Din's text—",
+          "charles_note": "sixty times. So G, omitting the £70a: AA%FT of Din's text—",
           "repo_has": false
         },
         {
@@ -2446,8 +2494,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "part and the half thereof. So G: @00AT: T1\u00bb7aA: MNFT: AL",
-          "charles_note": "part and the half thereof. So G: @00AT: T1\u00bb7aA: MNFT: AL",
+          "witnesses": "part and the half thereof. So G: @00AT: T1»7aA: MNFT: AL",
+          "charles_note": "part and the half thereof. So G: @00AT: T1»7aA: MNFT: AL",
           "repo_has": false
         },
         {
@@ -2466,8 +2514,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "gloss. With the entire fourteen parts. M reads, \u2018 with the",
-          "charles_note": "gloss. With the entire fourteen parts. M reads, \u2018 with the",
+          "witnesses": "gloss. With the entire fourteen parts. M reads, ‘ with the",
+          "charles_note": "gloss. With the entire fourteen parts. M reads, ‘ with the",
           "repo_has": false
         },
         {
@@ -2503,13 +2551,13 @@
         },
         {
           "page": 202,
-          "lemma": "L\u00a3",
+          "lemma": "L£",
           "sigla": [
             "G",
             "G"
           ],
-          "witnesses": "L\u00a3.L712. G gives wrongly L., 14. Sixty-two days. G gives @.",
-          "charles_note": "L\u00a3.L712. G gives wrongly L., 14. Sixty-two days. G gives @.",
+          "witnesses": "L£.L712. G gives wrongly L., 14. Sixty-two days. G gives @.",
+          "charles_note": "L£.L712. G gives wrongly L., 14. Sixty-two days. G gives @.",
           "repo_has": false
         },
         {
@@ -2518,18 +2566,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "An addition is made to the sixty-two days. G reads \u00b0sixty-",
-          "charles_note": "An addition is made to the sixty-two days. G reads \u00b0sixty-",
+          "witnesses": "An addition is made to the sixty-two days. G reads °sixty-",
+          "charles_note": "An addition is made to the sixty-two days. G reads °sixty-",
           "repo_has": false
         },
         {
           "page": 202,
-          "lemma": "two days are added,\u201d omitting -\u00a301",
+          "lemma": "two days are added,” omitting -£01",
           "sigla": [
             "G"
           ],
-          "witnesses": "two days are added,\u201d omitting -\u00a301. 15. Again here G gives",
-          "charles_note": "two days are added,\u201d omitting -\u00a301. 15. Again here G gives",
+          "witnesses": "two days are added,” omitting -£01. 15. Again here G gives",
+          "charles_note": "two days are added,” omitting -£01. 15. Again here G gives",
           "repo_has": false
         },
         {
@@ -2548,8 +2596,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "LXXYV. 1. From their function. So M: &9\u00b0k 9\u00b070Cav-",
-          "charles_note": "LXXYV. 1. From their function. So M: &9\u00b0k 9\u00b070Cav-",
+          "witnesses": "LXXYV. 1. From their function. So M: &9°k 9°70Cav-",
+          "charles_note": "LXXYV. 1. From their function. So M: &9°k 9°70Cav-",
           "repo_has": false
         },
         {
@@ -2558,8 +2606,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Also G, but with sing. suffix. Other MSS. \u2018from their place.\u2019",
-          "charles_note": "Also G, but with sing. suffix. Other MSS. \u2018from their place.\u2019",
+          "witnesses": "Also G, but with sing. suffix. Other MSS. ‘from their place.’",
+          "charles_note": "Also G, but with sing. suffix. Other MSS. ‘from their place.’",
           "repo_has": false
         },
         {
@@ -2569,8 +2617,8 @@
             "G",
             "M"
           ],
-          "witnesses": "Reckoning. So G M. Other MSS. and Dln. \u2018entire reckoning.\u2019",
-          "charles_note": "Reckoning. So G M. Other MSS. and Dln. \u2018entire reckoning.\u2019",
+          "witnesses": "Reckoning. So G M. Other MSS. and Dln. ‘entire reckoning.’",
+          "charles_note": "Reckoning. So G M. Other MSS. and Dln. ‘entire reckoning.’",
           "repo_has": false
         },
         {
@@ -2606,12 +2654,12 @@
         },
         {
           "page": 204,
-          "lemma": "\u201cin their seasons",
+          "lemma": "“in their seasons",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u201cin their seasons.\u201d G repeats \u2018 when they are opened\u2019 at the end",
-          "charles_note": "\u201cin their seasons.\u201d G repeats \u2018 when they are opened\u2019 at the end",
+          "witnesses": "“in their seasons.” G repeats ‘ when they are opened’ at the end",
+          "charles_note": "“in their seasons.” G repeats ‘ when they are opened’ at the end",
           "repo_has": false
         },
         {
@@ -2620,8 +2668,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "3. After those, &c. So G : (L& A, for which Dln.\u2019s MSS. give",
-          "charles_note": "3. After those, &c. So G : (L& A, for which Dln.\u2019s MSS. give",
+          "witnesses": "3. After those, &c. So G : (L& A, for which Dln.’s MSS. give",
+          "charles_note": "3. After those, &c. So G : (L& A, for which Dln.’s MSS. give",
           "repo_has": false
         },
         {
@@ -2657,12 +2705,12 @@
         },
         {
           "page": 206,
-          "lemma": "+ adjoining,\u2019 not \u2018 opposite to",
+          "lemma": "+ adjoining,’ not ‘ opposite to",
           "sigla": [
             "S"
           ],
-          "witnesses": "+ adjoining,\u2019 not \u2018 opposite to.\u2019 In Ixx. 5 the E.S.E. wind is de-",
-          "charles_note": "+ adjoining,\u2019 not \u2018 opposite to.\u2019 In Ixx. 5 the E.S.E. wind is de-",
+          "witnesses": "+ adjoining,’ not ‘ opposite to.’ In Ixx. 5 the E.S.E. wind is de-",
+          "charles_note": "+ adjoining,’ not ‘ opposite to.’ In Ixx. 5 the E.S.E. wind is de-",
           "repo_has": false
         },
         {
@@ -2672,8 +2720,8 @@
             "S",
             "S"
           ],
-          "witnesses": "south.\u201d In lxxvi. %7 the S.E.S. wind is described as the south",
-          "charles_note": "south.\u201d In lxxvi. %7 the S.E.S. wind is described as the south",
+          "witnesses": "south.” In lxxvi. %7 the S.E.S. wind is described as the south",
+          "charles_note": "south.” In lxxvi. %7 the S.E.S. wind is described as the south",
           "repo_has": false
         },
         {
@@ -2730,13 +2778,13 @@
       "apparatus": [
         {
           "page": 207,
-          "lemma": "G M give \u2018all benefactions, AAap; Hde",
+          "lemma": "G M give ‘all benefactions, AAap; Hde",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "G M give \u2018all benefactions, AAap; Hde. Other MSS. and Din.",
-          "charles_note": "G M give \u2018all benefactions, AAap; Hde. Other MSS. and Din.",
+          "witnesses": "G M give ‘all benefactions, AAap; Hde. Other MSS. and Din.",
+          "charles_note": "G M give ‘all benefactions, AAap; Hde. Other MSS. and Din.",
           "repo_has": false
         },
         {
@@ -2745,8 +2793,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "for the sense. 3. The third part. G gives, by a slip, \u2018the",
-          "charles_note": "for the sense. 3. The third part. G gives, by a slip, \u2018the",
+          "witnesses": "for the sense. 3. The third part. G gives, by a slip, ‘the",
+          "charles_note": "for the sense. 3. The third part. G gives, by a slip, ‘the",
           "repo_has": false
         },
         {
@@ -2756,8 +2804,8 @@
             "G",
             "M"
           ],
-          "witnesses": "LXXVIIL 3. In size they are both alike. G M read: A7\u00b0m}:",
-          "charles_note": "LXXVIIL 3. In size they are both alike. G M read: A7\u00b0m}:",
+          "witnesses": "LXXVIIL 3. In size they are both alike. G M read: A7°m}:",
+          "charles_note": "LXXVIIL 3. In size they are both alike. G M read: A7°m}:",
           "repo_has": false
         },
         {
@@ -2767,8 +2815,8 @@
             "G",
             "M"
           ],
-          "witnesses": "So G M. Other MSS., \u2018in definite measures it is added.\u201d 8. Half,",
-          "charles_note": "So G M. Other MSS., \u2018in definite measures it is added.\u201d 8. Half,",
+          "witnesses": "So G M. Other MSS., ‘in definite measures it is added.” 8. Half,",
+          "charles_note": "So G M. Other MSS., ‘in definite measures it is added.” 8. Half,",
           "repo_has": false
         },
         {
@@ -2810,8 +2858,8 @@
             "M",
             "G"
           ],
-          "witnesses": "ONFHI?E NA7: O0: 2-1%%T: HAU: \u00a3P0C. M resembles G",
-          "charles_note": "ONFHI?E NA7: O0: 2-1%%T: HAU: \u00a3P0C. M resembles G",
+          "witnesses": "ONFHI?E NA7: O0: 2-1%%T: HAU: £P0C. M resembles G",
+          "charles_note": "ONFHI?E NA7: O0: 2-1%%T: HAU: £P0C. M resembles G",
           "repo_has": false
         },
         {
@@ -2831,8 +2879,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So G: HO: \u00bbAm%. Dln. reads HOHA: Mm%, which he",
-          "charles_note": "So G: HO: \u00bbAm%. Dln. reads HOHA: Mm%, which he",
+          "witnesses": "So G: HO: »Am%. Dln. reads HOHA: Mm%, which he",
+          "charles_note": "So G: HO: »Am%. Dln. reads HOHA: Mm%, which he",
           "repo_has": false
         },
         {
@@ -2842,8 +2890,8 @@
             "G",
             "M"
           ],
-          "witnesses": "LXXX. 1. The angel Uriel. So G M. Other MSS. \u00a2 Uriel\u2019",
-          "charles_note": "LXXX. 1. The angel Uriel. So G M. Other MSS. \u00a2 Uriel\u2019",
+          "witnesses": "LXXX. 1. The angel Uriel. So G M. Other MSS. ¢ Uriel’",
+          "charles_note": "LXXX. 1. The angel Uriel. So G M. Other MSS. ¢ Uriel’",
           "repo_has": false
         },
         {
@@ -2872,8 +2920,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "5. For A77 \u00a3 G reads (197 \u00a3 over an erasion, and for 01901 GM",
-          "charles_note": "5. For A77 \u00a3 G reads (197 \u00a3 over an erasion, and for 01901 GM",
+          "witnesses": "5. For A77 £ G reads (197 £ over an erasion, and for 01901 GM",
+          "charles_note": "5. For A77 £ G reads (197 £ over an erasion, and for 01901 GM",
           "repo_has": false
         },
         {
@@ -2937,8 +2985,8 @@
             "G",
             "M"
           ],
-          "witnesses": "So G M. Dln. gives \u2018three\u201d  Brought me. G M read APLA4..",
-          "charles_note": "So G M. Dln. gives \u2018three\u201d  Brought me. G M read APLA4..",
+          "witnesses": "So G M. Dln. gives ‘three”  Brought me. G M read APLA4..",
+          "charles_note": "So G M. Dln. gives ‘three”  Brought me. G M read APLA4..",
           "repo_has": false
         },
         {
@@ -2969,8 +3017,8 @@
             "G",
             "M"
           ],
-          "witnesses": "will they rejoice. So G M. Other MSS.: \u2018the righteous will",
-          "charles_note": "will they rejoice. So G M. Other MSS.: \u2018the righteous will",
+          "witnesses": "will they rejoice. So G M. Other MSS.: ‘the righteous will",
+          "charles_note": "will they rejoice. So G M. Other MSS.: ‘the righteous will",
           "repo_has": false
         },
         {
@@ -2980,18 +3028,18 @@
             "G",
             "M"
           ],
-          "witnesses": "rejoice with the righteous.\u2019 10. Lord of the world. So G M.",
-          "charles_note": "rejoice with the righteous.\u2019 10. Lord of the world. So G M.",
+          "witnesses": "rejoice with the righteous.’ 10. Lord of the world. So G M.",
+          "charles_note": "rejoice with the righteous.’ 10. Lord of the world. So G M.",
           "repo_has": false
         },
         {
           "page": 216,
-          "lemma": "add \u00a2for thee",
+          "lemma": "add ¢for thee",
           "sigla": [
             "G"
           ],
-          "witnesses": "add \u00a2for thee. Generations of the world. G reads: @-(\u20ac;",
-          "charles_note": "add \u00a2for thee. Generations of the world. G reads: @-(\u20ac;",
+          "witnesses": "add ¢for thee. Generations of the world. G reads: @-(€;",
+          "charles_note": "add ¢for thee. Generations of the world. G reads: @-(€;",
           "repo_has": false
         },
         {
@@ -3000,8 +3048,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "909\" children of the world.\u2019 2. Wisdom to thy son. So G:",
-          "charles_note": "909\" children of the world.\u2019 2. Wisdom to thy son. So G:",
+          "witnesses": "909\" children of the world.’ 2. Wisdom to thy son. So G:",
+          "charles_note": "909\" children of the world.’ 2. Wisdom to thy son. So G:",
           "repo_has": false
         },
         {
@@ -3011,8 +3059,8 @@
             "G",
             "M"
           ],
-          "witnesses": "thy children.\u201d For ever. Wantingin G M. 4. Blessed are all",
-          "charles_note": "thy children.\u201d For ever. Wantingin G M. 4. Blessed are all",
+          "witnesses": "thy children.” For ever. Wantingin G M. 4. Blessed are all",
+          "charles_note": "thy children.” For ever. Wantingin G M. 4. Blessed are all",
           "repo_has": false
         },
         {
@@ -3021,8 +3069,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "day. G reads: \u00bb#Amk: O\u00b0F: GAT: Qav3NT. To cause...to",
-          "charles_note": "day. G reads: \u00bb#Amk: O\u00b0F: GAT: Qav3NT. To cause...to",
+          "witnesses": "day. G reads: »#Amk: O°F: GAT: Qav3NT. To cause...to",
+          "charles_note": "day. G reads: »#Amk: O°F: GAT: Qav3NT. To cause...to",
           "repo_has": false
         },
         {
@@ -3042,8 +3090,8 @@
             "G",
             "M"
           ],
-          "witnesses": "places. So G M: a0: LaoC4Pav: (avn\u00a7TWPar. Other MSS.",
-          "charles_note": "places. So G M: a0: LaoC4Pav: (avn\u00a7TWPar. Other MSS.",
+          "witnesses": "places. So G M: a0: LaoC4Pav: (avn§TWPar. Other MSS.",
+          "charles_note": "places. So G M: a0: LaoC4Pav: (avn§TWPar. Other MSS.",
           "repo_has": false
         },
         {
@@ -3087,8 +3135,8 @@
             "G",
             "M"
           ],
-          "witnesses": "12. Between leader and leader. So G M. Other MSS, \u2018be-",
-          "charles_note": "12. Between leader and leader. So G M. Other MSS, \u2018be-",
+          "witnesses": "12. Between leader and leader. So G M. Other MSS, ‘be-",
+          "charles_note": "12. Between leader and leader. So G M. Other MSS, ‘be-",
           "repo_has": false
         }
       ],
@@ -3108,29 +3156,29 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "vear. \u2018Year\u2019 wanting in G. 16. All the flowers bloom.",
-          "charles_note": "vear. \u2018Year\u2019 wanting in G. 16. All the flowers bloom.",
+          "witnesses": "vear. ‘Year’ wanting in G. 16. All the flowers bloom.",
+          "charles_note": "vear. ‘Year’ wanting in G. 16. All the flowers bloom.",
           "repo_has": false
         },
         {
           "page": 219,
-          "lemma": "G reads HE@OA \u2018all the flowers which come forth) M omits",
+          "lemma": "G reads HE@OA ‘all the flowers which come forth) M omits",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "G reads HE@OA \u2018all the flowers which come forth) M omits",
-          "charles_note": "G reads HE@OA \u2018all the flowers which come forth) M omits",
+          "witnesses": "G reads HE@OA ‘all the flowers which come forth) M omits",
+          "charles_note": "G reads HE@OA ‘all the flowers which come forth) M omits",
           "repo_has": false
         },
         {
           "page": 219,
-          "lemma": "\u2018bloom",
+          "lemma": "‘bloom",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018bloom.\u2019 17. Head of a thousand. G reads Cafl: X0.",
-          "charles_note": "\u2018bloom.\u2019 17. Head of a thousand. G reads Cafl: X0.",
+          "witnesses": "‘bloom.’ 17. Head of a thousand. G reads Cafl: X0.",
+          "charles_note": "‘bloom.’ 17. Head of a thousand. G reads Cafl: X0.",
           "repo_has": false
         },
         {
@@ -3140,8 +3188,8 @@
             "G",
             "M"
           ],
-          "witnesses": "19. Signs of the days. G M read \u2018days of his sign\u201d Ripen",
-          "charles_note": "19. Signs of the days. G M read \u2018days of his sign\u201d Ripen",
+          "witnesses": "19. Signs of the days. G M read ‘days of his sign” Ripen",
+          "charles_note": "19. Signs of the days. G M read ‘days of his sign” Ripen",
           "repo_has": false
         },
         {
@@ -3151,8 +3199,8 @@
             "G",
             "M"
           ],
-          "witnesses": "and mature all their fruits. So G M. Other MSS. give, \u2018to",
-          "charles_note": "and mature all their fruits. So G M. Other MSS. give, \u2018to",
+          "witnesses": "and mature all their fruits. So G M. Other MSS. give, ‘to",
+          "charles_note": "and mature all their fruits. So G M. Other MSS. give, ‘to",
           "repo_has": false
         },
         {
@@ -3161,8 +3209,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So G. Other MSS. \u00a2 the subordinate leaders.\u2019",
-          "charles_note": "So G. Other MSS. \u00a2 the subordinate leaders.\u2019",
+          "witnesses": "So G. Other MSS. ¢ the subordinate leaders.’",
+          "charles_note": "So G. Other MSS. ¢ the subordinate leaders.’",
           "repo_has": false
         },
         {
@@ -3171,18 +3219,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Crit. Note, xxxviil. 2. G reads 'F\u00a5ah- \u2018I arose to cry aloud.",
-          "charles_note": "Crit. Note, xxxviil. 2. G reads 'F\u00a5ah- \u2018I arose to cry aloud.",
+          "witnesses": "Crit. Note, xxxviil. 2. G reads 'F¥ah- ‘I arose to cry aloud.",
+          "charles_note": "Crit. Note, xxxviil. 2. G reads 'F¥ah- ‘I arose to cry aloud.",
           "repo_has": false
         },
         {
           "page": 224,
-          "lemma": "Din\u2019s translation",
+          "lemma": "Din’s translation",
           "sigla": [
             "G"
           ],
-          "witnesses": "Din\u2019s translation: see Lexicon, col. 607. G reads 2A. Sin",
-          "charles_note": "Din\u2019s translation: see Lexicon, col. 607. G reads 2A. Sin",
+          "witnesses": "Din’s translation: see Lexicon, col. 607. G reads 2A. Sin",
+          "charles_note": "Din’s translation: see Lexicon, col. 607. G reads 2A. Sin",
           "repo_has": false
         },
         {
@@ -3192,8 +3240,8 @@
             "G",
             "M"
           ],
-          "witnesses": "of. 8o G JDmM&AT, and virtually M. Other MSS. \u2018secrets",
-          "charles_note": "of. 8o G JDmM&AT, and virtually M. Other MSS. \u2018secrets",
+          "witnesses": "of. 8o G JDmM&AT, and virtually M. Other MSS. ‘secrets",
+          "charles_note": "of. 8o G JDmM&AT, and virtually M. Other MSS. ‘secrets",
           "repo_has": false
         },
         {
@@ -3214,8 +3262,8 @@
             "G",
             "M"
           ],
-          "witnesses": "10. My prayer. G reads instead: @OAND: \u00aeZNLH: @. M:",
-          "charles_note": "10. My prayer. G reads instead: @OAND: \u00aeZNLH: @. M:",
+          "witnesses": "10. My prayer. G reads instead: @OAND: ®ZNLH: @. M:",
+          "charles_note": "10. My prayer. G reads instead: @OAND: ®ZNLH: @. M:",
           "repo_has": false
         },
         {
@@ -3234,8 +3282,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "for Thee. Departs not. G reads ATap2mh \u00a2 does not turn",
-          "charles_note": "for Thee. Departs not. G reads ATap2mh \u00a2 does not turn",
+          "witnesses": "for Thee. Departs not. G reads ATap2mh ¢ does not turn",
+          "charles_note": "for Thee. Departs not. G reads ATap2mh ¢ does not turn",
           "repo_has": false
         },
         {
@@ -3255,8 +3303,8 @@
             "G",
             "M"
           ],
-          "witnesses": "bed. So G M. Other MSS. \u2018in a vision on my bed. Came",
-          "charles_note": "bed. So G M. Other MSS. \u2018in a vision on my bed. Came",
+          "witnesses": "bed. So G M. Other MSS. ‘in a vision on my bed. Came",
+          "charles_note": "bed. So G M. Other MSS. ‘in a vision on my bed. Came",
           "repo_has": false
         },
         {
@@ -3265,20 +3313,20 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "@%A: M\\A * came forth other young bulls\u2019 5. But that black.",
-          "charles_note": "@%A: M\\A * came forth other young bulls\u2019 5. But that black.",
+          "witnesses": "@%A: M\\A * came forth other young bulls’ 5. But that black.",
+          "charles_note": "@%A: M\\A * came forth other young bulls’ 5. But that black.",
           "repo_has": false
         },
         {
           "page": 228,
-          "lemma": "G omits \u2018but that",
+          "lemma": "G omits ‘but that",
           "sigla": [
             "G",
             "G",
             "M"
           ],
-          "witnesses": "G omits \u2018but that.\u2019 Followed him. G M read \u2018 followed them.\u2019",
-          "charles_note": "G omits \u2018but that.\u2019 Followed him. G M read \u2018 followed them.\u2019",
+          "witnesses": "G omits ‘but that.’ Followed him. G M read ‘ followed them.’",
+          "charles_note": "G omits ‘but that.’ Followed him. G M read ‘ followed them.’",
           "repo_has": false
         },
         {
@@ -3287,8 +3335,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "6. For (b7 \u2018thereupon\u2019 G reads b~ 8. Another white",
-          "charles_note": "6. For (b7 \u2018thereupon\u2019 G reads b~ 8. Another white",
+          "witnesses": "6. For (b7 ‘thereupon’ G reads b~ 8. Another white",
+          "charles_note": "6. For (b7 ‘thereupon’ G reads b~ 8. Another white",
           "repo_has": false
         },
         {
@@ -3297,8 +3345,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "bull. For \u2018another\u2019 G reads h\\\u00e9 \u2018a pair of white oxen\u2019: i.e.",
-          "charles_note": "bull. For \u2018another\u2019 G reads h\\\u00e9 \u2018a pair of white oxen\u2019: i.e.",
+          "witnesses": "bull. For ‘another’ G reads h\\é ‘a pair of white oxen’: i.e.",
+          "charles_note": "bull. For ‘another’ G reads h\\é ‘a pair of white oxen’: i.e.",
           "repo_has": false
         },
         {
@@ -3327,8 +3375,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "other. So G: &\u00a5H: Cchlm.: I\u00b00N;: n&. This alludes to the",
-          "charles_note": "other. So G: &\u00a5H: Cchlm.: I\u00b00N;: n&. This alludes to the",
+          "witnesses": "other. So G: &¥H: Cchlm.: I°0N;: n&. This alludes to the",
+          "charles_note": "other. So G: &¥H: Cchlm.: I°0N;: n&. This alludes to the",
           "repo_has": false
         },
         {
@@ -3369,8 +3417,8 @@
             "G",
             "M"
           ],
-          "witnesses": "4. And the oxen and all of them. So G M. Other MSS. \u2018and",
-          "charles_note": "4. And the oxen and all of them. So G M. Other MSS. \u2018and",
+          "witnesses": "4. And the oxen and all of them. So G M. Other MSS. ‘and",
+          "charles_note": "4. And the oxen and all of them. So G M. Other MSS. ‘and",
           "repo_has": false
         },
         {
@@ -3400,8 +3448,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "here: \u2018fearless as he was.\u2019 2. Poured much water. G reads",
-          "charles_note": "here: \u2018fearless as he was.\u2019 2. Poured much water. G reads",
+          "witnesses": "here: ‘fearless as he was.’ 2. Poured much water. G reads",
+          "charles_note": "here: ‘fearless as he was.’ 2. Poured much water. G reads",
           "repo_has": false
         },
         {
@@ -3429,12 +3477,12 @@
         },
         {
           "page": 233,
-          "lemma": "with A\u00a3I\u00b0CT = tigers\u201d For AX0NT G reads &00T; but no",
+          "lemma": "with A£I°CT = tigers” For AX0NT G reads &00T; but no",
           "sigla": [
             "G"
           ],
-          "witnesses": "with A\u00a3I\u00b0CT = tigers\u201d For AX0NT G reads &00T; but no",
-          "charles_note": "with A\u00a3I\u00b0CT = tigers\u201d For AX0NT G reads &00T; but no",
+          "witnesses": "with A£I°CT = tigers” For AX0NT G reads &00T; but no",
+          "charles_note": "with A£I°CT = tigers” For AX0NT G reads &00T; but no",
           "repo_has": false
         },
         {
@@ -3443,18 +3491,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "such word exists. For &m-Qtt \u2018vultures\u2019 G reads AINCT,",
-          "charles_note": "such word exists. For &m-Qtt \u2018vultures\u2019 G reads AINCT,",
+          "witnesses": "such word exists. For &m-Qtt ‘vultures’ G reads AINCT,",
+          "charles_note": "such word exists. For &m-Qtt ‘vultures’ G reads AINCT,",
           "repo_has": false
         },
         {
           "page": 233,
-          "lemma": "each other, G reads \u00a31TGAF",
+          "lemma": "each other, G reads £1TGAF",
           "sigla": [
             "G"
           ],
-          "witnesses": "each other, G reads \u00a31TGAF. This form is not found elsewhere.",
-          "charles_note": "each other, G reads \u00a31TGAF. This form is not found elsewhere.",
+          "witnesses": "each other, G reads £1TGAF. This form is not found elsewhere.",
+          "charles_note": "each other, G reads £1TGAF. This form is not found elsewhere.",
           "repo_has": false
         },
         {
@@ -3489,12 +3537,12 @@
         },
         {
           "page": 234,
-          "lemma": "G reads \u2018and their Lord came",
+          "lemma": "G reads ‘and their Lord came",
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads \u2018and their Lord came...and they began,\u2019 &:yH: \u00a3HATPav-",
-          "charles_note": "G reads \u2018and their Lord came...and they began,\u2019 &:yH: \u00a3HATPav-",
+          "witnesses": "G reads ‘and their Lord came...and they began,’ &:yH: £HATPav-",
+          "charles_note": "G reads ‘and their Lord came...and they began,’ &:yH: £HATPav-",
           "repo_has": false
         },
         {
@@ -3513,8 +3561,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "and to see. G reads L&&%: \u2018began to open their eyes and",
-          "charles_note": "and to see. G reads L&&%: \u2018began to open their eyes and",
+          "witnesses": "and to see. G reads L&&%: ‘began to open their eyes and",
+          "charles_note": "and to see. G reads L&&%: ‘began to open their eyes and",
           "repo_has": false
         },
         {
@@ -3523,8 +3571,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads: AHA: 070; I\u00b000WPav; HUN: 97&NhAcaDs, and this we",
-          "charles_note": "G reads: AHA: 070; I\u00b000WPav; HUN: 97&NhAcaDs, and this we",
+          "witnesses": "G reads: AHA: 070; I°00WPav; HUN: 97&NhAcaDs, and this we",
+          "charles_note": "G reads: AHA: 070; I°00WPav; HUN: 97&NhAcaDs, and this we",
           "repo_has": false
         },
         {
@@ -3543,8 +3591,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "37. Instead of AHN: N20 G gives the confused text Hh\u00ab",
-          "charles_note": "37. Instead of AHN: N20 G gives the confused text Hh\u00ab",
+          "witnesses": "37. Instead of AHN: N20 G gives the confused text Hh«",
+          "charles_note": "37. Instead of AHN: N20 G gives the confused text Hh«",
           "repo_has": false
         },
         {
@@ -3554,8 +3602,8 @@
             "G",
             "M"
           ],
-          "witnesses": "nn7o0. Which led the sheep. G M read \u2018which led them.",
-          "charles_note": "nn7o0. Which led the sheep. G M read \u2018which led them.",
+          "witnesses": "nn7o0. Which led the sheep. G M read ‘which led them.",
+          "charles_note": "nn7o0. Which led the sheep. G M read ‘which led them.",
           "repo_has": false
         },
         {
@@ -3595,8 +3643,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G is confirmed by the Gk. p\u00e9xpt of #yepev 6 kvpios",
-          "charles_note": "G is confirmed by the Gk. p\u00e9xpt of #yepev 6 kvpios",
+          "witnesses": "G is confirmed by the Gk. péxpt of #yepev 6 kvpios",
+          "charles_note": "G is confirmed by the Gk. péxpt of #yepev 6 kvpios",
           "repo_has": false
         }
       ],
@@ -3617,8 +3665,8 @@
             "G",
             "M"
           ],
-          "witnesses": "48. Arose. G reads & for TH\u21224, and M 17 fao., Led",
-          "charles_note": "48. Arose. G reads & for TH\u21224, and M 17 fao., Led",
+          "witnesses": "48. Arose. G reads & for TH™4, and M 17 fao., Led",
+          "charles_note": "48. Arose. G reads & for TH™4, and M 17 fao., Led",
           "repo_has": false
         },
         {
@@ -3627,8 +3675,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So G, inserting @00.L: ThIk after \u00a5P4 and omitting HA-.",
-          "charles_note": "So G, inserting @00.L: ThIk after \u00a5P4 and omitting HA-.",
+          "witnesses": "So G, inserting @00.L: ThIk after ¥P4 and omitting HA-.",
+          "charles_note": "So G, inserting @00.L: ThIk after ¥P4 and omitting HA-.",
           "repo_has": false
         },
         {
@@ -3638,18 +3686,18 @@
             "G",
             "M"
           ],
-          "witnesses": "Lord. So G M. Other MSS. and Dln. \u2018the house of the Lord",
-          "charles_note": "Lord. So G M. Other MSS. and Dln. \u2018the house of the Lord",
+          "witnesses": "Lord. So G M. Other MSS. and Dln. ‘the house of the Lord",
+          "charles_note": "Lord. So G M. Other MSS. and Dln. ‘the house of the Lord",
           "repo_has": false
         },
         {
           "page": 242,
-          "lemma": "read Q1 \u2018in their herds\u2019 56",
+          "lemma": "read Q1 ‘in their herds’ 56",
           "sigla": [
             "G"
           ],
-          "witnesses": "read Q1 \u2018in their herds\u2019 56. For L9\u00b00TPav: G reads",
-          "charles_note": "read Q1 \u2018in their herds\u2019 56. For L9\u00b00TPav: G reads",
+          "witnesses": "read Q1 ‘in their herds’ 56. For L9°0TPav: G reads",
+          "charles_note": "read Q1 ‘in their herds’ 56. For L9°0TPav: G reads",
           "repo_has": false
         },
         {
@@ -3670,8 +3718,8 @@
             "G",
             "G"
           ],
-          "witnesses": "beasts. G reads \u2018all of them. 58. For &.L: oo G reads",
-          "charles_note": "beasts. G reads \u2018all of them. 58. For &.L: oo G reads",
+          "witnesses": "beasts. G reads ‘all of them. 58. For &.L: oo G reads",
+          "charles_note": "beasts. G reads ‘all of them. 58. For &.L: oo G reads",
           "repo_has": false
         },
         {
@@ -3691,8 +3739,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "62. For C\u00a5PMPar: G reads AT, 63. How many they",
-          "charles_note": "62. For C\u00a5PMPar: G reads AT, 63. How many they",
+          "witnesses": "62. For C¥PMPar: G reads AT, 63. How many they",
+          "charles_note": "62. For C¥PMPar: G reads AT, 63. How many they",
           "repo_has": false
         },
         {
@@ -3712,8 +3760,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "and see.\u2019 64. Thou shalt . . . declare. G reads JNTCaT av-.",
-          "charles_note": "and see.\u2019 64. Thou shalt . . . declare. G reads JNTCaT av-.",
+          "witnesses": "and see.’ 64. Thou shalt . . . declare. G reads JNTCaT av-.",
+          "charles_note": "and see.’ 64. Thou shalt . . . declare. G reads JNTCaT av-.",
           "repo_has": false
         },
         {
@@ -3723,8 +3771,8 @@
             "G",
             "M"
           ],
-          "witnesses": "of Q1. 69. Lament. So G M. Other MSS. add \u2018 exceedingly.\u2019",
-          "charles_note": "of Q1. 69. Lament. So G M. Other MSS. add \u2018 exceedingly.\u2019",
+          "witnesses": "of Q1. 69. Lament. So G M. Other MSS. add ‘ exceedingly.’",
+          "charles_note": "of Q1. 69. Lament. So G M. Other MSS. add ‘ exceedingly.’",
           "repo_has": false
         },
         {
@@ -3733,8 +3781,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "71. The book was read. G reads ap\u00aehd: Jh0A.",
-          "charles_note": "71. The book was read. G reads ap\u00aehd: Jh0A.",
+          "witnesses": "71. The book was read. G reads ap®hd: Jh0A.",
+          "charles_note": "71. The book was read. G reads ap®hd: Jh0A.",
           "repo_has": false
         },
         {
@@ -3785,8 +3833,8 @@
             "G",
             "M"
           ],
-          "witnesses": "in M. Gave testimony. G M read \u00a3097\u00a3.,",
-          "charles_note": "in M. Gave testimony. G M read \u00a3097\u00a3.,",
+          "witnesses": "in M. Gave testimony. G M read £097£.,",
+          "charles_note": "in M. Gave testimony. G M read £097£.,",
           "repo_has": false
         },
         {
@@ -3805,8 +3853,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "8. One of those. G reads &49\u00b0&hS%",
-          "charles_note": "8. One of those. G reads &49\u00b0&hS%",
+          "witnesses": "8. One of those. G reads &49°&hS%",
+          "charles_note": "8. One of those. G reads &49°&hS%",
           "repo_has": false
         },
         {
@@ -3816,8 +3864,8 @@
             "G",
             "G"
           ],
-          "witnesses": "With it. G reads \u2018with them. 14. Helped. G adds",
-          "charles_note": "With it. G reads \u2018with them. 14. Helped. G adds",
+          "witnesses": "With it. G reads ‘with them. 14. Helped. G adds",
+          "charles_note": "With it. G reads ‘with them. 14. Helped. G adds",
           "repo_has": false
         },
         {
@@ -3857,8 +3905,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "sheep came unto them. G makes \u2018before\u2019 an adverb, and reads",
-          "charles_note": "sheep came unto them. G makes \u2018before\u2019 an adverb, and reads",
+          "witnesses": "sheep came unto them. G makes ‘before’ an adverb, and reads",
+          "charles_note": "sheep came unto them. G makes ‘before’ an adverb, and reads",
           "repo_has": false
         },
         {
@@ -3873,23 +3921,23 @@
         },
         {
           "page": 254,
-          "lemma": "give \u2018of wrath\u2019 It closed over them",
+          "lemma": "give ‘of wrath’ It closed over them",
           "sigla": [
             "G"
           ],
-          "witnesses": "give \u2018of wrath\u2019 It closed over them. G reads h.Pavy",
-          "charles_note": "give \u2018of wrath\u2019 It closed over them. G reads h.Pavy",
+          "witnesses": "give ‘of wrath’ It closed over them. G reads h.Pavy",
+          "charles_note": "give ‘of wrath’ It closed over them. G reads h.Pavy",
           "repo_has": false
         },
         {
           "page": 254,
-          "lemma": "\u2018 those beasts\u201d  20",
+          "lemma": "‘ those beasts”  20",
           "sigla": [
             "G",
             "G"
           ],
-          "witnesses": "\u2018 those beasts\u201d  20. I saw. Wanting in G. Thereon. G reads",
-          "charles_note": "\u2018 those beasts\u201d  20. I saw. Wanting in G. Thereon. G reads",
+          "witnesses": "‘ those beasts”  20. I saw. Wanting in G. Thereon. G reads",
+          "charles_note": "‘ those beasts”  20. I saw. Wanting in G. Thereon. G reads",
           "repo_has": false
         },
         {
@@ -3929,29 +3977,29 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "time in later MSS. as \u00a2the first star which fell first, but in G",
-          "charles_note": "time in later MSS. as \u00a2the first star which fell first, but in G",
+          "witnesses": "time in later MSS. as ¢the first star which fell first, but in G",
+          "charles_note": "time in later MSS. as ¢the first star which fell first, but in G",
           "repo_has": false
         },
         {
           "page": 255,
-          "lemma": "ag\u00b0nhfl against G LI\u00b0%4&",
+          "lemma": "ag°nhfl against G LI°%4&",
           "sigla": [
             "G"
           ],
-          "witnesses": "ag\u00b0nhfl against G LI\u00b0%4&: Ahhl. 22. Seven white ones.",
-          "charles_note": "ag\u00b0nhfl against G LI\u00b0%4&: Ahhl. 22. Seven white ones.",
+          "witnesses": "ag°nhfl against G LI°%4&: Ahhl. 22. Seven white ones.",
+          "charles_note": "ag°nhfl against G LI°%4&: Ahhl. 22. Seven white ones.",
           "repo_has": false
         },
         {
           "page": 255,
-          "lemma": "\u2018Seven\u2019 wanting in G",
+          "lemma": "‘Seven’ wanting in G",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "\u2018Seven\u2019 wanting in G. Doubtful whether \u2018six\u2019 or \u2018seven\u2019 in M.",
-          "charles_note": "\u2018Seven\u2019 wanting in G. Doubtful whether \u2018six\u2019 or \u2018seven\u2019 in M.",
+          "witnesses": "‘Seven’ wanting in G. Doubtful whether ‘six’ or ‘seven’ in M.",
+          "charles_note": "‘Seven’ wanting in G. Doubtful whether ‘six’ or ‘seven’ in M.",
           "repo_has": false
         },
         {
@@ -3970,8 +4018,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "I commanded them. G gives unintelligibly \u00a2t AW} dTA:",
-          "charles_note": "I commanded them. G gives unintelligibly \u00a2t AW} dTA:",
+          "witnesses": "I commanded them. G gives unintelligibly ¢t AW} dTA:",
+          "charles_note": "I commanded them. G gives unintelligibly ¢t AW} dTA:",
           "repo_has": false
         },
         {
@@ -3986,12 +4034,12 @@
         },
         {
           "page": 255,
-          "lemma": "@\u00aeav",
+          "lemma": "@®av",
           "sigla": [
             "G"
           ],
-          "witnesses": "@\u00aeav: and the second Hfrap* are wanting in G, which therefore",
-          "charles_note": "@\u00aeav: and the second Hfrap* are wanting in G, which therefore",
+          "witnesses": "@®av: and the second Hfrap* are wanting in G, which therefore",
+          "charles_note": "@®av: and the second Hfrap* are wanting in G, which therefore",
           "repo_has": false
         },
         {
@@ -4000,19 +4048,19 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "and full of pillars of fire. G omits \u00aeIPAA \u00a2 flaming with pillars",
-          "charles_note": "and full of pillars of fire. G omits \u00aeIPAA \u00a2 flaming with pillars",
+          "witnesses": "and full of pillars of fire. G omits ®IPAA ¢ flaming with pillars",
+          "charles_note": "and full of pillars of fire. G omits ®IPAA ¢ flaming with pillars",
           "repo_has": false
         },
         {
           "page": 256,
-          "lemma": "of fire\u2019 25",
+          "lemma": "of fire’ 25",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "of fire\u2019 25. Seventy. G M (4. 26. Full of fire.",
-          "charles_note": "of fire\u2019 25. Seventy. G M (4. 26. Full of fire.",
+          "witnesses": "of fire’ 25. Seventy. G M (4. 26. Full of fire.",
+          "charles_note": "of fire’ 25. Seventy. G M (4. 26. Full of fire.",
           "repo_has": false
         },
         {
@@ -4022,8 +4070,8 @@
             "G",
             "G"
           ],
-          "witnesses": "G reads H9?.\u00a3+\u00a2 instead of HI\u201d(0. Fiery abyss. G L give'",
-          "charles_note": "G reads H9?.\u00a3+\u00a2 instead of HI\u201d(0. Fiery abyss. G L give'",
+          "witnesses": "G reads H9?.£+¢ instead of HI”(0. Fiery abyss. G L give'",
+          "charles_note": "G reads H9?.£+¢ instead of HI”(0. Fiery abyss. G L give'",
           "repo_has": false
         },
         {
@@ -4032,8 +4080,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "to Dln.\u2019s conjecture. M reads T1Pap, N m@J\u00ae.  In a place.",
-          "charles_note": "to Dln.\u2019s conjecture. M reads T1Pap, N m@J\u00ae.  In a place.",
+          "witnesses": "to Dln.’s conjecture. M reads T1Pap, N m@J®.  In a place.",
+          "charles_note": "to Dln.’s conjecture. M reads T1Pap, N m@J®.  In a place.",
           "repo_has": false
         },
         {
@@ -4053,8 +4101,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "30. Making petition to and obeying them. G omits \u2018and",
-          "charles_note": "30. Making petition to and obeying them. G omits \u2018and",
+          "witnesses": "30. Making petition to and obeying them. G omits ‘and",
+          "charles_note": "30. Making petition to and obeying them. G omits ‘and",
           "repo_has": false
         },
         {
@@ -4063,19 +4111,19 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "obeying them.\u2019 3I. And thereafter those three. G reads",
-          "charles_note": "obeying them.\u2019 3I. And thereafter those three. G reads",
+          "witnesses": "obeying them.’ 3I. And thereafter those three. G reads",
+          "charles_note": "obeying them.’ 3I. And thereafter those three. G reads",
           "repo_has": false
         },
         {
           "page": 257,
-          "lemma": "\u00aeAaI\"Hn-",
+          "lemma": "®AaI\"Hn-",
           "sigla": [
             "G",
             "G"
           ],
-          "witnesses": "\u00aeAaI\"Hn-. For &ML G reads &9HL, and for A0LL G reads",
-          "charles_note": "\u00aeAaI\"Hn-. For &ML G reads &9HL, and for A0LL G reads",
+          "witnesses": "®AaI\"Hn-. For &ML G reads &9HL, and for A0LL G reads",
+          "charles_note": "®AaI\"Hn-. For &ML G reads &9HL, and for A0LL G reads",
           "repo_has": false
         },
         {
@@ -4084,8 +4132,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "&0C72. 33. All that had been. \u2018That\u2019 wanting in G. 34.",
-          "charles_note": "&0C72. 33. All that had been. \u2018That\u2019 wanting in G. 34.",
+          "witnesses": "&0C72. 33. All that had been. ‘That’ wanting in G. 34.",
+          "charles_note": "&0C72. 33. All that had been. ‘That’ wanting in G. 34.",
           "repo_has": false
         },
         {
@@ -4094,18 +4142,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Were invited, So G TAm-0-. Other MSS. T0RaN \u00a2 they were",
-          "charles_note": "Were invited, So G TAm-0-. Other MSS. T0RaN \u00a2 they were",
+          "witnesses": "Were invited, So G TAm-0-. Other MSS. T0RaN ¢ they were",
+          "charles_note": "Were invited, So G TAm-0-. Other MSS. T0RaN ¢ they were",
           "repo_has": false
         },
         {
           "page": 258,
-          "lemma": "enclosed\u201d  35",
+          "lemma": "enclosed”  35",
           "sigla": [
             "G"
           ],
-          "witnesses": "enclosed\u201d  35. G reads @iHALLA: N97ANMcav., 38, The first",
-          "charles_note": "enclosed\u201d  35. G reads @iHALLA: N97ANMcav., 38, The first",
+          "witnesses": "enclosed”  35. G reads @iHALLA: N97ANMcav., 38, The first",
+          "charles_note": "enclosed”  35. G reads @iHALLA: N97ANMcav., 38, The first",
           "repo_has": false
         },
         {
@@ -4124,8 +4172,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "After when I looked G inserts Aflov: & \u201ctill I could no longer",
-          "charles_note": "After when I looked G inserts Aflov: & \u201ctill I could no longer",
+          "witnesses": "After when I looked G inserts Aflov: & “till I could no longer",
+          "charles_note": "After when I looked G inserts Aflov: & “till I could no longer",
           "repo_has": false
         }
       ],
@@ -4175,18 +4223,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "rightness and. So G ACT0: @. Other MSS. omit and read \u2018my",
-          "charles_note": "rightness and. So G ACT0: @. Other MSS. omit and read \u2018my",
+          "witnesses": "rightness and. So G ACT0: @. Other MSS. omit and read ‘my",
+          "charles_note": "rightness and. So G ACT0: @. Other MSS. omit and read ‘my",
           "repo_has": false
         },
         {
           "page": 266,
-          "lemma": "sons\u201d after \u2018righteousness\u201d 6",
+          "lemma": "sons” after ‘righteousness” 6",
           "sigla": [
             "G"
           ],
-          "witnesses": "sons\u201d after \u2018righteousness\u201d 6. After \u00a30: 9\u00b0.8:C G inserts @T&HH,",
-          "charles_note": "sons\u201d after \u2018righteousness\u201d 6. After \u00a30: 9\u00b0.8:C G inserts @T&HH,",
+          "witnesses": "sons” after ‘righteousness” 6. After £0: 9°.8:C G inserts @T&HH,",
+          "charles_note": "sons” after ‘righteousness” 6. After £0: 9°.8:C G inserts @T&HH,",
           "repo_has": false
         },
         {
@@ -4205,8 +4253,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "but from a different MS. than G\u2014a fact which will be confirmed",
-          "charles_note": "but from a different MS. than G\u2014a fact which will be confirmed",
+          "witnesses": "but from a different MS. than G—a fact which will be confirmed",
+          "charles_note": "but from a different MS. than G—a fact which will be confirmed",
           "repo_has": false
         },
         {
@@ -4239,8 +4287,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Lord. After these words G adds \u00a30: 9\u00b0.&C. 8. For oA\u2019 .w;",
-          "charles_note": "Lord. After these words G adds \u00a30: 9\u00b0.&C. 8. For oA\u2019 .w;",
+          "witnesses": "Lord. After these words G adds £0: 9°.&C. 8. For oA’ .w;",
+          "charles_note": "Lord. After these words G adds £0: 9°.&C. 8. For oA’ .w;",
           "repo_has": false
         },
         {
@@ -4261,8 +4309,8 @@
             "G",
             "G"
           ],
-          "witnesses": "9. For \u00a31\u00b0FF0t G reads Lchd\\. 11. For &\u00bb\u00a2@ G reads",
-          "charles_note": "9. For \u00a31\u00b0FF0t G reads Lchd\\. 11. For &\u00bb\u00a2@ G reads",
+          "witnesses": "9. For £1°FF0t G reads Lchd\\. 11. For &»¢@ G reads",
+          "charles_note": "9. For £1°FF0t G reads Lchd\\. 11. For &»¢@ G reads",
           "repo_has": false
         },
         {
@@ -4271,18 +4319,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "aPCo. In every place. \u2018Place\u2019 wanting in G. Those",
-          "charles_note": "aPCo. In every place. \u2018Place\u2019 wanting in G. Those",
+          "witnesses": "aPCo. In every place. ‘Place’ wanting in G. Those",
+          "charles_note": "aPCo. In every place. ‘Place’ wanting in G. Those",
           "repo_has": false
         },
         {
           "page": 268,
-          "lemma": "G reads \u2018those who devise and those who commit blasphemy",
+          "lemma": "G reads ‘those who devise and those who commit blasphemy",
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads \u2018those who devise and those who commit blasphemy.\u2019",
-          "charles_note": "G reads \u2018those who devise and those who commit blasphemy.\u2019",
+          "witnesses": "G reads ‘those who devise and those who commit blasphemy.’",
+          "charles_note": "G reads ‘those who devise and those who commit blasphemy.’",
           "repo_has": false
         },
         {
@@ -4312,8 +4360,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "world will be written down for destruction. G reads L\u00a32'ch&::",
-          "charles_note": "world will be written down for destruction. G reads L\u00a32'ch&::",
+          "witnesses": "world will be written down for destruction. G reads L£2'ch&::",
+          "charles_note": "world will be written down for destruction. G reads L£2'ch&::",
           "repo_has": false
         },
         {
@@ -4322,8 +4370,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "15. Seventh part. \u2018Seventh\u2019 wanting in G. The great",
-          "charles_note": "15. Seventh part. \u2018Seventh\u2019 wanting in G. The great",
+          "witnesses": "15. Seventh part. ‘Seventh’ wanting in G. The great",
+          "charles_note": "15. Seventh part. ‘Seventh’ wanting in G. The great",
           "repo_has": false
         },
         {
@@ -4333,28 +4381,28 @@
             "M",
             "G"
           ],
-          "witnesses": "the angels. So M, and also G, but that it reads \u00a30\u00a2*=N\\ instead",
-          "charles_note": "the angels. So M, and also G, but that it reads \u00a30\u00a2*=N\\ instead",
+          "witnesses": "the angels. So M, and also G, but that it reads £0¢*=N\\ instead",
+          "charles_note": "the angels. So M, and also G, but that it reads £0¢*=N\\ instead",
           "repo_has": false
         },
         {
           "page": 269,
-          "lemma": "of \u00a31MbPN as M",
+          "lemma": "of £1MbPN as M",
           "sigla": [
             "M"
           ],
-          "witnesses": "of \u00a31MbPN as M. FHLO and Dln. \u2018the eternal judgment,",
-          "charles_note": "of \u00a31MbPN as M. FHLO and Dln. \u2018the eternal judgment,",
+          "witnesses": "of £1MbPN as M. FHLO and Dln. ‘the eternal judgment,",
+          "charles_note": "of £1MbPN as M. FHLO and Dln. ‘the eternal judgment,",
           "repo_has": false
         },
         {
           "page": 269,
-          "lemma": "G reads \u00a30ACYU- and omits AZAT\u2122",
+          "lemma": "G reads £0ACYU- and omits AZAT™",
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads \u00a30ACYU- and omits AZAT\u2122. 17. In goodness. & inserts",
-          "charles_note": "G reads \u00a30ACYU- and omits AZAT\u2122. 17. In goodness. & inserts",
+          "witnesses": "G reads £0ACYU- and omits AZAT™. 17. In goodness. & inserts",
+          "charles_note": "G reads £0ACYU- and omits AZAT™. 17. In goodness. & inserts",
           "repo_has": false
         },
         {
@@ -4363,8 +4411,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "The paths of righteousness. G reads \u2018all the paths of righteous-",
-          "charles_note": "The paths of righteousness. G reads \u2018all the paths of righteous-",
+          "witnesses": "The paths of righteousness. G reads ‘all the paths of righteous-",
+          "charles_note": "The paths of righteousness. G reads ‘all the paths of righteous-",
           "repo_has": false
         },
         {
@@ -4373,8 +4421,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "ness.\u2019 Will show to you. G reads AGALhhav. 19.",
-          "charles_note": "ness.\u2019 Will show to you. G reads AGALhhav. 19.",
+          "witnesses": "ness.’ Will show to you. G reads AGALhhav. 19.",
+          "charles_note": "ness.’ Will show to you. G reads AGALhhav. 19.",
           "repo_has": false
         },
         {
@@ -4415,8 +4463,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "times. G reads NA977% \u2018indeed,\u201d \u00a2 truly. 3. For the righteous",
-          "charles_note": "times. G reads NA977% \u2018indeed,\u201d \u00a2 truly. 3. For the righteous",
+          "witnesses": "times. G reads NA977% ‘indeed,” ¢ truly. 3. For the righteous",
+          "charles_note": "times. G reads NA977% ‘indeed,” ¢ truly. 3. For the righteous",
           "repo_has": false
         },
         {
@@ -4435,8 +4483,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "PO * wisdom will arise.\u201d M \u2018righteousness will arise from its",
-          "charles_note": "PO * wisdom will arise.\u201d M \u2018righteousness will arise from its",
+          "witnesses": "PO * wisdom will arise.” M ‘righteousness will arise from its",
+          "charles_note": "PO * wisdom will arise.” M ‘righteousness will arise from its",
           "repo_has": false
         },
         {
@@ -4451,12 +4499,12 @@
         },
         {
           "page": 271,
-          "lemma": "d\u2019 Henoch, par T",
+          "lemma": "d’ Henoch, par T",
           "sigla": [
             "G"
           ],
-          "witnesses": "d\u2019 Henoch, par T. G. Peter, Gentve,",
-          "charles_note": "d\u2019 Henoch, par T. G. Peter, Gentve,",
+          "witnesses": "d’ Henoch, par T. G. Peter, Gentve,",
+          "charles_note": "d’ Henoch, par T. G. Peter, Gentve,",
           "repo_has": false
         },
         {
@@ -4475,8 +4523,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "5. Plant of righteous judgment. G adds HA%A9\u00ae, and omits",
-          "charles_note": "5. Plant of righteous judgment. G adds HA%A9\u00ae, and omits",
+          "witnesses": "5. Plant of righteous judgment. G adds HA%A9®, and omits",
+          "charles_note": "5. Plant of righteous judgment. G adds HA%A9®, and omits",
           "repo_has": false
         },
         {
@@ -4485,8 +4533,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "the rest of the verse. Before Th: %.8&\u00ae M inserts . 6.",
-          "charles_note": "the rest of the verse. Before Th: %.8&\u00ae M inserts . 6.",
+          "witnesses": "the rest of the verse. Before Th: %.8&® M inserts . 6.",
+          "charles_note": "the rest of the verse. Before Th: %.8&® M inserts . 6.",
           "repo_has": false
         },
         {
@@ -4495,8 +4543,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads %.2%; LTZAL \u2018there will be visions of the holy ones",
-          "charles_note": "G reads %.2%; LTZAL \u2018there will be visions of the holy ones",
+          "witnesses": "G reads %.2%; LTZAL ‘there will be visions of the holy ones",
+          "charles_note": "G reads %.2%; LTZAL ‘there will be visions of the holy ones",
           "repo_has": false
         },
         {
@@ -4526,8 +4574,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "creation. For \u00a7PeTl G reads P&t \u2018concerning His whole",
-          "charles_note": "creation. For \u00a7PeTl G reads P&t \u2018concerning His whole",
+          "witnesses": "creation. For §PeTl G reads P&t ‘concerning His whole",
+          "charles_note": "creation. For §PeTl G reads P&t ‘concerning His whole",
           "repo_has": false
         },
         {
@@ -4547,8 +4595,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "So BM: i1\u00a7:0: @Aav: &n; avid(), and G gives 1\u00a701 and ap\u201934.0,",
-          "charles_note": "So BM: i1\u00a7:0: @Aav: &n; avid(), and G gives 1\u00a701 and ap\u201934.0,",
+          "witnesses": "So BM: i1§:0: @Aav: &n; avid(), and G gives 1§01 and ap’34.0,",
+          "charles_note": "So BM: i1§:0: @Aav: &n; avid(), and G gives 1§01 and ap’34.0,",
           "repo_has": false
         },
         {
@@ -4567,8 +4615,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "XCIV. 1. Worthy of acceptation. G reads \u00a3.L0 @ LT@Oh&:.",
-          "charles_note": "XCIV. 1. Worthy of acceptation. G reads \u00a3.L0 @ LT@Oh&:.",
+          "witnesses": "XCIV. 1. Worthy of acceptation. G reads £.L0 @ LT@Oh&:.",
+          "charles_note": "XCIV. 1. Worthy of acceptation. G reads £.L0 @ LT@Oh&:.",
           "repo_has": false
         },
         {
@@ -4578,8 +4626,8 @@
             "G",
             "M"
           ],
-          "witnesses": "3. Path of wickedness. So G M. Other MSS. add \u2018and in",
-          "charles_note": "3. Path of wickedness. So G M. Other MSS. add \u2018and in",
+          "witnesses": "3. Path of wickedness. So G M. Other MSS. add ‘and in",
+          "charles_note": "3. Path of wickedness. So G M. Other MSS. add ‘and in",
           "repo_has": false
         },
         {
@@ -4588,8 +4636,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "violence.\u2019 4. But seek. G reads hav; a0: L\u00a34LPK: Ah, and",
-          "charles_note": "violence.\u2019 4. But seek. G reads hav; a0: L\u00a34LPK: Ah, and",
+          "witnesses": "violence.’ 4. But seek. G reads hav; a0: L£4LPK: Ah, and",
+          "charles_note": "violence.’ 4. But seek. G reads hav; a0: L£4LPK: Ah, and",
           "repo_has": false
         },
         {
@@ -4634,12 +4682,12 @@
         },
         {
           "page": 277,
-          "lemma": "G reads \u2018their hands",
+          "lemma": "G reads ‘their hands",
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads \u2018their hands.\u2019 4. Irreversible anathemas: healing",
-          "charles_note": "G reads \u2018their hands.\u2019 4. Irreversible anathemas: healing",
+          "witnesses": "G reads ‘their hands.’ 4. Irreversible anathemas: healing",
+          "charles_note": "G reads ‘their hands.’ 4. Irreversible anathemas: healing",
           "repo_has": false
         },
         {
@@ -4654,12 +4702,12 @@
         },
         {
           "page": 277,
-          "lemma": "hav; \u00a3C5P",
+          "lemma": "hav; £C5P",
           "sigla": [
             "M"
           ],
-          "witnesses": "hav; \u00a3C5P. M: 7HIT: hav; ALTLTd: odod: C4P. 7.",
-          "charles_note": "hav; \u00a3C5P. M: 7HIT: hav; ALTLTd: odod: C4P. 7.",
+          "witnesses": "hav; £C5P. M: 7HIT: hav; ALTLTd: odod: C4P. 7.",
+          "charles_note": "hav; £C5P. M: 7HIT: hav; ALTLTd: odod: C4P. 7.",
           "repo_has": false
         },
         {
@@ -4674,23 +4722,23 @@
         },
         {
           "page": 277,
-          "lemma": "with injustice\u2019 For ZAA",
+          "lemma": "with injustice’ For ZAA",
           "sigla": [
             "M"
           ],
-          "witnesses": "with injustice\u2019 For ZAA: 0avq M reads #9\u2122%apd. For H.AWPav:",
-          "charles_note": "with injustice\u2019 For ZAA: 0avq M reads #9\u2122%apd. For H.AWPav:",
+          "witnesses": "with injustice’ For ZAA: 0avq M reads #9™%apd. For H.AWPav:",
+          "charles_note": "with injustice’ For ZAA: 0avq M reads #9™%apd. For H.AWPav:",
           "repo_has": false
         },
         {
           "page": 277,
-          "lemma": "G M read H&A? \u2018its (i",
+          "lemma": "G M read H&A? ‘its (i",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "G M read H&A? \u2018its (i.e. injustice) yoke.\u2019",
-          "charles_note": "G M read H&A? \u2018its (i.e. injustice) yoke.\u2019",
+          "witnesses": "G M read H&A? ‘its (i.e. injustice) yoke.’",
+          "charles_note": "G M read H&A? ‘its (i.e. injustice) yoke.’",
           "repo_has": false
         },
         {
@@ -4731,8 +4779,8 @@
             "G",
             "G"
           ],
-          "witnesses": "wickedness. G reads: THaG: &h-\u20ac7. 8. Oppress. G reads",
-          "charles_note": "wickedness. G reads: THaG: &h-\u20ac7. 8. Oppress. G reads",
+          "witnesses": "wickedness. G reads: THaG: &h-€7. 8. Oppress. G reads",
+          "charles_note": "wickedness. G reads: THaG: &h-€7. 8. Oppress. G reads",
           "repo_has": false
         },
         {
@@ -4762,8 +4810,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "section xcvil. 6P\u2014cviil. 10 in'G. We shall distinguish the two texts",
-          "charles_note": "section xcvil. 6P\u2014cviil. 10 in'G. We shall distinguish the two texts",
+          "witnesses": "section xcvil. 6P—cviil. 10 in'G. We shall distinguish the two texts",
+          "charles_note": "section xcvil. 6P—cviil. 10 in'G. We shall distinguish the two texts",
           "repo_has": false
         },
         {
@@ -4795,8 +4843,8 @@
             "G",
             "M"
           ],
-          "witnesses": "Holy. So G G*M. Dln. gives \u2018and Holy' Every work which",
-          "charles_note": "Holy. So G G*M. Dln. gives \u2018and Holy' Every work which",
+          "witnesses": "Holy. So G G*M. Dln. gives ‘and Holy' Every work which",
+          "charles_note": "Holy. So G G*M. Dln. gives ‘and Holy' Every work which",
           "repo_has": false
         },
         {
@@ -4811,12 +4859,12 @@
         },
         {
           "page": 280,
-          "lemma": "\u20ac5",
+          "lemma": "€5",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u20ac5.6\u00b07: T204: 0apq, and G' reads \u00a37.2:6% \u2018T704: HA10: N%arq.",
-          "charles_note": "\u20ac5.6\u00b07: T204: 0apq, and G' reads \u00a37.2:6% \u2018T704: HA10: N%arq.",
+          "witnesses": "€5.6°7: T204: 0apq, and G' reads £7.2:6% ‘T704: HA10: N%arq.",
+          "charles_note": "€5.6°7: T204: 0apq, and G' reads £7.2:6% ‘T704: HA10: N%arq.",
           "repo_has": false
         },
         {
@@ -4835,8 +4883,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "and many are the husbandmen.\u201d M: @hao; 97\u00a3; AHDT: &NCTE",
-          "charles_note": "and many are the husbandmen.\u201d M: @hao; 97\u00a3; AHDT: &NCTE",
+          "witnesses": "and many are the husbandmen.” M: @hao; 97£; AHDT: &NCTE",
+          "charles_note": "and many are the husbandmen.” M: @hao; 97£; AHDT: &NCTE",
           "repo_has": false
         },
         {
@@ -4857,8 +4905,8 @@
             "G",
             "G"
           ],
-          "witnesses": "XCVIIL 1. To the wise and foolish. G and G' read \u00aeANA",
-          "charles_note": "XCVIIL 1. To the wise and foolish. G and G' read \u00aeANA",
+          "witnesses": "XCVIIL 1. To the wise and foolish. G and G' read ®ANA",
+          "charles_note": "XCVIIL 1. To the wise and foolish. G and G' read ®ANA",
           "repo_has": false
         },
         {
@@ -4873,12 +4921,12 @@
         },
         {
           "page": 281,
-          "lemma": "poured out as water,\u2019 i",
+          "lemma": "poured out as water,’ i",
           "sigla": [
             "G"
           ],
-          "witnesses": "poured out as water,\u2019 i.e. as plentifully as water, cf. xevii. 9. G!in-",
-          "charles_note": "poured out as water,\u2019 i.e. as plentifully as water, cf. xevii. 9. G!in-",
+          "witnesses": "poured out as water,’ i.e. as plentifully as water, cf. xevii. 9. G!in-",
+          "charles_note": "poured out as water,’ i.e. as plentifully as water, cf. xevii. 9. G!in-",
           "repo_has": false
         },
         {
@@ -4893,14 +4941,14 @@
         },
         {
           "page": 281,
-          "lemma": "G G' M read Qav\u00a52A, which is not a possible word",
+          "lemma": "G G' M read Qav¥2A, which is not a possible word",
           "sigla": [
             "G",
             "G",
             "M"
           ],
-          "witnesses": "G G' M read Qav\u00a52A, which is not a possible word. This reading",
-          "charles_note": "G G' M read Qav\u00a52A, which is not a possible word. This reading",
+          "witnesses": "G G' M read Qav¥2A, which is not a possible word. This reading",
+          "charles_note": "G G' M read Qav¥2A, which is not a possible word. This reading",
           "repo_has": false
         },
         {
@@ -4910,18 +4958,18 @@
             "G",
             "G"
           ],
-          "witnesses": "I have sworn., Wanting in G'. For @A\u00ae7C G reads @7C \u2018 As",
-          "charles_note": "I have sworn., Wanting in G'. For @A\u00ae7C G reads @7C \u2018 As",
+          "witnesses": "I have sworn., Wanting in G'. For @A®7C G reads @7C ‘ As",
+          "charles_note": "I have sworn., Wanting in G'. For @A®7C G reads @7C ‘ As",
           "repo_has": false
         },
         {
           "page": 281,
-          "lemma": "the handmaid of a2 woman\u201d G'HILM N O agree with Dln",
+          "lemma": "the handmaid of a2 woman” G'HILM N O agree with Dln",
           "sigla": [
             "G"
           ],
-          "witnesses": "the handmaid of a2 woman\u201d G'HILM N O agree with Dln. 6.",
-          "charles_note": "the handmaid of a2 woman\u201d G'HILM N O agree with Dln. 6.",
+          "witnesses": "the handmaid of a2 woman” G'HILM N O agree with Dln. 6.",
+          "charles_note": "the handmaid of a2 woman” G'HILM N O agree with Dln. 6.",
           "repo_has": false
         },
         {
@@ -4941,8 +4989,8 @@
             "G",
             "G"
           ],
-          "witnesses": "G reads L& &, Your judgment. G \u2018judgment. 9.",
-          "charles_note": "G reads L& &, Your judgment. G \u2018judgment. 9.",
+          "witnesses": "G reads L& &, Your judgment. G ‘judgment. 9.",
+          "charles_note": "G reads L& &, Your judgment. G ‘judgment. 9.",
           "repo_has": false
         },
         {
@@ -4963,20 +5011,20 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "10. For destruction. G reads AQ0A: chi\u2019F-D\\hav\u00ab. 11. Who work.",
-          "charles_note": "10. For destruction. G reads AQ0A: chi\u2019F-D\\hav\u00ab. 11. Who work.",
+          "witnesses": "10. For destruction. G reads AQ0A: chi’F-D\\hav«. 11. Who work.",
+          "charles_note": "10. For destruction. G reads AQ0A: chi’F-D\\hav«. 11. Who work.",
           "repo_has": false
         },
         {
           "page": 283,
-          "lemma": "G G'M give \u00a3M14- and LOAO-",
+          "lemma": "G G'M give £M14- and LOAO-",
           "sigla": [
             "G",
             "G",
             "M"
           ],
-          "witnesses": "G G'M give \u00a3M14- and LOAO-. 13. No grave of yours will",
-          "charles_note": "G G'M give \u00a3M14- and LOAO-. 13. No grave of yours will",
+          "witnesses": "G G'M give £M14- and LOAO-. 13. No grave of yours will",
+          "charles_note": "G G'M give £M14- and LOAO-. 13. No grave of yours will",
           "repo_has": false
         },
         {
@@ -4986,8 +5034,8 @@
             "G",
             "G"
           ],
-          "witnesses": "be seen. So G and G' \u00a371\u00a24.L. Other MSS. \u201cno grave will be",
-          "charles_note": "be seen. So G and G' \u00a371\u00a24.L. Other MSS. \u201cno grave will be",
+          "witnesses": "be seen. So G and G' £71¢4.L. Other MSS. “no grave will be",
+          "charles_note": "be seen. So G and G' £71¢4.L. Other MSS. “no grave will be",
           "repo_has": false
         },
         {
@@ -5008,8 +5056,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads: TdZFhpary Lol wELt \u2018ye will perish as to a",
-          "charles_note": "G reads: TdZFhpary Lol wELt \u2018ye will perish as to a",
+          "witnesses": "G reads: TdZFhpary Lol wELt ‘ye will perish as to a",
+          "charles_note": "G reads: TdZFhpary Lol wELt ‘ye will perish as to a",
           "repo_has": false
         },
         {
@@ -5030,8 +5078,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "verbs of verse 2 are in the 3rd pl 3. G reads, \u2018the righteous",
-          "charles_note": "verbs of verse 2 are in the 3rd pl 3. G reads, \u2018the righteous",
+          "witnesses": "verbs of verse 2 are in the 3rd pl 3. G reads, ‘the righteous",
+          "charles_note": "verbs of verse 2 are in the 3rd pl 3. G reads, ‘the righteous",
           "repo_has": false
         },
         {
@@ -5050,8 +5098,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "The families of the nations will arise. G omits families.\u2019",
-          "charles_note": "The families of the nations will arise. G omits families.\u2019",
+          "witnesses": "The families of the nations will arise. G omits families.’",
+          "charles_note": "The families of the nations will arise. G omits families.’",
           "repo_has": false
         },
         {
@@ -5071,8 +5119,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "redigi. Cast them away. So GG!'M. Other MSS. \u2018cast",
-          "charles_note": "redigi. Cast them away. So GG!'M. Other MSS. \u2018cast",
+          "witnesses": "redigi. Cast them away. So GG!'M. Other MSS. ‘cast",
+          "charles_note": "redigi. Cast them away. So GG!'M. Other MSS. ‘cast",
           "repo_has": false
         }
       ],
@@ -5098,12 +5146,12 @@
         },
         {
           "page": 285,
-          "lemma": "AN-\u00a3% \u2018evil spirits\u201d M",
+          "lemma": "AN-£% ‘evil spirits” M",
           "sigla": [
             "M"
           ],
-          "witnesses": "AN-\u00a3% \u2018evil spirits\u201d M: I\u20acAT: &h-\u20ac1T. Not according to",
-          "charles_note": "AN-\u00a3% \u2018evil spirits\u201d M: I\u20acAT: &h-\u20ac1T. Not according to",
+          "witnesses": "AN-£% ‘evil spirits” M: I€AT: &h-€1T. Not according to",
+          "charles_note": "AN-£% ‘evil spirits” M: I€AT: &h-€1T. Not according to",
           "repo_has": false
         },
         {
@@ -5122,8 +5170,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Exeget. Note. G AT9\u00b00C. FHILNO and Dln. 09\u00b0h&I7T \u2018in",
-          "charles_note": "Exeget. Note. G AT9\u00b00C. FHILNO and Dln. 09\u00b0h&I7T \u2018in",
+          "witnesses": "Exeget. Note. G AT9°0C. FHILNO and Dln. 09°h&I7T ‘in",
+          "charles_note": "Exeget. Note. G AT9°0C. FHILNO and Dln. 09°h&I7T ‘in",
           "repo_has": false
         },
         {
@@ -5132,8 +5180,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "idol temples.\u201d M reads with Dln., but inserts a negative.  ro. Of",
-          "charles_note": "idol temples.\u201d M reads with Dln., but inserts a negative.  ro. Of",
+          "witnesses": "idol temples.” M reads with Dln., but inserts a negative.  ro. Of",
+          "charles_note": "idol temples.” M reads with Dln., but inserts a negative.  ro. Of",
           "repo_has": false
         },
         {
@@ -5144,8 +5192,8 @@
             "G",
             "M"
           ],
-          "witnesses": "His righteousness. So G G'M. Other MSS. of righteousness.\u2019",
-          "charles_note": "His righteousness. So G G'M. Other MSS. of righteousness.\u2019",
+          "witnesses": "His righteousness. So G G'M. Other MSS. of righteousness.’",
+          "charles_note": "His righteousness. So G G'M. Other MSS. of righteousness.’",
           "repo_has": false
         },
         {
@@ -5164,8 +5212,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "to your neighbour. So G TN\u00e9@-P, ie. TOLDP. Other MSS.",
-          "charles_note": "to your neighbour. So G TN\u00e9@-P, ie. TOLDP. Other MSS.",
+          "witnesses": "to your neighbour. So G TNé@-P, ie. TOLDP. Other MSS.",
+          "charles_note": "to your neighbour. So G TNé@-P, ie. TOLDP. Other MSS.",
           "repo_has": false
         },
         {
@@ -5176,8 +5224,8 @@
             "G",
             "G"
           ],
-          "witnesses": "to you. G gives \u2018woe to them.\u201d  Measures. So G G! AaddL.CT.",
-          "charles_note": "to you. G gives \u2018woe to them.\u201d  Measures. So G G! AaddL.CT.",
+          "witnesses": "to you. G gives ‘woe to them.”  Measures. So G G! AaddL.CT.",
+          "charles_note": "to you. G gives ‘woe to them.”  Measures. So G G! AaddL.CT.",
           "repo_has": false
         },
         {
@@ -5186,8 +5234,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "M Aaodpwqet. Other MSS. Aapw T \u00a2 who lay a foundation of",
-          "charles_note": "M Aaodpwqet. Other MSS. Aapw T \u00a2 who lay a foundation of",
+          "witnesses": "M Aaodpwqet. Other MSS. Aapw T ¢ who lay a foundation of",
+          "charles_note": "M Aaodpwqet. Other MSS. Aapw T ¢ who lay a foundation of",
           "repo_has": false
         },
         {
@@ -5196,8 +5244,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "sin and deceit.\u2019 Tempt (others). So G .faphi.. (' reads",
-          "charles_note": "sin and deceit.\u2019 Tempt (others). So G .faphi.. (' reads",
+          "witnesses": "sin and deceit.’ Tempt (others). So G .faphi.. (' reads",
+          "charles_note": "sin and deceit.’ Tempt (others). So G .faphi.. (' reads",
           "repo_has": false
         },
         {
@@ -5217,8 +5265,8 @@
             "G",
             "M"
           ],
-          "witnesses": "His indignation to destroy you. G'M read: ap0-+t: mav\u2019id.f:",
-          "charles_note": "His indignation to destroy you. G'M read: ap0-+t: mav\u2019id.f:",
+          "witnesses": "His indignation to destroy you. G'M read: ap0-+t: mav’id.f:",
+          "charles_note": "His indignation to destroy you. G'M read: ap0-+t: mav’id.f:",
           "repo_has": false
         },
         {
@@ -5245,12 +5293,12 @@
         },
         {
           "page": 287,
-          "lemma": "hand\u2019 GG'M give ADPA for @ITA",
+          "lemma": "hand’ GG'M give ADPA for @ITA",
           "sigla": [
             "M"
           ],
-          "witnesses": "hand\u2019 GG'M give ADPA for @ITA. 3. To its height.",
-          "charles_note": "hand\u2019 GG'M give ADPA for @ITA. 3. To its height.",
+          "witnesses": "hand’ GG'M give ADPA for @ITA. 3. To its height.",
+          "charles_note": "hand’ GG'M give ADPA for @ITA. 3. To its height.",
           "repo_has": false
         },
         {
@@ -5282,8 +5330,8 @@
             "G",
             "M"
           ],
-          "witnesses": "He has made an end of. So G G!M \u00a32.20,",
-          "charles_note": "He has made an end of. So G G!M \u00a32.20,",
+          "witnesses": "He has made an end of. So G G!M £2.20,",
+          "charles_note": "He has made an end of. So G G!M £2.20,",
           "repo_has": false
         },
         {
@@ -5302,8 +5350,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "help you. G gives \u2018 to help them.\u2019",
-          "charles_note": "help you. G gives \u2018 to help them.\u2019",
+          "witnesses": "help you. G gives ‘ to help them.’",
+          "charles_note": "help you. G gives ‘ to help them.’",
           "repo_has": false
         },
         {
@@ -5324,8 +5372,8 @@
             "G",
             "M"
           ],
-          "witnesses": "G reads TN%: \"IN, and G' 170%: 9\u00b000. M: 1204 9\u00b0DdA.",
-          "charles_note": "G reads TN%: \"IN, and G' 170%: 9\u00b000. M: 1204 9\u00b0DdA.",
+          "witnesses": "G reads TN%: \"IN, and G' 170%: 9°00. M: 1204 9°DdA.",
+          "charles_note": "G reads TN%: \"IN, and G' 170%: 9°00. M: 1204 9°DdA.",
           "repo_has": false
         },
         {
@@ -5334,8 +5382,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "11. Cloud. So G. Other MSS. \u2018every cloud. From de-",
-          "charles_note": "11. Cloud. So G. Other MSS. \u2018every cloud. From de-",
+          "witnesses": "11. Cloud. So G. Other MSS. ‘every cloud. From de-",
+          "charles_note": "11. Cloud. So G. Other MSS. ‘every cloud. From de-",
           "repo_has": false
         },
         {
@@ -5344,8 +5392,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "scending. G reads: hav; \u00a34&%. Other MSS.: hav: 4.\u00a372%5.",
-          "charles_note": "scending. G reads: hav; \u00a34&%. Other MSS.: hav: 4.\u00a372%5.",
+          "witnesses": "scending. G reads: hav; £4&%. Other MSS.: hav: 4.£72%5.",
+          "charles_note": "scending. G reads: hav; £4&%. Other MSS.: hav: 4.£72%5.",
           "repo_has": false
         },
         {
@@ -5355,8 +5403,8 @@
             "G",
             "M"
           ],
-          "witnesses": "And that because of your sins. So G: @\u00a30: \"\u00a5M.A&Thav. But",
-          "charles_note": "And that because of your sins. So G: @\u00a30: \"\u00a5M.A&Thav. But",
+          "witnesses": "And that because of your sins. So G: @£0: \"¥M.A&Thav. But",
+          "charles_note": "And that because of your sins. So G: @£0: \"¥M.A&Thav. But",
           "repo_has": false
         },
         {
@@ -5365,8 +5413,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "the MSS. vary much. G! reads: @\u00a3EA%: \u00a30: IMETha: < and",
-          "charles_note": "the MSS. vary much. G! reads: @\u00a3EA%: \u00a30: IMETha: < and",
+          "witnesses": "the MSS. vary much. G! reads: @£EA%: £0: IMETha: < and",
+          "charles_note": "the MSS. vary much. G! reads: @£EA%: £0: IMETha: < and",
           "repo_has": false
         },
         {
@@ -5375,8 +5423,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "they will think of your sins.\u201d Dln. gives the same as G, with the",
-          "charles_note": "they will think of your sins.\u201d Dln. gives the same as G, with the",
+          "witnesses": "they will think of your sins.” Dln. gives the same as G, with the",
+          "charles_note": "they will think of your sins.” Dln. gives the same as G, with the",
           "repo_has": false
         },
         {
@@ -5397,8 +5445,8 @@
             "G",
             "M"
           ],
-          "witnesses": "CL 1. Ye children. So G G*M. Other MSS. *all ye children.\u2019",
-          "charles_note": "CL 1. Ye children. So G G*M. Other MSS. *all ye children.\u2019",
+          "witnesses": "CL 1. Ye children. So G G*M. Other MSS. *all ye children.’",
+          "charles_note": "CL 1. Ye children. So G G*M. Other MSS. *all ye children.’",
           "repo_has": false
         },
         {
@@ -5407,8 +5455,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Fear yo. G gives &GPl His ways.\u201d 3. Because of. SoGMAQ.",
-          "charles_note": "Fear yo. G gives &GPl His ways.\u201d 3. Because of. SoGMAQ.",
+          "witnesses": "Fear yo. G gives &GPl His ways.” 3. Because of. SoGMAQ.",
+          "charles_note": "Fear yo. G gives &GPl His ways.” 3. Because of. SoGMAQ.",
           "repo_has": false
         },
         {
@@ -5417,20 +5465,20 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G! omits. Other MSS. \u2018and upon\u2019 4. Sailors of the ships.",
-          "charles_note": "G! omits. Other MSS. \u2018and upon\u2019 4. Sailors of the ships.",
+          "witnesses": "G! omits. Other MSS. ‘and upon’ 4. Sailors of the ships.",
+          "charles_note": "G! omits. Other MSS. ‘and upon’ 4. Sailors of the ships.",
           "repo_has": false
         },
         {
           "page": 290,
-          "lemma": "from a confusion of NIIN7 \"{'J?LD with \u201cN] \u2019;_\u2019",
+          "lemma": "from a confusion of NIIN7 \"{'J?LD with “N] ’;_’",
           "sigla": [
             "G",
             "G",
             "M"
           ],
-          "witnesses": "from a confusion of NIIN7 \"{'J?LD with \u201cN] \u2019;_\u2019:5\u20199,. 5. G G' M for",
-          "charles_note": "from a confusion of NIIN7 \"{'J?LD with \u201cN] \u2019;_\u2019:5\u20199,. 5. G G' M for",
+          "witnesses": "from a confusion of NIIN7 \"{'J?LD with “N] ’;_’:5’9,. 5. G G' M for",
+          "charles_note": "from a confusion of NIIN7 \"{'J?LD with “N] ’;_’:5’9,. 5. G G' M for",
           "repo_has": false
         },
         {
@@ -5439,8 +5487,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "@owgg read WEL: @, and G repeats AW \u2014AML through",
-          "charles_note": "@owgg read WEL: @, and G repeats AW \u2014AML through",
+          "witnesses": "@owgg read WEL: @, and G repeats AW —AML through",
+          "charles_note": "@owgg read WEL: @, and G repeats AW —AML through",
           "repo_has": false
         },
         {
@@ -5466,12 +5514,12 @@
         },
         {
           "page": 291,
-          "lemma": "\u2018dries up and is afraid",
+          "lemma": "‘dries up and is afraid",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018dries up and is afraid.\u2019 G omits \u2018is afraid.\u2019",
-          "charles_note": "\u2018dries up and is afraid.\u2019 G omits \u2018is afraid.\u2019",
+          "witnesses": "‘dries up and is afraid.’ G omits ‘is afraid.’",
+          "charles_note": "‘dries up and is afraid.’ G omits ‘is afraid.’",
           "repo_has": false
         },
         {
@@ -5492,8 +5540,8 @@
             "G",
             "M"
           ],
-          "witnesses": "G G'M: A0.\u00a3; DAdT. Din. gives \u2018Him who is great in glory.",
-          "charles_note": "G G'M: A0.\u00a3; DAdT. Din. gives \u2018Him who is great in glory.",
+          "witnesses": "G G'M: A0.£; DAdT. Din. gives ‘Him who is great in glory.",
+          "charles_note": "G G'M: A0.£; DAdT. Din. gives ‘Him who is great in glory.",
           "repo_has": false
         },
         {
@@ -5523,8 +5571,8 @@
             "G",
             "G"
           ],
-          "witnesses": "5. If. So G and G' &gp. Other MSS. \u00a2 that,",
-          "charles_note": "5. If. So G and G' &gp. Other MSS. \u00a2 that,",
+          "witnesses": "5. If. So G and G' &gp. Other MSS. ¢ that,",
+          "charles_note": "5. If. So G and G' &gp. Other MSS. ¢ that,",
           "repo_has": false
         },
         {
@@ -5535,8 +5583,8 @@
             "G",
             "M"
           ],
-          "witnesses": "In grief. So G G!M. Other MSS. \u2018in great tribulation",
-          "charles_note": "In grief. So G G!M. Other MSS. \u2018in great tribulation",
+          "witnesses": "In grief. So G G!M. Other MSS. ‘in great tribulation",
+          "charles_note": "In grief. So G G!M. Other MSS. ‘in great tribulation",
           "repo_has": false
         },
         {
@@ -5545,8 +5593,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G and O' read: 9\u00b0%1: LT1M& \u2018how will they arise?\u2019 10.",
-          "charles_note": "G and O' read: 9\u00b0%1: LT1M& \u2018how will they arise?\u2019 10.",
+          "witnesses": "G and O' read: 9°%1: LT1M& ‘how will they arise?’ 10.",
+          "charles_note": "G and O' read: 9°%1: LT1M& ‘how will they arise?’ 10.",
           "repo_has": false
         },
         {
@@ -5567,8 +5615,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "MSS. \u2018how their end is peace\u2019  Is found. G reads TInQT.",
-          "charles_note": "MSS. \u2018how their end is peace\u2019  Is found. G reads TInQT.",
+          "witnesses": "MSS. ‘how their end is peace’  Is found. G reads TInQT.",
+          "charles_note": "MSS. ‘how their end is peace’  Is found. G reads TInQT.",
           "repo_has": false
         },
         {
@@ -5588,8 +5636,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "great majesty and glory.\u201d M: al0dT: 00.2: @00C: av12/F.",
-          "charles_note": "great majesty and glory.\u201d M: al0dT: 00.2: @00C: av12/F.",
+          "witnesses": "great majesty and glory.” M: al0dT: 00.2: @00C: av12/F.",
+          "charles_note": "great majesty and glory.” M: al0dT: 00.2: @00C: av12/F.",
           "repo_has": false
         },
         {
@@ -5609,8 +5657,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "for the spirits of those. G reads: T&h\u00e9.: AZDNTTLPav: \u00a2 the names",
-          "charles_note": "for the spirits of those. G reads: T&h\u00e9.: AZDNTTLPav: \u00a2 the names",
+          "witnesses": "for the spirits of those. G reads: T&hé.: AZDNTTLPav: ¢ the names",
+          "charles_note": "for the spirits of those. G reads: T&hé.: AZDNTTLPav: ¢ the names",
           "repo_has": false
         },
         {
@@ -5621,8 +5669,8 @@
             "M",
             "G"
           ],
-          "witnesses": "So G: AIHE: wEL, and M practically. G' gives {IlH\u201c:: OwWG L.",
-          "charles_note": "So G: AIHE: wEL, and M practically. G' gives {IlH\u201c:: OwWG L.",
+          "witnesses": "So G: AIHE: wEL, and M practically. G' gives {IlH“:: OwWG L.",
+          "charles_note": "So G: AIHE: wEL, and M practically. G' gives {IlH“:: OwWG L.",
           "repo_has": false
         },
         {
@@ -5642,8 +5690,8 @@
             "G",
             "M"
           ],
-          "witnesses": "with G' M. Other MSS. omit * will not perish and.\u201d 5. Ye sin-",
-          "charles_note": "with G' M. Other MSS. omit * will not perish and.\u201d 5. Ye sin-",
+          "witnesses": "with G' M. Other MSS. omit * will not perish and.” 5. Ye sin-",
+          "charles_note": "with G' M. Other MSS. omit * will not perish and.” 5. Ye sin-",
           "repo_has": false
         },
         {
@@ -5654,8 +5702,8 @@
             "G",
             "M"
           ],
-          "witnesses": "ners. G G!'M curiously read \u2018ye dead sinners\u201d Die in your sins.",
-          "charles_note": "ners. G G!'M curiously read \u2018ye dead sinners\u201d Die in your sins.",
+          "witnesses": "ners. G G!'M curiously read ‘ye dead sinners” Die in your sins.",
+          "charles_note": "ners. G G!'M curiously read ‘ye dead sinners” Die in your sins.",
           "repo_has": false
         },
         {
@@ -5666,8 +5714,8 @@
             "G",
             "M"
           ],
-          "witnesses": "G G'M read: 010A: DMEThav: < die in the riches of your sins.\u2019",
-          "charles_note": "G G'M read: 010A: DMEThav: < die in the riches of your sins.\u2019",
+          "witnesses": "G G'M read: 010A: DMEThav: < die in the riches of your sins.’",
+          "charles_note": "G G'M read: 010A: DMEThav: < die in the riches of your sins.’",
           "repo_has": false
         },
         {
@@ -5676,18 +5724,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "Seen all their days. G adds wg% \u2018seen good all their days.",
-          "charles_note": "Seen all their days. G adds wg% \u2018seen good all their days.",
+          "witnesses": "Seen all their days. G adds wg% ‘seen good all their days.",
+          "charles_note": "Seen all their days. G adds wg% ‘seen good all their days.",
           "repo_has": false
         },
         {
           "page": 294,
-          "lemma": "grossen Glericht\u2019 @Generations of the world",
+          "lemma": "grossen Glericht’ @Generations of the world",
           "sigla": [
             "M"
           ],
-          "witnesses": "grossen Glericht\u2019 @Generations of the world. So GG'M:",
-          "charles_note": "grossen Glericht\u2019 @Generations of the world. So GG'M:",
+          "witnesses": "grossen Glericht’ @Generations of the world. So GG'M:",
+          "charles_note": "grossen Glericht’ @Generations of the world. So GG'M:",
           "repo_has": false
         },
         {
@@ -5767,8 +5815,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "and could attain to nothing.\u2019 11, Hoped. So G Ld.m..",
-          "charles_note": "and could attain to nothing.\u2019 11, Hoped. So G Ld.m..",
+          "witnesses": "and could attain to nothing.’ 11, Hoped. So G Ld.m..",
+          "charles_note": "and could attain to nothing.’ 11, Hoped. So G Ld.m..",
           "repo_has": false
         },
         {
@@ -5791,8 +5839,8 @@
             "G",
             "M"
           ],
-          "witnesses": "G G'M: AC&tav; AA. Dln. reads their yoke but.\u2019",
-          "charles_note": "G G'M: AC&tav; AA. Dln. reads their yoke but.\u2019",
+          "witnesses": "G G'M: AC&tav; AA. Dln. reads their yoke but.’",
+          "charles_note": "G G'M: AC&tav; AA. Dln. reads their yoke but.’",
           "repo_has": false
         },
         {
@@ -5803,8 +5851,8 @@
             "G",
             "M"
           ],
-          "witnesses": "So G G'M. Other MSS. insert \u2018ye",
-          "charles_note": "So G G'M. Other MSS. insert \u2018ye",
+          "witnesses": "So G G'M. Other MSS. insert ‘ye",
+          "charles_note": "So G G'M. Other MSS. insert ‘ye",
           "repo_has": false
         },
         {
@@ -5813,8 +5861,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "righteous.\u2019 In heaven. Wanting in G. 2. Ye will shine.",
-          "charles_note": "righteous.\u2019 In heaven. Wanting in G. 2. Ye will shine.",
+          "witnesses": "righteous.’ In heaven. Wanting in G. 2. Ye will shine.",
+          "charles_note": "righteous.’ In heaven. Wanting in G. 2. Ye will shine.",
           "repo_has": false
         },
         {
@@ -5837,8 +5885,8 @@
             "G",
             "M"
           ],
-          "witnesses": "So G G'M N&Ftav.. Other MSS. \u2018prospering in their lusts\u2019",
-          "charles_note": "So G G'M N&Ftav.. Other MSS. \u2018prospering in their lusts\u2019",
+          "witnesses": "So G G'M N&Ftav.. Other MSS. ‘prospering in their lusts’",
+          "charles_note": "So G G'M N&Ftav.. Other MSS. ‘prospering in their lusts’",
           "repo_has": false
         },
         {
@@ -5853,13 +5901,13 @@
         },
         {
           "page": 299,
-          "lemma": "G'M UAonov\u00ab",
+          "lemma": "G'M UAonov«",
           "sigla": [
             "G",
             "M"
           ],
-          "witnesses": "G'M UAonov\u00ab. Dln.: UA@havy Ik \u00a2 are destined to become.\u2019",
-          "charles_note": "G'M UAonov\u00ab. Dln.: UA@havy Ik \u00a2 are destined to become.\u2019",
+          "witnesses": "G'M UAonov«. Dln.: UA@havy Ik ¢ are destined to become.’",
+          "charles_note": "G'M UAonov«. Dln.: UA@havy Ik ¢ are destined to become.’",
           "repo_has": false
         },
         {
@@ -5871,8 +5919,8 @@
             "M",
             "G"
           ],
-          "witnesses": "G omits verb. 7. G': A.L%& % Hiv: DMETE \u00a32h\u00e9: UA@M.. G",
-          "charles_note": "G omits verb. 7. G': A.L%& % Hiv: DMETE \u00a32h\u00e9: UA@M.. G",
+          "witnesses": "G omits verb. 7. G': A.L%& % Hiv: DMETE £2hé: UA@M.. G",
+          "charles_note": "G omits verb. 7. G': A.L%& % Hiv: DMETE £2hé: UA@M.. G",
           "repo_has": false
         },
         {
@@ -5887,12 +5935,12 @@
         },
         {
           "page": 299,
-          "lemma": "1P, and G' TANNP\u2014 take no account of your idols\u201d All other",
+          "lemma": "1P, and G' TANNP— take no account of your idols” All other",
           "sigla": [
             "G"
           ],
-          "witnesses": "1P, and G' TANNP\u2014 take no account of your idols\u201d All other",
-          "charles_note": "1P, and G' TANNP\u2014 take no account of your idols\u201d All other",
+          "witnesses": "1P, and G' TANNP— take no account of your idols” All other",
+          "charles_note": "1P, and G' TANNP— take no account of your idols” All other",
           "repo_has": false
         },
         {
@@ -5903,8 +5951,8 @@
             "G",
             "M"
           ],
-          "witnesses": "11. My words. G G'M give F1\u00e9\u00b0T.",
-          "charles_note": "11. My words. G G'M give F1\u00e9\u00b0T.",
+          "witnesses": "11. My words. G G'M give F1é°T.",
+          "charles_note": "11. My words. G G'M give F1é°T.",
           "repo_has": false
         },
         {
@@ -5915,29 +5963,29 @@
             "G",
             "M"
           ],
-          "witnesses": "CVL g. Cause of anxiety. So G G'M &\u00a5\u00a5P. Other MSS. I'1(,",
-          "charles_note": "CVL g. Cause of anxiety. So G G'M &\u00a5\u00a5P. Other MSS. I'1(,",
+          "witnesses": "CVL g. Cause of anxiety. So G G'M &¥¥P. Other MSS. I'1(,",
+          "charles_note": "CVL g. Cause of anxiety. So G G'M &¥¥P. Other MSS. I'1(,",
           "repo_has": false
         },
         {
           "page": 302,
-          "lemma": "\u00a2 matter",
+          "lemma": "¢ matter",
           "sigla": [
             "G",
             "G"
           ],
-          "witnesses": "\u00a2 matter.\u2019 10. Hear me, my father. So G. DlIn. and G' give",
-          "charles_note": "\u00a2 matter.\u2019 10. Hear me, my father. So G. DlIn. and G' give",
+          "witnesses": "¢ matter.’ 10. Hear me, my father. So G. DlIn. and G' give",
+          "charles_note": "¢ matter.’ 10. Hear me, my father. So G. DlIn. and G' give",
           "repo_has": false
         },
         {
           "page": 302,
-          "lemma": "\u2018my father\u201d Colour of his body",
+          "lemma": "‘my father” Colour of his body",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018my father\u201d Colour of his body. So G: \u201cfld: DU Other",
-          "charles_note": "\u2018my father\u201d Colour of his body. So G: \u201cfld: DU Other",
+          "witnesses": "‘my father” Colour of his body. So G: “fld: DU Other",
+          "charles_note": "‘my father” Colour of his body. So G: “fld: DU Other",
           "repo_has": false
         },
         {
@@ -5946,8 +5994,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "MSS. \u00a2 His colour. 12. Lamech. So G. Other MSS. \u00a2his",
-          "charles_note": "MSS. \u00a2 His colour. 12. Lamech. So G. Other MSS. \u00a2his",
+          "witnesses": "MSS. ¢ His colour. 12. Lamech. So G. Other MSS. ¢his",
+          "charles_note": "MSS. ¢ His colour. 12. Lamech. So G. Other MSS. ¢his",
           "repo_has": false
         },
         {
@@ -5956,8 +6004,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "habe...gesehen.\u2019 This, however, is a well-known idiom. G omits",
-          "charles_note": "habe...gesehen.\u2019 This, however, is a well-known idiom. G omits",
+          "witnesses": "habe...gesehen.’ This, however, is a well-known idiom. G omits",
+          "charles_note": "habe...gesehen.’ This, however, is a well-known idiom. G omits",
           "repo_has": false
         },
         {
@@ -5998,8 +6046,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "heaven.\u2019 15. On the earth. G. Other MSS. \u2018on the whole earth.\u2019",
-          "charles_note": "heaven.\u2019 15. On the earth. G. Other MSS. \u2018on the whole earth.\u2019",
+          "witnesses": "heaven.’ 15. On the earth. G. Other MSS. ‘on the whole earth.’",
+          "charles_note": "heaven.’ 15. On the earth. G. Other MSS. ‘on the whole earth.’",
           "repo_has": false
         },
         {
@@ -6009,8 +6057,8 @@
             "G",
             "G"
           ],
-          "witnesses": "G G the words which come after these in Dln.\u2019s text, \u2018he and his",
-          "charles_note": "G G the words which come after these in Dln.\u2019s text, \u2018he and his",
+          "witnesses": "G G the words which come after these in Dln.’s text, ‘he and his",
+          "charles_note": "G G the words which come after these in Dln.’s text, ‘he and his",
           "repo_has": false
         },
         {
@@ -6031,8 +6079,8 @@
             "G",
             "G"
           ],
-          "witnesses": "G reads OA@-T', and so really supports G'. Dln. gives \u2018 unright-",
-          "charles_note": "G reads OA@-T', and so really supports G'. Dln. gives \u2018 unright-",
+          "witnesses": "G reads OA@-T', and so really supports G'. Dln. gives ‘ unright-",
+          "charles_note": "G reads OA@-T', and so really supports G'. Dln. gives ‘ unright-",
           "repo_has": false
         },
         {
@@ -6042,8 +6090,8 @@
             "G",
             "G"
           ],
-          "witnesses": "' CVIL 1. Till. G G read AhaD \u2018that a generation of righteous-",
-          "charles_note": "' CVIL 1. Till. G G read AhaD \u2018that a generation of righteous-",
+          "witnesses": "' CVIL 1. Till. G G read AhaD ‘that a generation of righteous-",
+          "charles_note": "' CVIL 1. Till. G G read AhaD ‘that a generation of righteous-",
           "repo_has": false
         },
         {
@@ -6062,8 +6110,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "ness will arise.\u2019 3. For when G reads 10 \u2018 again.\u2019 Re-",
-          "charles_note": "ness will arise.\u2019 3. For when G reads 10 \u2018 again.\u2019 Re-",
+          "witnesses": "ness will arise.’ 3. For when G reads 10 ‘ again.’ Re-",
+          "charles_note": "ness will arise.’ 3. For when G reads 10 ‘ again.’ Re-",
           "repo_has": false
         },
         {
@@ -6109,12 +6157,12 @@
         },
         {
           "page": 305,
-          "lemma": "in those! M, \u2018ye who have fulfilled it, wait ye for, 1'% A",
+          "lemma": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A",
           "sigla": [
             "M"
           ],
-          "witnesses": "in those! M, \u2018ye who have fulfilled it, wait ye for, 1'% A.",
-          "charles_note": "in those! M, \u2018ye who have fulfilled it, wait ye for, 1'% A.",
+          "witnesses": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A.",
+          "charles_note": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A.",
           "repo_has": false
         },
         {
@@ -6124,29 +6172,29 @@
             "G",
             "G"
           ],
-          "witnesses": "3. Out of the book of life and. So G G': Adr%h\u00e9: MLOT: @.",
-          "charles_note": "3. Out of the book of life and. So G G': Adr%h\u00e9: MLOT: @.",
+          "witnesses": "3. Out of the book of life and. So G G': Adr%hé: MLOT: @.",
+          "charles_note": "3. Out of the book of life and. So G G': Adr%hé: MLOT: @.",
           "repo_has": false
         },
         {
           "page": 305,
-          "lemma": "M, \u2018out of the book",
+          "lemma": "M, ‘out of the book",
           "sigla": [
             "M",
             "G"
           ],
-          "witnesses": "M, \u2018out of the book.\u201d Other MSS. omit. Of the holy ones. G!",
-          "charles_note": "M, \u2018out of the book.\u201d Other MSS. omit. Of the holy ones. G!",
+          "witnesses": "M, ‘out of the book.” Other MSS. omit. Of the holy ones. G!",
+          "charles_note": "M, ‘out of the book.” Other MSS. omit. Of the holy ones. G!",
           "repo_has": false
         },
         {
           "page": 306,
-          "lemma": "reads $841; \u00a2 of the Holy One,\u2019 G #2A\u00a5",
+          "lemma": "reads $841; ¢ of the Holy One,’ G #2A¥",
           "sigla": [
             "G"
           ],
-          "witnesses": "reads $841; \u00a2 of the Holy One,\u2019 G #2A\u00a5. 1In...a waste wilder-",
-          "charles_note": "reads $841; \u00a2 of the Holy One,\u2019 G #2A\u00a5. 1In...a waste wilder-",
+          "witnesses": "reads $841; ¢ of the Holy One,’ G #2A¥. 1In...a waste wilder-",
+          "charles_note": "reads $841; ¢ of the Holy One,’ G #2A¥. 1In...a waste wilder-",
           "repo_has": false
         },
         {
@@ -6186,8 +6234,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "9. Their bodies. So G 1\u00a7N\u00a5tap. Other MSS. \u00a2themselves.\u2019",
-          "charles_note": "9. Their bodies. So G 1\u00a7N\u00a5tap. Other MSS. \u00a2themselves.\u2019",
+          "witnesses": "9. Their bodies. So G 1§N¥tap. Other MSS. ¢themselves.’",
+          "charles_note": "9. Their bodies. So G 1§N¥tap. Other MSS. ¢themselves.’",
           "repo_has": false
         },
         {
@@ -6196,8 +6244,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "them their recompense. G reads Q1\u20ac ap\u00ab Heaven more",
-          "charles_note": "them their recompense. G reads Q1\u20ac ap\u00ab Heaven more",
+          "witnesses": "them their recompense. G reads Q1€ ap« Heaven more",
+          "charles_note": "them their recompense. G reads Q1€ ap« Heaven more",
           "repo_has": false
         },
         {
@@ -6207,8 +6255,8 @@
             "G",
             "G"
           ],
-          "witnesses": "than their life in the world. So G HN2A9\u00b0. G! and Dln.",
-          "charles_note": "than their life in the world. So G HN2A9\u00b0. G! and Dln.",
+          "witnesses": "than their life in the world. So G HN2A9°. G! and Dln.",
+          "charles_note": "than their life in the world. So G HN2A9°. G! and Dln.",
           "repo_has": false
         },
         {
@@ -6217,18 +6265,18 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "the repeated section. M has the strange reading: &7\u21221%dh:",
-          "charles_note": "the repeated section. M has the strange reading: &7\u21221%dh:",
+          "witnesses": "the repeated section. M has the strange reading: &7™1%dh:",
+          "charles_note": "the repeated section. M has the strange reading: &7™1%dh:",
           "repo_has": false
         },
         {
           "page": 308,
-          "lemma": "1\u00a70ao HASA I, 11",
+          "lemma": "1§0ao HASA I, 11",
           "sigla": [
             "G"
           ],
-          "witnesses": "1\u00a70ao HASA I, 11. Sought not honour. So G: AdPS8:",
-          "charles_note": "1\u00a70ao HASA I, 11. Sought not honour. So G: AdPS8:",
+          "witnesses": "1§0ao HASA I, 11. Sought not honour. So G: AdPS8:",
+          "charles_note": "1§0ao HASA I, 11. Sought not honour. So G: AdPS8:",
           "repo_has": false
         },
         {
@@ -6237,8 +6285,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "Aatd.L:% M \u00a2 were recompensed.\u2019 12. Clad in shining light.",
-          "charles_note": "Aatd.L:% M \u00a2 were recompensed.\u2019 12. Clad in shining light.",
+          "witnesses": "Aatd.L:% M ¢ were recompensed.’ 12. Clad in shining light.",
+          "charles_note": "Aatd.L:% M ¢ were recompensed.’ 12. Clad in shining light.",
           "repo_has": false
         },
         {
@@ -6247,18 +6295,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads: N974.LC: @&SPT: CT0 \u2018in a habitation and paths of",
-          "charles_note": "G reads: N974.LC: @&SPT: CT0 \u2018in a habitation and paths of",
+          "witnesses": "G reads: N974.LC: @&SPT: CT0 ‘in a habitation and paths of",
+          "charles_note": "G reads: N974.LC: @&SPT: CT0 ‘in a habitation and paths of",
           "repo_has": false
         },
         {
           "page": 308,
-          "lemma": "uprightness\u201d M \u2018in a habitation and uprightness",
+          "lemma": "uprightness” M ‘in a habitation and uprightness",
           "sigla": [
             "M"
           ],
-          "witnesses": "uprightness\u201d M \u2018in a habitation and uprightness.\u2019 14. Will",
-          "charles_note": "uprightness\u201d M \u2018in a habitation and uprightness.\u2019 14. Will",
+          "witnesses": "uprightness” M ‘in a habitation and uprightness.’ 14. Will",
+          "charles_note": "uprightness” M ‘in a habitation and uprightness.’ 14. Will",
           "repo_has": false
         },
         {
@@ -6268,8 +6316,8 @@
             "G",
             "S"
           ],
-          "witnesses": "be cast. G reads \u00a3T@S%. 15. As they shine. For &71H:",
-          "charles_note": "be cast. G reads \u00a3T@S%. 15. As they shine. For &71H:",
+          "witnesses": "be cast. G reads £T@S%. 15. As they shine. For &71H:",
+          "charles_note": "be cast. G reads £T@S%. 15. As they shine. For &71H:",
           "repo_has": false
         }
       ],
@@ -6291,29 +6339,29 @@
             "G",
             "M"
           ],
-          "witnesses": "CVL g. Cause of anxiety. So G G'M &\u00a5\u00a5P. Other MSS. I'1(,",
-          "charles_note": "CVL g. Cause of anxiety. So G G'M &\u00a5\u00a5P. Other MSS. I'1(,",
+          "witnesses": "CVL g. Cause of anxiety. So G G'M &¥¥P. Other MSS. I'1(,",
+          "charles_note": "CVL g. Cause of anxiety. So G G'M &¥¥P. Other MSS. I'1(,",
           "repo_has": false
         },
         {
           "page": 302,
-          "lemma": "\u00a2 matter",
+          "lemma": "¢ matter",
           "sigla": [
             "G",
             "G"
           ],
-          "witnesses": "\u00a2 matter.\u2019 10. Hear me, my father. So G. DlIn. and G' give",
-          "charles_note": "\u00a2 matter.\u2019 10. Hear me, my father. So G. DlIn. and G' give",
+          "witnesses": "¢ matter.’ 10. Hear me, my father. So G. DlIn. and G' give",
+          "charles_note": "¢ matter.’ 10. Hear me, my father. So G. DlIn. and G' give",
           "repo_has": false
         },
         {
           "page": 302,
-          "lemma": "\u2018my father\u201d Colour of his body",
+          "lemma": "‘my father” Colour of his body",
           "sigla": [
             "G"
           ],
-          "witnesses": "\u2018my father\u201d Colour of his body. So G: \u201cfld: DU Other",
-          "charles_note": "\u2018my father\u201d Colour of his body. So G: \u201cfld: DU Other",
+          "witnesses": "‘my father” Colour of his body. So G: “fld: DU Other",
+          "charles_note": "‘my father” Colour of his body. So G: “fld: DU Other",
           "repo_has": false
         },
         {
@@ -6322,8 +6370,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "MSS. \u00a2 His colour. 12. Lamech. So G. Other MSS. \u00a2his",
-          "charles_note": "MSS. \u00a2 His colour. 12. Lamech. So G. Other MSS. \u00a2his",
+          "witnesses": "MSS. ¢ His colour. 12. Lamech. So G. Other MSS. ¢his",
+          "charles_note": "MSS. ¢ His colour. 12. Lamech. So G. Other MSS. ¢his",
           "repo_has": false
         },
         {
@@ -6332,8 +6380,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "habe...gesehen.\u2019 This, however, is a well-known idiom. G omits",
-          "charles_note": "habe...gesehen.\u2019 This, however, is a well-known idiom. G omits",
+          "witnesses": "habe...gesehen.’ This, however, is a well-known idiom. G omits",
+          "charles_note": "habe...gesehen.’ This, however, is a well-known idiom. G omits",
           "repo_has": false
         },
         {
@@ -6374,8 +6422,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "heaven.\u2019 15. On the earth. G. Other MSS. \u2018on the whole earth.\u2019",
-          "charles_note": "heaven.\u2019 15. On the earth. G. Other MSS. \u2018on the whole earth.\u2019",
+          "witnesses": "heaven.’ 15. On the earth. G. Other MSS. ‘on the whole earth.’",
+          "charles_note": "heaven.’ 15. On the earth. G. Other MSS. ‘on the whole earth.’",
           "repo_has": false
         },
         {
@@ -6385,8 +6433,8 @@
             "G",
             "G"
           ],
-          "witnesses": "G G the words which come after these in Dln.\u2019s text, \u2018he and his",
-          "charles_note": "G G the words which come after these in Dln.\u2019s text, \u2018he and his",
+          "witnesses": "G G the words which come after these in Dln.’s text, ‘he and his",
+          "charles_note": "G G the words which come after these in Dln.’s text, ‘he and his",
           "repo_has": false
         },
         {
@@ -6407,8 +6455,8 @@
             "G",
             "G"
           ],
-          "witnesses": "G reads OA@-T', and so really supports G'. Dln. gives \u2018 unright-",
-          "charles_note": "G reads OA@-T', and so really supports G'. Dln. gives \u2018 unright-",
+          "witnesses": "G reads OA@-T', and so really supports G'. Dln. gives ‘ unright-",
+          "charles_note": "G reads OA@-T', and so really supports G'. Dln. gives ‘ unright-",
           "repo_has": false
         },
         {
@@ -6418,8 +6466,8 @@
             "G",
             "G"
           ],
-          "witnesses": "' CVIL 1. Till. G G read AhaD \u2018that a generation of righteous-",
-          "charles_note": "' CVIL 1. Till. G G read AhaD \u2018that a generation of righteous-",
+          "witnesses": "' CVIL 1. Till. G G read AhaD ‘that a generation of righteous-",
+          "charles_note": "' CVIL 1. Till. G G read AhaD ‘that a generation of righteous-",
           "repo_has": false
         },
         {
@@ -6438,8 +6486,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "ness will arise.\u2019 3. For when G reads 10 \u2018 again.\u2019 Re-",
-          "charles_note": "ness will arise.\u2019 3. For when G reads 10 \u2018 again.\u2019 Re-",
+          "witnesses": "ness will arise.’ 3. For when G reads 10 ‘ again.’ Re-",
+          "charles_note": "ness will arise.’ 3. For when G reads 10 ‘ again.’ Re-",
           "repo_has": false
         },
         {
@@ -6485,12 +6533,12 @@
         },
         {
           "page": 305,
-          "lemma": "in those! M, \u2018ye who have fulfilled it, wait ye for, 1'% A",
+          "lemma": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A",
           "sigla": [
             "M"
           ],
-          "witnesses": "in those! M, \u2018ye who have fulfilled it, wait ye for, 1'% A.",
-          "charles_note": "in those! M, \u2018ye who have fulfilled it, wait ye for, 1'% A.",
+          "witnesses": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A.",
+          "charles_note": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A.",
           "repo_has": false
         },
         {
@@ -6500,29 +6548,29 @@
             "G",
             "G"
           ],
-          "witnesses": "3. Out of the book of life and. So G G': Adr%h\u00e9: MLOT: @.",
-          "charles_note": "3. Out of the book of life and. So G G': Adr%h\u00e9: MLOT: @.",
+          "witnesses": "3. Out of the book of life and. So G G': Adr%hé: MLOT: @.",
+          "charles_note": "3. Out of the book of life and. So G G': Adr%hé: MLOT: @.",
           "repo_has": false
         },
         {
           "page": 305,
-          "lemma": "M, \u2018out of the book",
+          "lemma": "M, ‘out of the book",
           "sigla": [
             "M",
             "G"
           ],
-          "witnesses": "M, \u2018out of the book.\u201d Other MSS. omit. Of the holy ones. G!",
-          "charles_note": "M, \u2018out of the book.\u201d Other MSS. omit. Of the holy ones. G!",
+          "witnesses": "M, ‘out of the book.” Other MSS. omit. Of the holy ones. G!",
+          "charles_note": "M, ‘out of the book.” Other MSS. omit. Of the holy ones. G!",
           "repo_has": false
         },
         {
           "page": 306,
-          "lemma": "reads $841; \u00a2 of the Holy One,\u2019 G #2A\u00a5",
+          "lemma": "reads $841; ¢ of the Holy One,’ G #2A¥",
           "sigla": [
             "G"
           ],
-          "witnesses": "reads $841; \u00a2 of the Holy One,\u2019 G #2A\u00a5. 1In...a waste wilder-",
-          "charles_note": "reads $841; \u00a2 of the Holy One,\u2019 G #2A\u00a5. 1In...a waste wilder-",
+          "witnesses": "reads $841; ¢ of the Holy One,’ G #2A¥. 1In...a waste wilder-",
+          "charles_note": "reads $841; ¢ of the Holy One,’ G #2A¥. 1In...a waste wilder-",
           "repo_has": false
         },
         {
@@ -6562,8 +6610,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "9. Their bodies. So G 1\u00a7N\u00a5tap. Other MSS. \u00a2themselves.\u2019",
-          "charles_note": "9. Their bodies. So G 1\u00a7N\u00a5tap. Other MSS. \u00a2themselves.\u2019",
+          "witnesses": "9. Their bodies. So G 1§N¥tap. Other MSS. ¢themselves.’",
+          "charles_note": "9. Their bodies. So G 1§N¥tap. Other MSS. ¢themselves.’",
           "repo_has": false
         },
         {
@@ -6572,8 +6620,8 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "them their recompense. G reads Q1\u20ac ap\u00ab Heaven more",
-          "charles_note": "them their recompense. G reads Q1\u20ac ap\u00ab Heaven more",
+          "witnesses": "them their recompense. G reads Q1€ ap« Heaven more",
+          "charles_note": "them their recompense. G reads Q1€ ap« Heaven more",
           "repo_has": false
         },
         {
@@ -6583,8 +6631,8 @@
             "G",
             "G"
           ],
-          "witnesses": "than their life in the world. So G HN2A9\u00b0. G! and Dln.",
-          "charles_note": "than their life in the world. So G HN2A9\u00b0. G! and Dln.",
+          "witnesses": "than their life in the world. So G HN2A9°. G! and Dln.",
+          "charles_note": "than their life in the world. So G HN2A9°. G! and Dln.",
           "repo_has": false
         },
         {
@@ -6593,18 +6641,18 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "the repeated section. M has the strange reading: &7\u21221%dh:",
-          "charles_note": "the repeated section. M has the strange reading: &7\u21221%dh:",
+          "witnesses": "the repeated section. M has the strange reading: &7™1%dh:",
+          "charles_note": "the repeated section. M has the strange reading: &7™1%dh:",
           "repo_has": false
         },
         {
           "page": 308,
-          "lemma": "1\u00a70ao HASA I, 11",
+          "lemma": "1§0ao HASA I, 11",
           "sigla": [
             "G"
           ],
-          "witnesses": "1\u00a70ao HASA I, 11. Sought not honour. So G: AdPS8:",
-          "charles_note": "1\u00a70ao HASA I, 11. Sought not honour. So G: AdPS8:",
+          "witnesses": "1§0ao HASA I, 11. Sought not honour. So G: AdPS8:",
+          "charles_note": "1§0ao HASA I, 11. Sought not honour. So G: AdPS8:",
           "repo_has": false
         },
         {
@@ -6613,8 +6661,8 @@
           "sigla": [
             "M"
           ],
-          "witnesses": "Aatd.L:% M \u00a2 were recompensed.\u2019 12. Clad in shining light.",
-          "charles_note": "Aatd.L:% M \u00a2 were recompensed.\u2019 12. Clad in shining light.",
+          "witnesses": "Aatd.L:% M ¢ were recompensed.’ 12. Clad in shining light.",
+          "charles_note": "Aatd.L:% M ¢ were recompensed.’ 12. Clad in shining light.",
           "repo_has": false
         },
         {
@@ -6623,18 +6671,18 @@
           "sigla": [
             "G"
           ],
-          "witnesses": "G reads: N974.LC: @&SPT: CT0 \u2018in a habitation and paths of",
-          "charles_note": "G reads: N974.LC: @&SPT: CT0 \u2018in a habitation and paths of",
+          "witnesses": "G reads: N974.LC: @&SPT: CT0 ‘in a habitation and paths of",
+          "charles_note": "G reads: N974.LC: @&SPT: CT0 ‘in a habitation and paths of",
           "repo_has": false
         },
         {
           "page": 308,
-          "lemma": "uprightness\u201d M \u2018in a habitation and uprightness",
+          "lemma": "uprightness” M ‘in a habitation and uprightness",
           "sigla": [
             "M"
           ],
-          "witnesses": "uprightness\u201d M \u2018in a habitation and uprightness.\u2019 14. Will",
-          "charles_note": "uprightness\u201d M \u2018in a habitation and uprightness.\u2019 14. Will",
+          "witnesses": "uprightness” M ‘in a habitation and uprightness.’ 14. Will",
+          "charles_note": "uprightness” M ‘in a habitation and uprightness.’ 14. Will",
           "repo_has": false
         },
         {
@@ -6644,8 +6692,8 @@
             "G",
             "S"
           ],
-          "witnesses": "be cast. G reads \u00a3T@S%. 15. As they shine. For &71H:",
-          "charles_note": "be cast. G reads \u00a3T@S%. 15. As they shine. For &71H:",
+          "witnesses": "be cast. G reads £T@S%. 15. As they shine. For &71H:",
+          "charles_note": "be cast. G reads £T@S%. 15. As they shine. For &71H:",
           "repo_has": false
         }
       ],
