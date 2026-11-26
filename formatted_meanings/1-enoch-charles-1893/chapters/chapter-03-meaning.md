@@ -18,7 +18,7 @@ Chapter 3 is a short observation about seasonal change. Most trees appear to wit
 ### 3:1
 
 - **What the text says:** Enoch contrasts the ordinary loss of leaves with the unusual persistence of fourteen trees.
-- **What it means:** Enoch contrasts the ordinary loss of leaves with the unusual persistence of fourteen trees. The detail makes the observation concrete and emphasizes variation within the created world.
+- **What it means:** The fourteen trees are presented as an exception to the pattern Enoch has just observed. The text gives a duration—two or three years—but does not identify a species or explain the exception; interpretation should stop short of supplying either.
 - **Textual evidence:** Repository source, 3:1; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The text does not identify the trees by species, location, or symbolic role. Any attempt to name them or assign a fixed allegorical meaning would go beyond the evidence in this verse.
 
