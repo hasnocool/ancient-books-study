@@ -9,10 +9,11 @@ Interpret each numbered verse independently before synthesizing the chapter. Use
 ## Chapter files
 
 - [Chapter 1 — Verse-by-Verse Interpretation](chapters/chapter-01-interpretation.md)
+- [Chapter 1 — Visual Interpretation Prompts](visual-prompts/chapter-01-visual-prompts.md) — five distinct prompts for each verse (ancient-horizon, literal/material, astronomic/astronautic, human-origin/seeding, and human/social).
 
 ## Source and status
 
-The source is `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`. Its wording is provisional and not yet verified as a verbatim 1893 witness. Chapter 1's interpretation is therefore provisional. Interpretive work does not advance transcription or facsimile-proofing counts.
+The source is `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`. Its wording is provisional and not yet verified as a verbatim 1893 witness. Chapter 1's interpretation is therefore provisional. Interpretive work does not advance transcription or facsimile-proofing counts. Visual prompts are alternate interpretive renderings, not historical evidence; astronautic and human-seeding prompts must remain explicitly speculative.
 
 ## Planned sequence
 
