@@ -15,9 +15,9 @@ The combined JSON declares 254 pages and 16 sections. Its section ranges do **no
 
 - Missing from all section ranges: **pp.260–264**.
 - Counted in two section ranges: **pp.301–308** (the broad pp.285–308 range and a separate pp.301–308 range).
-- Therefore, the ranges represent 246 distinct covered pages, not 254 distinct pages. (254 target pages minus 5 missing pages minus 8 duplicate counts = 241? See note below.)
+- Therefore, the ranges represent 249 distinct covered pages, not 254 distinct pages.
 
-**Correction to arithmetic:** the union of the listed ranges covers pp.55–259 (205 pages) and pp.265–308 (44 pages), for **249 distinct pages**; the eight pp.301–308 duplicates are repeated section membership, not additional distinct pages. Five pages are missing. The 16 section records contain 257 page memberships in total.
+ the union of the listed ranges covers pp.55–259 (205 pages) and pp.265–308 (44 pages), for **249 distinct pages**; the eight pp.301–308 duplicates are repeated section membership, not additional distinct pages. Five pages are missing. The 16 section records contain 257 page memberships in total.
 
 The combined dataset currently reports zero discrepancies in every section, while the separate 18-row verification queue contains automated fuzzy-match candidates. These are not necessarily all true textual discrepancies, but the outputs are inconsistent and must not be combined into a claim of zero discrepancy. The metadata field `total_verses=130` has no documented counting definition and is not accepted as proof of verse-level completeness.
 
