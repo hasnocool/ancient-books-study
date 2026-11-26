@@ -77,10 +77,10 @@
 
 | Tier | Count | Basis |
 |------|-------|-------|
-| Page/layout-level visual inspection | 40 / 254 | pp.55–62 and pp.75–94 individually opened at 1360×2274; pp.63–74 at 340×569 |
+| Page/layout-level visual inspection | 41 / 254 | pp.55–62 and pp.75–94 individually opened at 1360×2274; pp.63–74 at 340×569 |
 | Full line-by-line diplomatic textual/apparatus proofing | 0 / 254 | No page has completed full text, punctuation, and apparatus comparison against the facsimile |
 | Retrieval records (pp.55–74) | 20 | BookReader JPEGs downloaded; reclassified as retrieval-only |
-| Retrieval records (pp.75–308) | 234 | Batch-retrieved; pp.75–94 now individually opened; pp.95–308 not individually image-checked |
+| Retrieval records (pp.75–308) | 234 | Batch-retrieved; pp.75–94 now individually opened; pp.96–308 not individually image-checked |
 
 **Rule:** Successful download ≠ visual verification. Each page must be individually opened and inspected at legible resolution before incrementing any proofing count. OCR, extracted PDF text, search snippets, and page metadata do not qualify.
 
@@ -104,3 +104,5 @@ python tools/download_archive_pages.py \
 - Remote: `https://github.com/hasnocool/ancient-books-study.git`
 - Branch: `main`
 - Large image directories under `artifacts/` are tracked in git (JPEG + PNG files committed with SHA256 manifests)
+
+**Additional inspection 2026-11-26:** Printed p.95 (BookReader leaf n116; 1360×2274 JPEG) was opened individually. Page/layout inspection total is now 41/254 (pp.55–95). This does not count as full line-by-line proofing; that remains 0/254.
