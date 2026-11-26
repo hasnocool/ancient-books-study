@@ -22,11 +22,11 @@ The selected passage was extracted from the single source file above, from the h
 
 ### Meaning explanations
 
-- [Chapter 1](../formatted_meanings/1-enoch-charles-1893/chapters/chapter-01-meaning.md) — Meaning and Explanation: Enoch’s Vision
-- [Chapter 2](../formatted_meanings/1-enoch-charles-1893/chapters/chapter-02-meaning.md) — Meaning and Explanation: The Order of the Heavens and Earth
-- [Chapter 3](../formatted_meanings/1-enoch-charles-1893/chapters/chapter-03-meaning.md) — Meaning and Explanation: The Fourteen Trees
-- [Chapter 4](../formatted_meanings/1-enoch-charles-1893/chapters/chapter-04-meaning.md) — Meaning and Explanation: The Heat of Summer
-- [Chapter 5](../formatted_meanings/1-enoch-charles-1893/chapters/chapter-05-meaning.md) — Meaning and Explanation: Faithfulness, Judgment, and Hope
+- Chapter 1 — `formatted_meanings/1-enoch-charles-1893/chapters/chapter-01-meaning.md` — Meaning and Explanation: Enoch’s Vision
+- Chapter 2 — `formatted_meanings/1-enoch-charles-1893/chapters/chapter-02-meaning.md` — Meaning and Explanation: The Order of the Heavens and Earth
+- Chapter 3 — `formatted_meanings/1-enoch-charles-1893/chapters/chapter-03-meaning.md` — Meaning and Explanation: The Fourteen Trees
+- Chapter 4 — `formatted_meanings/1-enoch-charles-1893/chapters/chapter-04-meaning.md` — Meaning and Explanation: The Heat of Summer
+- Chapter 5 — `formatted_meanings/1-enoch-charles-1893/chapters/chapter-05-meaning.md` — Meaning and Explanation: Faithfulness, Judgment, and Hope
 
 ## Validation performed
 
