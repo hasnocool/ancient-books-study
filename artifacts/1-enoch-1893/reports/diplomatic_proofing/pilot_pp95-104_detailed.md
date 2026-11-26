@@ -48,7 +48,7 @@
 | 103 | 34.1 | 61% | partial | "XXXIII. 1." OCR misread XXXIV; "ends of the earth" |
 | 104 | 33.2 | 67% | partial | "104 The Book of Enoch" page header noise; "voice, and they all differed" |
 | 104 | 34.1 | 79% | partial | "XXXIV. 1." header; "From thence I went towards the north..." |
-| 104 | 36.1 | 70% | partial | "XXXV." header (Charles has unnumbered Ch35); "west" vs "south" |
+| 104 | 36.1 | 70% | partial | OCR alignment is unreliable here; image shows separate XXXV (westward) and XXXVI (southward) chapter units |
 
 ---
 
@@ -127,7 +127,7 @@
 
 4. **Chapter numbering alignment:** Charles 1893 has unnumbered Chapter XXXV and XXXVI; repo treats these as Chapter 35 (unnumbered) and Chapter 36. Structure matches.
 
-5. **Repo vs. Charles wording** — Extremely high similarity (90–95% for matched verses). Only archaic pronouns ("thou/thee" → "you") and punctuation differ. No substantive textual variants except the west/south direction.
+5. **Repo vs. Charles wording** — Automated similarity is a triage signal only. The alleged west/south direction variant is withdrawn: p.104 visibly prints XXXV as a westward journey and XXXVI.1 as a southward journey. These are adjacent, distinct chapters, not competing readings at one locus. The derivative chapter mapping still requires direct comparison.
 
 6. **Book 3 (Luminaries) complete** — Chapters 17–36 (pp.87–104) cover the "Book of the Luminaries" cosmological journey. All interpolation brackets (XVII–XIX) confirmed in repo.
 
@@ -137,3 +137,7 @@
 
 - `artifacts/1-enoch-1893/reports/diplomatic_proofing/pilot_pp95-104_matches.json` — raw matches
 - `artifacts/1-enoch-1893/reports/diplomatic_proofing/pilot_pp95-104_detailed.md` — this report
+
+## Facsimile correction — 2026-11-26
+
+Printed pp.96–104 have now been opened individually at 1360×2274; see `artifacts/1-enoch-1893/reports/collations/pp96-104-page-layout-inspection.md`. The earlier pilot conclusion that p.104 presents a “west” versus “south” direction variant is withdrawn. The Cornell page visibly prints **XXXV** for the westward journey and **XXXVI.1** for the southward journey. They are consecutive chapter units, not competing readings at one locus. The pilot's “XXXV unnumbered” claim is also contradicted by the printed heading. Automated alignment must not override the page image. Full diplomatic proofing remains outstanding.
