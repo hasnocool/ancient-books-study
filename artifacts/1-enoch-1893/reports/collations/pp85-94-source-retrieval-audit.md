@@ -6,7 +6,7 @@
 
 ## Finding
 
-The earlier statement that no corresponding source assets existed was too broad. A recursive repository check found an existing native-scan directory:
+The earlier statement that no usable target image files existed was incorrect for the current repository state. The committed high-resolution BookReader JPEGs are present in:
 
 `artifacts/page-images/cornell-native/cornell_printed_pp75_308/`
 
@@ -14,7 +14,7 @@ It contains nine page-specific OCR text files and nine `printed_pNNN_full.png` f
 
 The separate `cornell_pages_85_106` directory contains PDF ordinals 85–106, which correspond to printed pp.63–84, not the target printed pp.85–94. Its clear page_0085.png is printed p.63 and must not be mistaken for target p.85.
 
-No BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` are present under the expected `bookreader-large` directory. Attempts to retrieve them directly from Internet Archive still did not return usable image bytes. The repository does, however, contain the original Cornell PDF at `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf` (16,777,301 bytes; Git blob `38be2b5e0e95779f92dcb19a745fc654b010b711`). A reproducible renderer has been added at `scripts/render_cornell_1893_pages.py`; it exports PDF pages 107–116 as raw grayscale PNGs plus separate contrast-normalized viewing derivatives. The renderer has not yet been executed in this environment because local network/DNS access is unavailable and the GitHub connector does not expose a local binary-rendering path.
+All ten BookReader JPEGs `p085_n106.jpg` through `p094_n115.jpg` are present under `artifacts/page-images/cornell-native/bookreader-large/`. Each file was fetched from the current GitHub branch and opened individually at 1360×2274. The images are legible and suitable for page-identity/layout inspection. The repository does, however, contain the original Cornell PDF at `pdfs/enoch-editions/enoch-1893-clarendon-original.pdf` (16,777,301 bytes; Git blob `38be2b5e0e95779f92dcb19a745fc654b010b711`). A reproducible renderer has been added at `scripts/render_cornell_1893_pages.py`; it exports PDF pages 107–116 as raw grayscale PNGs plus separate contrast-normalized viewing derivatives. The renderer has not yet been executed in this environment. It is not needed to inspect this batch because the committed BookReader JPEGs are already legible.
 
 ## Per-page asset status
 
@@ -38,10 +38,13 @@ The exact paths, Git blob SHAs, and repository byte sizes are recorded in `artif
 - Cornell OCR/text assets: 9/10 present; p.91 missing in the Cornell text-layer batch.
 - Parallel p.91 text: recovered from a separate Knox College/Toronto copy of the 1893 edition (printed 1897); not a substitute for Cornell's own text layer.
 - Native PNG blobs: 10/10 located across the two Cornell-native directories, but all ten are visually unusable in this environment.
-- Valid high-resolution page images: 0/10 acquired in this operation.
-- BookReader JPEG batch: 0/10 present.
-- Visual inspection and diplomatic collation: 0/10.
+- Valid high-resolution BookReader JPEGs: 10/10 present and individually opened; native PNG exports remain unreadable.
+- BookReader JPEG batch: 10/10 present and individually inspected for page identity/layout.
+- Page/layout visual inspection: 10/10. Full line-by-line diplomatic collation: 0/10.
 - Transcription: unchanged.
 - Independent human approval: outstanding.
 
-**Next required operation:** execute `python -m pip install pymupdf pillow` followed by `python scripts/render_cornell_1893_pages.py --dpi 300` in a working checkout. Inspect the raw and normalized exports individually; retain raw renders as the evidentiary files and do not increment visual-proofing counts until the pixels are actually inspected. Reconcile the flagged OCR/source differences against legible Cornell pixels. Do not treat the OCR-only pages or the parallel p.91 text as image proofing or increment the visual-inspection ledger.
+**Completed operation (2026-11-26):** all ten committed BookReader JPEGs were opened and checked individually for folio, running head, chapter/verse coverage, broad layout, and apparatus placement. The page/layout ledger is now 40/254. **Next required operation:** perform the full line-by-line diplomatic collation for pp.85–94, resolving the p.92 “serpents and the Cherubin” reading and the flagged transliterations against the images; then continue with pp.95–104. The renderer remains useful for reproducible raw exports but is not a prerequisite for this already-legible JPEG batch. Do not treat the OCR-only pages or the parallel p.91 text as image proofing or increment the visual-inspection ledger.
+
+
+**Correction dated 2026-11-26:** This report's earlier finding that the target BookReader JPEGs were absent is superseded. All ten are committed and visually opened as documented above. The dark native PNG finding remains valid only for those PNG exports.
