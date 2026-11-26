@@ -16,7 +16,7 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | Tractate | Story | Status |
 |---|---|---|
 | I — Poemandres, the Shepherd of Men | [Read story](./tractates/tractate-01-story.md) | Provisional draft |
-| II–XV | Not yet created | Queued |
+| II — To Asclepius | [Read story](./tractates/tractate-02-story.md) | Provisional draft |\n| III–XV | Not yet created | Queued |
 
 ## Source
 
