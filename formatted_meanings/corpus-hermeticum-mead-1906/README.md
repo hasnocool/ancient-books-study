@@ -25,7 +25,8 @@ Plain-language explanations of the tractates in G. R. S. Mead's 1906 English tra
 | VIII — That No One of Existing Things Doth Perish | [Read explanation](./tractates/tractate-08-meaning.md) | Provisional draft |
 | IX — On Thought and Sense | [Read explanation](./tractates/tractate-09-meaning.md) | Provisional draft |
 | X — The Key | [Read explanation](./tractates/tractate-10-meaning.md) | Provisional draft |
-| XI–XV | Not yet created | Queued |
+| XI — Mind unto Hermes | [Read explanation](./tractates/tractate-11-meaning.md) | Provisional draft |
+| XII–XV | Not yet created | Queued |
 
 ## Source
 
