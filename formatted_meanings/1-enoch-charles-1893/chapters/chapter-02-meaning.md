@@ -18,21 +18,21 @@ Chapter 2 asks readers to learn from the regular patterns of the heavens and the
 ### 2:1
 
 - **What the text says:** The heavenly lights rise and set according to their appointed courses and seasons. Their regularity is contrasted implicitly with disobedience: the luminaries do not abandon the order assigned to them.
-- **What it means:** The heavenly lights rise and set according to their appointed courses and seasons. Their regularity is contrasted implicitly with disobedience: the luminaries do not abandon the order assigned to them.
+- **What it means:** The luminaries function as an example of obedience to an assigned order. The contrast with human conduct is suggested by the chapter’s placement within a larger admonition, but verse 2:1 itself describes the heavens rather than explicitly accusing its audience.
 - **Textual evidence:** Repository source, 2:1; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The text’s point is theological and observational. It does not offer a modern astronomical model or discuss exceptions in scientific terms.
 
 ### 2:2
 
 - **What the text says:** The audience is told to observe the earth and the consistency of what happens upon it.
-- **What it means:** The audience is told to observe the earth and the consistency of what happens upon it. The natural world is offered as something from which people can learn about the steadiness of divine work.
+- **What it means:** The appeal to observe the earth turns ordinary experience into evidence within the author’s argument: the created order is portrayed as dependable because it follows the Creator’s work. The verse states the observation broadly, without attempting a complete inventory of nature.
 - **Textual evidence:** Repository source, 2:2; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The phrase “from first to last” gives the observation a broad scope. The passage does not catalogue every natural process.
 
 ### 2:3
 
 - **What the text says:** Summer and winter, together with water, clouds, dew, and rain, are presented as recurring features of the earth’s seasons.
-- **What it means:** Summer and winter, together with water, clouds, dew, and rain, are presented as recurring features of the earth’s seasons.
+- **What it means:** The list of seasonal conditions gives concrete examples of the earth’s regularity. The parenthetical seasonal clarification found in the 1893 searchable text layer is absent from the repository wording, so this explanation must not be treated as a definitive account of every nuance of the printed witness.
 - **Textual evidence:** Repository source, 2:3; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The verse names these conditions but does not explain meteorological mechanisms. Its emphasis is on recurring order.
 
