@@ -178,5 +178,13 @@
         "status": "present"
       }
     }
-  ]
-}
+  ],
+  "source_pdf_in_repository": {
+    "path": "pdfs/enoch-editions/enoch-1893-clarendon-original.pdf",
+    "git_blob_sha": "38be2b5e0e95779f92dcb19a745fc654b010b711",
+    "repository_size_bytes": 16777301,
+    "status": "present_in_repository_not_yet_rendered_in_current_execution_environment"
+  },
+  "renderer_script": "scripts/render_cornell_1893_pages.py",
+  "rendering_status": "renderer_committed_not_yet_executed"
+}\n
