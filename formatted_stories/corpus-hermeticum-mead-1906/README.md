@@ -18,7 +18,8 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | I — Poemandres, the Shepherd of Men | [Read story](./tractates/tractate-01-story.md) | Provisional draft |
 | II — To Asclepius | [Read story](./tractates/tractate-02-story.md) | Provisional draft |
 | III — The Sacred Sermon | [Read story](./tractates/tractate-03-story.md) | Provisional draft |
-| IV–XV | Not yet created | Queued |
+| IV — The Cup or Monad | [Read story](./tractates/tractate-04-story.md) | Provisional draft |
+| V–XV | Not yet created | Queued |
 
 ## Source
 
