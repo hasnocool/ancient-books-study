@@ -69,11 +69,11 @@
 | `artifacts/1-enoch-1893/reports/collations/VERIFICATION_TARGETS_REPORT.md` | 3 verification targets: CII.4 (p.291), CV.2 (p.301), CVI.17 (p.304) |
 | `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md` | pp.75–84 retrieval + OCR inventory |
 | `artifacts/1-enoch-1893/reports/collations/pp63-74-ocr-inventory.md` | pp.63–74 OCR inventory |
-| `artifacts/1-enoch-1893/reports/collations/pp55-62-text-layer-collation.md` | pp.55–62 text-layer collation |
+| `artifacts/1-enoch-1893/reports/collations/pp55-62-text-layer-collation.md` | pp.55–62 text-layer collation |\n| `artifacts/1-enoch-1893/reports/collations/pp85-104-facsimile-collation-review.md` | Image-anchored first-pass collation and discrepancy triage for pp.85–104; not complete diplomatic proofing |
 
 ## Proofing Ledger Status (see IMAGE_PROOFING_LOG.md for full detail)
 
-**Updated 2026-11-26:** pp.85–104 BookReader JPEGs were fetched from the current branch and individually opened at 1360×2274. The p.92 reading “the serpents and the Cherubin” is visibly confirmed and flagged against the derivative transcription. Full line-by-line collation for pp.85–94 remains outstanding; independent human approval remains pending.
+**Updated 2026-11-26:** pp.85–104 BookReader JPEGs were fetched from the current branch and individually opened at 1360×2274. The p.92 reading “the serpents and the Cherubin” is visibly confirmed and flagged against the derivative transcription. A facsimile-led first-pass collation for pp.85–104 is recorded in `artifacts/1-enoch-1893/reports/collations/pp85-104-facsimile-collation-review.md`; full line-by-line English/Greek/Ethiopic and apparatus proofing remains outstanding; independent human approval remains pending.
 
 | Tier | Count | Basis |
 |------|-------|-------|
