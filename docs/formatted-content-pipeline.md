@@ -142,3 +142,21 @@ Where the source passage has an unresolved reading, retain a note in both deriva
 ## Completion criteria for a passage pair
 
 A passage pair is complete for derivative production when both files exist, identify the same source passage, pass their respective source-alignment checks, and carry accurate statuses. Human approval remains a separate, explicit state.
+
+
+## Verse-by-verse interpretation stream
+
+A third derivative stream now lives in `formatted_interpretation/`. Unlike a readable story adaptation or a general meaning summary, it examines every verse individually through an ancient semantic and cosmological horizon, then explores clearly labelled literal/material, astronomic/astronautic, human-origin/seeding, and human/social readings.
+
+Use `formatted_interpretation/_templates/verse-by-verse-interpretation-template.md`. Each verse must preserve the selected edition's exact wording, state its plain sense, explain ancient vocabulary and limits, distinguish contextual inference from hypothesis, and assess what evidence supports or could falsify each proposal.
+
+**Important controls:**
+- Do not retrofit modern technical terms into the ancient source's vocabulary. Modern terms may appear only in a labelled interpretive hypothesis.
+- Do not present ancient-alien, astronautic, or human-seeding readings as established history merely because a metaphor can be compared with modern technology.
+- Do not dismiss a literal reading in advance; state what the text concretely claims, then test possible explanations against the wording and independent evidence.
+- Separate the ancient hearer's likely horizon from later theological readings and modern speculation.
+- Cite primary texts and reputable historical, linguistic, archaeological, and scientific research for factual claims.
+- Carry forward all unresolved source-text readings; interpretation cannot repair an unverified transcription.
+- This derivative stream does not count as diplomatic transcription, facsimile inspection, or independent human approval.
+
+The initial 1 Enoch Chapter 1 pilot is at `formatted_interpretation/1-enoch-charles-1893/chapters/chapter-01-interpretation.md`. It is provisional because the underlying repository transcription has not been fully collated against the 1893 witness.
