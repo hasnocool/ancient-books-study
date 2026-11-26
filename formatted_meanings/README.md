@@ -32,3 +32,7 @@ Suggested file naming:
 5. Key themes and concepts
 6. Interpretive questions or uncertainties
 7. Related passages and references
+
+## Production workflow
+
+Follow [`docs/formatted-content-pipeline.md`](../docs/formatted-content-pipeline.md) from the repository root. Start new documents from [`_templates/meaning-template.md`](_templates/meaning-template.md). Explanations must distinguish explicit textual evidence from interpretation and remain grounded in the identified source passage.
