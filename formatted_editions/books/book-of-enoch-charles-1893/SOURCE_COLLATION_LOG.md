@@ -733,3 +733,8 @@ All ten BookReader JPEGs (leaves n96–n105; 1360×2274) were individually opene
 The alternate native PNGs `printed_p075_full.png`–`printed_p084_full.png` rendered nearly black in the viewer and were not used. The BookReader JPEGs were legible and support this targeted comparison.
 
 **Evidence boundary:** ten pages are now individually image-opened at high resolution and count toward page/layout inspection (22/254 including pp.63–74). This is not an exhaustive line-by-line diplomatic collation of all English, Greek, and apparatus content. Full textual/apparatus proofing remains 0/254, and independent human approval remains pending.
+
+
+## Formatted-content pilot: Chapters I–V witness comparison — 26 November 2026
+
+The five-chapter story/meaning pilot uses the repository transcription, which is not verbatim Charles 1893. Its known pp.57–62 differences are consolidated in [the pilot's 1893 witness comparison](../../../formatted_stories/1-enoch-charles-1893/1893-witness-collation.md). This report is based on the existing Cornell searchable text-layer collation and does not claim exhaustive page-image or line-by-line collation. The page/layout ledger remains 30/254 and full line-by-line diplomatic proofing remains 0/254. Independent human review remains pending.
