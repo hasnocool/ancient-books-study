@@ -1,6 +1,6 @@
 # 1 Enoch (1893) — Page-Image Proofing Log
 
-**Status:** **30/254 pages (pp.55–84) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 inspected at 1360×2274 (2026-11-25); pp.63–74 at 340×569 (2026-11-25); pp.75–84 at 1360×2274 (2026-11-25). Pages pp.85–308 are not individually image-checked in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
+**Status:** **40/254 pages (pp.55–94) have been individually opened and checked for folio/layout; 0/254 pages have completed full line-by-line diplomatic textual/apparatus proofing.** Pages pp.55–62 inspected at 1360×2274 (2026-11-25); pp.63–74 at 340×569 (2026-11-25); pp.75–84 at 1360×2274 (2026-11-25). Pages pp.85–94 were individually image-checked on 2026-11-26 using committed 1360×2274 BookReader JPEGs; pp.95–308 remain uninspected in the reconciled evidence. Searchable-text/OCR comparisons are tracked separately in `SOURCE_COLLATION_LOG.md`. Independent human approval: **PENDING**; no named second reviewer or signed approval artifact substantiating a completed sign-off was located.
 
 **Witness:** R. H. Charles, ed., *The Book of Enoch: Translated from Professor Dillmann's Ethiopic Text* (Oxford: Clarendon Press, 1893).
 
@@ -382,7 +382,7 @@ This is an individual high-resolution page/layout inspection plus OCR-assisted c
 
 ## Progress ledger
 
-- Printed pp. 55–308: **20 / 254 individually opened and visually checked at page/layout level** (pp.55–62 at 1360×2274; pp.63–74 at 340×569). High-resolution textual/apparatus proofing remains outstanding for all 254 pages.
+- Printed pp. 55–308: **40 / 254 individually opened and visually checked at page/layout level** (pp.55–62 at 1360×2274; pp.63–74 at 340×569). High-resolution textual/apparatus proofing remains outstanding for all 254 pages.
 - Retrieval records: pp.55–62 have 8 page-level retrieval entries (high-res and medium JPEGs downloaded 2026-11-25); pp.63–74 have 12 page-level retrieval entries; pp.75–308 have 234 batch-retrieval entries. Individual pixel-inspection records now exist for pp.55–74.
 - Discrepancies: no gross scan/layout defect observed in pp.55–74; textual, Greek, punctuation, bracket, and apparatus discrepancies remain unassessed.
 - Pages requiring second-look: **not yet assessed for pp. 55–308**
@@ -401,7 +401,7 @@ Copy one row per inspected printed page:
 
 The existing batch record for pp.75–308 remains unchanged: 234 page JPEGs were previously reported retrieved, but none of those pages has an individual inspection row. In this session, attempts to reacquire page pixels for the later target range through the BookReader medium/large URL forms, the IIIF manifest and image route, and the ArchiveLab page API did not return image bytes. The Internet Archive searchable DjVu text layer was accessible, but it is not visual evidence.
 
-**No new page was inspected and no progress count changes.** The progress ledger was subsequently advanced only for pp.63–74 after each of those 12 JPEGs was opened individually on 2026-11-25. The pp.55–62 entries remain retrieval-only; pp.75–308 remain batch-retrieval-reported. The 12 checks are page/layout-level only and do not establish high-resolution diplomatic accuracy.
+**No new page was inspected and no progress count changes.** The progress ledger was subsequently advanced for pp.63–74, pp.75–84, and pp.85–94 only after their page images were individually opened. The pp.55–62 entries remain retrieval-only; pp.75–308 remain batch-retrieval-reported. The 12 checks are page/layout-level only and do not establish high-resolution diplomatic accuracy.
 
 
 ## High-resolution Cornell batch retrieved — printed pp.75–84 — 25 November 2026
@@ -485,3 +485,32 @@ Detailed paths, blob SHAs, sizes, and per-page statuses are recorded in:
 ## Formatted-content pilot Chapters I–V — 26 November 2026
 
 The new formatted-content pilot is documented at `formatted_stories/1-enoch-charles-1893/`. The related 1893 searchable-text-layer comparison for pp.57–62 is consolidated in `1893-witness-collation.md` within that directory. This is not a new page-image inspection and does not change the ledger: page/layout inspection remains 30/254; full line-by-line diplomatic proofing remains 0/254. Independent human approval remains pending. A second reviewer must complete the separate [review packet](../../../formatted_stories/1-enoch-charles-1893/INDEPENDENT_REVIEW_PACKET.md); assistant-led work cannot satisfy this gate.
+
+
+## Individual high-resolution BookReader inspection — printed pp.85–94 — 26 November 2026
+
+All ten Cornell / Internet Archive BookReader JPEGs were fetched from the current repository branch and opened individually at full image resolution (1360×2274). The exact files are under `artifacts/page-images/cornell-native/bookreader-large/`, named `p085_n106.jpg` through `p094_n115.jpg`. Their Git blob SHAs are recorded in the updated source-audit JSON. The images are legible. The previously documented dark native PNG exports remain unusable and were not used; the committed BookReader JPEGs are the inspected witness images.
+
+These are page-identity and layout inspections only. I checked folio, running header, visible chapter/verse coverage, column arrangement, and the presence/location of critical apparatus. I did not collate every word, punctuation mark, Greek reading, Ethiopic siglum, or apparatus entry against the derivative transcription. Therefore these ten pages increase the page/layout count by ten, but do not increase the full diplomatic-proofing count.
+
+| Printed page | BookReader leaf | PDF page (1-based) | Individual visual observation |
+|---:|---:|---:|---|
+| 85 | n106 | 107 | Folio 85 and running head “Chapters XV.10 — XVI.1.” visible. English text and Greek parallel occupy separate columns; critical apparatus fills the lower portion. |
+| 86 | n107 | 108 | Folio 86 visible. Greek fragment described in the printed introduction as absent from the Ethiopic version occupies the upper portion; English translation and critical notes follow. |
+| 87 | n108 | 109 | Folio 87 and running head “Chapters XVI.2 — XVII.4.” visible. English narrative continues above a substantial critical/exegetical apparatus. |
+| 88 | n109 | 110 | Folio 88 visible. Chapters XVII–XVIII continue in the English text; critical notes and Greek references are clearly separated below. |
+| 89 | n110 | 111 | Folio 89 and running head “Chapters XVII.5 — XVIII.12.” visible. English narrative and lower apparatus are legible; no gross crop or page-identity defect observed. |
+| 90 | n111 | 112 | Folio 90 visible. Chapter XVIII concludes and XIX begins; apparatus/commentary occupies the lower half. |
+| 91 | n112 | 113 | Folio 91 and running head “Chapters XVIII.13 — XX.4.” visible. The page contains the continuation of XIX, XX.1–4, and critical notes. Cornell page pixels are now available despite the missing Cornell OCR text file. |
+| 92 | n113 | 114 | Folio 92 visible. The angel list continues, including the printed reading “the serpents and the Cherubin”; XXI begins below. Lower apparatus is legible. |
+| 93 | n114 | 115 | Folio 93 and running head “Chapters XX.5 — XXII.1.” visible. XXI.5–10 and XXII.1 appear above the apparatus. The printed question at XXI.5 reads “Wherefore dost thou ask, and why dost thou enquire and art curious?” |
+| 94 | n115 | 116 | Folio 94 visible. XXII.1–5 continues; English text and critical notes are present. No gross crop or page-identity defect observed. |
+
+### Observations requiring separate diplomatic collation
+
+- **p.92, XX.7:** The Cornell image visibly reads “Gabriel ... who is over Paradise and the serpents and the Cherubin.” The repository derivative's “seraphim and the cherubim” is not a faithful rendering of this printed wording. Preserve the source reading in the discrepancy ledger; do not silently alter the derivative until its editorial policy and intended witness are resolved.
+- **p.92, XX.6:** The printed angel name appears as “Saraqâêl” (typographic diacritics to be transcribed diplomatically); the OCR/transliteration form should remain flagged.
+- **p.93, XXI.5:** The image confirms the older printed wording “Wherefore dost thou ask, and why dost thou enquire and art curious?” The derivative's modernized phrasing is a deliberate wording difference, not a simple OCR defect.
+- **p.91:** The page image supplies direct Cornell visual evidence for the passage previously recovered only from a parallel scan. It does not create a missing Cornell OCR text layer, nor does it establish a full line-by-line collation.
+
+**Proofing boundary:** 10/10 pages individually opened and checked for page identity/layout. Full line-by-line diplomatic textual/apparatus proofing for these pages remains 0/10. Independent human approval remains pending.
