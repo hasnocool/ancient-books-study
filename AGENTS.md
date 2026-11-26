@@ -1,113 +1,74 @@
-# Ancient Books Study — Project Paths & Artifacts Layout
+# Repository Working Agreement
 
-## Root
-`/home/hyperion/Projects/ancient-books-study/`
+## Purpose and editorial boundaries
 
-## Canonical Source PDFs (never modify)
-`pdfs/enoch-editions/`
-- `enoch-1893-clarendon-original.pdf` — Cornell / IA scan (identifier: `cu31924014590545`), 428 pages
-- Other 1893/1912/1917 editions also present
+This repository is a digital humanities corpus and research workspace. Preserve the distinction between archival sources, faithful formatted transcriptions, modern-language adaptations, story adaptations, meaning guides, interpretations, and evidence artifacts.
 
-## Research Artifacts
-`artifacts/`
+Read `README.md`, `CONTRIBUTING.md`, the relevant directory README, and the current issue/report before beginning work. For formatted derivatives, also read `docs/AUDIT_STANDARDS.md` and `docs/formatted-content-pipeline.md`.
 
-### 1 Enoch — R. H. Charles, 1893
-`artifacts/1-enoch-1893/`
+## Preservation rules
 
-| Subdirectory | Contents |
-|--------------|----------|
-| `manifests/bookreader-pages-63-74.json` | Retrieval manifest for pp.63–74 |
-| `manifests/bookreader-pages-75-84-large.json` | Retrieval manifest for pp.75–84 |
-| `ocr/cornell-pdf-ordinals-75-84.txt` | OCR text layer — PDF ordinals 75–84 (printed p.53, pp.55–62; PAGE 76 blank). **Not** printed pp.75–84 |
-| `ocr/cornell-printed-pages-75-84.txt` | Consolidated OCR text for printed pp.75–84 |
-| `reports/collations/` | Collation reports, inventories, verification targets report |
-| `reports/historical/` | Superseded reconciliation reports |
+- Never overwrite, normalize in place, or delete archival source files.
+- Do not merge editions, translations, or witnesses because filenames or normalized text look similar.
+- Keep OCR correction, editorial emendation, translation, modernization, and interpretation distinct.
+- Mark unknown provenance and rights as unknown; never infer them from filenames.
+- Do not claim facsimile verification, independent human review, or completed testing unless the evidence exists.
+- A downloaded image is not an inspected image. Page/layout inspection is not line-by-line diplomatic proofing.
+- Automated similarity or regression checks identify candidates; they do not establish semantic fidelity or resolve copyright.
 
-### Page Images — BookReader JPEGs (Internet Archive)
-`artifacts/page-images/cornell-native/bookreader-medium/`
-- 12 medium-res JPEGs (340×569), printed pp.63–74, leaves n84–n95
+## Canonical project locations
 
-`artifacts/page-images/cornell-native/bookreader-large/`
-- 20 high-res JPEGs (1360×2274), printed pp.75–94, leaves n96–n115; pp.85–94 are recorded in `artifacts/1-enoch-1893/manifests/bookreader-pages-85-94-large.json`
+- Archival text batches: `books_01/` through `books_05/`
+- Source PDFs: `pdfs/`
+- Research evidence, OCR, manifests, and reports: `artifacts/`
+- Faithful formatted reading editions: `formatted_editions/`
+- Modern-language adaptations: `modernized_editions/`
+- Story adaptations: `formatted_stories/`
+- Meaning guides: `formatted_meanings/`
+- Interpretive studies and visual prompts: `formatted_interpretation/`
+- Standards and project documentation: `docs/`
+- Audit/retrieval code and tests: `tools/`, `tests/`
 
-### Page Images — Cornell Native Scans (1360×2274 JPXDecode from PDF)
-`artifacts/page-images/cornell-native/cornell_printed_pp63_84/`
-- Printed pp.63–84 → PDF pages 85–106
-- Files per page: `_full.png` + `.png` + `.txt`
+Use repository-relative paths only. Do not include machine-specific checkout paths in committed documentation.
 
-`artifacts/page-images/cornell-native/cornell_printed_pp75_308/`
-- Printed pp.75–308 → PDF pages 97–330
-- Files per page: `_full.png` + `.png` + `.txt`
+## 1 Enoch 1893 proofing boundary
 
-`artifacts/page-images/cornell-native/cornell_pages_75_84/`
-- PDF ordinals 75–84 → PDF pages 75–84
-- Files per page: `_full.png` + `.png` + `.txt`
+The authoritative ledger is `formatted_editions/books/book-of-enoch-charles-1893/IMAGE_PROOFING_LOG.md`; issue #1 tracks the work. At the 2026-11-26 review point:
 
-`artifacts/page-images/cornell-native/cornell_pages_85_106/`
-- PDF ordinals 85–106 → PDF pages 85–106
-- Files per page: `_full.png` + `.png` + `.txt`
+- 50/254 pages have page/layout-level visual inspection records (pp.55–104).
+- 0/254 pages have completed line-by-line diplomatic textual/apparatus proofing.
+- Independent human approval is pending.
+- pp.63–74 were inspected from 340×569 images, which are insufficient for detailed Greek/apparatus proofing.
+- Do not increase counts based on retrieval, OCR, metadata, or automated checks.
 
-`artifacts/page-images/cornell-native/cornell_all_pages/`
-- All 428 PDF pages → PDF pages 1–428
-- Files per page: `_full.png` only
+If any of these facts change, reconcile the ledger, issue #1, and this file in the same change.
 
-## Formatted Content Production
+## Source and rights requirements
 
-- `docs/formatted-content-pipeline.md` — workflow specification for source extraction, story adaptation, meaning explanation, source alignment, status values, and completion criteria
-- `formatted_stories/_templates/story-template.md` — standard story document template
-- `formatted_meanings/_templates/meaning-template.md` — standard meaning/explanation template
-- `formatted_stories/1-enoch-charles-1893/` — first five-chapter story/meaning pilot, 1893 witness comparison, and independent human review packet
+For each new derivative, record work identity, author/attribution, translator/editor, language, exact edition, source path and stable source URL, rights basis, extraction method, editorial transformations, coverage, verification status, reviewer, and unresolved issues. Use explicit unknown/not-established values where evidence is missing.
 
-**Boundary:** Formatted stories and meanings are derivative outputs. They do not count as diplomatic transcription, visual proofing, line-by-line collation, or independent human approval. See the pipeline specification for source hierarchy and review requirements.
+Do not create or publish derivatives of works marked restricted or rights-unresolved in `copyrighted_works/` without documented permission or a suitable public-domain/licensed source.
 
-## Key Files
+## Validation
 
-| File | Purpose |
-|------|---------|
-| `AGENTS.md` | This file — project paths and artifacts layout |
-| `formatted_editions/books/book-of-enoch-charles-1893/IMAGE_PROOFING_LOG.md` | Authoritative proofing log: page map (pp.55–308 → leafNums 76–329), inspection rules, progress ledger |
-| `formatted_interpretation/README.md` | Verse-by-verse ancient-horizon interpretation stream, including disciplined speculative lenses |
-| `formatted_interpretation/_templates/verse-by-verse-interpretation-template.md` | Required structure for verse-level interpretation |
-| `formatted_interpretation/1-enoch-charles-1893/` | 1 Enoch interpretation project; Chapter 1 pilot is provisional |
-| `artifacts/1-enoch-1893/reports/collations/VERIFICATION_TARGETS_REPORT.md` | 3 verification targets: CII.4 (p.291), CV.2 (p.301), CVI.17 (p.304) |
-| `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md` | pp.75–84 retrieval + OCR inventory |
-| `artifacts/1-enoch-1893/reports/collations/pp63-74-ocr-inventory.md` | pp.63–74 OCR inventory |
-| `artifacts/1-enoch-1893/reports/collations/pp55-62-text-layer-collation.md` | pp.55–62 text-layer collation |
-| `artifacts/1-enoch-1893/reports/collations/pp85-104-facsimile-collation-review.md` | Image-anchored first-pass collation and discrepancy triage for pp.85–104 |
-| `artifacts/1-enoch-1893/reports/collations/pp85-104-diplomatic-collation-working-ledger.md` | Page-by-page English discrepancy candidates and separate Greek/Ethiopic apparatus work registers; still in progress |
+Run from the repository root with Python 3.12+:
 
-## Proofing Ledger Status (see IMAGE_PROOFING_LOG.md for full detail)
-
-**Updated 2026-11-26:** pp.85–104 BookReader JPEGs were fetched from the current branch and individually opened at 1360×2274. The p.92 reading “the serpents and the Cherubin” is visibly confirmed and flagged against the derivative transcription. A facsimile-led first-pass collation for pp.85–104 is recorded in `artifacts/1-enoch-1893/reports/collations/pp85-104-facsimile-collation-review.md`; full line-by-line English/Greek/Ethiopic and apparatus proofing remains outstanding; independent human approval remains pending.
-
-| Tier | Count | Basis |
-|------|-------|-------|
-| Page/layout-level visual inspection | 50 / 254 | pp.55–62 and pp.75–104 individually opened at 1360×2274; pp.63–74 at 340×569 |
-| Full line-by-line diplomatic textual/apparatus proofing | 0 / 254 | No page has completed full text, punctuation, and apparatus comparison against the facsimile |
-| Retrieval records (pp.55–74) | 20 | BookReader JPEGs downloaded; reclassified as retrieval-only |
-| Retrieval records (pp.75–308) | 234 | Batch-retrieved; pp.75–104 now individually opened; pp.105–308 not individually image-checked |
-
-**Rule:** Successful download ≠ visual verification. Each page must be individually opened and inspected at legible resolution before incrementing any proofing count. OCR, extracted PDF text, search snippets, and page metadata do not qualify.
-
-## Downloader
-
-`tools/download_archive_pages.py` — Internet Archive BookReader page image downloader
-
-Example usage (requires network access):
-```
-python tools/download_archive_pages.py \
-  --start-page 63 \
-  --end-page 74 \
-  --prefer-large \
-  --force \
-  --output-dir artifacts/page-images/cornell-native/bookreader-large \
-  --manifest artifacts/1-enoch-1893/manifests/bookreader-pages-63-74-large.json
+```bash
+python3 tools/audit_corpus.py all --json-out /tmp/ancient-books-audit.json
+python3 -m unittest discover -s tests -v
 ```
 
-## Git
+For focused proofing-data changes, also run:
 
-- Remote: `https://github.com/hasnocool/ancient-books-study.git`
-- Branch: `main`
-- Large image directories under `artifacts/` are tracked in git (JPEG + PNG files committed with SHA256 manifests)
+```bash
+python3 -m unittest discover -s tests -p "test_proofing_dataset_integrity.py" -v
+```
 
-**Additional inspection 2026-11-26:** Printed pp.96–104 (BookReader leaves n117–n125; 1360×2274 JPEGs) were opened individually. Page/layout inspection total is now 50/254 (pp.55–104). This does not count as full line-by-line proofing; that remains 0/254. Detailed record: `artifacts/1-enoch-1893/reports/collations/pp96-104-page-layout-inspection.md`.
+Review all warnings manually. Do not commit temporary audit output unless it is intended as a maintained report. Never describe a command as passed unless it was executed and its result inspected.
+
+## Change management
+
+- Keep changes scoped and preserve source files.
+- Update the relevant catalog, ledger, issue, and documentation when their underlying facts change.
+- Add regression tests for data-integrity invariants and keep tests independent of network access.
+- Use a branch and pull request for substantive changes; do not merge or publish without explicit authorization.

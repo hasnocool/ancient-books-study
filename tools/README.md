@@ -1,11 +1,11 @@
 # Local Audit Toolkit
 
-The toolkit uses only the Python 3.12 standard library. Run commands from the repository root. These checks are intended to run locally against a complete checkout; no hosted CI service is required.
+The toolkit uses only the Python 3.12 standard library. Run commands from the repository root. The complete audit and unit-test suite are runnable locally; GitHub Actions also runs a focused proofing-integrity regression workflow.
 
 ## Full audit
 
 ```bash
-python3 tools/audit_corpus.py all --json-out audit-report.json
+python3 tools/audit_corpus.py all --json-out /tmp/ancient-books-audit.json
 python3 -m unittest discover -s tests -v
 ```
 
@@ -23,13 +23,13 @@ python3 tools/compare_source_text.py
 python3 tools/generate_catalog.py --catalog-out /tmp/formatted-catalog-preview.md
 ```
 
-The equivalent subcommands are available through audit_corpus.py: inventory, duplicates, markdown, provenance, enoch, compare, and catalog.
+Equivalent subcommands are available through `audit_corpus.py`: `inventory`, `duplicates`, `markdown`, `provenance`, `enoch`, `compare`, and `catalog`.
 
-Use --root PATH to audit a different local checkout. Use --json-out PATH for machine-readable results. The catalog generator writes only when --catalog-out is explicitly supplied; it does not overwrite the maintained formatted_editions/CATALOG.md.
+Use `--root PATH` to audit another local checkout and `--json-out PATH` for machine-readable results. The catalog generator writes only when `--catalog-out` is explicitly supplied; it does not overwrite the maintained `formatted_editions/CATALOG.md`.
 
 ## Cornell 1893 page-image retrieval
 
-The asynchronous standard-library downloader can reacquire the Cornell scan's BookReader JPEGs. It uses a bounded semaphore and runs blocking urllib requests and file writes through asyncio.to_thread, so network and disk I/O do not block the event loop. Each page is written atomically to a unique filename, JPEG bytes and dimensions are validated, and a JSON manifest records the final URL, HTTP status, SHA-256, dimensions, and failures.
+The asynchronous standard-library downloader reacquires Cornell scan BookReader JPEGs. It uses a bounded semaphore and runs blocking urllib requests and file writes through `asyncio.to_thread`. Each page is written atomically to a unique filename, JPEG bytes and dimensions are validated, and a JSON manifest records the final URL, HTTP status, SHA-256, dimensions, and failures.
 
 ```bash
 # Default: printed pp.75–308, mapping printed page N to BookReader leaf n(N+21)
@@ -42,15 +42,15 @@ python3 tools/download_archive_pages.py --start-page 55 --end-page 308 --force
 python3 tools/download_archive_pages.py --concurrency 2 --retries 4 --timeout 60
 ```
 
-By default, images are written to `artifacts/1-enoch-1893/page-images/bookreader-medium/`. The manifest is written to `artifacts/1-enoch-1893/manifests/bookreader-pages-START-END.json`, using the selected printed-page range. Both paths can be overridden with `--output-dir` and `--manifest`. Do not mark a page visually checked merely because it downloaded; open the image, verify the printed folio and content, then add an individual row to `IMAGE_PROOFING_LOG.md`. The script has not been run in this environment because direct access to the Archive.org image hosts failed.
+By default, images are written to `artifacts/1-enoch-1893/page-images/bookreader-medium/`; the manifest is written to `artifacts/1-enoch-1893/manifests/bookreader-pages-START-END.json`. Override with `--output-dir` and `--manifest`. A successful download does not count as visual inspection. Open each image, verify the printed folio and content, then add an individual row to `IMAGE_PROOFING_LOG.md`.
 
 ## Safety and limits
 
-- The tools are read-only unless an explicit report-output path is provided.
-- They never delete duplicates, rewrite source documents, or normalize text in place.
-- Normalized and near-duplicate results are candidates for manual review; different translations and editions must not be merged automatically.
+- Tools do not delete duplicates, rewrite source documents, or normalize text in place.
+- Normalized/near-duplicate results are candidates for manual review; different translations and editions must remain distinct.
 - Provenance checks are keyword screens, not legal opinions or proof of bibliographic accuracy.
 - Chapter sequence checks validate structure, not meaning.
-- Normalized source-to-formatted text comparison validates transfer from the selected archive file, not fidelity to the historically attributed edition.
+- Normalized source-to-formatted comparison validates transfer from the selected archive file, not fidelity to the historically attributed edition.
 - Verse-length ratios flag unusual compression or expansion; they are not semantic-similarity scores.
 - Humans must review source images and text variants before declaring a transcription verified.
+- The focused GitHub Actions workflow does not replace the full local audit or independent human review.

@@ -2,97 +2,91 @@
 
 A public text corpus for studying ancient literature, religious traditions, historical scholarship, archaeology, science, architecture, mythology, and esoteric traditions.
 
-The repository is primarily a **document collection**, not an application. Most files are plain-text extracts or digitized book text. A few small files are placeholders or incomplete scans.
+The repository is primarily a **document collection and research workspace**, not a packaged application. It preserves archival source files and maintains separately labelled formatted transcriptions, modern-language adaptations, interpretations, OCR/page-image evidence, and research reports.
 
 ## Repository layout
- 
+
 | Directory | Contents |
 |---|---|
-| [`books_01/`](./books_01/) | Religious texts, translations, Enoch literature, Gnostic writings, epic literature, and historical/scientific works. |
-| [`books_02/`](./books_02/) | Architecture and engineering, medicine, mathematics, mythology, religious texts, and historical scholarship. |
-| [`books_03/`](./books_03/) | Pseudepigrapha, Egyptology, chemistry, mythology, classical texts, and comparative ancient literature. |
-| [`books_04/`](./books_04/) | Enochic and Hermetic literature, ancient science and medicine, papyri, Kabbalah, archaeology, and astronautic or alternative-history works. |
-| [`books_05/`](./books_05/) | A broader combined collection covering architecture, archaeology, ancient engineering, translations, religious texts, and esoteric studies. |
-| [`copyrighted_works/`](./copyrighted_works/) | Rights and provenance records for selected works; archival source files remain in their original collection folders. |
-| [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading editions, editorial standards, templates, and progress catalog. |
-| [`pdfs/`](./pdfs/) | Source PDFs and digitized 1 Enoch editions, with provenance notes and scan-verification status. |
-| [`artifacts/`](./artifacts/) | Downloaded page-image batches, OCR extracts, manifests, and research/audit reports; see the artifact placement guide. |
-| [`modernized_editions/`](./modernized_editions/) | Clearly labelled modern-language adaptations kept separate from archival and faithful formatted source texts. |
-| [`docs/`](./docs/) | Usage guidance, audit standards, and repository maintenance documentation. |
+| [`books_01/`](./books_01/)–[`books_05/`](./books_05/) | Original numbered collection batches: religious texts, translations, Enoch literature, Gnostic writings, epic literature, architecture, medicine, mathematics, mythology, and historical/scientific works. |
+| [`copyrighted_works/`](./copyrighted_works/) | Rights and provenance risk records for selected works; source files remain in their original collection folders. |
+| [`pdfs/`](./pdfs/) | Source PDFs and digitized editions, with provenance and scan-verification notes. |
+| [`artifacts/`](./artifacts/) | Downloaded page images, OCR extracts, manifests, collation datasets, and research/audit reports. |
+| [`formatted_editions/`](./formatted_editions/) | Faithful formatted reading transcriptions, source notes, editorial standards, and catalog. |
+| [`modernized_editions/`](./modernized_editions/) | Clearly labelled modern-language adaptations, kept separate from archival and faithful formatted texts. |
+| [`formatted_stories/`](./formatted_stories/) | Source-grounded narrative adaptations; not transcriptions or independent textual witnesses. |
+| [`formatted_meanings/`](./formatted_meanings/) | Section-level meaning guides and explanatory notes. |
+| [`formatted_interpretation/`](./formatted_interpretation/) | Verse-by-verse interpretive studies and separately labelled visual prompts. |
+| [`docs/`](./docs/) | Usage guidance, audit standards, pipeline specification, and repository review reports. |
+| [`tools/`](./tools/) and [`tests/`](./tests/) | Read-only corpus audit utilities, retrieval/proofing tools, and regression tests. |
+| [`.github/workflows/`](./.github/workflows/) | Targeted GitHub Actions validation workflows. |
+
 ## Example texts
 
-- [`New King James Version 1982 NKJV.txt`](./books_01/New%20King%20James%20Version%201982%20NKJV.txt)
-- [`Bhagavad_Gita.txt`](./books_01/Bhagavad_Gita.txt)
-- [`Aramaic_Text_Vol1.txt`](./books_01/Aramaic_Text_Vol1.txt)
-- [`ANCIENT EGYPTIAN MEDICINE THE PAPYRUS EBERS.txt`](./books_02/ANCIENT%20EGYPTIAN%20MEDICINE%20THE%20PAPYRUS%20EBERS.txt)
-- [`The Old Testament Pseudepigrapha vol.1 Charlesworth 1983.txt`](./books_03/The_Old_Testament_Pseudepigrapha_vol.1_Charlesworth_1983.txt)
-- [`Corpus_Hermeticum_Mead_1906.txt`](./books_04/Corpus_Hermeticum_Mead_1906.txt)
-- [`The Rhind Papyrus Volume 1.txt`](./books_05/The_Rhind_Papyrus_Volume_1.txt)
-- [`Voynich Manuscript.txt`](./books_05/Voynich_Manuscript.txt)
+- [New King James Version 1982 NKJV.txt](./books_01/New%20King%20James%20Version%201982%20NKJV.txt)
+- [Bhagavad_Gita.txt](./books_01/Bhagavad_Gita.txt)
+- [Aramaic_Text_Vol1.txt](./books_01/Aramaic_Text_Vol1.txt)
+- [The Papyrus Ebers](./books_02/ANCIENT%20EGYPTIAN%20MEDICINE%20THE%20PAPYRUS%20EBERS.txt)
+- [Old Testament Pseudepigrapha, vol. 1](./books_03/The_Old_Testament_Pseudepigrapha_vol.1_Charlesworth_1983.txt)
+- [Corpus Hermeticum — Mead, 1906](./books_04/Corpus_Hermeticum_Mead_1906.txt)
+- [The Rhind Papyrus, vol. 1](./books_05/The_Rhind_Papyrus_Volume_1.txt)
 
-## Formatted reading editions
+## Editorial layers and verification
 
-The original numbered source collections are preserved unchanged. Faithful formatted reading editions are maintained in [`formatted_editions/`](./formatted_editions/). Modern-language adaptations are maintained separately in [`modernized_editions/`](./modernized_editions/) and must not be confused with source transcriptions. Each derivative should identify its source, editorial method, and verification status.
+Keep these categories distinct:
+
+1. **Archival source** — preserved as received; never silently normalize or overwrite it.
+2. **Faithful formatted transcription** — a reading derivative of one identified source, with layout cleanup documented.
+3. **Modern-language adaptation** — contemporary re-expression, not a transcription or new translation.
+4. **Story adaptation / meaning guide / interpretation** — derivative study aids with explicit source references and editorial status.
+5. **Evidence artifacts** — page images, OCR, manifests, discrepancy candidates, and collation logs.
+
+A successful OCR transfer, matching chapter count, image download, or automated test is not facsimile verification or independent human review. Every published status must say exactly what was checked and against which witness. See [Audit Standards](./docs/AUDIT_STANDARDS.md), the [formatted-content pipeline](./docs/formatted-content-pipeline.md), and the [Formatted Editions Catalog](./formatted_editions/CATALOG.md).
+
+The 1 Enoch 1893 work remains an active proofing project. Its current evidence boundary is **50/254 page/layout inspections, 0/254 full line-by-line diplomatic textual/apparatus proofing, and independent human approval pending**. The page/layout count includes pp.63–74 at medium resolution; those pages are not suitable for detailed Greek/apparatus proofing. Consult the [proofing ledger](./formatted_editions/books/book-of-enoch-charles-1893/IMAGE_PROOFING_LOG.md) and [issue #1](https://github.com/hasnocool/ancient-books-study/issues/1) before changing those counts.
 
 ## Using the collection
 
-No install or build step is required. Clone or download the repository and open the `.txt` files with a text editor:
+No install or build step is required to read the text files. Clone the repository:
 
 ```bash
 git clone https://github.com/hasnocool/ancient-books-study.git
 cd ancient-books-study
 ```
 
-Search across the collection with a local text-search tool, for example:
+Search with ripgrep (if installed):
 
 ```bash
-# macOS or Linux
-grep -Rin "search phrase" books_01 books_02 books_03 books_04 books_05
+rg -n -i "search phrase" books_01 books_02 books_03 books_04 books_05
 ```
 
-```powershell
-# Windows PowerShell
-Select-String -Pattern "search phrase" -Path books_*, -Recurse
+For substantial research, record the exact path, edition, translator, page/section, source URL, and verification status with every extracted note.
+
+## Quality checks
+
+Use Python 3.12+ from the repository root:
+
+```bash
+python3 tools/audit_corpus.py all --json-out /tmp/ancient-books-audit.json
+python3 -m unittest discover -s tests -v
 ```
 
-For substantial research, copy only the desired texts into a dedicated corpus directory and record the source, edition, and filename alongside extracted notes.
+The local toolkit is read-only with respect to source documents. Review warnings manually: duplicate candidates, outlier lengths, and provenance keyword matches are not grounds for automatic deletion or correction. GitHub Actions currently runs a focused proofing-integrity regression workflow; the complete corpus audit and full test suite are also available locally and are being added to automated validation. See [tools/README.md](./tools/README.md).
 
 ## Collection notes
 
-- These are research texts, translations, OCR results, scans in text form, and secondary scholarship; the repository is not a canonical source database.
-- Treat every file as a document requiring source verification. OCR, formatting, edition, and translation quality may vary.
-- Titles with different filenames may represent duplicate content, revised extracts, or different editions.
-- A number of entries are empty (`0` bytes), especially some scanner/OCR placeholders. Other files may contain incomplete or unusually formatted text.
-- The collection includes conventional scholarship, alternative interpretations, religious polemic, pseudoscience, and disputed claims. Presence in this repository does not imply endorsement or factual accuracy.
-- **Copyrighted works** are identified and documented in [`copyrighted_works/`](./copyrighted_works/) with full provenance metadata. These are preserved for archival/research purposes only and must not be redistributed or used for derivative works without permission.
-
-## Reading and research guidance
-
-See [`docs/USAGE.md`](./docs/USAGE.md) for practical search, citation, verification, and extraction guidance.
-
-The 1 Enoch PDF scans and project reference PDFs are collected in [`pdfs/`](./pdfs/), with a file-by-file provenance and verification guide in [`pdfs/README.md`](./pdfs/README.md).
-
-See [`docs/AUDIT_STANDARDS.md`](./docs/AUDIT_STANDARDS.md) for the repository's repeatable quality-control standards. The latest [repository remediation report](./docs/REPOSITORY_AUDIT_REPORT.md) and [five-folder corpus inventory / rights-risk report](./docs/CORPUS_INVENTORY_AUDIT.md) summarize known issues and verification status. Run the local, read-only audit toolkit with `python3 tools/audit_corpus.py --help`; no GitHub Actions workflow or paid CI service is required.
-
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for rules on adding or correcting documents.
+- The collection contains translations, OCR results, text extracts, and secondary scholarship; it is not a canonical source database.
+- Treat every file as requiring source verification. OCR, formatting, edition, and translation quality vary.
+- Similar filenames may represent duplicates, alternate editions, translations, or partial extracts.
+- Some files are empty placeholders or incomplete scans; do not treat their presence as completed acquisition.
+- The repository includes conventional scholarship, alternative interpretations, religious polemic, pseudoscience, and disputed claims. Inclusion does not imply endorsement or factual accuracy.
 
 ## Rights and provenance
- 
-No repository-wide license is currently declared. Individual works may be public domain, licensed, copyrighted, or of uncertain status. Do not assume that any file is freely reusable merely because it is in this repository.
- 
-**Copyrighted works are catalogued in [`copyrighted_works/`](./copyrighted_works/) with detailed provenance, rights holder contacts, and public-domain alternative recommendations.**
- 
-Before redistributing or publishing text from this collection, verify:
- 
-1. the source and edition;
-2. applicable copyright or public-domain status;
-3. any restrictions on translations or modern scholarly editions;
-4. the provenance and license of OCR or transcription data.
- 
-Report provenance or copyright concerns through a GitHub issue with the exact filename and relevant details.
- 
+
+**No repository-wide content license is declared.** Individual works may be public domain, licensed, copyrighted, or of uncertain status. Repository inclusion does not grant reuse rights. The records in [copyrighted_works/](./copyrighted_works/) are preliminary risk/provenance documentation, not legal opinions or universal clearance decisions.
+
+Before redistributing, publishing, or creating derivatives, verify the exact source edition, translation/editorial contributions, applicable jurisdiction, license or public-domain basis, and rights in OCR/transcription data. Do not redistribute works whose rights are unresolved. Report concerns with the exact file path and source evidence.
+
 ## Contributing
- 
-Contributions are welcome, especially source metadata, duplicate identification, OCR corrections, and verified public-domain or appropriately licensed texts.
- 
-Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before proposing changes.
+
+Contributions are welcome, especially source metadata, OCR corrections, duplicate analysis, and verified public-domain or appropriately licensed texts. Read [CONTRIBUTING.md](./CONTRIBUTING.md) and [AGENTS.md](./AGENTS.md) before making changes.
