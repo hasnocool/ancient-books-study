@@ -29,3 +29,7 @@ Suggested file naming:
 2. Source and passage covered
 3. Story
 4. Brief note on adaptation choices or unresolved ambiguities
+
+## Production workflow
+
+Follow [`docs/formatted-content-pipeline.md`](../docs/formatted-content-pipeline.md) from the repository root. Start new documents from [`_templates/story-template.md`](_templates/story-template.md). Story and meaning outputs must be grounded independently in the identified source passage; neither is a substitute for the diplomatic text or proofing ledger.
