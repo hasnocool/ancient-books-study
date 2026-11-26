@@ -37,3 +37,30 @@ The combined JSON is an OCR-derived section/apparatus extraction artifact. It is
 ## Verification boundary
 
 This remediation changed status labels and audit metadata only. It did not alter archival source texts, translation wording, apparatus readings, or image-proofing counts. No local test suite or page-image inspection was run as part of this remote GitHub correction.
+
+## Follow-up correction — coverage manifest repaired
+
+**Updated 2026-11-26:** The initial coverage findings above describe the dataset before the follow-up correction. The combined JSON has since been repaired:
+
+- The aggregate section ranges now cover printed pp.55–308 exactly once (254 page memberships, 254 distinct pages).
+- pp.260–264 are represented by an explicit `NOT_PROCESSED` placeholder. They are covered in the manifest, not processed as OCR/apparatus content.
+- The redundant `pp301-308` section was removed from aggregate membership. All 35 of its apparatus objects were exact duplicates of objects already present in `pp285-308`; the former subrange is recorded as a metadata alias.
+- The dataset status is now `COVERAGE_MANIFEST_REPAIRED_CONTENT_INCOMPLETE`.
+- Discrepancy totals remain `UNRECONCILED`; the 18 automated fuzzy-match candidates remain pending human review.
+- The legacy `total_verses=130` value is explicitly marked as undefined and unvalidated.
+
+A regression test file, `tests/test_proofing_dataset_integrity.py`, now checks exact page coverage, placeholder status, duplicate-subrange removal, human-review status labels, and progress-summary consistency. It has been committed but **has not yet been executed** in this environment.
+
+## Progress-summary reconciliation
+
+`AGENTS.md`, `IMAGE_PROOFING_LOG.md`, and GitHub issue #1 now report 30/254 pages with page/layout-level checks (pp.55–84) and 0/254 pages with completed line-by-line diplomatic textual/apparatus proofing. Independent human approval remains pending.
+
+## Remaining blockers after this correction
+
+- Reconcile the 18 fuzzy-match candidates with section discrepancy arrays; do not equate automated candidates with confirmed textual variants.
+- Define and recompute chapter, verse, apparatus, and discrepancy totals from validated source records.
+- Execute the new regression tests and the full repository test suite in a checkout.
+- Render and inspect pp.85–94 from the committed Cornell PDF; this environment could not clone the repository because GitHub DNS resolution failed.
+- Continue facsimile proofing and obtain actual independent human review.
+
+The initial findings remain in this report as an audit trail; the follow-up section supersedes their page-coverage status.
