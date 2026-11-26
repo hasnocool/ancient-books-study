@@ -31,7 +31,8 @@ The selected passage was extracted from the single source file above, from the h
 ## Additional review records
 
 - [1893 witness comparison and impact on the pilot](1893-witness-collation.md) — records known differences between the repository source and the 1893 searchable text layer, and the outstanding page-image collation work.
-- [Independent human review packet](INDEPENDENT_REVIEW_PACKET.md) — prepared for a second reviewer; no independent review is claimed.
+- [Independent human review packet](INDEPENDENT_REVIEW_PACKET.md) — prepared for a second reviewer; human sign-off remains pending.
+- [AI-assisted editorial review](AI_EDITORIAL_REVIEW.md) — fresh editorial pass completed; corrections recorded, but this is not human approval.
 
 ## Validation performed
 
@@ -43,12 +44,13 @@ The selected passage was extracted from the single source file above, from the h
 - [x] Marked all ten documents provisional; no human review or approval is claimed.
 - [ ] Collate source wording against the 1893 facsimile.
 - [ ] Verify exact printed-page boundaries for each chapter and passage.
+- [x] AI-assisted editorial review of all ten pilot documents; findings and revisions recorded.
 - [ ] Independent human review.
 
 ## Validation result and limitation
 
 **Production coverage:** 5/5 story adaptations and 5/5 meaning explanations created.  
-**Mechanical/editorial source-alignment pass:** completed against the repository transcription.  
+**Mechanical/editorial source-alignment pass:** completed against the repository transcription. A separate AI-assisted editorial review has also been completed and recorded.  
 **Historical witness validation:** not completed. The repository source itself warns that its wording is not a verbatim transcription of the 1893 Charles/Dillmann printing. This batch therefore must not be cited as a proofed 1893 translation, diplomatic transcription, or independently approved interpretation.
 
 The next refinement should add a structured per-unit coverage manifest and automated checks for required source references, status metadata, and unnumbered units. Facsimile collation remains a separate scholarly task.
