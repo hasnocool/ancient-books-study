@@ -18,7 +18,7 @@ Chapter 1 introduces Enoch’s blessing and vision as a message for future gener
 ### 1:1–2
 
 - **What the text says:** Enoch’s words are framed as a blessing for the righteous who will face a future time of distress. He says his vision was opened to him by God and shown through angels.
-- **What it means:** Enoch’s words are framed as a blessing for the righteous who will face a future time of distress. He says his vision was opened to him by God and shown through angels. The text presents Enoch as a recipient and messenger, not as the source of the vision. The message is directed beyond his own generation toward distant generations.
+- **What it means:** This frames Enoch as a witness transmitting a message whose authority comes from the divine vision, rather than as an independent predictor. The stated audience extends beyond Enoch’s contemporaries, giving the opening a transgenerational scope.
 - **Textual evidence:** Repository source, 1:1–2; see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The passage explicitly says the vision concerns remote generations. It does not identify a calendar date or name a specific later crisis.
 
