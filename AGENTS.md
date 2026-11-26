@@ -67,7 +67,7 @@
 | Tier | Count | Basis |
 |------|-------|-------|
 | Page/layout-level visual inspection | 30 / 254 | pp.55–62 and pp.75–84 individually opened at 1360×2274; pp.63–74 at 340×569 |
-| Full high-resolution textual/apparatus proofing | 0 / 254 | No page completed at 1360×2274 resolution |
+| Full line-by-line diplomatic textual/apparatus proofing | 0 / 254 | No page has completed full text, punctuation, and apparatus comparison against the facsimile |
 | Retrieval records (pp.55–74) | 20 | BookReader JPEGs downloaded; reclassified as retrieval-only |
 | Retrieval records (pp.75–308) | 234 | Batch-retrieved; not individually image-checked |
 
