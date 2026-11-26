@@ -56,6 +56,7 @@
 - `docs/formatted-content-pipeline.md` — workflow specification for source extraction, story adaptation, meaning explanation, source alignment, status values, and completion criteria
 - `formatted_stories/_templates/story-template.md` — standard story document template
 - `formatted_meanings/_templates/meaning-template.md` — standard meaning/explanation template
+- `formatted_stories/1-enoch-charles-1893/` — first five-chapter story/meaning pilot, 1893 witness comparison, and independent human review packet
 
 **Boundary:** Formatted stories and meanings are derivative outputs. They do not count as diplomatic transcription, visual proofing, line-by-line collation, or independent human approval. See the pipeline specification for source hierarchy and review requirements.
 
