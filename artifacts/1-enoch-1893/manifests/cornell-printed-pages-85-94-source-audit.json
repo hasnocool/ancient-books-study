@@ -8,7 +8,7 @@
     "pdf_pages": "107–116",
     "formula": "leaf = printed_page + 21; PDF page = printed_page + 22"
   },
-  "scope_note": "Ten native PNGs are stored across the printed-page and ordinal-page directories for pp.85–94. All ten were opened and render dark/unreadable in the current image viewer. Nine Cornell page-specific OCR text files are present; p.91 Cornell OCR is missing. The p.91 ordinal image is artifacts/page-images/cornell-native/cornell_all_pages/page_0113_full.png. A provisional p.91 text extraction was recovered from a separate searchable Knox College/Toronto copy of the 1893 edition (printed 1897) and is recorded as a parallel witness, not Cornell OCR. No target BookReader JPEGs were present. Source PDFs exist in the repository, but direct binary download from this execution environment failed, so PDF re-rendering was not possible.",
+  "scope_note": "The ten native PNG exports are present but visually unusable. In contrast, all ten high-resolution BookReader JPEGs p085_n106.jpg through p094_n115.jpg are committed under artifacts/page-images/cornell-native/bookreader-large/, fetched from the current branch, and individually opened at 1360×2274 on 2026-11-26. These JPEGs support page-identity/layout inspection; full line-by-line diplomatic collation remains outstanding. Nine Cornell OCR text files are present; p.91 Cornell OCR is missing. A provisional p.91 text extraction from a separate Knox College/Toronto scan remains a parallel witness, not Cornell OCR.",
   "pages": [
     {
       "printed_page": 85,
@@ -25,6 +25,12 @@
         "git_blob_sha": "3e58c784dd370211d0c8b086ddd304d91896a97e",
         "repository_size_bytes": 2406,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p085_n106.jpg",
+        "git_blob_sha": "2a1d80c3980f1631ab6520f85916aff1e2c77486",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -42,6 +48,12 @@
         "git_blob_sha": "8084170f7bd80d07cdbffc0d758c411fbf5ba96e",
         "repository_size_bytes": 2106,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p086_n107.jpg",
+        "git_blob_sha": "bf75bb50320eebe4b7d24e1c74f3d9877f908c27",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -59,6 +71,12 @@
         "git_blob_sha": "fe3fcdeb1c6bf42770e79e84acd08f19d8d6fedb",
         "repository_size_bytes": 2705,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p087_n108.jpg",
+        "git_blob_sha": "404828b13aa9ac4b2086e992e1c7aa1cf91cd8e4",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -76,6 +94,12 @@
         "git_blob_sha": "0184012ed506cfef4282d68c5a6f375ca1ed64a3",
         "repository_size_bytes": 2501,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p088_n109.jpg",
+        "git_blob_sha": "358410c57e3c55865b6ec4f735829dde0aa1fff4",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -93,6 +117,12 @@
         "git_blob_sha": "7d6555e5cf3b26c007d466cc1bdd3c21e28eeaf1",
         "repository_size_bytes": 2439,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p089_n110.jpg",
+        "git_blob_sha": "6cf98088f269456eb3aa8e0e217f95c37ed8f39c",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -110,6 +140,12 @@
         "git_blob_sha": "b02a0bb0d5b6c85e35d445f7ff4782cb39b0b5b4",
         "repository_size_bytes": 2663,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p090_n111.jpg",
+        "git_blob_sha": "48d3a42fcd3afc594d64a1857c7986fc9d8db918",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -125,6 +161,12 @@
       "ocr": {
         "path": null,
         "status": "missing"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p091_n112.jpg",
+        "git_blob_sha": "a9742c06dee17e7251005dfa09c8308ca8393520",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -142,6 +184,12 @@
         "git_blob_sha": "f4c30c6519b2bd0da9f210e6d500b1e0c725f47b",
         "repository_size_bytes": 2350,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p092_n113.jpg",
+        "git_blob_sha": "bddf00e5d6dc0dae7757525235d1fba33a020c06",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -159,6 +207,12 @@
         "git_blob_sha": "f8c74c89ce54d7d7d1fded470a8b03a9619bfa77",
         "repository_size_bytes": 2323,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p093_n114.jpg",
+        "git_blob_sha": "16d117b5ba01cf890e5d153a9203d6f8f5aa2221",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     },
     {
@@ -176,6 +230,12 @@
         "git_blob_sha": "8d6c3138e117dfe693ed7e754b84204f6fcf64a9",
         "repository_size_bytes": 2885,
         "status": "present"
+      },
+      "bookreader_image": {
+        "path": "artifacts/page-images/cornell-native/bookreader-large/p094_n115.jpg",
+        "git_blob_sha": "b329668be65553a2c06194d94274033a47f595b5",
+        "resolution_px": "1360×2274",
+        "status": "present_and_individually_opened_for_page_layout_inspection_2026-11-26"
       }
     }
   ],
@@ -186,5 +246,5 @@
     "status": "present_in_repository_not_yet_rendered_in_current_execution_environment"
   },
   "renderer_script": "scripts/render_cornell_1893_pages.py",
-  "rendering_status": "renderer_committed_not_yet_executed"
-}\n
+  "rendering_status": "BookReader JPEGs for pp.85–94 individually opened at 1360×2274 on 2026-11-26; PDF renderer not executed and is not required for this batch."
+}
