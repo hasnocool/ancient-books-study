@@ -1,0 +1,64 @@
+# .github/workflows/corpus-quality.yml
+name: Corpus quality
+
+on:
+  push:
+    paths:
+      - "books_*/**"
+      - "formatted_editions/**"
+      - "modernized_editions/**"
+      - "formatted_stories/**"
+      - "formatted_meanings/**"
+      - "formatted_interpretation/**"
+      - "copyrighted_works/**"
+      - "pdfs/**"
+      - "artifacts/**"
+      - "docs/**"
+      - "tools/**"
+      - "tests/**"
+      - "README.md"
+      - "AGENTS.md"
+      - "CONTRIBUTING.md"
+      - ".github/workflows/**"
+  pull_request:
+    paths:
+      - "books_*/**"
+      - "formatted_editions/**"
+      - "modernized_editions/**"
+      - "formatted_stories/**"
+      - "formatted_meanings/**"
+      - "formatted_interpretation/**"
+      - "copyrighted_works/**"
+      - "pdfs/**"
+      - "artifacts/**"
+      - "docs/**"
+      - "tools/**"
+      - "tests/**"
+      - "README.md"
+      - "AGENTS.md"
+      - "CONTRIBUTING.md"
+      - ".github/workflows/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: corpus-quality-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  corpus-quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run complete corpus audit
+        run: python tools/audit_corpus.py all --json-out /tmp/ancient-books-audit.json
+      - name: Run complete unit test suite
+        run: python -m unittest discover -s tests -v
