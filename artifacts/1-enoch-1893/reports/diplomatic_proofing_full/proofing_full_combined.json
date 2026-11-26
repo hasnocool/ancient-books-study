@@ -4,54 +4,30 @@
     "total_chapters": 108,
     "total_verses": 130,
     "sections_processed": 16,
-    "audit_status": "INCOMPLETE_UNVALIDATED",
-    "audit_note": "Section ranges are not complete non-overlapping coverage. This dataset is an OCR/apparatus extraction artifact, not completed diplomatic proofing.",
+    "audit_status": "COVERAGE_MANIFEST_REPAIRED_CONTENT_INCOMPLETE",
+    "audit_note": "Section ranges cover printed pp.55-308 exactly once. pp.260-264 are explicit NOT_PROCESSED placeholders; this is not evidence of OCR extraction or diplomatic proofing.",
     "coverage_start_page": 55,
     "coverage_end_page": 308,
-    "missing_printed_pages": [
+    "missing_printed_pages": [],
+    "overlapping_printed_pages": [],
+    "human_verified_discrepancies": 0,
+    "automated_queue_rows": 18,
+    "automated_queue_status": "RECLASSIFIED_PENDING_HUMAN_REVIEW",
+    "coverage_page_memberships": 254,
+    "distinct_pages_covered": 254,
+    "unprocessed_printed_pages": [
       260,
       261,
       262,
       263,
       264
     ],
-    "overlapping_printed_pages": [
-      {
-        "page": 301,
-        "section_count": 2
-      },
-      {
-        "page": 302,
-        "section_count": 2
-      },
-      {
-        "page": 303,
-        "section_count": 2
-      },
-      {
-        "page": 304,
-        "section_count": 2
-      },
-      {
-        "page": 305,
-        "section_count": 2
-      },
-      {
-        "page": 306,
-        "section_count": 2
-      },
-      {
-        "page": 307,
-        "section_count": 2
-      },
-      {
-        "page": 308,
-        "section_count": 2
-      }
-    ],
-    "human_verified_discrepancies": 0,
-    "automated_queue_rows": 18,
-    "automated_queue_status": "RECLASSIFIED_PENDING_HUMAN_REVIEW"
+    "subsection_aliases": {
+      "pp301-308": "Contained within pp285-308; removed from aggregate section membership because all 35 apparatus entries were exact duplicates of entries in pp285-308."
+    },
+    "discrepancy_summary_status": "UNRECONCILED",
+    "discrepancy_summary_note": "Section discrepancy arrays are empty while the separate automated queue contains 18 fuzzy-match candidates. These are not confirmed discrepancies; do not report zero confirmed discrepancies until human disposition.",
+    "total_verses_definition": "UNDEFINED_LEGACY_METADATA_NOT_VALIDATED"
   },
   "sections": {
     "pp55-62": {
@@ -6327,378 +6303,14 @@
         "by_confidence": {}
       }
     },
-    "pp301-308": {
-      "pages": "301-308",
+    "pp260-264": {
+      "pages": "260-264",
+      "status": "NOT_PROCESSED",
+      "note": "Explicit coverage placeholder. No OCR, discrepancy, or apparatus extraction is represented for these pages.",
       "discrepancies": [],
-      "apparatus": [
-        {
-          "page": 302,
-          "lemma": "CVL g",
-          "sigla": [
-            "G",
-            "G",
-            "M"
-          ],
-          "witnesses": "CVL g. Cause of anxiety. So G G'M &¥¥P. Other MSS. I'1(,",
-          "charles_note": "CVL g. Cause of anxiety. So G G'M &¥¥P. Other MSS. I'1(,",
-          "repo_has": false
-        },
-        {
-          "page": 302,
-          "lemma": "¢ matter",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "¢ matter.’ 10. Hear me, my father. So G. DlIn. and G' give",
-          "charles_note": "¢ matter.’ 10. Hear me, my father. So G. DlIn. and G' give",
-          "repo_has": false
-        },
-        {
-          "page": 302,
-          "lemma": "‘my father” Colour of his body",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "‘my father” Colour of his body. So G: “fld: DU Other",
-          "charles_note": "‘my father” Colour of his body. So G: “fld: DU Other",
-          "repo_has": false
-        },
-        {
-          "page": 303,
-          "lemma": "MSS",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "MSS. ¢ His colour. 12. Lamech. So G. Other MSS. ¢his",
-          "charles_note": "MSS. ¢ His colour. 12. Lamech. So G. Other MSS. ¢his",
-          "repo_has": false
-        },
-        {
-          "page": 303,
-          "lemma": "habe",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "habe...gesehen.’ This, however, is a well-known idiom. G omits",
-          "charles_note": "habe...gesehen.’ This, however, is a well-known idiom. G omits",
-          "repo_has": false
-        },
-        {
-          "page": 303,
-          "lemma": "o50h",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "o50h: o. In the generation of . . . Jared. G and G! read:",
-          "charles_note": "o50h: o. In the generation of . . . Jared. G and G! read:",
-          "repo_has": false
-        },
-        {
-          "page": 303,
-          "lemma": "AToNS",
-          "sigla": [
-            "M"
-          ],
-          "witnesses": "AToNS: 14T, M: b1 0-0%: 0LLL. Some from the",
-          "charles_note": "AToNS: 14T, M: b1 0-0%: 0LLL. Some from the",
-          "repo_has": false
-        },
-        {
-          "page": 303,
-          "lemma": "heights of heaven",
-          "sigla": [
-            "G",
-            "M"
-          ],
-          "witnesses": "heights of heaven. So Dln. G GL. I M: AaoAO0N1: No7L.",
-          "charles_note": "heights of heaven. So Dln. G GL. I M: AaoAO0N1: No7L.",
-          "repo_has": false
-        },
-        {
-          "page": 303,
-          "lemma": "heaven",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "heaven.’ 15. On the earth. G. Other MSS. ‘on the whole earth.’",
-          "charles_note": "heaven.’ 15. On the earth. G. Other MSS. ‘on the whole earth.’",
-          "repo_has": false
-        },
-        {
-          "page": 304,
-          "lemma": "G G the words which come after these in Dln",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "G G the words which come after these in Dln.’s text, ‘he and his",
-          "charles_note": "G G the words which come after these in Dln.’s text, ‘he and his",
-          "repo_has": false
-        },
-        {
-          "page": 304,
-          "lemma": "G G give 2",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "G G give 2.0:p, Unrighteousness of apostasy which will be",
-          "charles_note": "G G give 2.0:p, Unrighteousness of apostasy which will be",
-          "repo_has": false
-        },
-        {
-          "page": 304,
-          "lemma": "G reads OA@-T', and so really supports G'",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "G reads OA@-T', and so really supports G'. Dln. gives ‘ unright-",
-          "charles_note": "G reads OA@-T', and so really supports G'. Dln. gives ‘ unright-",
-          "repo_has": false
-        },
-        {
-          "page": 304,
-          "lemma": "' CVIL 1",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "' CVIL 1. Till. G G read AhaD ‘that a generation of righteous-",
-          "charles_note": "' CVIL 1. Till. G G read AhaD ‘that a generation of righteous-",
-          "repo_has": false
-        },
-        {
-          "page": 304,
-          "lemma": "here derived from M%) in the sense",
-          "sigla": [
-            "M"
-          ],
-          "witnesses": "here derived from M%) in the sense",
-          "charles_note": "here derived from M%) in the sense",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "ness will arise",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "ness will arise.’ 3. For when G reads 10 ‘ again.’ Re-",
-          "charles_note": "ness will arise.’ 3. For when G reads 10 ‘ again.’ Re-",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "turned and showed (them) to him",
-          "sigla": [
-            "M",
-            "G"
-          ],
-          "witnesses": "turned and showed (them) to him. So M: 70&: @WACAS. G",
-          "charles_note": "turned and showed (them) to him. So M: 70&: @WACAS. G",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "omits",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "omits. G': PChH: @ACAL. FHLN O and Din., * returned, after",
-          "charles_note": "omits. G': PChH: @ACAL. FHLN O and Din., * returned, after",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "CVIIL 2",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "CVIIL 2. Ye who have done good will wait for. So G (Q':",
-          "charles_note": "CVIIL 2. Ye who have done good will wait for. So G (Q':",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "a0",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "a0: 70Chov; w68 TR AZ&d: aoPOA but that G gives 0 for",
-          "charles_note": "a0: 70Chov; w68 TR AZ&d: aoPOA but that G gives 0 for",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A",
-          "sigla": [
-            "M"
-          ],
-          "witnesses": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A.",
-          "charles_note": "in those! M, ‘ye who have fulfilled it, wait ye for, 1'% A.",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "3",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "3. Out of the book of life and. So G G': Adr%hé: MLOT: @.",
-          "charles_note": "3. Out of the book of life and. So G G': Adr%hé: MLOT: @.",
-          "repo_has": false
-        },
-        {
-          "page": 305,
-          "lemma": "M, ‘out of the book",
-          "sigla": [
-            "M",
-            "G"
-          ],
-          "witnesses": "M, ‘out of the book.” Other MSS. omit. Of the holy ones. G!",
-          "charles_note": "M, ‘out of the book.” Other MSS. omit. Of the holy ones. G!",
-          "repo_has": false
-        },
-        {
-          "page": 306,
-          "lemma": "reads $841; ¢ of the Holy One,’ G #2A¥",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "reads $841; ¢ of the Holy One,’ G #2A¥. 1In...a waste wilder-",
-          "charles_note": "reads $841; ¢ of the Holy One,’ G #2A¥. 1In...a waste wilder-",
-          "repo_has": false
-        },
-        {
-          "page": 306,
-          "lemma": "G gives",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "G gives: Qlavnf: LL%: HALNTCA.",
-          "charles_note": "G gives: Qlavnf: LL%: HALNTCA.",
-          "repo_has": false
-        },
-        {
-          "page": 306,
-          "lemma": "G reads 'Hfkdh = immolatus",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "G reads 'Hfkdh = immolatus. 6.",
-          "charles_note": "G reads 'Hfkdh = immolatus. 6.",
-          "repo_has": false
-        },
-        {
-          "page": 306,
-          "lemma": "7",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "7. Read them. G G read I Pav.,",
-          "charles_note": "7. Read them. G G read I Pav.,",
-          "repo_has": false
-        },
-        {
-          "page": 307,
-          "lemma": "9",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "9. Their bodies. So G 1§N¥tap. Other MSS. ¢themselves.’",
-          "charles_note": "9. Their bodies. So G 1§N¥tap. Other MSS. ¢themselves.’",
-          "repo_has": false
-        },
-        {
-          "page": 307,
-          "lemma": "them their recompense",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "them their recompense. G reads Q1€ ap« Heaven more",
-          "charles_note": "them their recompense. G reads Q1€ ap« Heaven more",
-          "repo_has": false
-        },
-        {
-          "page": 307,
-          "lemma": "than their life in the world",
-          "sigla": [
-            "G",
-            "G"
-          ],
-          "witnesses": "than their life in the world. So G HN2A9°. G! and Dln.",
-          "charles_note": "than their life in the world. So G HN2A9°. G! and Dln.",
-          "repo_has": false
-        },
-        {
-          "page": 308,
-          "lemma": "the repeated section",
-          "sigla": [
-            "M"
-          ],
-          "witnesses": "the repeated section. M has the strange reading: &7™1%dh:",
-          "charles_note": "the repeated section. M has the strange reading: &7™1%dh:",
-          "repo_has": false
-        },
-        {
-          "page": 308,
-          "lemma": "1§0ao HASA I, 11",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "1§0ao HASA I, 11. Sought not honour. So G: AdPS8:",
-          "charles_note": "1§0ao HASA I, 11. Sought not honour. So G: AdPS8:",
-          "repo_has": false
-        },
-        {
-          "page": 308,
-          "lemma": "Aatd",
-          "sigla": [
-            "M"
-          ],
-          "witnesses": "Aatd.L:% M ¢ were recompensed.’ 12. Clad in shining light.",
-          "charles_note": "Aatd.L:% M ¢ were recompensed.’ 12. Clad in shining light.",
-          "repo_has": false
-        },
-        {
-          "page": 308,
-          "lemma": "G reads",
-          "sigla": [
-            "G"
-          ],
-          "witnesses": "G reads: N974.LC: @&SPT: CT0 ‘in a habitation and paths of",
-          "charles_note": "G reads: N974.LC: @&SPT: CT0 ‘in a habitation and paths of",
-          "repo_has": false
-        },
-        {
-          "page": 308,
-          "lemma": "uprightness” M ‘in a habitation and uprightness",
-          "sigla": [
-            "M"
-          ],
-          "witnesses": "uprightness” M ‘in a habitation and uprightness.’ 14. Will",
-          "charles_note": "uprightness” M ‘in a habitation and uprightness.’ 14. Will",
-          "repo_has": false
-        },
-        {
-          "page": 308,
-          "lemma": "be cast",
-          "sigla": [
-            "G",
-            "S"
-          ],
-          "witnesses": "be cast. G reads £T@S%. 15. As they shine. For &71H:",
-          "charles_note": "be cast. G reads £T@S%. 15. As they shine. For &71H:",
-          "repo_has": false
-        }
-      ],
+      "apparatus": [],
       "stats": {
-        "total_discrepancies": 0,
+        "total_discrepancies": null,
         "by_type": {},
         "by_confidence": {}
       }
