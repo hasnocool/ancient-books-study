@@ -18,7 +18,7 @@ Chapter 4 describes the intensity of summer heat through its effects on people a
 ### Chapter 4 (unnumbered)
 
 - **What the text says:** The sun’s heat is so strong that people seek shade and shelter, while the earth and rocks become too hot to walk on comfortably.
-- **What it means:** The sun’s heat is so strong that people seek shade and shelter, while the earth and rocks become too hot to walk on comfortably. The passage uses an experience familiar to its audience to make the force of summer vivid.
+- **What it means:** The passage intensifies its description through bodily consequences: people seek protection, and the ground itself becomes impassable. Its function in this sequence is observational; the text does not explicitly turn the heat into a symbol or allegory.
 - **Textual evidence:** Repository source, Chapter 4 (unnumbered); see `formatted_editions/books/book-of-enoch-charles-1893/book-01-watchers-chapters-01-36.md`.
 - **Uncertainty or alternatives:** The repository text does not number this unit. The explanation therefore does not impose a verse number. No specific climate, region, or temperature can be established from the wording alone.
 
