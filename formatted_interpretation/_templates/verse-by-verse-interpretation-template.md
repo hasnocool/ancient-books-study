@@ -70,6 +70,18 @@ Repeat this section for every verse. Never omit a verse silently.
 
 [A concise synthesis that keeps the ancient-horizon reading primary and marks speculative readings as speculative.]
 
+**10. Visual interpretation prompts**
+
+Create a separate, self-contained image prompt for each lens below. Each prompt must depict this verse only, not silently import events from neighbouring verses. Include the verse reference, the exact visual trigger in the wording, setting, figures, composition, atmosphere, and historically cautious material culture. Avoid adding objects or mechanisms the verse does not name unless the prompt explicitly labels them as a speculative visualization. Do not put explanatory text, captions, labels, pseudo-script, or readable lettering inside the image.
+
+- **Ancient-horizon prompt:** [Visualize how a hearer in the relevant ancient world might picture the scene, using period-appropriate architecture, clothing, landscape, and cosmology.]
+- **Literal/material prompt:** [Render the concrete action or objects described as literally as the wording permits; show uncertainty rather than inventing missing mechanics.]
+- **Astronomic / astronautic hypothesis prompt:** [Create a clearly speculative alternate visualization of the specific feature that invites the comparison. Do not present spacecraft, extraterrestrial beings, or modern technology as facts established by the text.]
+- **Human-origin / seeding hypothesis prompt:** [Create a clearly speculative alternate visualization focused on human migration, founding, lineage, or population intervention only where the verse provides a plausible trigger. Do not imply genetic engineering unless explicitly framed as conjecture.]
+- **Human / social prompt:** [Visualize the verse's human stakes—power, fear, justice, kinship, memory, labour, or communal hope—without turning abstract meaning into an unsupported literal event.]
+
+**Prompt integrity note:** Keep the five images visually distinct in interpretive purpose. The ancient-horizon image is the baseline; speculative images must be labelled as alternate hypotheses in filenames or surrounding documentation, not as historical reconstructions.
+
 ## Chapter synthesis
 
 [How the verses work together; recurring images, progression, tensions, and unresolved questions.]
