@@ -66,6 +66,9 @@
 |------|---------|
 | `AGENTS.md` | This file — project paths and artifacts layout |
 | `formatted_editions/books/book-of-enoch-charles-1893/IMAGE_PROOFING_LOG.md` | Authoritative proofing log: page map (pp.55–308 → leafNums 76–329), inspection rules, progress ledger |
+| `formatted_interpretation/README.md` | Verse-by-verse ancient-horizon interpretation stream, including disciplined speculative lenses |
+| `formatted_interpretation/_templates/verse-by-verse-interpretation-template.md` | Required structure for verse-level interpretation |
+| `formatted_interpretation/1-enoch-charles-1893/` | 1 Enoch interpretation project; Chapter 1 pilot is provisional |
 | `artifacts/1-enoch-1893/reports/collations/VERIFICATION_TARGETS_REPORT.md` | 3 verification targets: CII.4 (p.291), CV.2 (p.301), CVI.17 (p.304) |
 | `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md` | pp.75–84 retrieval + OCR inventory |
 | `artifacts/1-enoch-1893/reports/collations/pp63-74-ocr-inventory.md` | pp.63–74 OCR inventory |
