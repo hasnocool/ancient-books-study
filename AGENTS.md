@@ -69,7 +69,9 @@
 | `artifacts/1-enoch-1893/reports/collations/VERIFICATION_TARGETS_REPORT.md` | 3 verification targets: CII.4 (p.291), CV.2 (p.301), CVI.17 (p.304) |
 | `artifacts/1-enoch-1893/reports/collations/pp75-84-retrieval-and-ocr-inventory.md` | pp.75–84 retrieval + OCR inventory |
 | `artifacts/1-enoch-1893/reports/collations/pp63-74-ocr-inventory.md` | pp.63–74 OCR inventory |
-| `artifacts/1-enoch-1893/reports/collations/pp55-62-text-layer-collation.md` | pp.55–62 text-layer collation |\n| `artifacts/1-enoch-1893/reports/collations/pp85-104-facsimile-collation-review.md` | Image-anchored first-pass collation and discrepancy triage for pp.85–104; not complete diplomatic proofing |
+| `artifacts/1-enoch-1893/reports/collations/pp55-62-text-layer-collation.md` | pp.55–62 text-layer collation |
+| `artifacts/1-enoch-1893/reports/collations/pp85-104-facsimile-collation-review.md` | Image-anchored first-pass collation and discrepancy triage for pp.85–104 |
+| `artifacts/1-enoch-1893/reports/collations/pp85-104-diplomatic-collation-working-ledger.md` | Page-by-page English discrepancy candidates and separate Greek/Ethiopic apparatus work registers; still in progress |
 
 ## Proofing Ledger Status (see IMAGE_PROOFING_LOG.md for full detail)
 
