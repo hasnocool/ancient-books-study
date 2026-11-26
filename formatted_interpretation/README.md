@@ -13,6 +13,8 @@ The studies may explore:
 - **Human-origin / seeding hypothesis:** whether a passage could be interpreted as memory or mythologized account of an advanced human lineage, migration, intervention, or deliberate founding/population of humanity.
 - **Human/social reading:** what the passage says about human conduct, authority, kinship, fear, justice, memory, and collective life.
 
+Each verse also has five standalone image-generation prompts—one for each lens above. These are alternate visual interpretations, not five claims that all occurred. The ancient-horizon prompt is the historical baseline; astronautic and human-seeding prompts must be explicitly identified as speculative.
+
 These are interpretive lenses, not conclusions. A reading that is imaginable is not thereby historically demonstrated.
 
 ## Evidence discipline
@@ -37,8 +39,10 @@ formatted_interpretation/
 │   └── verse-by-verse-interpretation-template.md
 └── 1-enoch-charles-1893/
     ├── README.md
-    └── chapters/
-        └── chapter-01-interpretation.md
+    ├── chapters/
+    │   └── chapter-01-interpretation.md
+    └── visual-prompts/
+        └── chapter-01-visual-prompts.md
 ```
 
 ## Status
