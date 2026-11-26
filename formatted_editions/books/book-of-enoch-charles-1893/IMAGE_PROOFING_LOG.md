@@ -480,3 +480,8 @@ Detailed paths, blob SHAs, sizes, and per-page statuses are recorded in:
 - `artifacts/1-enoch-1893/reports/collations/pp85-94-source-retrieval-audit.md`
 
 **Corrected status:** Cornell OCR/text files present 9/10, with p.91 text provisionally supplied by a separate scan; native PNG blobs located 10/10 but unusable; valid high-resolution page images acquired 0/10; individual image inspection 0/10; OCR-only comparison recorded, but full diplomatic collation 0/10. The pp.85–94 image-retrieval blocker remains open. No transcription change or proofing-count increase is authorized. Independent human approval remains pending.
+
+
+## Formatted-content pilot Chapters I–V — 26 November 2026
+
+The new formatted-content pilot is documented at `formatted_stories/1-enoch-charles-1893/`. The related 1893 searchable-text-layer comparison for pp.57–62 is consolidated in `1893-witness-collation.md` within that directory. This is not a new page-image inspection and does not change the ledger: page/layout inspection remains 30/254; full line-by-line diplomatic proofing remains 0/254. Independent human approval remains pending. A second reviewer must complete the separate [review packet](../../../formatted_stories/1-enoch-charles-1893/INDEPENDENT_REVIEW_PACKET.md); assistant-led work cannot satisfy this gate.
