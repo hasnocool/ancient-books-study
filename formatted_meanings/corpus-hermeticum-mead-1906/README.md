@@ -16,7 +16,9 @@ Plain-language explanations of the tractates in G. R. S. Mead's 1906 English tra
 | Tractate | Explanation | Status |
 |---|---|---|
 | I — Poemandres, the Shepherd of Men | [Read explanation](./tractates/tractate-01-meaning.md) | Provisional draft |
-| II — To Asclepius | [Read story](./tractates/tractate-02-story.md) | Provisional draft |\n| III–XV | Not yet created | Queued |
+| II — To Asclepius | [Read explanation](./tractates/tractate-02-meaning.md) | Provisional draft |
+| III — The Sacred Sermon | [Read explanation](./tractates/tractate-03-meaning.md) | Provisional draft |
+| IV–XV | Not yet created | Queued |
 
 ## Source
 
