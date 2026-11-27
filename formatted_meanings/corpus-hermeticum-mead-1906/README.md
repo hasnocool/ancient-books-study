@@ -31,6 +31,16 @@ Plain-language explanations of the tractates in G. R. S. Mead's 1906 English tra
 | XIV — A Letter of Thrice-Greatest Hermes to Asclepius | [Read explanation](./tractates/tractate-14-meaning.md) | Provisional draft |
 | XV — The Definitions of Asclepius unto King Ammon | [Read explanation](./tractates/tractate-15-meaning.md) | Provisional draft |
 
+## Supplementary texts
+
+These explanations are separate from the fifteen numbered tractates.
+
+| Supplementary text | Explanation | Status |
+|---|---|---|
+| Of Asclepius to the King | [Read explanation](./appendices/appendix-01-meaning.md) | Provisional fragment guide |
+| The Encomium of Kings | [Read explanation](./appendices/appendix-02-meaning.md) | Provisional draft, §§1–16 |
+| The Perfect Sermon / Asclepius | Not explained as a complete work | Partial source only; extract ends in Book III, §1 |
+
 ## Source
 
 Formatted source text: `formatted_editions/books/corpus-hermeticum-mead-1906/`.
