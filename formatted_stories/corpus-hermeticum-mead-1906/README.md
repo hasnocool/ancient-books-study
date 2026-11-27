@@ -26,7 +26,8 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | IX — On Thought and Sense | [Read story](./tractates/tractate-09-story.md) | Provisional draft |
 | X — The Key | [Read story](./tractates/tractate-10-story.md) | Provisional draft |
 | XI — Mind unto Hermes | [Read story](./tractates/tractate-11-story.md) | Provisional draft |
-| XII — About the Common Mind | [Read story](./tractates/tractate-12-story.md) | Provisional draft |\n| XIII–XV | Not yet created | Queued |
+| XII — About the Common Mind | [Read story](./tractates/tractate-12-story.md) | Provisional draft |
+| XIII–XV | Not yet created | Queued |
 
 ## Source
 
