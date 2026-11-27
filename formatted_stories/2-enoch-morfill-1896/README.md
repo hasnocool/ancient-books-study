@@ -2,11 +2,13 @@
 
 **Work:** 2 Enoch (*The Book of the Secrets of Enoch*)  
 **Edition:** W. R. Morfill, translator; R. H. Charles, editor, Oxford, 1896  
-**Source:** `formatted_editions/books/book-of-the-secrets-of-enoch-morfill-1896/chapters-01-17.md`  
+**Sources:**  
+- Chapters 1–17: `formatted_editions/books/book-of-the-secrets-of-enoch-morfill-1896/chapters-01-17.md`
+- Chapters 18–34: `formatted_editions/books/book-of-the-secrets-of-enoch-morfill-1896/chapters-18-34.md`
 **Source status:** Provisional transcription; not independently collated against the 1896 page images.  
 **Derivative status:** All outputs provisional; no independent human review or approval is claimed.
 
-## Story adaptations
+## Story Adaptations
 
 - [Chapter 1](chapters/chapter-01-story.md)
 - [Chapter 2](chapters/chapter-02-story.md)
@@ -45,13 +47,13 @@
 
 ## Coverage and validation
 
-- [x] Chapters 1–34 have one story document per chapter.
+- [x] Chapters 1–34 have one story adaptation per chapter.
 - [x] Chapter 10 is limited to verses 1–6, the full extent of that chapter in the supplied transcription.
-- [x] Source edition and transcription path are recorded in each derivative.
+- [x] Source edition and applicable chapter transcription path are recorded in each derivative.
 - [x] Numerical and calendrical irregularities are retained and flagged, not silently emended.
 - [ ] Independent collation against 1896 facsimile pages.
 - [ ] Independent human review.
 
 ## Editorial boundaries
 
-The derivative set covers the prologue-adjacent main text chapters 1–17 only. It does not complete 2 Enoch's 68 chapters or assess the separate five-section Melchizedekian appendix. Printed page references have not been established from the Markdown source extraction. All documents remain provisional.
+This derivative set covers Chapters 1–34 of the 68-chapter main text. It does not complete 2 Enoch's remaining chapters 35–68 or assess the separate five-section Melchizedekian appendix. Printed page references have not been established from the Markdown source extraction. All documents remain provisional.
