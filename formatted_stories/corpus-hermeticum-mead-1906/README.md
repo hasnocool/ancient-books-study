@@ -28,7 +28,8 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | XI — Mind unto Hermes | [Read story](./tractates/tractate-11-story.md) | Provisional draft |
 | XII — About the Common Mind | [Read story](./tractates/tractate-12-story.md) | Provisional draft |
 | XIII — The Secret Sermon on the Mountain | [Read story](./tractates/tractate-13-story.md) | Provisional draft |
-| XIV–XV | Not yet created | Queued |
+| XIV — A Letter of Thrice-Greatest Hermes to Asclepius | [Read story](./tractates/tractate-14-story.md) | Provisional draft |
+| XV | Not yet created | Queued |
 
 ## Source
 
