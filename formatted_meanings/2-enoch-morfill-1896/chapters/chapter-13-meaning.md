@@ -23,7 +23,7 @@ Enoch sees six great gates and gives their size as sixty-one stadia and a quarte
 
 ### Verses 3–4: Periods of passage
 
-The source assigns forty-two days to the first gates and thirty-five days to several others. In the forward list, it names the first, second, fourth, fifth, and sixth gates, leaving the third unmentioned. The return list names the sixth, fifth, fourth, third, and second gates with periods of thirty-five days. This guide preserves the sequence and omission rather than inserting a conjectural value.
+The source assigns forty-two days to the first gates, thirty-five days to the second, fourth, and fifth, and forty-five days to the sixth. In the forward list, it names the first, second, fourth, fifth, and sixth gates, leaving the third unmentioned. The return list names the sixth, fifth, fourth, third, and second gates with periods of thirty-five days. This guide preserves the sequence and omission rather than inserting a conjectural value.
 
 ### Verse 5: The seasons
 
