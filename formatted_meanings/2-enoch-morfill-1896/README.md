@@ -1,4 +1,4 @@
-# 2 Enoch — Chapters 1–17 Meaning Guides
+# 2 Enoch — Chapters 1–34 Meaning Guides
 
 **Work:** 2 Enoch (*The Book of the Secrets of Enoch*)  
 **Edition:** W. R. Morfill, translator; R. H. Charles, editor, Oxford, 1896  
@@ -25,10 +25,27 @@
 - [Chapter 15](chapters/chapter-15-meaning.md)
 - [Chapter 16](chapters/chapter-16-meaning.md)
 - [Chapter 17](chapters/chapter-17-meaning.md)
+- [Chapter 18](chapters/chapter-18-story.md)
+- [Chapter 19](chapters/chapter-19-story.md)
+- [Chapter 20](chapters/chapter-20-story.md)
+- [Chapter 21](chapters/chapter-21-story.md)
+- [Chapter 22](chapters/chapter-22-story.md)
+- [Chapter 23](chapters/chapter-23-story.md)
+- [Chapter 24](chapters/chapter-24-story.md)
+- [Chapter 25](chapters/chapter-25-story.md)
+- [Chapter 26](chapters/chapter-26-story.md)
+- [Chapter 27](chapters/chapter-27-story.md)
+- [Chapter 28](chapters/chapter-28-story.md)
+- [Chapter 29](chapters/chapter-29-story.md)
+- [Chapter 30](chapters/chapter-30-story.md)
+- [Chapter 31](chapters/chapter-31-story.md)
+- [Chapter 32](chapters/chapter-32-story.md)
+- [Chapter 33](chapters/chapter-33-story.md)
+- [Chapter 34](chapters/chapter-34-story.md)
 
 ## Coverage and validation
 
-- [x] Chapters 1–17 have one meaning document per chapter.
+- [x] Chapters 1–34 have one meaning document per chapter.
 - [x] Chapter 10 is limited to verses 1–6, the full extent of that chapter in the supplied transcription.
 - [x] Source edition and transcription path are recorded in each derivative.
 - [x] Numerical and calendrical irregularities are retained and flagged, not silently emended.
