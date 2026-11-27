@@ -1,10 +1,11 @@
-# 2 Enoch — Chapters 1–34 Story Adaptations
+# 2 Enoch — Chapters 1–51 Story Adaptations
 
 **Work:** 2 Enoch (*The Book of the Secrets of Enoch*)  
 **Edition:** W. R. Morfill, translator; R. H. Charles, editor, Oxford, 1896  
 **Sources:**  
 - Chapters 1–17: `formatted_editions/books/book-of-the-secrets-of-enoch-morfill-1896/chapters-01-17.md`
 - Chapters 18–34: `formatted_editions/books/book-of-the-secrets-of-enoch-morfill-1896/chapters-18-34.md`
+- Chapters 35–51: `formatted_editions/books/book-of-the-secrets-of-enoch-morfill-1896/chapters-35-51.md`
 **Source status:** Provisional transcription; not independently collated against the 1896 page images.  
 **Derivative status:** All outputs provisional; no independent human review or approval is claimed.
 
@@ -44,16 +45,36 @@
 - [Chapter 32](chapters/chapter-32-story.md)
 - [Chapter 33](chapters/chapter-33-story.md)
 - [Chapter 34](chapters/chapter-34-story.md)
+- [Chapter 35](chapters/chapter-35-story.md)
+- [Chapter 36](chapters/chapter-36-story.md)
+- [Chapter 37](chapters/chapter-37-story.md)
+- [Chapter 38](chapters/chapter-38-story.md)
+- [Chapter 39](chapters/chapter-39-story.md)
+- [Chapter 40](chapters/chapter-40-story.md)
+- [Chapter 41](chapters/chapter-41-story.md)
+- [Chapter 42](chapters/chapter-42-story.md)
+- [Chapter 43](chapters/chapter-43-story.md)
+- [Chapter 44](chapters/chapter-44-story.md)
+- [Chapter 45](chapters/chapter-45-story.md)
+- [Chapter 46](chapters/chapter-46-story.md)
+- [Chapter 47](chapters/chapter-47-story.md)
+- [Chapter 48](chapters/chapter-48-story.md)
+- [Chapter 49](chapters/chapter-49-story.md)
+- [Chapter 50](chapters/chapter-50-story.md)
+- [Chapter 51](chapters/chapter-51-story.md)
 
 ## Coverage and validation
 
-- [x] Chapters 1–34 have one story adaptation per chapter.
+- [x] Chapters 1–51 have one story adaptation per chapter.
 - [x] Chapter 10 is limited to verses 1–6, the full extent of that chapter in the supplied transcription.
+- [x] Chapter 37's bracketed passage is explicitly retained as bracketed.
+- [x] Chapter 47's incomplete final verse is not completed or joined to Chapter 48.
+- [x] Chapter 48's unusual numerical and calendrical details are preserved without harmonization.
 - [x] Source edition and applicable chapter transcription path are recorded in each derivative.
-- [x] Numerical and calendrical irregularities are retained and flagged, not silently emended.
+- [x] Numerical and textual irregularities are retained and flagged, not silently emended.
 - [ ] Independent collation against 1896 facsimile pages.
 - [ ] Independent human review.
 
 ## Editorial boundaries
 
-This derivative set covers Chapters 1–34 of the 68-chapter main text. It does not complete 2 Enoch's remaining chapters 35–68 or assess the separate five-section Melchizedekian appendix. Printed page references have not been established from the Markdown source extraction. All documents remain provisional.
+This derivative set covers Chapters 1–51 of the 68-chapter main text. It does not complete the remaining Chapters 52–68 or assess the separate five-section Melchizedekian appendix. Printed page references have not been established from the Markdown source extraction. All documents remain provisional.
