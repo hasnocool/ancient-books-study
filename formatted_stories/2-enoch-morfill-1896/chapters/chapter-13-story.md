@@ -15,7 +15,7 @@ The guides take Enoch eastward and show him the gates through which the sun emer
 
 Enoch sees six great gates. Each is measured as sixty-one stadia and a quarter of a stadium. He says he measures them and understands their size. The sun emerges through them and proceeds westward on a corresponding course through the months.
 
-The text assigns periods of forty-two days to the first gates, then thirty-five days to the second, fourth, fifth, and sixth gates. It does not give a duration for the third gate in this list.
+The text assigns forty-two days to the first gates, thirty-five days to the second, fourth, and fifth gates, and forty-five days to the sixth. It does not give a duration for the third gate in this list.
 
 The sun then returns from the sixth gates. The account gives periods of thirty-five days as it passes back through the fifth, fourth, and third gates, and then the second. The chapter concludes that the year's days are completed through the alternation of the four seasons.
 
