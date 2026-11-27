@@ -27,7 +27,8 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | X — The Key | [Read story](./tractates/tractate-10-story.md) | Provisional draft |
 | XI — Mind unto Hermes | [Read story](./tractates/tractate-11-story.md) | Provisional draft |
 | XII — About the Common Mind | [Read story](./tractates/tractate-12-story.md) | Provisional draft |
-| XIII–XV | Not yet created | Queued |
+| XIII — The Secret Sermon on the Mountain | [Read story](./tractates/tractate-13-story.md) | Provisional draft |
+| XIV–XV | Not yet created | Queued |
 
 ## Source
 
