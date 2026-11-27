@@ -1,4 +1,4 @@
-# 2 Enoch — Chapters 1–5 Meaning Pilot
+# 2 Enoch — Chapters 1–17 Meaning Guides
 
 **Work:** 2 Enoch (*The Book of the Secrets of Enoch*)  
 **Edition:** W. R. Morfill, translator; R. H. Charles, editor, Oxford, 1896  
@@ -8,20 +8,33 @@
 
 ## Meaning guides
 
-- [Chapter 1 — Enoch’s Call and Heavenly Ascent](chapters/chapter-01-meaning.md) (1:1–10)
-- [Chapter 2 — Enoch’s Instructions to His Children](chapters/chapter-02-meaning.md) (2:1–4)
-- [Chapter 3 — The First Heaven](chapters/chapter-03-meaning.md) (3:1–3)
-- [Chapter 4 — The Orders of the Stars](chapters/chapter-04-meaning.md) (4:1–2)
-- [Chapter 5 — The Treasuries of Snow, Ice, and Clouds](chapters/chapter-05-meaning.md) (5:1–2)
+- [Chapter 1](chapters/chapter-01-meaning.md)
+- [Chapter 2](chapters/chapter-02-meaning.md)
+- [Chapter 3](chapters/chapter-03-meaning.md)
+- [Chapter 4](chapters/chapter-04-meaning.md)
+- [Chapter 5](chapters/chapter-05-meaning.md)
+- [Chapter 6](chapters/chapter-06-meaning.md)
+- [Chapter 7](chapters/chapter-07-meaning.md)
+- [Chapter 8](chapters/chapter-08-meaning.md)
+- [Chapter 9](chapters/chapter-09-meaning.md)
+- [Chapter 10](chapters/chapter-10-meaning.md)
+- [Chapter 11](chapters/chapter-11-meaning.md)
+- [Chapter 12](chapters/chapter-12-meaning.md)
+- [Chapter 13](chapters/chapter-13-meaning.md)
+- [Chapter 14](chapters/chapter-14-meaning.md)
+- [Chapter 15](chapters/chapter-15-meaning.md)
+- [Chapter 16](chapters/chapter-16-meaning.md)
+- [Chapter 17](chapters/chapter-17-meaning.md)
 
 ## Coverage and validation
 
-- [x] Five chapter meaning guides created.
-- [x] All 21 numbered verses across chapters 1–5 addressed.
-- [x] Textual statements distinguished from explanatory interpretation.
-- [x] Ancient cosmological language not recast as modern scientific description.
-- [x] Unstated meanings and unresolved questions identified as limits.
-- [ ] Collation against 1896 facsimile pages.
+- [x] Chapters 1–17 have one meaning document per chapter.
+- [x] Chapter 10 is limited to verses 1–6, the full extent of that chapter in the supplied transcription.
+- [x] Source edition and transcription path are recorded in each derivative.
+- [x] Numerical and calendrical irregularities are retained and flagged, not silently emended.
+- [ ] Independent collation against 1896 facsimile pages.
 - [ ] Independent human review.
 
-This pilot covers chapters 1–5 only. It does not complete the 68-chapter work or assess the separate five-section Melchizedekian appendix.
+## Editorial boundaries
+
+The derivative set covers the prologue-adjacent main text chapters 1–17 only. It does not complete 2 Enoch's 68 chapters or assess the separate five-section Melchizedekian appendix. Printed page references have not been established from the Markdown source extraction. All documents remain provisional.
