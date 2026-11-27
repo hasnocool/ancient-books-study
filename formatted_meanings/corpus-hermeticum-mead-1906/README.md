@@ -28,7 +28,8 @@ Plain-language explanations of the tractates in G. R. S. Mead's 1906 English tra
 | XI — Mind unto Hermes | [Read explanation](./tractates/tractate-11-meaning.md) | Provisional draft |
 | XII — About the Common Mind | [Read explanation](./tractates/tractate-12-meaning.md) | Provisional draft |
 | XIII — The Secret Sermon on the Mountain | [Read explanation](./tractates/tractate-13-meaning.md) | Provisional draft |
-| XIV–XV | Not yet created | Queued |
+| XIV — A Letter of Thrice-Greatest Hermes to Asclepius | [Read explanation](./tractates/tractate-14-meaning.md) | Provisional draft |
+| XV | Not yet created | Queued |
 
 ## Source
 
