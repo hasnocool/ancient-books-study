@@ -27,7 +27,8 @@ Plain-language explanations of the tractates in G. R. S. Mead's 1906 English tra
 | X — The Key | [Read explanation](./tractates/tractate-10-meaning.md) | Provisional draft |
 | XI — Mind unto Hermes | [Read explanation](./tractates/tractate-11-meaning.md) | Provisional draft |
 | XII — About the Common Mind | [Read explanation](./tractates/tractate-12-meaning.md) | Provisional draft |
-| XIII–XV | Not yet created | Queued |
+| XIII — The Secret Sermon on the Mountain | [Read explanation](./tractates/tractate-13-meaning.md) | Provisional draft |
+| XIV–XV | Not yet created | Queued |
 
 ## Source
 
