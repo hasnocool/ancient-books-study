@@ -31,6 +31,16 @@ Narrative summaries derived from G. R. S. Mead's 1906 English translation in *Th
 | XIV — A Letter of Thrice-Greatest Hermes to Asclepius | [Read story](./tractates/tractate-14-story.md) | Provisional draft |
 | XV — The Definitions of Asclepius unto King Ammon | [Read story](./tractates/tractate-15-story.md) | Provisional draft |
 
+## Supplementary texts
+
+These are separate from the fifteen numbered tractates.
+
+| Supplementary text | Adaptation | Status |
+|---|---|---|
+| Of Asclepius to the King | [Read adaptation](./appendices/appendix-01-story.md) | Provisional fragment adaptation |
+| The Encomium of Kings | [Read adaptation](./appendices/appendix-02-story.md) | Provisional draft, §§1–16 |
+| The Perfect Sermon / Asclepius | Not adapted as a complete work | Partial source only; extract ends in Book III, §1 |
+
 ## Source
 
 Formatted source text: `formatted_editions/books/corpus-hermeticum-mead-1906/`.
